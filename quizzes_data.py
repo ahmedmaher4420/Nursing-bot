@@ -1,1097 +1,2648 @@
 quizzes = {
-    "L1 COPD": {
-        "MCQs": [
-            {
-                "question": "What is the primary cause of airflow limitation in COPD?",
-                "options": ["A. Bronchial tumors", "B. Fully reversible inflammation", "C. Non-reversible airflow obstruction", "D. Pulmonary embolism"],
-                "answer": "C"
-            },
-            {
-                "question": "In emphysema, gas exchange is impaired due to:",
-                "options": ["A. Excess mucus in bronchi", "B. Thickened pleural membrane", "C. Destruction of alveolar walls", "D. Lung fibrosis"],
-                "answer": "C"
-            },
-            {
-                "question": "The term 'barrel chest' in COPD is associated with:",
-                "options": ["A. Chronic bronchitis only", "B. Acute asthma", "C. Emphysema and hyperinflation", "D. Lung cancer"],
-                "answer": "C"
-            },
-            {
-                "question": "Which of the following is a diagnostic test for COPD?",
-                "options": ["A. Colonoscopy", "B. Electrocardiogram", "C. Spirometry", "D. Liver function test"],
-                "answer": "C"
-            },
-            {
-                "question": "The most effective method to reduce COPD progression is:",
-                "options": ["A. Exercise", "B. Oxygen therapy", "C. Smoking cessation", "D. Steroid therapy"],
-                "answer": "C"
-            },
-            {
-                "question": "Chronic bronchitis is defined as:",
-                "options": ["A. Productive cough for 1 month", "B. Wheezing for 3 weeks", "C. Cough with sputum for 3 months in 2 consecutive years", "D. Fever and cough for a year"],
-                "answer": "C"
-            },
-            {
-                "question": "A common pharmacologic treatment for COPD includes:",
-                "options": ["A. Antivirals", "B. Bronchodilators", "C. Antihistamines", "D. Diuretics only"],
-                "answer": "B"
-            },
-            {
-                "question": "A sign of ineffective breathing pattern in COPD:",
-                "options": ["A. Use of pursed-lip breathing", "B. Silent chest", "C. Bradypnea", "D. Sneezing"],
-                "answer": "A"
-            },
-            {
-                "question": "Which complication is life-threatening in COPD?",
-                "options": ["A. Ear infection", "B. Sinusitis", "C. Respiratory failure", "D. GERD"],
-                "answer": "C"
-            },
-            {
-                "question": "Bullectomy is used for:",
-                "options": ["A. Bronchial dilation", "B. Removing fluid", "C. Removing enlarged air spaces", "D. Fixing nasal septum"],
-                "answer": "C"
-            },
-            {
-                "question": "COPD patients often use which muscles to breathe?",
-                "options": ["A. Neck muscles", "B. Accessory muscles", "C. Abdominal only", "D. Cardiac muscles"],
-                "answer": "B"
-            },
-            {
-                "question": "Which of the following is a sign of severe COPD?",
-                "options": ["A. Cyanosis", "B. Bradycardia", "C. Hypoglycemia", "D. Runny nose"],
-                "answer": "A"
-            },
-            {
-                "question": "A recommended vaccine for COPD patients:",
-                "options": ["A. Hepatitis B", "B. Polio", "C. Influenza", "D. Meningitis"],
-                "answer": "C"
-            },
-            {
-                "question": "What increases mucus production in chronic bronchitis?",
-                "options": ["A. Increased oxygen", "B. Ciliary activation", "C. Inflammation of airways", "D. Antibiotic use"],
-                "answer": "C"
-            },
-            {
-                "question": "Lung transplantation in COPD is:",
-                "options": ["A. First line", "B. For early-stage", "C. For end-stage COPD", "D. Contraindicated"],
-                "answer": "C"
-            }
-        ],
-        "TF": [
-            {"question": "COPD airflow limitation is fully reversible.", "answer": False},
-            {"question": "Chronic bronchitis must last at least 3 months in 2 years.", "answer": True},
-            {"question": "Barrel chest results from lung collapse.", "answer": False},
-            {"question": "Smoking is the leading preventable cause of COPD.", "answer": True},
-            {"question": "Accessory muscle use indicates breathing difficulty.", "answer": True},
-            {"question": "Emphysema leads to destruction of alveolar walls.", "answer": True},
-            {"question": "Spirometry is used to assess liver function in COPD.", "answer": False},
-            {"question": "COPD can be completely cured with bronchodilators.", "answer": False},
-            {"question": "Clubbing of fingers can be observed in chronic COPD.", "answer": True},
-            {"question": "COPD patients should avoid crowded places during flu season.", "answer": True},
-            {"question": "Oxygen is addictive for COPD patients.", "answer": False},
-            {"question": "Lung transplant may improve life quality in severe COPD.", "answer": True},
-            {"question": "In COPD, inflammation reduces mucus production.", "answer": False},
-            {"question": "Pulse oximeter helps measure oxygen saturation.", "answer": True},
-            {"question": "Pursed-lip breathing helps in gas exchange.", "answer": True}
-        ]
+
+# Strategies in Nursing Education
+"L1 Intoduction to Teaching & Learning":{
+    "MCQs":[
+        {
+            "question": "What is one of the main goals of education?",
+            "options": [
+                "A. Only delivering information",
+                "B. Teaching values and skills",
+                "C. Entertainment only",
+                "D. Writing homework"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "Learning is defined as:",
+            "options": [
+                "A. Just memorizing facts",
+                "B. A change in behavior and knowledge from experience",
+                "C. A game",
+                "D. A short-term event without effect"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "Good teaching involves:",
+            "options": [
+                "A. Reading only from a book",
+                "B. Active participation from both teacher and student",
+                "C. Rote memorization only",
+                "D. Letting students learn on their own"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following is a characteristic of an effective teacher?",
+            "options": [
+                "A. Ignores students",
+                "B. Motivates students to learn",
+                "C. Depends only on memorization",
+                "D. Doesn’t plan lessons"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following are the main elements in the teaching and learning process?",
+            "options": [
+                "A. Eating and sleeping",
+                "B. Student and teacher",
+                "C. Video games",
+                "D. Wasting time"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "What is the main goal of Step 1 in the effective learning process?",
+            "options": [
+                "A. Test student memory",
+                "B. Identify student problems and learning needs",
+                "C. Teach new content",
+                "D. Evaluate teacher skills"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "During Step 2, teachers:",
+            "options": [
+                "A. Give final exams",
+                "B. Apply new knowledge immediately",
+                "C. Obtain new learning that aligns with student needs",
+                "D. Ignore student needs"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following is used in Step 3 to develop new teacher learning?",
+            "options": [
+                "A. Peer coaching",
+                "B. Sleeping",
+                "C. Memorizing books",
+                "D. Grading papers only"
+            ],
+            "answer": "A"
+        },
+        {
+            "question": "Applying teacher learning in the classroom is part of which step?",
+            "options": [
+                "A. Step 1",
+                "B. Step 4",
+                "C. Step 2",
+                "D. Step 5"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "In Step 5, teachers:",
+            "options": [
+                "A. Observe other classrooms only",
+                "B. Plan the lesson",
+                "C. Evaluate how teaching affected student performance",
+                "D. Choose random strategies"
+            ],
+            "answer": "C"
+        }
+      ],
+    "TF":[
+      {
+          "question": "Education is the process of delivering information from teacher to student without any planning.",
+          "answer": False
+      },
+      {
+          "question": "Learning can result from experiences, not just classroom teaching.",
+          "answer": True
+      },
+      {
+          "question": "Effective teaching influences how the student thinks, feels, and behaves.",
+          "answer": True
+      },
+      {
+          "question": "Learning always appears immediately.",
+          "answer": False
+      },
+      {
+          "question": "Education transfers skills and values from one generation to another.",
+          "answer": True
+      },
+      {
+          "question": "Teaching is a passive process where only the student speaks.",
+          "answer": False
+      },
+      {
+          "question": "Successful learning requires cooperation between student and teacher.",
+          "answer": True
+      },
+      {
+          "question": "A good teacher is the one who finishes the syllabus quickly.",
+          "answer": False
+      },
+      {
+          "question": "Good teaching helps students grow and change for the better.",
+          "answer": True
+      },
+      {
+          "question": "Education does not need objectives or a plan.",
+          "answer": False
+      },
+      {
+          "question": "Step 1 of effective learning is about applying new strategies in the classroom.",
+          "answer": False
+      },
+      {
+          "question": "In Step 2, the teacher gathers information and learning methods that match students’ needs.",
+          "answer": True
+      },
+      {
+          "question": "Peer coaching and classroom modeling are part of Step 3.",
+          "answer": True
+      },
+      {
+          "question": "Evaluating the impact on student performance is done before teaching begins.",
+          "answer": False
+      },
+      {
+          "question": "Formative assessment is part of Step 4 to observe the effect of teaching.",
+          "answer": True
+      }
+     ]
+  },
+"L2 Characteristics of Effective Learner":{
+    "MCQs":[
+        {
+            "question": "What is one key characteristic of an effective learner?",
+            "options": ["A. Memorizing only", "B. Avoiding feedback", "C. Self-motivation", "D. Waiting for teacher direction"],
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following is NOT a benefit of effective learning?",
+            "options": ["A. Improved memory", "B. Better critical thinking", "C. Fear of asking questions", "D. Adaptability to change"],
+            "answer": "C"
+        },
+        {
+            "question": "A student who learns effectively will most likely:",
+            "options": ["A. Depend only on the teacher", "B. Avoid group work", "C. Take responsibility for their learning", "D. Ignore their weaknesses"],
+            "answer": "C"
+        },
+        {
+            "question": "Which teaching method helps students apply knowledge in real-world settings?",
+            "options": ["A. Passive listening", "B. Memorization drills", "C. Effective learning strategies", "D. Copying from textbooks"],
+            "answer": "C"
+        },
+        {
+            "question": "Why is reflective thinking important in learning?",
+            "options": ["A. It wastes time", "B. It helps learners identify what works for them", "C. It replaces studying", "D. It makes learning slower"],
+            "answer": "B"
+        },
+        {
+            "question": "What is a benefit of creating a positive classroom environment?",
+            "options": ["A. Less student participation", "B. More stress", "C. Better collaboration and communication", "D. Increased silence"],
+            "answer": "C"
+        },
+        {
+            "question": "Effective communication includes:",
+            "options": ["A. Shouting in class", "B. Ignoring peers", "C. Sharing ideas clearly and confidently", "D. Copying from others"],
+            "answer": "C"
+        },
+        {
+            "question": "Lifelong learning means:",
+            "options": ["A. Only learning for exams", "B. Studying forever without breaks", "C. Continually seeking personal and professional growth", "D. Avoiding new experiences"],
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following supports diverse learning styles?",
+            "options": ["A. One fixed teaching method", "B. Ignoring students’ needs", "C. Using various resources and approaches", "D. Focusing only on exams"],
+            "answer": "C"
+        },
+        {
+            "question": "Resilient learners:",
+            "options": ["A. Quit after failing", "B. Blame others for their mistakes", "C. Use challenges as motivation", "D. Avoid asking for help"],
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following best defines “Self-Motivation”?",
+            "options": ["A. Waiting for rewards to start studying", "B. Taking initiative to learn independently", "C. Avoiding difficult tasks", "D. Ignoring learning opportunities"],
+            "answer": "B"
+        },
+        {
+            "question": "What does “Critical Thinking” involve?",
+            "options": ["A. Memorizing without understanding", "B. Blindly accepting facts", "C. Evaluating and analyzing information", "D. Avoiding feedback"],
+            "answer": "C"
+        },
+        {
+            "question": "Which skill helps learners stay organized and on track with their studies?",
+            "options": ["A. Reflective Thinking", "B. Curiosity", "C. Self-Regulation", "D. Adaptability"],
+            "answer": "C"
+        },
+        {
+            "question": "A student who adjusts well to new learning platforms demonstrates:",
+            "options": ["A. Self-Motivation", "B. Goal Orientation", "C. Adaptability", "D. Collaboration"],
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following describes a “Goal-Oriented” learner?",
+            "options": ["A. Studies without any plan", "B. Sets specific targets and follows a strategy", "C. Avoids challenges", "D. Focuses on fun activities only"],
+            "answer": "B"
+        },
+        {
+            "question": "What does “Collaboration” emphasize?",
+            "options": ["A. Independent learning only", "B. Working alone", "C. Competing with classmates", "D. Working well with others"],
+            "answer": "D"
+        },
+        {
+            "question": "A “Reflective” learner is most likely to:",
+            "options": ["A. Copy answers from others", "B. Avoid thinking about past experiences", "C. Analyze what worked and what didn’t", "D. Never change their learning style"],
+            "answer": "C"
+        },
+        {
+            "question": "Which of these traits helps students handle stress and bounce back from failure?",
+            "options": ["A. Self-Motivation", "B. Adaptability", "C. Resilience", "D. Curiosity"],
+            "answer": "C"
+        },
+        {
+            "question": "What is the primary benefit of “Effective Communication”?",
+            "options": ["A. Confusing others", "B. Avoiding discussions", "C. Clearly sharing ideas", "D. Ignoring instructions"],
+            "answer": "C"
+        },
+        {
+            "question": "Which of these qualities drives deeper learning and exploration?",
+            "options": ["A. Reflective Thinking", "B. Curiosity", "C. Self-Regulation", "D. Resilience"],
+            "answer": "B"
+        }
+      ],
+    "TF":[
+        {"question": "Effective learning means students only memorize facts quickly.", "answer": False},
+        {"question": "Critical thinking is an important part of effective learning.", "answer": True},
+        {"question": "Resilient learners are more likely to give up when they face challenges.", "answer": False},
+        {"question": "Teachers who focus on effective learning create a more positive classroom environment.", "answer": True},
+        {"question": "Effective learners wait for the teacher to guide them at every step.", "answer": False},
+        {"question": "Adaptability helps learners succeed in a fast-changing world.", "answer": True},
+        {"question": "Effective learning encourages students to avoid asking questions.", "answer": False},
+        {"question": "Reflective thinking helps learners understand their strengths and weaknesses.", "answer": True},
+        {"question": "Collaboration is only useful in academic settings, not in real life.", "answer": False},
+        {"question": "Self-motivation means relying on rewards from others to study.", "answer": False},
+        {"question": "Reflective learners regularly evaluate their own learning processes.", "answer": True},
+        {"question": "Self-regulation means depending on others to organize your study time.", "answer": False},
+        {"question": "Curiosity helps learners stay disengaged from the learning material.", "answer": False},
+        {"question": "Adaptable learners struggle with sudden changes in learning environments.", "answer": False},
+        {"question": "Goal-oriented learners are more likely to stay focused on achieving specific outcomes.", "answer": True},
+        {"question": "Critical thinking includes analyzing and evaluating information.", "answer": True},
+        {"question": "Collaboration discourages communication and group participation.", "answer": False},
+        {"question": "Resilient students give up easily when faced with academic difficulties.", "answer": False},
+        {"question": "Effective communication includes both writing and speaking clearly.", "answer": True},
+        {"question": "Self-motivated learners usually wait for someone to push them to study.", "answer": False}
+      ]
+  },
+"L3 Learning Domains":{
+    "MCQs":[
+        {
+            "question": "What is the main focus of the cognitive domain?",
+            "options": [
+                "A. Emotions and feelings",
+                "B. Physical movement",
+                "C. Thinking and understanding",
+                "D. Playing games"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "Which domain helps students develop physical skills?",
+            "options": [
+                "A. Cognitive",
+                "B. Affective",
+                "C. Psychomotor",
+                "D. Emotional"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "Which level of the cognitive domain involves creating new ideas?",
+            "options": [
+                "A. Application",
+                "B. Analysis",
+                "C. Synthesis",
+                "D. Knowledge"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "The domain that deals with values and attitudes is:",
+            "options": [
+                "A. Cognitive",
+                "B. Affective",
+                "C. Psychomotor",
+                "D. Behavioral"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "When a student critiques a research paper, they are using which level?",
+            "options": [
+                "A. Knowledge",
+                "B. Evaluation",
+                "C. Comprehension",
+                "D. Application"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "Which domain includes emotions and values?",
+            "options": [
+                "A. Cognitive",
+                "B. Affective",
+                "C. Psychomotor",
+                "D. Technical"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "“Participating in a classroom discussion” belongs to which affective level?",
+            "options": [
+                "A. Receiving",
+                "B. Responding",
+                "C. Valuing",
+                "D. Organizing"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "What is an example of Complex Overt Response?",
+            "options": [
+                "A. Listening to a podcast",
+                "B. Practicing a new song",
+                "C. Performing a complex experiment smoothly",
+                "D. Learning a new rule"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "Which verb fits the Set stage in psychomotor domain?",
+            "options": [
+                "A. Operate",
+                "B. Position",
+                "C. Follow",
+                "D. Revise"
+            ],
+            "answer": "B"
+        },
+        {
+            "question": "“Advocating for a cause” shows which affective level?",
+            "options": [
+                "A. Responding",
+                "B. Valuing",
+                "C. Characterizing",
+                "D. Receiving"
+            ],
+            "answer": "C"
+        }
+      ],
+    "TF":[
+        {
+            "question": "Cognitive domain is mainly about physical movement and motor skills.",
+            "answer": False
+        },
+        {
+            "question": "Affective domain includes emotions and attitudes.",
+            "answer": True
+        },
+        {
+            "question": "Bloom’s taxonomy divides learning into four main domains.",
+            "answer": False
+        },
+        {
+            "question": "Understanding learning domains helps teachers plan better lessons.",
+            "answer": True
+        },
+        {
+            "question": "Evaluation is the first level of the cognitive domain.",
+            "answer": False
+        },
+        {
+            "question": "The affective domain deals with physical coordination.",
+            "answer": False
+        },
+        {
+            "question": "“Valuing” in the affective domain means appreciating something.",
+            "answer": True
+        },
+        {
+            "question": "In the psychomotor domain, “Mechanism” refers to early attempts at learning a skill.",
+            "answer": False
+        },
+        {
+            "question": "Receiving is the highest level in the affective domain.",
+            "answer": False
+        },
+        {
+            "question": "Adaptation means adjusting a skill to suit different situations.",
+            "answer": True
+        }
+      ]
+  },
+"L4 Teaching % learning Principles":{
+    "MCQs":[
+        {
+            "question": "What makes teaching effective?",
+            "options": ["A. Being passive", "B. Sharing information actively", "C. Memorization only", "D. Repeating the same lesson"],
+            "answer": "B"
+        },
+        {
+            "question": "Students learn best when:",
+            "options": ["A. They are unmotivated", "B. Lessons are irrelevant", "C. Lessons are meaningful", "D. There is no feedback"],
+            "answer": "C"
+        },
+        {
+            "question": "One of the key factors for faster learning is:",
+            "options": ["A. Unorganized content", "B. Random activities", "C. Clear structure", "D. Long lectures"],
+            "answer": "C"
+        },
+        {
+            "question": "Reward should be given:",
+            "options": ["A. Anytime", "B. Before task", "C. Long after task", "D. Immediately after the right behavior"],
+            "answer": "D"
+        },
+        {
+            "question": "Learning is more successful when:",
+            "options": ["A. It’s instructor-centered", "B. It involves inquiry and discovery", "C. It’s repetitive only", "D. Students are passive"],
+            "answer": "B"
+        },
+        {
+            "question": "What is the nature of learning according to principle 1?",
+            "options": ["A. Passive memorization", "B. Active knowledge construction", "C. Only listening", "D. Following instructions blindly"],
+            "answer": "B"
+        },
+        {
+            "question": "Prior knowledge of students can:",
+            "options": ["A. Only help", "B. Only hinder", "C. Help or hinder", "D. Has no effect"],
+            "answer": "C"
+        },
+        {
+            "question": "Which environment enhances learning?",
+            "options": ["A. Isolated and individual", "B. Noisy and chaotic", "C. Social and collaborative", "D. Competitive and stressful"],
+            "answer": "C"
+        },
+        {
+            "question": "Mastery involves:",
+            "options": ["A. Memorizing terms", "B. Practicing randomly", "C. Acquiring, integrating, and applying skills", "D. Skipping steps"],
+            "answer": "C"
+        },
+        {
+            "question": "What improves learning quality?",
+            "options": ["A. Random practice", "B. Guesswork", "C. Goal-directed practice with feedback", "D. Silence and isolation"],
+            "answer": "C"
+        }
+      ],
+    "TF":[
+        {
+            "question": "Teaching is a passive act.",
+            "answer": False
+        },
+        {
+            "question": "Learning is only memorization.",
+            "answer": False
+        },
+        {
+            "question": "Students always learn at the same pace.",
+            "answer": False
+        },
+        {
+            "question": "Motivation is an important part of learning.",
+            "answer": True
+        },
+        {
+            "question": "Students learn better when lessons are short and organized.",
+            "answer": True
+        },
+        {
+            "question": "Learning is just repeating facts.",
+            "answer": False
+        },
+        {
+            "question": "Feedback has no role in student progress.",
+            "answer": False
+        },
+        {
+            "question": "Students can learn better when working together.",
+            "answer": True
+        },
+        {
+            "question": "All students learn in exactly the same way.",
+            "answer": False
+        },
+        {
+            "question": "Reflection helps improve learning.",
+            "answer": True
+        }
+      ]
+  },
+"L5 Goal Objectives":{
+    "MCQs":[
+        {
+            "question": "Which of the following is a measurable objective?",
+            "options": ["A. Be famous", "B. Reduce customer wait time to one minute", "C. Help people", "D. Become influential"],
+            "answer": "B"
+        },
+        {
+            "question": "Which part of SMART stands for having a deadline?",
+            "options": ["A. Specific", "B. Achievable", "C. Time-bound", "D. Relevant"],
+            "answer": "C"
+        },
+        {
+            "question": "Which type of knowledge is about being aware of your own thinking process?",
+            "options": ["A. Factual", "B. Conceptual", "C. Procedural", "D. Metacognitive"],
+            "answer": "D"
+        },
+        {
+            "question": "Which level in the affective domain involves acting based on your values?",
+            "options": ["A. Receiving", "B. Responding", "C. Characterizing", "D. Valuing"],
+            "answer": "C"
+        },
+        {
+            "question": "In the psychomotor domain, which level includes modifying your skill to match the situation?",
+            "options": ["A. Set", "B. Guided Response", "C. Adaptation", "D. Mechanism"],
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following is NOT part of SMART objectives?",
+            "options": ["A. Simple", "B. Measurable", "C. Relevant", "D. Time-bounded"],
+            "answer": "A"
+        },
+        {
+            "question": "What’s an example of a specific objective?",
+            "options": ["A. Be successful", "B. Help people", "C. Increase patient satisfaction by 15% in 3 months", "D. Improve"],
+            "answer": "C"
+        },
+        {
+            "question": "The main purpose of writing objectives is to:",
+            "options": ["A. Confuse the student", "B. Waste time", "C. Define short measurable steps", "D. Avoid planning"],
+            "answer": "C"
+        }
+      ],
+    "TF":[
+        {
+            "question": "Goals are always measurable.",
+            "answer": False
+        },
+        {
+            "question": "A goal can be general and abstract, while an objective must be specific.",
+            "answer": True
+        },
+        {
+            "question": "“Be successful in life” is a specific and measurable objective.",
+            "answer": False
+        },
+        {
+            "question": "One of the SMART elements is “Relevant.”",
+            "answer": True
+        },
+        {
+            "question": "Goals should only be reassessed after they are fully achieved.",
+            "answer": False
+        },
+        {
+            "question": "The affective domain is mainly about physical movements.",
+            "answer": False
+        },
+        {
+            "question": "Valuing means appreciating and supporting an idea.",
+            "answer": True
+        },
+        {
+            "question": "Psychomotor domain includes cognitive skills like remembering.",
+            "answer": False
+        },
+        {
+            "question": "SMART goals must always include a time limit.",
+            "answer": True
+        },
+        {
+            "question": "Objectives are usually general and intangible.",
+            "answer": False
+        }
+      ]
+  },
+"L6 Teaching and Learning strategy - third level":{
+    "MCQs":[
+        {
+            "question": "Which of the following is NOT a type of active learning?",
+            "options": ["A. Lecture-based learning", "B. Collaborative learning", "C. Inquiry-based learning", "D. Gamification"],
+            "answer": "A"
+        },
+        {
+            "question": "What does flipped classroom involve?",
+            "options": ["A. Teacher explains everything in class", "B. Students watch lectures at home", "C. No homework at all", "D. Playing games only"],
+            "answer": "B"
+        },
+        {
+            "question": "What’s a benefit of active learning?",
+            "options": ["A. Forgetting information faster", "B. Increased motivation", "C. Less participation", "D. Only memorizing"],
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following is a non-modifiable factor in education?",
+            "options": ["A. Student’s age", "B. Technology", "C. Teaching methods", "D. Apps used"],
+            "answer": "A"
+        },
+        {
+            "question": "What does feedback help in active learning?",
+            "options": ["A. Ignoring mistakes", "B. Knowing progress", "C. Stopping thinking", "D. Passive listening"],
+            "answer": "B"
+        },
+        {
+            "question": "In Problem-Based Learning, students:",
+            "options": ["A. Memorize theoretical lessons only", "B. Solve real-world problems in groups", "C. Write individual research papers", "D. Study only from videos"],
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following is an example of collaborative learning?",
+            "options": ["A. Traditional lectures", "B. Peer Teaching", "C. Rote memorization", "D. Writing in final exams only"],
+            "answer": "B"
+        },
+        {
+            "question": "One of the benefits of the flipped classroom is:",
+            "options": ["A. Reducing student engagement", "B. Increasing motivation and participation", "C. Relying solely on memorization", "D. Eliminating discussions"],
+            "answer": "B"
+        },
+        {
+            "question": "In the flipped classroom, the teacher’s role is to:",
+            "options": ["A. Deliver the entire lecture theoretically", "B. Leave students to figure out everything alone", "C. Guide and support students during activities", "D. Only conduct the final exam"],
+            "answer": "C"
+        },
+        {
+            "question": "Which of the following is NOT a key element of gamification?",
+            "options": ["A. Points", "B. Badges", "C. Memorization", "D. Leaderboards"],
+            "answer": "C"
+        },
+        {
+            "question": "What is the first step in Inquiry-Based Learning?",
+            "options": ["A. Presenting findings", "B. Posing questions", "C. Conducting research", "D. Giving final exams"],
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following is a benefit of gamification in education?",
+            "options": ["A. Decreasing student engagement", "B. Enhancing student motivation", "C. Discouraging competition", "D. Eliminating feedback"],
+            "answer": "B"
+        },
+        {
+            "question": "An example of gamification in nursing education is:",
+            "options": ["A. Traditional lectures", "B. Interactive simulation scenarios", "C. Silent reading time", "D. Solely written tests"],
+            "answer": "B"
+        },
+        {
+            "question": "Which is a common challenge in adopting new educational methods?",
+            "options": ["A. Unlimited resources", "B. Full technological access", "C. Resistance to change", "D. Complete student readiness"],
+            "answer": "C"
+        },
+        {
+            "question": "In gamification, what is the purpose of challenges and quests?",
+            "options": ["A. To punish students for wrong answers", "B. To provide tasks that students must complete to progress", "C. To replace all forms of research", "D. To eliminate collaboration"],
+            "answer": "B"
+        },
+        {
+            "question": "Inquiry-Based Learning encourages students to:",
+            "options": ["A. Rely solely on teachers’ instructions", "B. Passively listen to lectures", "C. Explore and find answers through research", "D. Memorize without questioning"],
+            "answer": "C"
+        },
+        {
+            "question": "Providing instant feedback in gamification helps students:",
+            "options": ["A. To feel discouraged", "B. To know their progress immediately", "C. To avoid any form of evaluation", "D. To stop learning after one attempt"],
+            "answer": "B"
+        }
+      ],
+    "TF":[
+        {"question": "Active learning means just listening to the teacher.", "answer": False},
+        {"question": "Gamification is about using games in learning.", "answer": True},
+        {"question": "Flipped classroom means studying at home and practicing at school.", "answer": True},
+        {"question": "Secondary learning is better than active learning.", "answer": False},
+        {"question": "Student engagement is part of active learning.", "answer": True},
+        {"question": "Gamification in education is about making learning feel like a fun game.", "answer": True},
+        {"question": "Badges in gamification represent levels of punishment for wrong answers.", "answer": False},
+        {"question": "Leaderboards motivate students by showing their rank among peers.", "answer": True},
+        {"question": "Inquiry-Based Learning focuses mainly on memorizing facts.", "answer": False},
+        {"question": "Interactive Simulation is a method of gamification used in nursing education.", "answer": True},
+        {"question": "One benefit of gamification is promoting lifelong learning.", "answer": True},
+        {"question": "Time constraints are never a challenge when adopting new teaching methods.", "answer": False},
+        {"question": "Resistance to change can affect the implementation of innovative learning strategies.", "answer": True},
+        {"question": "In Inquiry-Based Learning, students are passive recipients of knowledge.", "answer": False},
+        {"question": "Gamification eliminates the need for collaboration among students.", "answer": False}
+      ]
+  },
+"L7 Teaching Methods":{
+    "MCQs":[
+        {
+            "question": "What is the first step in role playing?",
+            "options": ["A. Acting out the situation", "B. Selection of the problem", "C. Summarization"],
+            "answer": "B"
+        },
+        {
+            "question": "What skill does role playing mainly develop?",
+            "options": ["A. Listening", "B. Practical interaction", "C. Memorization"],
+            "answer": "B"
+        },
+        {
+            "question": "What is the ideal number of participants in a seminar?",
+            "options": ["A. 5-8", "B. 10-15", "C. 20-30", "D. 50"],
+            "answer": "B"
+        },
+        {
+            "question": "Which of the following is NOT an advantage of group discussion?",
+            "options": ["A. Develops democratic thinking", "B. Enhances teamwork", "C. Increases passive learning", "D. Improves self-expression"],
+            "answer": "C"
+        },
+        {
+            "question": "A national seminar is usually organized by:",
+            "options": ["A. A local school", "B. A country’s association", "C. UNESCO", "D. Individual teachers"],
+            "answer": "B"
+        },
+        {
+            "question": "Which teaching method promotes reflective thinking and tolerance?",
+            "options": ["A. Lecture", "B. Group discussion", "C. Role play", "D. Simulation"],
+            "answer": "B"
+        },
+        {
+            "question": "Which is a disadvantage of seminars?",
+            "options": ["A. Increases self-confidence", "B. Promotes cooperation", "C. Expensive due to travel and accommodation", "D. Helps clarify complex topics"],
+            "answer": "C"
+        }
+      ],
+    "TF":[
+        {
+            "question": "Lecture method is a student-centered approach.",
+            "answer": False
+        },
+        {
+            "question": "One advantage of lecture method is saving time.",
+            "answer": True
+        },
+        {
+            "question": "Role Playing helps students to engage in realistic scenarios.",
+            "answer": True
+        },
+        {
+            "question": "In lecture method, students are active participants.",
+            "answer": False
+        },
+        {
+            "question": "One disadvantage of lecture method is neglecting individual differences.",
+            "answer": True
+        },
+        {
+            "question": "Group discussion is a one-way method of teaching.",
+            "answer": False
+        },
+        {
+            "question": "Seminars are suitable for small children in primary education.",
+            "answer": False
+        },
+        {
+            "question": "A mini seminar is conducted at class level.",
+            "answer": True
+        },
+        {
+            "question": "Group discussion always ensures equal participation by all students.",
+            "answer": False
+        },
+        {
+            "question": "Seminars can sometimes have high entry and travel costs.",
+            "answer": True
+        }
+      ]
+  },
+"Sami's Bank":{
+  "MCQs":[
+      {
+        "question": "What is the first step in role playing?",
+        "options": ["A. Acting out the situation", "B. Selection of the problem", "C. Summarization"],
+        "answer": "B"
+      },
+      {
+        "question": "What skill does role playing mainly develop?",
+        "options": ["A. Listening", "B. Practical interaction", "C. Memorization"],
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following is NOT a type of active learning?",
+        "options": ["A. Lecture-based learning", "B. Collaborative learning", "C. Inquiry-based learning", "D. Gamification"],
+        "answer": "A"
+      },
+      {
+        "question": "What does flipped classroom involve?",
+        "options": ["A. Teacher explains everything in class", "B. Students watch lectures at home", "C. No homework at all", "D. Playing games only"],
+        "answer": "B"
+      },
+      {
+        "question": "What’s a benefit of active learning?",
+        "options": ["A. Forgetting information faster", "B. Increased motivation", "C. Less participation", "D. Only memorizing"],
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following is a non-modifiable factor in education?",
+        "options": ["A. Student’s age", "B. Technology", "C. Teaching methods", "D. Apps used"],
+        "answer": "A"
+      },
+      {
+        "question": "What does feedback help in active learning?",
+        "options": ["A. Ignoring mistakes", "B. Knowing progress", "C. Stopping thinking", "D. Passive listening"],
+        "answer": "B"
+      },
+      {
+        "question": "In Problem-Based Learning, students:",
+        "options": ["A. Memorize theoretical lessons only", "B. Solve real-world problems in groups", "C. Write individual research papers", "D. Study only from videos"],
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following is an example of collaborative learning?",
+        "options": ["A. Traditional lectures", "B. Peer Teaching", "C. Rote memorization", "D. Writing in final exams only"],
+        "answer": "B"
+      },
+      {
+        "question": "One of the benefits of the flipped classroom is:",
+        "options": ["A. Reducing student engagement", "B. Increasing motivation and participation", "C. Relying solely on memorization", "D. Eliminating discussions"],
+        "answer": "B"
+      },
+      {
+        "question": "In the flipped classroom, the teacher’s role is to:",
+        "options": ["A. Deliver the entire lecture theoretically", "B. Leave students to figure out everything alone", "C. Guide and support students during activities", "D. Only conduct the final exam"],
+        "answer": "C"
+      },
+      {
+        "question": "Which of the following is NOT a key element of gamification?",
+        "options": ["A. Points", "B. Badges", "C. Memorization", "D. Leaderboards"],
+        "answer": "C"
+      },
+      {
+        "question": "What is the first step in Inquiry-Based Learning?",
+        "options": ["A. Presenting findings", "B. Posing questions", "C. Conducting research", "D. Giving final exams"],
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following is a benefit of gamification in education?",
+        "options": ["A. Decreasing student engagement", "B. Enhancing student motivation", "C. Discouraging competition", "D. Eliminating feedback"],
+        "answer": "B"
+      },
+      {
+        "question": "An example of gamification in nursing education is:",
+        "options": ["A. Traditional lectures", "B. Interactive simulation scenarios", "C. Silent reading time", "D. Solely written tests"],
+        "answer": "B"
+      },
+      {
+        "question": "Which is a common challenge in adopting new educational methods?",
+        "options": ["A. Unlimited resources", "B. Full technological access", "C. Resistance to change", "D. Complete student readiness"],
+        "answer": "C"
+      },
+      {
+        "question": "In gamification, what is the purpose of challenges and quests?",
+        "options": ["A. To punish students for wrong answers", "B. To provide tasks that students must complete to progress", "C. To replace all forms of research", "D. To eliminate collaboration"],
+        "answer": "B"
+      },
+      {
+        "question": "Inquiry-Based Learning encourages students to:",
+        "options": ["A. Rely solely on teachers’ instructions", "B. Passively listen to lectures", "C. Explore and find answers through research", "D. Memorize without questioning"],
+        "answer": "C"
+      },
+      {
+        "question": "Providing instant feedback in gamification helps students:",
+        "options": ["A. To feel discouraged", "B. To know their progress immediately", "C. To avoid any form of evaluation", "D. To stop learning after one attempt"],
+        "answer": "B"
+      },
+      {
+        "question": "What is the main focus of the cognitive domain?",
+        "options": ["A. Emotions and feelings", "B. Physical movement", "C. Thinking and understanding", "D. Playing games"],
+        "answer": "C"
+      },
+      {
+        "question": "Which domain helps students develop physical skills?",
+        "options": ["A. Cognitive", "B. Affective", "C. Psychomotor", "D. Emotional"],
+        "answer": "C"
+      },
+      {
+        "question": "Which level of the cognitive domain involves creating new ideas?",
+        "options": ["A. Application", "B. Analysis", "C. Synthesis", "D. Knowledge"],
+        "answer": "C"
+      },
+      {
+        "question": "The domain that deals with values and attitudes is:",
+        "options": ["A. Cognitive", "B. Affective", "C. Psychomotor", "D. Behavioral"],
+        "answer": "B"
+      },
+      {
+        "question": "When a student critiques a research paper, they are using which level?",
+        "options": ["A. Knowledge", "B. Evaluation", "C. Comprehension", "D. Application"],
+        "answer": "B"
+      },
+      {
+        "question": "Which domain includes emotions and values?",
+        "options": ["A. Cognitive", "B. Affective", "C. Psychomotor", "D. Technical"],
+        "answer": "B"
+      },
+      {
+        "question": "“Participating in a classroom discussion” belongs to which affective level?",
+        "options": ["A. Receiving", "B. Responding", "C. Valuing", "D. Organizing"],
+        "answer": "B"
+      },
+      {
+        "question": "What is an example of Complex Overt Response?",
+        "options": ["A. Listening to a podcast", "B. Practicing a new song", "C. Performing a complex experiment smoothly", "D. Learning a new rule"],
+        "answer": "C"
+      },
+      {
+        "question": "Which verb fits the Set stage in psychomotor domain?",
+        "options": ["A. Operate", "B. Position", "C. Follow", "D. Revise"],
+        "answer": "B"
+      },
+      {
+        "question": "“Advocating for a cause” shows which affective level?",
+        "options": ["A. Responding", "B. Valuing", "C. Characterizing", "D. Receiving"],
+        "answer": "C"
+      },
+      {
+        "question": "Which of the following is a measurable objective?",
+        "options": ["A. Be famous", "B. Reduce customer wait time to one minute", "C. Help people", "D. Become influential"],
+        "answer": "B"
+      },
+      {
+        "question": "Which part of SMART stands for having a deadline?",
+        "options": ["A. Specific", "B. Achievable", "C. Time-bound", "D. Relevant"],
+        "answer": "C"
+      },
+      {
+        "question": "Which type of knowledge is about being aware of your own thinking process?",
+        "options": ["A. Factual", "B. Conceptual", "C. Procedural", "D. Metacognitive"],
+        "answer": "D"
+      },
+      {
+        "question": "Which level in the affective domain involves acting based on your values?",
+        "options": ["A. Receiving", "B. Responding", "C. Characterizing", "D. Valuing"],
+        "answer": "C"
+      },
+      {
+        "question": "In the psychomotor domain, which level includes modifying your skill to match the situation?",
+        "options": ["A. Set", "B. Guided Response", "C. Adaptation", "D. Mechanism"],
+        "answer": "C"
+      },
+      {
+        "question": "Which of the following is NOT part of SMART objectives?",
+        "options": ["A. Simple", "B. Measurable", "C. Relevant", "D. Time-bound"],
+        "answer": "A"
+      },
+      {
+        "question": "What’s an example of a specific objective?",
+        "options": ["A. Be successful", "B. Help people", "C. Increase patient satisfaction by 15% in 3 months", "D. Improve"],
+        "answer": "C"
+      },
+      {
+        "question": "The main purpose of writing objectives is to:",
+        "options": ["A. Confuse the student", "B. Waste time", "C. Define short measurable steps", "D. Avoid planning"],
+        "answer": "C"
+      },
+      {
+        "question": "What makes teaching effective?",
+        "options": ["A. Being passive", "B. Sharing information actively", "C. Memorization only", "D. Repeating the same lesson"],
+        "answer": "B"
+      },
+      {
+        "question": "Students learn best when:",
+        "options": ["A. They are unmotivated", "B. Lessons are irrelevant", "C. Lessons are meaningful", "D. There is no feedback"],
+        "answer": "C"
+      },
+      {
+        "question": "One of the key factors for faster learning is:",
+        "options": ["A. Unorganized content", "B. Random activities", "C. Clear structure", "D. Long lectures"],
+        "answer": "C"
+      },
+      {
+        "question": "Reward should be given:",
+        "options": ["A. Anytime", "B. Before task", "C. Long after task", "D. Immediately after the right behavior"],
+        "answer": "D"
+      },
+      {
+        "question": "Learning is more successful when:",
+        "options": ["A. It’s instructor-centered", "B. It involves inquiry and discovery", "C. It’s repetitive only", "D. Students are passive"],
+        "answer": "B"
+      },
+      {
+        "question": "What is the nature of learning according to principle 1?",
+        "options": ["A. Passive memorization", "B. Active knowledge construction", "C. Only listening", "D. Following instructions blindly"],
+        "answer": "B"
+      },
+      {
+        "question": "Prior knowledge of students can:",
+        "options": ["A. Only help", "B. Only hinder", "C. Help or hinder", "D. Has no effect"],
+        "answer": "C"
+      },
+      {
+        "question": "Which environment enhances learning?",
+        "options": ["A. Isolated and individual", "B. Noisy and chaotic", "C. Social and collaborative", "D. Competitive and stressful"],
+        "answer": "C"
+      },
+      {
+        "question": "Mastery involves:",
+        "options": ["A. Memorizing terms", "B. Practicing randomly", "C. Acquiring, integrating, and applying skills", "D. Skipping steps"],
+        "answer": "C"
+      },
+      {
+        "question": "What improves learning quality?",
+        "options": ["A. Random practice", "B. Guesswork", "C. Goal-directed practice with feedback", "D. Silence and isolation"],
+        "answer": "C"
+      },
+      {
+          "question": "What is one key characteristic of an effective learner?",
+          "options": ["A. Memorizing only", "B. Avoiding feedback", "C. Self-motivation", "D. Waiting for teacher direction"],
+          "answer": "C"
+      },
+      {
+          "question": "Which of the following is NOT a benefit of effective learning?",
+          "options": ["A. Improved memory", "B. Better critical thinking", "C. Fear of asking questions", "D. Adaptability to change"],
+          "answer": "C"
+      },
+      {
+          "question": "A student who learns effectively will most likely:",
+          "options": ["A. Depend only on the teacher", "B. Avoid group work", "C. Take responsibility for their learning", "D. Ignore their weaknesses"],
+          "answer": "C"
+      },
+      {
+          "question": "Which teaching method helps students apply knowledge in real-world settings?",
+          "options": ["A. Passive listening", "B. Memorization drills", "C. Effective learning strategies", "D. Copying from textbooks"],
+          "answer": "C"
+      },
+      {
+          "question": "Why is reflective thinking important in learning?",
+          "options": ["A. It wastes time", "B. It helps learners identify what works for them", "C. It replaces studying", "D. It makes learning slower"],
+          "answer": "B"
+      },
+      {
+          "question": "What is a benefit of creating a positive classroom environment?",
+          "options": ["A. Less student participation", "B. More stress", "C. Better collaboration and communication", "D. Increased silence"],
+          "answer": "C"
+      },
+      {
+          "question": "Effective communication includes:",
+          "options": ["A. Shouting in class", "B. Ignoring peers", "C. Sharing ideas clearly and confidently", "D. Copying from others"],
+          "answer": "C"
+      },
+      {
+          "question": "Lifelong learning means:",
+          "options": ["A. Only learning for exams", "B. Studying forever without breaks", "C. Continually seeking personal and professional growth", "D. Avoiding new experiences"],
+          "answer": "C"
+      },
+      {
+          "question": "Which of the following supports diverse learning styles?",
+          "options": ["A. One fixed teaching method", "B. Ignoring students’ needs", "C. Using various resources and approaches", "D. Focusing only on exams"],
+          "answer": "C"
+      },
+      {
+          "question": "Resilient learners:",
+          "options": ["A. Quit after failing", "B. Blame others for their mistakes", "C. Use challenges as motivation", "D. Avoid asking for help"],
+          "answer": "C"
+      },
+      {
+          "question": "Which of the following best defines 'Self-Motivation'?",
+          "options": ["A. Waiting for rewards to start studying", "B. Taking initiative to learn independently", "C. Avoiding difficult tasks", "D. Ignoring learning opportunities"],
+          "answer": "B"
+      },
+      {
+          "question": "What does 'Critical Thinking' involve?",
+          "options": ["A. Memorizing without understanding", "B. Blindly accepting facts", "C. Evaluating and analyzing information", "D. Avoiding feedback"],
+          "answer": "C"
+      },
+      {
+          "question": "Which skill helps learners stay organized and on track with their studies?",
+          "options": ["A. Reflective Thinking", "B. Curiosity", "C. Self-Regulation", "D. Adaptability"],
+          "answer": "C"
+      },
+      {
+          "question": "A student who adjusts well to new learning platforms demonstrates:",
+          "options": ["A. Self-Motivation", "B. Goal Orientation", "C. Adaptability", "D. Collaboration"],
+          "answer": "C"
+      },
+      {
+          "question": "Which of the following describes a 'Goal-Oriented' learner?",
+          "options": ["A. Studies without any plan", "B. Sets specific targets and follows a strategy", "C. Avoids challenges", "D. Focuses on fun activities only"],
+          "answer": "B"
+      },
+      {
+          "question": "What does 'Collaboration' emphasize?",
+          "options": ["A. Independent learning only", "B. Working alone", "C. Competing with classmates", "D. Working well with others"],
+          "answer": "D"
+      },
+      {
+          "question": "A 'Reflective' learner is most likely to:",
+          "options": ["A. Copy answers from others", "B. Avoid thinking about past experiences", "C. Analyze what worked and what didn’t", "D. Never change their learning style"],
+          "answer": "C"
+      },
+      {
+          "question": "Which of these traits helps students handle stress and bounce back from failure?",
+          "options": ["A. Self-Motivation", "B. Adaptability", "C. Resilience", "D. Curiosity"],
+          "answer": "C"
+      },
+      {
+          "question": "What is the primary benefit of 'Effective Communication'?",
+          "options": ["A. Confusing others", "B. Avoiding discussions", "C. Clearly sharing ideas", "D. Ignoring instructions"],
+          "answer": "C"
+      },
+      {
+          "question": "Which of these qualities drives deeper learning and exploration?",
+          "options": ["A. Reflective Thinking", "B. Curiosity", "C. Self-Regulation", "D. Resilience"],
+          "answer": "B"
+      },
+      {
+          "question": "What is the main goal of Step 1 in the effective learning process?",
+          "options": ["A. Test student memory", "B. Identify student problems and learning needs", "C. Teach new content", "D. Evaluate teacher skills"],
+          "answer": "B"
+      },
+      {
+          "question": "During Step 2, teachers:",
+          "options": ["A. Give final exams", "B. Apply new knowledge immediately", "C. Obtain new learning that aligns with student needs", "D. Ignore student needs"],
+          "answer": "C"
+      },
+      {
+          "question": "Which of the following is used in Step 3 to develop new teacher learning?",
+          "options": ["A. Peer coaching", "B. Sleeping", "C. Memorizing books", "D. Grading papers only"],
+          "answer": "A"
+      },
+      {
+          "question": "Applying teacher learning in the classroom is part of which step?",
+          "options": ["A. Step 1", "B. Step 4", "C. Step 2", "D. Step 5"],
+          "answer": "B"
+      },
+      {
+          "question": "In Step 5, teachers:",
+          "options": ["A. Observe other classrooms only", "B. Plan the lesson", "C. Evaluate how teaching affected student performance", "D. Choose random strategies"],
+          "answer": "C"
+      },
+      {
+          "question": "Which of the following is a characteristic of effective learners?",
+          "options": ["A. Curiosity", "B. Apathy", "C. Distrust", "D. Indifference"],
+          "answer": "A"
+      },
+      {
+          "question": "Adaptability in learners is best defined as:",
+          "options": ["A. Sticking to one method of learning", "B. Avoiding change", "C. Adjusting to new situations", "D. Ignoring feedback"],
+          "answer": "C"
+      },
+      {
+          "question": "Reflective thinking is important because it:",
+          "options": ["A. Discourages critical analysis", "B. Helps understand what works and what doesn’t", "C. Focuses solely on past mistakes", "D. Avoids planning"],
+          "answer": "B"
+      },
+      {
+          "question": "What does the cognitive domain primarily focus on?",
+          "options": ["A. Emotions and attitudes", "B. Physical skills and actions", "C. Mental skills and knowledge acquisition", "D. Social interactions"],
+          "answer": "C"
+      },
+      {
+          "question": "In the affective domain, which component involves active participation and engagement?",
+          "options": ["A. Receiving", "B. Responding", "C. Valuing", "D. Organizing"],
+          "answer": "B"
+      },
+      {
+          "question": "Which of the following is the first step of the development of a goal?",
+          "options": ["A. Limit the program to two-to-five goals", "B. Research the topic", "C. Select goals that have priority", "D. Involve stakeholders"],
+          "answer": "D"
+      },
+      {
+          "question": "According to SMART objectives, to put specific objective you should:",
+          "options": ["A. Not specify target", "B. Put two outcomes per objective", "C. Specify intended outcome", "D. Use vague verbs"],
+          "answer": "C"
+      },
+      {
+          "question": "Which of the following is a principle of the learning process?",
+          "options": ["A. Education is a systematic and planned process", "B. Education should be separate from experience", "C. Learning should be automatic", "D. Learning is entirely based on inheritance"],
+          "answer": "A"
+      },
+      {
+          "question": "Which element is not a part of the steps for effective learning?",
+          "options": ["A. Preparation", "B. Feedback", "C. Evaluation", "D. Coincidence"],
+          "answer": "D"
+      },
+      {
+          "question": "What motivates students the most according to the principles?",
+          "options": ["A. Long lessons", "B. The possibility of success", "C. Peer pressure", "D. Teacher control"],
+          "answer": "B"
+      }
+    ],
+  "TF":[
+      {
+          "question": "Effective learning means students only memorize facts quickly.",
+          "answer": False
+      },
+      {
+          "question": "Critical thinking is an important part of effective learning.",
+          "answer": True
+      },
+      {
+          "question": "Resilient learners are more likely to give up when they face challenges.",
+          "answer": False
+      },
+      {
+          "question": "Teachers who focus on effective learning create a more positive classroom environment.",
+          "answer": True
+      },
+      {
+          "question": "Effective learners wait for the teacher to guide them at every step.",
+          "answer": False
+      },
+      {
+          "question": "Adaptability helps learners succeed in a fast-changing world.",
+          "answer": True
+      },
+      {
+          "question": "Effective learning encourages students to avoid asking questions.",
+          "answer": False
+      },
+      {
+          "question": "Reflective thinking helps learners understand their strengths and weaknesses.",
+          "answer": True
+      },
+      {
+          "question": "Collaboration is only useful in academic settings, not in real life.",
+          "answer": False
+      },
+      {
+          "question": "Self-motivation means relying on rewards from others to study.",
+          "answer": False
+      },
+      {
+          "question": "Reflective learners regularly evaluate their own learning processes.",
+          "answer": True
+      },
+      {
+          "question": "Self-regulation means depending on others to organize your study time.",
+          "answer": False
+      },
+      {
+          "question": "Curiosity helps learners stay disengaged from the learning material.",
+          "answer": False
+      },
+      {
+          "question": "Adaptable learners struggle with sudden changes in learning environments.",
+          "answer": False
+      },
+      {
+          "question": "Goal-oriented learners are more likely to stay focused on achieving specific outcomes.",
+          "answer": True
+      },
+      {
+          "question": "Critical thinking includes analyzing and evaluating information.",
+          "answer": True
+      },
+      {
+          "question": "Collaboration discourages communication and group participation.",
+          "answer": False
+      },
+      {
+          "question": "Resilient students give up easily when faced with academic difficulties.",
+          "answer": False
+      },
+      {
+          "question": "Effective communication includes both writing and speaking clearly.",
+          "answer": True
+      },
+      {
+          "question": "Self-motivated learners usually wait for someone to push them to study.",
+          "answer": False
+      },
+      {"question": "Goals are always measurable.", "answer": False},
+      {"question": "A goal can be general and abstract, while an objective must be specific.", "answer": True},
+      {"question": "“Be successful in life” is a specific and measurable objective.", "answer": False},
+      {"question": "One of the SMART elements is “Relevant.”", "answer": True},
+      {"question": "Goals should only be reassessed after they are fully achieved.", "answer": False},
+      {"question": "The affective domain is mainly about physical movements.", "answer": False},
+      {"question": "Valuing means appreciating and supporting an idea.", "answer": True},
+      {"question": "Psychomotor domain includes cognitive skills like remembering.", "answer": False},
+      {"question": "SMART goals must always include a time limit.", "answer": True},
+      {"question": "Objectives are usually general and intangible.", "answer": False},
+      {"question": "Teaching is a passive act.", "answer": False},
+      {"question": "Learning is only memorization.", "answer": False},
+      {"question": "Students always learn at the same pace.", "answer": False},
+      {"question": "Motivation is an important part of learning.", "answer": True},
+      {"question": "Students learn better when lessons are short and organized.", "answer": True},
+      {"question": "Learning is just repeating facts.", "answer": False},
+      {"question": "Feedback has no role in student progress.", "answer": False},
+      {"question": "Students can learn better when working together.", "answer": True},
+      {"question": "All students learn in exactly the same way.", "answer": False},
+      {"question": "Reflection helps improve learning.", "answer": True},
+      {"question": "Lecture method is a student-centered approach.", "answer": False},
+      {"question": "One advantage of lecture method is saving time.", "answer": True},
+      {"question": "Role Playing helps students to engage in realistic scenarios.", "answer": True},
+      {"question": "In lecture method, students are active participants.", "answer": False},
+      {"question": "One disadvantage of lecture method is neglecting individual differences.", "answer": True},
+      {"question": "Active learning means just listening to the teacher.", "answer": False},
+      {"question": "Gamification is about using games in learning.", "answer": True},
+      {"question": "Flipped classroom means studying at home and practicing at school.", "answer": True},
+      {"question": "Secondary learning is better than active learning.", "answer": False},
+      {"question": "Student engagement is part of active learning.", "answer": True},
+      {"question": "The flipped classroom relies on delivering full lectures inside the classroom.", "answer": False},
+      {"question": "Think-Pair-Share is a type of active learning strategy.", "answer": True},
+      {"question": "Role-Playing in education reduces students’ understanding.", "answer": False},
+      {"question": "In the flipped classroom, the teacher guides students instead of only lecturing.", "answer": True},
+      {"question": "Formative assessments only occur at the end of the term.", "answer": False},
+      {"question": "Gamification in education is about making learning feel like a fun game.", "answer": True},
+      {"question": "Badges in gamification represent levels of punishment for wrong answers.", "answer": False},
+      {"question": "Leaderboards motivate students by showing their rank among peers.", "answer": True},
+      {"question": "Inquiry-Based Learning focuses mainly on memorizing facts.", "answer": False},
+      {"question": "Interactive Simulation is a method of gamification used in nursing education.", "answer": True},
+      {"question": "One benefit of gamification is promoting lifelong learning.", "answer": True},
+      {"question": "Time constraints are never a challenge when adopting new teaching methods.", "answer": False},
+      {"question": "Resistance to change can affect the implementation of innovative learning strategies.", "answer": True},
+      {"question": "In Inquiry-Based Learning, students are passive recipients of knowledge.", "answer": False},
+      {"question": "Gamification eliminates the need for collaboration among students.", "answer": False},
+      {"question": "The affective domain includes the development of values and emotional responses.", "answer": True},
+      {"question": "Bloom’s Taxonomy is only applicable to the cognitive domain.", "answer": False},
+      {"question": "The “Valuing” component of the affective domain involves placing importance on an idea or object.", "answer": True},
+      {"question": "Goal-oriented learners are focused on achieving specific objectives.", "answer": True},
+      {"question": "Self-motivated learners often achieve greater academic success.", "answer": True},
+      {"question": "Feedback is not part of the teaching process.", "answer": False},
+      {"question": "Teaching and learning are completely separate processes with no relation.", "answer": False},
+      {"question": "Students’ prior knowledge can hinder their learning.", "answer": True},
+      {"question": "Rewards should follow desired behavior as immediately as possible to be effective.", "answer": True},
+      {"question": "Objective is a broad statement that indicate what you want to accomplish.", "answer": False},
+      {"question": "Education is the process of delivering information from teacher to student without any planning.", "answer": False},
+      {"question": "Learning can result from experiences, not just classroom teaching.", "answer": True},
+      {"question": "Effective teaching influences how the student thinks, feels, and behaves.", "answer": True},
+      {"question": "Learning always appears immediately.", "answer": False},
+      {"question": "Education transfers skills and values from one generation to another.", "answer": True},
+      {"question": "Teaching is a passive process where only the student speaks.", "answer": False},
+      {"question": "Successful learning requires cooperation between student and teacher.", "answer": True},
+      {"question": "A good teacher is the one who finishes the syllabus quickly.", "answer": False},
+      {"question": "Good teaching helps students grow and change for the better.", "answer": True},
+      {"question": "Education does not need objectives or a plan.", "answer": False},
+      {"question": "Step 1 of effective learning is about applying new strategies in the classroom.", "answer": False},
+      {"question": "In Step 2, the teacher gathers information and learning methods that match students’ needs.", "answer": True},
+      {"question": "Peer coaching and classroom modeling are part of Step 3.", "answer": True},
+      {"question": "Evaluating the impact on student performance is done before teaching begins.", "answer": False},
+      {"question": "Formative assessment is part of Step 4 to observe the effect of teaching.", "answer": True},
+      {"question": "Cognitive domain is mainly about physical movement and motor skills.", "answer": False},
+      {"question": "Affective domain includes emotions and attitudes.", "answer": True},
+      {"question": "Bloom’s taxonomy divides learning into four main domains.", "answer": False},
+      {"question": "Understanding learning domains helps teachers plan better lessons.", "answer": True},
+      {"question": "Evaluation is the first level of the cognitive domain.", "answer": False},
+      {"question": "The affective domain deals with physical coordination.", "answer": False},
+      {"question": "“Valuing” in the affective domain means appreciating something.", "answer": True},
+      {"question": "In the psychomotor domain, “Mechanism” refers to early attempts at learning a skill.", "answer": False},
+      {"question": "Receiving is the highest level in the affective domain.", "answer": False},
+      {"question": "Adaptation means adjusting a skill to suit different situations.", "answer": True}
+  ]
+  },
+"Strategies's Mid Term":{
+        "MCQs":[
+                {
+                    "question": "Which of the following is a characteristic of effective learners?",
+                    "options": ["A. Curiosity", "B. Apathy", "C. Distrust", "D. Indifference"],
+                    "answer": "A"
+                },
+                {
+                    "question": "Adaptability in learners is best defined as:",
+                    "options": [
+                    "A. Sticking to one method of learning",
+                    "B. Flexibility in responding to new situations",
+                    "C. Avoiding change",
+                    "D. Relying on previous experiences only"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question": "Reflective thinking is important because it:",
+                    "options": [
+                    "A. Discourages critical analysis",
+                    "B. Enhances self-awareness and improvement",
+                    "C. Focuses solely on past mistakes",
+                    "D. Promotes surface-level understanding"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question": "What does the cognitive domain primarily focus on?",
+                    "options": [
+                    "A. Emotions and attitudes",
+                    "B. Physical skills and actions",
+                    "C. Mental skills and knowledge acquisition",
+                    "D. Social interactions"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question": "In the affective domain, which component involves active participation and engagement?",
+                    "options": ["A. Receiving", "B. Responding", "C. Valuing", "D. Organizing"],
+                    "answer": "B"
+                },
+                {
+                    "question": "Which of the following is the first step of the development of a goal?",
+                    "options": [
+                    "A. Limit the program to two-to-five goals",
+                    "B. Research the topic",
+                    "C. Select goals that have priority",
+                    "D. Involve stakeholders"
+                    ],
+                    "answer": "B"
+                },
+                {
+                    "question": "According to SMART objectives, to put specific objective you should:",
+                    "options": [
+                    "A. Not specify target",
+                    "B. Put two outcomes per objective",
+                    "C. Specify intended outcome",
+                    "D. Use vague verbs"
+                    ],
+                    "answer": "C"
+                },
+                {
+                    "question": "Which of the following is a principle of the learning process?",
+                    "options": [
+                    "A. Education is a systematic and planned process",
+                    "B. Education should be separate from experience",
+                    "C. Learning should be automatic",
+                    "D. Learning is entirely based on inheritance"
+                    ],
+                    "answer": "A"
+                },
+                {
+                    "question": "Which element is not a part of the steps for effective learning?",
+                    "options": ["A. Preparation", "B. Feedback", "C. Evaluation", "D. Coincidence"],
+                    "answer": "D"
+                },
+                {
+                    "question": "What motivates students the most according to the principles?",
+                    "options": [
+                    "A. Long lessons",
+                    "B. The possibility of success",
+                    "C. Peer pressure",
+                    "D. Teacher control"
+                    ],
+                    "answer": "B"
+                }
+            ],
+        "TF":[
+                {
+                    "question": "The affective domain includes the development of values and emotional responses.",
+                    "answer": True
+                },
+                {
+                    "question": "Bloom's Taxonomy is only applicable to the cognitive domain.",
+                    "answer": False
+                },
+                {
+                    "question": "The “Valuing” component of the affective domain involves placing importance on an idea or object.",
+                    "answer": True
+                },
+                {
+                    "question": "Goal-oriented learners are focused on achieving specific objectives.",
+                    "answer": True
+                },
+                {
+                    "question": "Self-motivated learners often achieve greater academic success.",
+                    "answer": True
+                },
+                {
+                    "question": "Feedback is not part of the teaching process.",
+                    "answer": False
+                },
+                {
+                    "question": "Teaching and learning are completely separate processes with no relation.",
+                    "answer": False
+                },
+                {
+                    "question": "Students' prior knowledge can hinder their learning.",
+                    "answer": True
+                },
+                {
+                    "question": "Rewards should follow desired behavior as immediately as possible to be effective.",
+                    "answer": True
+                },
+                {
+                    "question": "Objective is a broad statement that indicates what you want to accomplish.",
+                    "answer": False
+                }
+            ]
     },
 
-    "L2 CAD": {
-    "MCQs": [
-        {
-            "question": "What is the most common cause of coronary artery disease?",
-            "options": ["A. Congenital defect", "B. Atherosclerosis", "C. Hypoglycemia", "D. Valve regurgitation"],
-            "answer": "B"
-        },
-        {
-            "question": "Coronary arteries receive their blood supply primarily during:",
-            "options": ["A. Systole", "B. Inspiration", "C. Diastole", "D. Expiration"],
-            "answer": "C"
-        },
-        {
-            "question": "Which of the following is a nonmodifiable risk factor for CAD?",
-            "options": ["A. Smoking", "B. Hyperlipidemia", "C. Gender", "D. Obesity"],
-            "answer": "C"
-        },
-        {
-            "question": "Which of the following is a feature of stable angina?",
-            "options": ["A. Unpredictable onset", "B. Severe, prolonged chest pain", "C. Pain at rest", "D. Occurs on exertion, relieved by rest"],
-            "answer": "D"
-        },
-        {
-            "question": "Angina caused by coronary artery vasospasm is known as:",
-            "options": ["A. Stable angina", "B. Unstable angina", "C. Variant angina", "D. Silent ischemia"],
-            "answer": "C"
-        },
-        {
-            "question": "What medication is commonly used for immediate relief of angina?",
-            "options": ["A. Aspirin", "B. Heparin", "C. Nitroglycerin", "D. Atropine"],
-            "answer": "C"
-        },
-        {
-            "question": "A person is most at risk for myocardial ischemia during:",
-            "options": ["A. Sleep", "B. Tachycardia", "C. Low blood pressure", "D. Bradycardia"],
-            "answer": "B"
-        },
-        {
-            "question": "Which of the following is NOT a symptom of acute coronary syndrome?",
-            "options": ["A. Chest pain", "B. Sweating", "C. Seizure", "D. Shortness of breath"],
-            "answer": "C"
-        },
-        {
-            "question": "In ACS, what is one of the first diagnostic tools used?",
-            "options": ["A. Colonoscopy", "B. 12-lead ECG", "C. CT scan", "D. Chest x-ray"],
-            "answer": "B"
-        },
-        {
-            "question": "Which medication helps reduce heart rate in CAD patients?",
-            "options": ["A. Antibiotics", "B. Beta-blockers", "C. Vasopressors", "D. Diuretics"],
-            "answer": "B"
-        },
-        {
-            "question": "A person with a history of CAD should avoid:",
-            "options": ["A. Moderate exercise", "B. Smoking", "C. Low-fat diet", "D. Aspirin"],
-            "answer": "B"
-        },
-        {
-            "question": "What is the most serious complication of MI if not treated early?",
-            "options": ["A. Cough", "B. Cardiac arrest", "C. Muscle cramp", "D. Headache"],
-            "answer": "B"
-        },
-        {
-            "question": "Which medication prevents platelet aggregation?",
-            "options": ["A. Calcium channel blockers", "B. Antiplatelets", "C. Nitrates", "D. Statins"],
-            "answer": "B"
-        },
-        {
-            "question": "Which part of the heart pumps oxygenated blood to the body?",
-            "options": ["A. Right ventricle", "B. Left atrium", "C. Left ventricle", "D. Right atrium"],
-            "answer": "C"
-        },
-        {
-            "question": "In ACS, morphine is given to:",
-            "options": ["A. Raise BP", "B. Relieve anxiety", "C. Relieve chest pain", "D. Increase heart rate"],
-            "answer": "C"
-        }
-    ],
-    "TF": [
-        {"question": "The heart is perfused during systole.", "answer": False},
-        {"question": "Family history is a modifiable risk factor.", "answer": False},
-        {"question": "Angina can occur due to stress or emotional upset.", "answer": True},
-        {"question": "Nitroglycerin works by increasing myocardial oxygen demand.", "answer": False},
-        {"question": "Beta-blockers reduce oxygen consumption of the heart.", "answer": True},
-        {"question": "CAD is more common in African Americans.", "answer": True},
-        {"question": "Obesity is a nonmodifiable risk factor for CAD.", "answer": False},
-        {"question": "Variant angina usually occurs during physical activity.", "answer": False},
-        {"question": "Aspirin is given during MI for its anticoagulant effect.", "answer": True},
-        {"question": "Cholesterol abnormalities are considered a key factor in CAD.", "answer": True},
-        {"question": "Heart pain always localizes to the chest only.", "answer": False},
-        {"question": "Coronary arteries originate from the pulmonary artery.", "answer": False},
-        {"question": "ECG changes may appear even if the patient feels no chest pain.", "answer": True},
-        {"question": "Diabetics are at higher risk of developing CAD.", "answer": True},
-        {"question": "Atherosclerosis is an inflammatory process in arterial walls.", "answer": True}
-    ]
-},
-
-    "L3 Fluids": {
-    "MCQs": [
-        {
-            "question": "What percentage of adult body weight is made up of fluid?",
-            "options": ["A. 40%", "B. 50%", "C. 60%", "D. 70%"],
-            "answer": "C"
-        },
-        {
-            "question": "Which of the following is the major intracellular electrolyte?",
-            "options": ["A. Sodium", "B. Calcium", "C. Chloride", "D. Potassium"],
-            "answer": "D"
-        },
-        {
-            "question": "What is the normal range of serum sodium?",
-            "options": ["A. 125–135 mEq/L", "B. 135–145 mEq/L", "C. 145–155 mEq/L", "D. 100–110 mEq/L"],
-            "answer": "B"
-        },
-        {
-            "question": "The movement of water from a low solute concentration to a high one is called:",
-            "options": ["A. Diffusion", "B. Active transport", "C. Filtration", "D. Osmosis"],
-            "answer": "D"
-        },
-        {
-            "question": "The normal urine specific gravity is:",
-            "options": ["A. 1.001 to 1.005", "B. 1.010 to 1.025", "C. 1.030 to 1.050", "D. 1.100 to 1.200"],
-            "answer": "B"
-        },
-        {
-            "question": "What hormone controls water retention in the kidneys?",
-            "options": ["A. Insulin", "B. ADH", "C. Cortisol", "D. PTH"],
-            "answer": "B"
-        },
-        {
-            "question": "Which of the following is a major cause of hypovolemia?",
-            "options": ["A. Obesity", "B. Excessive sweating", "C. Hypertension", "D. High sodium diet"],
-            "answer": "B"
-        },
-        {
-            "question": "Which of the following is a sign of hypervolemia?",
-            "options": ["A. Weak pulse", "B. Orthostatic hypotension", "C. Edema", "D. Cold, pale skin"],
-            "answer": "C"
-        },
-        {
-            "question": "The best fluid for initial treatment of hypotensive hypovolemia is:",
-            "options": ["A. D5W", "B. 0.45% NaCl", "C. Lactated Ringer’s", "D. Sterile water"],
-            "answer": "C"
-        },
-        {
-            "question": "What electrolyte imbalance is associated with diarrhea and gastric suctioning?",
-            "options": ["A. Hyperkalemia", "B. Hypokalemia", "C. Hypernatremia", "D. Hypercalcemia"],
-            "answer": "B"
-        },
-        {
-            "question": "Severe hyperkalemia may cause:",
-            "options": ["A. Tachypnea", "B. Seizures", "C. Cardiac arrest", "D. Polyuria"],
-            "answer": "C"
-        },
-        {
-            "question": "Which hormone increases sodium and water retention?",
-            "options": ["A. ADH", "B. Insulin", "C. Aldosterone", "D. Glucagon"],
-            "answer": "C"
-        },
-        {
-            "question": "Which fluid loss method is considered “insensible”?",
-            "options": ["A. Vomiting", "B. Sweating", "C. Urine", "D. Evaporation through skin"],
-            "answer": "D"
-        },
-        {
-            "question": "Hyponatremia can cause:",
-            "options": ["A. Hypertension", "B. Cellular dehydration", "C. Cerebral edema", "D. Increased muscle tone"],
-            "answer": "C"
-        },
-        {
-            "question": "Which of the following increases the risk of hypernatremia?",
-            "options": ["A. Drinking too much water", "B. Diuretic use", "C. Enteral feeding without water", "D. Vomiting"],
-            "answer": "C"
-        }
-    ],
-    "TF": [
-        {"question": "Intracellular fluid makes up about one-third of total body fluid.", "answer": False},
-        {"question": "Osmosis involves movement of solutes across membranes.", "answer": False},
-        {"question": "Kidneys are the main route of fluid loss in the body.", "answer": True},
-        {"question": "The pituitary gland stores and releases ADH.", "answer": True},
-        {"question": "ADH promotes water loss through the kidneys.", "answer": False},
-        {"question": "Parathyroid hormone regulates sodium and potassium levels.", "answer": False},
-        {"question": "In hypervolemia, breath sounds may include crackles.", "answer": True},
-        {"question": "Orthostatic hypotension is a sign of hypovolemia.", "answer": True},
-        {"question": "Potassium level below 3.5 mEq/L is considered hyperkalemia.", "answer": False},
-        {"question": "Hyperkalemia is more dangerous than hypokalemia.", "answer": True},
-        {"question": "A serum sodium level of 150 mEq/L is considered hypernatremia.", "answer": True},
-        {"question": "Patients with diarrhea are at risk for fluid volume excess.", "answer": False},
-        {"question": "Hypokalemia may cause muscle weakness and leg cramps.", "answer": True},
-        {"question": "Foods high in potassium include bananas and orange juice.", "answer": True},
-        {"question": "Pitting edema is evaluated using a 1+ to 4+ scale.", "answer": True}
-    ]
-},
-"L4 Burn": {
-    "MCQs": [
-        {
-            "question": "A burn is defined as an injury primarily caused by:",
-            "options": ["A. Genetic mutations", "B. Immune reaction", "C. Thermal or acute trauma", "D. Blood clotting abnormalities"],
-            "answer": "C"
-        },
-        {
-            "question": "Which of the following is a type of chemical burn agent?",
-            "options": ["A. Steam", "B. Electricity", "C. Alkali", "D. Radiation"],
-            "answer": "C"
-        },
-        {
-            "question": "The depth of a deep partial-thickness burn involves:",
-            "options": ["A. Epidermis only", "B. Epidermis and part of dermis", "C. Full dermis", "D. Muscle and bone"],
-            "answer": "B"
-        },
-        {
-            "question": "Which of the following is a sign of a full-thickness burn?",
-            "options": ["A. Red and painful", "B. Moist surface", "C. Dry, leathery, and painless", "D. Intact blisters"],
-            "answer": "C"
-        },
-        {
-            "question": "Which formula is commonly used to calculate fluid resuscitation?",
-            "options": ["A. Baxter (Parkland) formula", "B. Diabetes formula", "C. Mayo formula", "D. Atkins formula"],
-            "answer": "A"
-        },
-        {
-            "question": "Inhalation of heated air may result in:",
-            "options": ["A. Vomiting", "B. Curling’s ulcer", "C. Upper airway thermal injury", "D. Paralysis"],
-            "answer": "C"
-        },
-        {
-            "question": "What is the most accurate method for estimating burn surface area in adults?",
-            "options": ["A. Wallace Rule of 9s", "B. BMI", "C. Lund and Browder chart", "D. Palm method only"],
-            "answer": "C"
-        },
-        {
-            "question": "During the emergent phase of burn care, a priority is:",
-            "options": ["A. Physiotherapy", "B. Skin grafting", "C. Airway assessment and fluid resuscitation", "D. Discharge planning"],
-            "answer": "C"
-        },
-        {
-            "question": "Which burn complication involves destruction of red blood cells?",
-            "options": ["A. Curling's ulcer", "B. Hematuria", "C. Hemolysis", "D. Ascites"],
-            "answer": "C"
-        },
-        {
-            "question": "Pain is often absent in full-thickness burns due to:",
-            "options": ["A. Inflammation", "B. Nerve damage", "C. Infection", "D. Sweating"],
-            "answer": "B"
-        },
-        {
-            "question": "What is the recommended water temperature during hydrotherapy?",
-            "options": ["A. 35°C", "B. 37.8°C", "C. 40°C", "D. 33°C"],
-            "answer": "B"
-        },
-        {
-            "question": "Which solution is used initially for fluid resuscitation?",
-            "options": ["A. D5W", "B. Normal saline", "C. Lactated Ringer’s", "D. Sterile water"],
-            "answer": "C"
-        },
-        {
-            "question": "Silver-based topical agents are used in burns because they:",
-            "options": ["A. Moisturize the skin", "B. Provide nutrients", "C. Fight infection", "D. Remove dead tissue"],
-            "answer": "C"
-        },
-        {
-            "question": "What dressing technique helps protect a fresh skin graft?",
-            "options": ["A. Loose dressing", "B. Occlusive dressing", "C. No dressing", "D. Open-air technique"],
-            "answer": "B"
-        },
-        {
-            "question": "A patient with facial burns is at risk of:",
-            "options": ["A. Hearing loss", "B. Ineffective breathing pattern", "C. Vomiting", "D. Muscle spasms"],
-            "answer": "B"
-        }
-    ],
-    "TF": [
-        {"question": "Burns involving the perineum are classified as major burns.", "answer": True},
-        {"question": "Curling’s ulcer is a type of respiratory complication of burns.", "answer": False},
-        {"question": "Edema after burn injury is partly due to fluid shifting into interstitial spaces.", "answer": True},
-        {"question": "Full-thickness burns are typically painful.", "answer": False},
-        {"question": "Tetanus prophylaxis is necessary in burn wound care.", "answer": True},
-        {"question": "Burn patients always maintain their body temperature in early injury.", "answer": False},
-        {"question": "Autografting uses skin from another donor.", "answer": False},
-        {"question": "Rehabilitative phase starts after wound closure only.", "answer": False},
-        {"question": "Deep burns require antibacterial therapy and strict infection control.", "answer": True},
-        {"question": "Escharotomy is used to relieve pressure and restore circulation.", "answer": True},
-        {"question": "Immune system function improves after a burn injury.", "answer": False},
-        {"question": "Bronchoscopy may be used in cases of suspected airway injury.", "answer": True},
-        {"question": "Pain control includes both pharmacologic and non-pharmacologic methods.", "answer": True},
-        {"question": "Albumin and total protein are monitored during the acute phase.", "answer": False},
-        {"question": "The use of occlusive dressings enhances graft adherence.", "answer": True}
-    ]
-},
-"L5 Fracture": {
-    "MCQs": [
-        {
-            "question": "A fracture is defined as:",
-            "options": ["A. Loss of muscle tone", "B. Joint dislocation", "C. Break in continuity of a bone", "D. Deformation of cartilage"],
-            "answer": "C"
-        },
-        {
-            "question": "A simple or closed fracture is characterized by:",
-            "options": ["A. Bone breaking through the skin", "B. Bone breaking only partially", "C. No break in the skin", "D. Muscle detachment"],
-            "answer": "C"
-        },
-        {
-            "question": "A fracture with multiple bone fragments is called:",
-            "options": ["A. Transverse", "B. Oblique", "C. Comminuted", "D. Spiral"],
-            "answer": "C"
-        },
-        {
-            "question": "Which of the following is a sign of fracture?",
-            "options": ["A. Nausea", "B. Crepitus", "C. Headache", "D. Skin rash"],
-            "answer": "B"
-        },
-        {
-            "question": "What is compartment syndrome?",
-            "options": ["A. Blood clot in artery", "B. Bone infection", "C. Pressure buildup in muscles reducing blood flow", "D. Pulmonary edema"],
-            "answer": "C"
-        },
-        {
-            "question": "Fat embolism is a complication that can occur:",
-            "options": ["A. After blood transfusion", "B. After bone fracture", "C. During dehydration", "D. With liver failure"],
-            "answer": "B"
-        },
-        {
-            "question": "What does ORIF stand for?",
-            "options": ["A. Open Reduction Internal Fixation", "B. Outer Reinforcement Internal Fracture", "C. Orthopedic Repair Inflammation Fix", "D. Osteo Radiological Internal Fixation"],
-            "answer": "A"
-        },
-        {
-            "question": "Buck’s traction is applied to:",
-            "options": ["A. Upper extremities", "B. Spine", "C. Lower leg", "D. Neck"],
-            "answer": "C"
-        },
-        {
-            "question": "Which of the following is a type of internal fixation device?",
-            "options": ["A. Cast", "B. Traction tape", "C. Intramedullary rod", "D. Splint"],
-            "answer": "C"
-        },
-        {
-            "question": "What complication involves death of bone tissue due to lack of blood supply?",
-            "options": ["A. Osteoporosis", "B. Osteoarthritis", "C. Avascular necrosis", "D. Fat embolism"],
-            "answer": "C"
-        },
-        {
-            "question": "What is a priority in emergency fracture management?",
-            "options": ["A. Massaging the area", "B. Giving oral fluids", "C. Immobilizing the fracture", "D. Immediate surgery"],
-            "answer": "C"
-        },
-        {
-            "question": "Skeletal traction is:",
-            "options": ["A. Temporary support with bandage", "B. Direct traction through bone", "C. External skin traction", "D. Done only in children"],
-            "answer": "B"
-        },
-        {
-            "question": "Which nursing intervention helps prevent pin tract infection?",
-            "options": ["A. Applying ice", "B. Soaking pins in hot water", "C. Cleaning with chlorhexidine", "D. Covering with gauze only"],
-            "answer": "C"
-        },
-        {
-            "question": "Greenstick fracture usually occurs in:",
-            "options": ["A. Elderly", "B. Adults with osteoporosis", "C. Children", "D. Athletes only"],
-            "answer": "C"
-        },
-        {
-            "question": "In external fixation, sharp pins should be:",
-            "options": ["A. Left uncovered", "B. Cut off", "C. Covered with tape", "D. Cleaned with alcohol"],
-            "answer": "C"
-        }
-    ],
-    "TF": [
-        {"question": "Internal fixation is always done through open surgery.", "answer": False},
-        {"question": "A fracture of the femur can cause hypovolemic shock.", "answer": True},
-        {"question": "Neurovascular assessment should be done only once per day.", "answer": False},
-        {"question": "Crepitus is a common sign felt during palpation of a fractured limb.", "answer": True},
-        {"question": "Traction helps reduce fractures and minimize muscle spasms.", "answer": True},
-        {"question": "Fat embolism can lead to respiratory distress and confusion.", "answer": True},
-        {"question": "The cast must always be wet to maintain flexibility.", "answer": False},
-        {"question": "Immobilization after fracture reduction is essential for bone healing.", "answer": True},
-        {"question": "Isometric exercises should be avoided during fracture healing.", "answer": False},
-        {"question": "Avascular necrosis can occur due to disrupted blood supply.", "answer": True},
-        {"question": "Open fractures do not require sterile dressing.", "answer": False},
-        {"question": "Skeletal traction is used for short-term immobilization only.", "answer": False},
-        {"question": "Early ambulation after internal fixation helps prevent complications.", "answer": True},
-        {"question": "External fixators are used mainly for soft tissue injuries.", "answer": True},
-        {"question": "Compartment syndrome can cause ischemic necrosis if not treated.", "answer": True}
-    ]
-},
-"L6 Oncology": {
-    "MCQs": [
-        {
-            "question": "What is a tumor?",
-            "options": [
-                "A. Infection of the skin",
-                "B. Abnormal mass of tissue due to uncontrolled cell multiplication",
-                "C. Cyst filled with fluid",
-                "D. Enlargement of lymph nodes"
+# Research In Nursing
+"L1 Introduction":{
+        "MCQs":[
+            {
+                "question": "What is the primary aim of research?",
+                "options": ["A. To analyze data for fun", "B. To discover hidden truths through scientific procedures", "C. To prove someone's opinion", "D. To gather data without a purpose"],
+                "answer": "B"
+            },
+            {
+                "question": "Exploratory research is primarily intended to:",
+                "options": ["A. Solve practical problems", "B. Find frequency of events", "C. Gain familiarity with a phenomenon", "D. Test a causal hypothesis"],
+                "answer": "C"
+            },
+            {
+                "question": "Which type of research emphasizes measurement and numerical data?",
+                "options": ["A. Qualitative research", "B. Conceptual research", "C. Quantitative research", "D. Empirical research"],
+                "answer": "C"
+            },
+            {
+                "question": "Which one of the following is not a type of research classification?",
+                "options": ["A. Descriptive vs Analytical", "B. Applied vs Fundamental", "C. Practical vs Theoretical", "D. Qualitative vs Quantitative"],
+                "answer": "C"
+            },
+            {
+                "question": "Applied research is carried out mainly to:",
+                "options": ["A. Satisfy intellectual curiosity", "B. Solve practical problems", "C. Analyze theoretical models", "D. Understand historical events"],
+                "answer": "B"
+            },
+            {
+                "question": "Research methodology refers to:",
+                "options": ["A. Only the statistical tools used", "B. Only the data collection tools used", "C. The overall strategy including the why and how of research", "D. Only sample and variable selection"],
+                "answer": "C"
+            },
+            {
+                "question": "Which step is the first in the research process?",
+                "options": ["A. Formulating hypotheses", "B. Selecting population", "C. Formulating the research question", "D. Reviewing literature"],
+                "answer": "C"
+            },
+            {
+                "question": "Which is a correct component of the FINER criteria?",
+                "options": ["A. Rational", "B. Novel", "C. Objective", "D. Passive"],
+                "answer": "B"
+            },
+            {
+                "question": "Which type of research design tests a hypothesis?",
+                "options": ["A. Descriptive", "B. Diagnostic", "C. Exploratory", "D. Hypothesis-testing"],
+                "answer": "D"
+            },
+            {
+                "question": "Which variable is considered the presumed effect?",
+                "options": ["A. Independent", "B. Dependent", "C. Control", "D. Confounding"],
+                "answer": "B"
+            },
+            {
+                "question": "What defines a natural setting in research?",
+                "options": ["A. Laboratory environment", "B. Controlled scenario", "C. Real-life, uncontrolled environment", "D. Virtual setting"],
+                "answer": "C"
+            },
+            {
+                "question": "Cross-sectional studies:",
+                "options": ["A. Examine over time", "B. Are retrospective", "C. Collect data at one point in time", "D. Are experimental"],
+                "answer": "C"
+            },
+            {
+                "question": "In a case study, researchers:",
+                "options": ["A. Examine broad samples", "B. Test quantitative hypotheses", "C. Conduct in-depth analysis of a single unit", "D. Avoid subjective data"],
+                "answer": "C"
+            },
+            {
+                "question": "A nurse applying research findings in practice is acting as a:",
+                "options": ["A. Data collector", "B. Research designer", "C. Consumer of research", "D. Research subject"],
+                "answer": "C"
+            },
+            {
+                "question": "Which role is focused specifically on nursing research?",
+                "options": ["A. Clinical nurse researcher", "B. Nurse assistant", "C. Nurse educator", "D. Health administrator"],
+                "answer": "A"
+            }
             ],
-            "answer": "B"
-        },
-        {
-            "question": "A benign tumor is:",
-            "options": [
-                "A. Cancerous and spreads to nearby tissue",
-                "B. Always life-threatening",
-                "C. Not cancerous and doesn’t spread",
-                "D. Found only in blood"
+        "TF":[
+            {
+                "question": "Research is a process of random inquiry without any specific steps.",
+                "answer": False
+            },
+            {
+                "question": "Conceptual research is based on verifiable, observed data.",
+                "answer": False
+            },
+            {
+                "question": "The difference between research methods and methodology is that methodology includes the reasoning behind the methods.",
+                "answer": True
+            },
+            {
+                "question": "Quantitative research cannot use statistical analysis.",
+                "answer": False
+            },
+            {
+                "question": "A pilot study is usually done after the main data collection.",
+                "answer": False
+            },
+            {
+                "question": "Nursing research has no real influence on clinical practice.",
+                "answer": False
+            },
+            {
+                "question": "Evidence-based practice integrates research findings into clinical decisions.",
+                "answer": True
+            },
+            {
+                "question": "Retrospective studies analyze data collected in the future.",
+                "answer": False
+            },
+            {
+                "question": "Longitudinal studies allow data collection on the same subjects over time.",
+                "answer": True
+            },
+            {
+                "question": "Descriptive studies often use interviews and surveys to collect data.",
+                "answer": True
+            },
+            {
+                "question": "An independent variable is assumed to be the cause of changes in the dependent variable.",
+                "answer": True
+            },
+            {
+                "question": "FINER criteria help in developing a good research question.",
+                "answer": True
+            },
+            {
+                "question": "Clinical nurse specialists are never involved in research.",
+                "answer": False
+            },
+            {
+                "question": "The research process must be flexible and change randomly.",
+                "answer": False
+            },
+            {
+                "question": "The setting of a study can affect the results of research.",
+                "answer": True
+            }
+        ]
+    },
+"L2 Research Question&Ethics":{
+        "MCQs":[
+            {
+                "question": "What is the origin of the word \"research\"?",
+                "options": ["A. Greek", "B. Latin", "C. French", "D. Arabic"],
+                "answer": "C"
+            },
+            {
+                "question": "The prefix “re” in the word research signifies:",
+                "options": ["A. Analyzing", "B. Observing", "C. Creating", "D. Replication of the search"],
+                "answer": "D"
+            },
+            {
+                "question": "Which of the following is NOT a purpose of research?",
+                "options": ["A. Confirm facts", "B. Support imagination", "C. Solve existing problems", "D. Develop new theories"],
+                "answer": "B"
+            },
+            {
+                "question": "Which process is most associated with solving problems and answering questions in research?",
+                "options": ["A. Scientific method", "B. Logical reasoning", "C. Administration", "D. Intuition"],
+                "answer": "A"
+            },
+            {
+                "question": "The research process includes all the following EXCEPT:",
+                "options": ["A. Identifying a question", "B. Ignoring irrelevant data", "C. Analyzing information", "D. Expressing ideas"],
+                "answer": "B"
+            },
+            {
+                "question": "Which of the following is NOT a characteristic of quality research?",
+                "options": ["A. Objective", "B. Systematic", "C. Unverifiable", "D. Logical"],
+                "answer": "C"
+            },
+            {
+                "question": "Empirical research means:",
+                "options": ["A. Based on imagination", "B. Based on beliefs", "C. Based on evidence/observations", "D. Based on guesswork"],
+                "answer": "C"
+            },
+            {
+                "question": "What does replicable research imply?",
+                "options": ["A. It can be duplicated", "B. It can be plagiarized", "C. It can be hidden", "D. It must be confidential"],
+                "answer": "A"
+            },
+            {
+                "question": "The principle that ensures participants are not exploited is:",
+                "options": ["A. Beneficence", "B. Justice", "C. Respect for human dignity", "D. Risk/Benefit Ratio"],
+                "answer": "A"
+            },
+            {
+                "question": "Which of the following rights is covered under the principle of respect for human dignity?",
+                "options": ["A. Right to Privacy", "B. Right to Self-determination", "C. Right to Benefit", "D. Right to Feedback"],
+                "answer": "B"
+            },
+            {
+                "question": "Informed consent implies all EXCEPT:",
+                "options": ["A. Participants must sign a contract", "B. They are free to decline", "C. They are provided with enough information", "D. They comprehend the information"],
+                "answer": "A"
+            },
+            {
+                "question": "Which of the following best describes “Implied Consent”?",
+                "options": ["A. Participant writes a statement", "B. Participant fills a form", "C. Participant completes a questionnaire", "D. Participant signs a legal document"],
+                "answer": "C"
+            },
+            {
+                "question": "Ethical Committees should meet:",
+                "options": ["A. Once a year", "B. Every 3 months", "C. Monthly", "D. Every week"],
+                "answer": "B"
+            },
+            {
+                "question": "Which of the following is NOT a protected population?",
+                "options": ["A. Prisoners", "B. Pregnant women", "C. Researchers", "D. Children"],
+                "answer": "C"
+            },
+            {
+                "question": "Which database is recommended for a literature review in nursing research?",
+                "options": ["A. Facebook", "B. Google Translate", "C. PubMed", "D. YouTube"],
+                "answer": "C"
+            }
             ],
-            "answer": "C"
-        },
-        {
-            "question": "The term malignant refers to:",
-            "options": [
-                "A. Slow-growing non-cancerous tumors",
-                "B. Inflammatory tissue",
-                "C. Cancerous tumors that may spread",
-                "D. Scar formation in tissue"
+        "TF":[
+            { "question": "Research must always be based on logic and observation.", "answer": True },
+            { "question": "A research problem must always be stated in an interrogative form.", "answer": False },
+            { "question": "Confidentiality is a minor concern in nursing research.", "answer": False },
+            { "question": "One of the ethical implications in nursing research is obtaining informed consent.", "answer": True },
+            { "question": "Ethical committees only assess the financial aspect of research proposals.", "answer": False },
+            { "question": "Implied consent can be assumed when a participant submits a completed questionnaire.", "answer": True },
+            { "question": "Justice in research ensures fair treatment and privacy.", "answer": True },
+            { "question": "The goal of literature review is to support the researcher’s personal opinion.", "answer": False },
+            { "question": "The “I” in PICO stands for “Intervention.”", "answer": True },
+            { "question": "A good research question should be answerable with yes or no.", "answer": False },
+            { "question": "Data in nursing research should be used outside the scope of consent if useful.", "answer": False },
+            { "question": "One purpose of the problem statement is to orient the reader to the topic’s significance.", "answer": True },
+            { "question": "Nurse researchers must always inform the participant’s spouse or family members.", "answer": False },
+            { "question": "Literature review is optional for forming a research question.", "answer": False },
+            { "question": "Vulnerable groups may include individuals with mental disabilities or different language backgrounds.", "answer": True }
+            ]
+    },
+"L3 Literature Review and Research Hypothesis":{
+        "MCQs":[
+            {
+                "question": "What is the primary purpose of a literature review in research?",
+                "options": ["A. To collect data", "B. To summarize previous knowledge", "C. To perform experiments", "D. To analyze statistical models"],
+                "answer": "B"
+            },
+            {
+                "question": "Which of the following is NOT a characteristic of a good literature review?",
+                "options": ["A. Recent sources", "B. Critical analysis", "C. Personal opinions", "D. Relevance to the study"],
+                "answer": "C"
+            },
+            {
+                "question": "Variables that are manipulated by the researcher are called:",
+                "options": ["A. Dependent variables", "B. Extraneous variables", "C. Independent variables", "D. Confounding variables"],
+                "answer": "C"
+            },
+            {
+                "question": "The variable that is observed and measured to assess the effect of the independent variable is the:",
+                "options": ["A. Dependent variable", "B. Control variable", "C. Experimental variable", "D. Moderator variable"],
+                "answer": "A"
+            },
+            {
+                "question": "A clear and testable statement predicting the relationship between variables is a:",
+                "options": ["A. Assumption", "B. Definition", "C. Hypothesis", "D. Concept"],
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following best describes an operational definition?",
+                "options": ["A. A general definition of a variable", "B. A theoretical explanation", "C. A description of how a variable is measured", "D. An assumption"],
+                "answer": "C"
+            },
+            {
+                "question": "Hypotheses are usually derived from:",
+                "options": ["A. Political views", "B. Literature review", "C. Funding sources", "D. Media"],
+                "answer": "B"
+            },
+            {
+                "question": "A literature review helps to:",
+                "options": ["A. Conduct experiments", "B. Create a research gap", "C. Identify what is already known", "D. Collect qualitative data"],
+                "answer": "C"
+            },
+            {
+                "question": "A variable that may interfere with the relationship between independent and dependent variables is called:",
+                "options": ["A. Independent variable", "B. Dependent variable", "C. Extraneous variable", "D. Moderator variable"],
+                "answer": "C"
+            },
+            {
+                "question": "What is the purpose of defining variables operationally?",
+                "options": ["A. To generalize findings", "B. To ensure clarity in measurement", "C. To create research problems", "D. To avoid ethical issues"],
+                "answer": "B"
+            },
+            {
+                "question": "Which hypothesis type suggests no relationship between the variables?",
+                "options": ["A. Directional hypothesis", "B. Research hypothesis", "C. Statistical hypothesis", "D. Null hypothesis"],
+                "answer": "D"
+            },
+            {
+                "question": "When a researcher states that \"There is a relationship between stress and blood pressure,\" this is an example of:",
+                "options": ["A. Null hypothesis", "B. Conceptual definition", "C. Research hypothesis", "D. Theoretical framework"],
+                "answer": "C"
+            },
+            {
+                "question": "Literature reviews can help researchers to:",
+                "options": ["A. Avoid plagiarism", "B. Generate new hypotheses", "C. Increase data collection", "D. Reduce ethical violations"],
+                "answer": "B"
+            },
+            {
+                "question": "Independent variables are also known as:",
+                "options": ["A. Responding variables", "B. Controlled variables", "C. Manipulated variables", "D. Outcome variables"],
+                "answer": "C"
+            },
+            {
+                "question": "A good hypothesis should be:",
+                "options": ["A. Vague and open-ended", "B. Based on opinion", "C. Testable and specific", "D. Unrelated to variables"],
+                "answer": "C"
+            }
             ],
-            "answer": "C"
-        },
-        {
-            "question": "Metastasis means:",
-            "options": [
-                "A. Formation of new blood vessels",
-                "B. Spread of cancer to another part of the body",
-                "C. Shrinking of tumors",
-                "D. Regression of symptoms"
+        "TF":[
+            { "question": "A literature review is conducted after data collection.", "answer": False },
+            { "question": "Independent variables are the outcomes measured in a study.", "answer": False },
+            { "question": "Dependent variables change in response to independent variables.", "answer": True },
+            { "question": "Operational definitions describe how variables will be measured.", "answer": True },
+            { "question": "A hypothesis can only be formed after the results are known.", "answer": False },
+            { "question": "The main aim of a literature review is to provide a background for the study.", "answer": True },
+            { "question": "Extraneous variables can introduce bias if not controlled.", "answer": True },
+            { "question": "A null hypothesis assumes no relationship between variables.", "answer": True },
+            { "question": "Theoretical definitions provide measurable descriptions of variables.", "answer": False },
+            { "question": "A research hypothesis is usually written in the form of a question.", "answer": False },
+            { "question": "Literature reviews should only include books.", "answer": False },
+            { "question": "Independent variables are not influenced by other variables in the experiment.", "answer": True },
+            { "question": "A clear hypothesis helps guide data collection.", "answer": True },
+            { "question": "Variables must be clearly defined to ensure valid and reliable results.", "answer": True },
+            { "question": "All hypotheses must be correct to be useful in research.", "answer": False }
+            ]
+    },
+"L4 Research Data collection& sampling":{
+        "MCQs":[
+            {
+                "question": "What is the main purpose of data collection in research?",
+                "options": ["A. To analyze literature", "B. To generate random opinions", "C. To answer research questions and evaluate outcomes", "D. To summarize previous studies"],
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following best defines data collection?",
+                "options": ["A. The process of randomly selecting data", "B. Systematic gathering and measuring of information", "C. Developing a hypothesis", "D. Drawing graphs and charts"],
+                "answer": "B"
+            },
+            {
+                "question": "Data collection helps in:",
+                "options": ["A. Publishing a research article", "B. Proving assumptions without testing", "C. Making informed decisions and accurate conclusions", "D. Avoiding ethical issues"],
+                "answer": "C"
+            },
+            {
+                "question": "What is the first step in the data collection process?",
+                "options": ["A. Analyze data", "B. Determine goals for data collection", "C. Store data securely", "D. Design survey tools"],
+                "answer": "B"
+            },
+            {
+                "question": "Why is it important to define data collection goals?",
+                "options": ["A. To impress the reviewers", "B. To avoid using computers", "C. To ensure the correct data is collected", "D. To skip analysis step"],
+                "answer": "C"
+            },
+            {
+                "question": "Data collection methods are primarily classified into:",
+                "options": ["A. Manual and Digital", "B. Physical and Virtual", "C. Primary and Secondary", "D. Local and International"],
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following is a primary data collection method?",
+                "options": ["A. Census data", "B. Government reports", "C. Surveys and experiments", "D. Textbooks"],
+                "answer": "C"
+            },
+            {
+                "question": "Secondary data includes:",
+                "options": ["A. Direct observation", "B. Data from previous research", "C. Online interviews", "D. Laboratory experiments"],
+                "answer": "B"
+            },
+            {
+                "question": "One main advantage of primary data is:",
+                "options": ["A. It is quick and inexpensive", "B. It’s more authentic and reliable", "C. Always available online", "D. Needs no interpretation"],
+                "answer": "B"
+            },
+            {
+                "question": "A limitation of secondary data is:",
+                "options": ["A. It is too original", "B. It cannot be accessed easily", "C. It may not meet the current research needs", "D. It is always outdated"],
+                "answer": "C"
+            }
             ],
-            "answer": "B"
-        },
-        {
-            "question": "Which of the following is a solid cancer?",
-            "options": [
-                "A. Acute leukemia",
-                "B. Lymphoma",
-                "C. Breast cancer",
-                "D. Chronic myeloid leukemia"
+        "TF":[
+            { "question": "Data collection is done randomly without any goals.", "answer": False },
+            { "question": "One of the goals of data collection is to answer research questions.", "answer": True },
+            { "question": "Data collection has no effect on research outcomes.", "answer": False },
+            { "question": "The first step in collecting data is to define the data collection objectives.", "answer": True },
+            { "question": "Primary data is always taken from published journals.", "answer": False },
+            { "question": "Surveys, interviews, and experiments are forms of primary data collection.", "answer": True },
+            { "question": "Secondary data is more specific and controlled than primary data.", "answer": False },
+            { "question": "Government publications and statistical databases are examples of secondary data.", "answer": True },
+            { "question": "Using secondary data saves time and money.", "answer": True },
+            { "question": "A major drawback of secondary data is that it may not fit your specific research purpose.", "answer": True },
+            { "question": "Both primary and secondary data have roles in research depending on the study’s aim.", "answer": True },
+            { "question": "Secondary data is always more reliable than primary data.", "answer": False },
+            { "question": "Data collection should be done without planning to save time.", "answer": False },
+            { "question": "The source and accuracy of secondary data should always be verified.", "answer": True },
+            { "question": "Data collection is essential for making informed decisions in research.", "answer": True }
+            ]
+    },
+"L5 Study design, Pilot study, Data analysis":{
+        "MCQs":[
+            {
+                "question": "What is the main issue in preparing a research project?",
+                "options": ["A. Sampling method", "B. Research design", "C. Statistical analysis", "D. Literature review"],
+                "answer": "B"
+            },
+            {
+                "question": "Study design is defined as:",
+                "options": ["A. Only data collection plan", "B. Only statistical analysis", "C. Procedure under which a study is carried out", "D. None of the above"],
+                "answer": "C"
+            },
+            {
+                "question": "Research design is best described as:",
+                "options": ["A. A rough plan to collect data", "B. A blueprint to conduct a research study", "C. Just a tool for data analysis", "D. A part of statistical analysis"],
+                "answer": "B"
+            },
+            {
+                "question": "Which of the following is NOT an element of research design?",
+                "options": ["A. Study setting", "B. Sampling technique", "C. Literature review", "D. Data collection method"],
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following is a feature of quantitative research?",
+                "options": ["A. Use of brainstorming", "B. Use of focus groups", "C. Enables extensive statistical analysis", "D. Helps in improving conceptualization"],
+                "answer": "C"
+            },
+            {
+                "question": "Exploratory descriptive design is used to:",
+                "options": ["A. Describe frequency of a phenomenon", "B. Provide evidence of relationships", "C. Formulate the problem", "D. Predict outcomes"],
+                "answer": "C"
+            },
+            {
+                "question": "Which design examines the relationship from effect to cause?",
+                "options": ["A. Cross-sectional", "B. Prospective", "C. Retrospective", "D. Comparative"],
+                "answer": "C"
+            },
+            {
+                "question": "Internal validity means:",
+                "options": ["A. Applicability of results to other populations", "B. Accuracy of results within the study", "C. Consistency of measurement", "D. None of the above"],
+                "answer": "B"
+            },
+            {
+                "question": "Which best describes reliability?",
+                "options": ["A. Precision of results", "B. Validity of tools", "C. Consistency of results", "D. Quality of data"],
+                "answer": "C"
+            },
+            {
+                "question": "A pilot study is conducted to:",
+                "options": ["A. Replace the full study", "B. Avoid the need for data collection", "C. Test research protocols and instruments", "D. Generate a hypothesis"],
+                "answer": "C"
+            },
+            {
+                "question": "Why should pilot studies be included in research design?",
+                "options": ["A. To finalize statistical results", "B. To save money only", "C. To test the feasibility and educate researchers", "D. To confuse participants"],
+                "answer": "C"
+            },
+            {
+                "question": "What is the purpose of analyzing data?",
+                "options": ["A. Confuse the reader", "B. Obtain usable and useful information", "C. Prolong the research unnecessarily", "D. Make data more complex"],
+                "answer": "B"
+            },
+            {
+                "question": "Data analysis helps with:",
+                "options": ["A. Avoiding interpretations", "B. Ignoring comparisons", "C. Forecasting outcomes", "D. Proving everything"],
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following is NOT a characteristic of cross-sectional design?",
+                "options": ["A. Simple and inexpensive", "B. Can determine cause-effect", "C. Descriptive in nature", "D. Measures prevalence"],
+                "answer": "B"
+            },
+            {
+                "question": "Randomized controlled trials are always:",
+                "options": ["A. Retrospective", "B. Experimental", "C. Prospective", "D. Descriptive"],
+                "answer": "C"
+            }
             ],
-            "answer": "C"
-        },
-        {
-            "question": "Haematological cancers involve:",
-            "options": [
-                "A. Only the brain",
-                "B. Muscle tissues",
-                "C. The blood",
-                "D. Skin surface"
+        "TF":[
+            {
+                "question": "Study design determines what, where, when, how much, and by what means a study is conducted.",
+                "answer": True
+            },
+            {
+                "question": "Research approach and research design mean the same thing.",
+                "answer": False
+            },
+            {
+                "question": "Research design includes sampling size and techniques.",
+                "answer": True
+            },
+            {
+                "question": "Tools and methods of data collection are elements of research design.",
+                "answer": True
+            },
+            {
+                "question": "Longitudinal design collects data at one point in time.",
+                "answer": False
+            },
+            {
+                "question": "Case-control study is an example of epidemiological design.",
+                "answer": True
+            },
+            {
+                "question": "Survey design includes self-reported data collection.",
+                "answer": True
+            },
+            {
+                "question": "External validity refers to generalizability.",
+                "answer": True
+            },
+            {
+                "question": "A tool that gives different results every time is considered reliable.",
+                "answer": False
+            },
+            {
+                "question": "Pilot studies are conducted after the full-scale study.",
+                "answer": False
+            },
+            {
+                "question": "Pilot studies help identify deficiencies in tools and procedures.",
+                "answer": True
+            },
+            {
+                "question": "Participants in a pilot study can be included in the full-scale study.",
+                "answer": False
+            },
+            {
+                "question": "Pilot studies provide data to improve funding chances.",
+                "answer": True
+            },
+            {
+                "question": "Data analysis can identify relationships and differences between variables.",
+                "answer": True
+            },
+            {
+                "question": "The process of data analysis is always neat and linear.",
+                "answer": False
+            },
+            {
+                "question": "Longitudinal studies manipulate variables.",
+                "answer": False
+            },
+            {
+                "question": "Retrospective studies often rely on previously collected data.",
+                "answer": True
+            }
+            ]
+    },
+"L6 Data Analysis & Communicating Findings":{
+        "MCQs":[
+            {
+                "question": "What is the main purpose of data analysis in research?",
+                "options": ["A. To prove the hypothesis is correct", "B. To identify key patterns or features in data", "C. To manipulate data for publication", "D. To avoid collecting more data"],
+                "answer": "B"
+            },
+            {
+                "question": "Which of the following best defines data analysis?",
+                "options": ["A. The act of gathering raw data", "B. The transformation of data into text", "C. The process of inspecting, cleaning, transforming, and modeling data", "D. The storing of information in archives"],
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following represents unorganized and uninterpreted values?",
+                "options": ["A. Data", "B. Knowledge", "C. Information", "D. Analysis"],
+                "answer": "A"
+            },
+            {
+                "question": "What is the correct progression from raw values to deep understanding?",
+                "options": ["A. Knowledge → Information → Data", "B. Data → Information → Knowledge", "C. Information → Knowledge → Data", "D. Knowledge → Data → Information"],
+                "answer": "B"
+            },
+            {
+                "question": "One of the purposes of data analysis is:",
+                "options": ["A. To identify unreliable data sources", "B. To summarize and forecast from the data", "C. To delete irrelevant data", "D. To write lengthy reports"],
+                "answer": "B"
+            },
+            {
+                "question": "What is the first step in the process of data analysis?",
+                "options": ["A. Data cleaning", "B. Data collection", "C. Data requirements specification", "D. Data visualization"],
+                "answer": "C"
+            },
+            {
+                "question": "What does exploratory data analysis aim to do?",
+                "options": ["A. Modify hypotheses", "B. Generate descriptive statistics and preliminary insights", "C. Clean raw data", "D. Forecast environmental changes"],
+                "answer": "B"
+            },
+            {
+                "question": "Which of the following is an example of ordinal data?",
+                "options": ["A. Temperature", "B. Weight", "C. Pain level (mild, moderate, severe)", "D. Gender"],
+                "answer": "C"
+            },
+            {
+                "question": "A thermometer that shows equal intervals but no true zero is an example of which scale?",
+                "options": ["A. Nominal", "B. Ordinal", "C. Interval", "D. Ratio"],
+                "answer": "C"
+            },
+            {
+                "question": "The weight of a person (in kg) represents which level of data measurement?",
+                "options": ["A. Ordinal", "B. Nominal", "C. Interval", "D. Ratio"],
+                "answer": "D"
+            },
+            {
+                "question": "What is the final step in the research process?",
+                "options": ["A. Hypothesis testing", "B. Data cleaning", "C. Communicating findings", "D. Sampling"],
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following is NOT a type of research report?",
+                "options": ["A. Scientific", "B. Technical", "C. Financial", "D. Field"],
+                "answer": "C"
+            },
+            {
+                "question": "What is the main purpose of research critique?",
+                "options": ["A. To create new research topics", "B. To identify flaws and strengths of a study", "C. To summarize literature", "D. To promote funding"],
+                "answer": "B"
+            },
+            {
+                "question": "Which of the following is NOT an element of a research critique?",
+                "options": ["A. Sample", "B. References", "C. Literature review", "D. Research questions"],
+                "answer": "B"
+            }
             ],
-            "answer": "C"
-        },
-        {
-            "question": "Which of the following is a tumor marker test used for?",
-            "options": [
-                "A. Physical strength evaluation",
-                "B. Identifying blood groups",
-                "C. Diagnosing cancer through substances in blood",
-                "D. Diagnosing arthritis"
+        "TF":[
+            {
+                "question": "Data analysis includes inspecting and modeling data to support decision-making.",
+                "answer": True
+            },
+            {
+                "question": "Nominal data allows for ranking and ordering of values.",
+                "answer": False
+            },
+            {
+                "question": "Communicating findings is not part of the research process.",
+                "answer": False
+            },
+            {
+                "question": "Validity and reliability are not important criteria in choosing statistical methods.",
+                "answer": False
+            },
+            {
+                "question": "Ethical considerations include ensuring participant harm is minimized.",
+                "answer": True
+            },
+            {
+                "question": "Interval scale data has a true zero point.",
+                "answer": False
+            },
+            {
+                "question": "Ratio scales allow comparison of absolute magnitudes.",
+                "answer": True
+            },
+            {
+                "question": "Data visualization can help in communicating findings effectively.",
+                "answer": True
+            },
+            {
+                "question": "A research report must include acknowledgements and references.",
+                "answer": True
+            },
+            {
+                "question": "Research critique is only useful for new researchers.",
+                "answer": False
+            }
+            ]
+    },
+"Bank Research":{
+        "MCQs":[
+            {
+                "question": "Independent variable presumes which of the following",
+                "options": ["A. Effect", "B. Result", "C. Outcome", "D. Cause"],
+                "answer": "D"
+            },
+            {
+                "question": "The participants in the research must sign to prove that they understand the purpose of the study before the study begins through",
+                "options": ["A. Debriefing", "B. Informed consent", "C. Pilot test", "D. Peer review"],
+                "answer": "B"
+            },
+            {
+                "question": "Research problem can be one of the following",
+                "options": ["A. Analytical", "B. Theoretical", "C. Descriptive", "D. Abstract"],
+                "answer": "C"
+            },
+            {
+                "question": "The data collection method in which moderators or facilitators share in the study is called",
+                "options": ["A. Case study", "B. Interview", "C. Focus group", "D. Survey"],
+                "answer": "C"
+            },
+            {
+                "question": "If the study is repeated for the second time and gives the same result it is called",
+                "options": ["A. Validity", "B. Credibility", "C. Reliability", "D. Applicability"],
+                "answer": "C"
+            },
+            {
+                "question": "The process of selecting a sample population from the target population is called",
+                "options": ["A. Sample size", "B. Research design", "C. Sampling method", "D. Research strategy"],
+                "answer": "C"
+            },
+            {
+                "question": "Non-Probability sampling types include",
+                "options": ["A. Simple random", "B. Stratified", "C. Cluster", "D. Snowball"],
+                "answer": "D"
+            },
+            {
+                "question": "Convenience sampling is a type of",
+                "options": ["A. Probability sampling", "B. Random sampling", "C. Non probability sampling", "D. Cluster sampling"],
+                "answer": "C"
+            },
+            {
+                "question": "The method of sampling that selects subjects using a fixed interval is",
+                "options": ["A. Random sampling", "B. Snowball sampling", "C. Systematic Sampling", "D. Stratified sampling"],
+                "answer": "C"
+            },
+            {
+                "question": "The most applicable and widely used method of sampling in clinical research is",
+                "options": ["A. Convenience sampling", "B. Cluster sampling", "C. Stratified sampling", "D. Systematic sampling"],
+                "answer": "A"
+            },
+            {
+                "question": "The research problems consist of",
+                "options": ["A. Areas of concern", "B. Hypothesis only", "C. Research questions only", "D. Independent variables only"],
+                "answer": "A"
+            },
+            {
+                "question": "Factors to consider when selecting a research problem are",
+                "options": ["A. Time only", "B. Relevance, expertise & data availability", "C. Cost only", "D. Interest only"],
+                "answer": "B"
+            },
+            {
+                "question": "The term used to define the relationship between two variables & to find the answer to a question is",
+                "options": ["A. Research design", "B. Sampling method", "C. Data collection", "D. Research hypothesis"],
+                "answer": "D"
+            },
+            {
+                "question": "A research design that facilitates examination of large number of representative cases & enables extensive statistical analysis is",
+                "options": ["A. Qualitative research design", "B. Quantitative research design", "C. Experimental research design", "D. Case study design"],
+                "answer": "B"
+            },
+            {
+                "question": "Type of research design that provides evidence of the relationships between variables and compares a phenomenon in two or more groups is",
+                "options": ["A. Case study design", "B. Experimental design", "C. Comparative descriptive design", "D. Correlational design"],
+                "answer": "C"
+            },
+            {
+                "question": "Way or method of gathering data by watching behavior, events in their natural setting is",
+                "options": ["A. Interview", "B. Observation", "C. Questionnaire", "D. Focus group"],
+                "answer": "B"
+            },
+            {
+                "question": "One of the main goals for conducting nursing research",
+                "options": ["A. Increase publication", "B. Improve nursing care", "C. Enhance reputation", "D. Reduce cost"],
+                "answer": "B"
+            },
+            {
+                "question": "Sources of Human knowledge are",
+                "options": ["A. Tradition, authority & scientific research", "B. Internet, books & mediaiew method of data collection is a met", "C. Teachers, family & school", "D. Laws, religion & politics"],
+                "answer": "A"
+            },
+            {
+                "question": "Characteristics of scientific research are",
+                "options": ["A. Curiosity, creativity & innovation", "B. Order, control, empiricism & generalization", "C. Theory, opinion & belief", "D. Simplicity, clarity & accuracy"],
+                "answer": "B"
+            },
+            {
+                "question": "Literature review requires all of the following except",
+                "options": ["A. Problem formulation", "B. Appropriate time", "C. Data Evaluation", "D. Findings analysis"],
+                "answer": "D"
+            },
+            {
+                "question": "Quantitative research is a systematic process in which data are:",
+                "options": ["A. Scientific", "B. Numeric", "C. Correlational", "D. Descriptive"],
+                "answer": "B"
+            },
+            {
+                "question": "The relationship between one independent and one dependent variable is called:",
+                "options": ["A. Complex hypothesis", "B. Null Hypothesis"],
+                "answer": "B"
+            },
+            {
+                "question": "Hypothesis should be:",
+                "options": ["A. Past tense", "B. Present tense", "C. Contain setting", "D. Contain analysis"],
+                "answer": "B"
+            },
+            {
+                "question": "Data collection from books, newspapers, magazines called:",
+                "options": ["A. Primary source", "B. Qualitative method", "C. Quantitative method", "D. Secondary source"],
+                "answer": "D"
+            },
+            {
+                "question": "Interview method of data collection is a method of:",
+                "options": ["A. Qualitative study", "B. Quantitative study", "C. Complex study", "D. Simple study"],
+                "answer": "A"
+            },
+            {
+                "question": "Before data collection, the researcher must consider all of the following Except:",
+                "options": ["A. Personal confidentiality", "B. Participants consent", "C. Institutional research approval", "D. Research hypothesis"],
+                "answer": "D"
+            },
+            {
+                "question": "One of the following is NOT important when choosing between quantitative or qualitative methods of data collection:",
+                "options": ["A. Nature of the study", "B. Study aims", "C. Study objectives", "D. Study sample"],
+                "answer": "D"
+            },
+            {
+                "question": "The statement that provide the reader with an understanding of the researcher’s expectations:",
+                "options": ["A. Design", "B. Hypothesis", "C. Setting", "D. Sampling"],
+                "answer": "B"
+            },
+            {
+                "question": "Retrospective study examines variables of interest:",
+                "options": ["A. In the past", "B. At one point in time", "C. In the present", "D. Over a period of time"],
+                "answer": "A"
+            },
+            {
+                "question": "Hypotheses not needed with:",
+                "options": ["A. Qualitative studies", "B. Experimental studies", "C. Quasi-experimental studies", "D. Quantitative studies"],
+                "answer": "A"
+            },
+            {
+                "question": "Research question must be all of the following Except:",
+                "options": ["A. Concise", "B. Clear", "C. Simple", "D. Arguable"],
+                "answer": "D"
+            },
+            {
+                "question": "The research question includes the PICO/T elements, the (P) means:",
+                "options": ["A. Problem", "B. Patient", "C. Population", "D. All of the above"],
+                "answer": "D"
+            },
+            {
+                "question": "The series of actions or steps that necessary to effectively carry out research and the desired sequencing of these steps is called:",
+                "options": ["A. Research Hypothesis", "B. Research process", "C. Research Question", "D. Research Variable"],
+                "answer": "B"
+            },
+            {
+                "question": "It involves investigation of thoughts and ideas and developing new ideas or interpreting the old ones based on logical reasoning:",
+                "options": ["A. Conceptual research", "B. Empirical research", "C. Descriptive research", "D. Fundamental Research"],
+                "answer": "A"
+            },
+            {
+                "question": "1. Literature review requires all of the following Except:",
+                "options": ["A. Problem formulation", "B. Data Evaluation", "C. Appropriate time", "D. Findings analysis"],
+                "answer": "C"
+            },
+            {
+                "question": "2. Quantitative research is a systematic process in which data are:",
+                "options": ["A. Scientific", "B. Numeric", "C. Correlational", "D. Descriptive"],
+                "answer": "B"
+            },
+            {
+                "question": "3. The relationship between one independent and one dependent variable is called:",
+                "options": ["A. Complex hypothesis", "B. Simple Hypothesis", "C. Null Hypothesis", "D. Directional hypothesis"],
+                "answer": "B"
+            },
+            {
+                "question": "4. Hypothesis should be:",
+                "options": ["A. Past Tense", "B. Present tense", "C. Contain setting", "D. Contain analysis"],
+                "answer": "B"
+            },
+            {
+                "question": "5. Data collection from books, newspapers, magazines called:",
+                "options": ["A. Primary source", "B. Qualitative method", "C. Quantitative method", "D. Secondary source"],
+                "answer": "D"
+            },
+            {
+                "question": "6. Interview method of data collection is a method of:",
+                "options": ["A. Qualitative study", "B. Quantitative study", "C. Complex study", "D. Simple study"],
+                "answer": "A"
+            },
+            {
+                "question": "7. The data collection method in which moderators or facilitators share in the study called:",
+                "options": ["A. Observation", "B. Focus group", "C. Open Interview", "D. Case study"],
+                "answer": "B"
+            },
+            {
+                "question": "8. Before data collection, the researcher must consider all of the following Except:",
+                "options": ["A. Personal confidentiality", "B. Participants consent", "C. Institutional research approval", "D. Research hypothesis"],
+                "answer": "D"
+            },
+            {
+                "question": "9. If the study repeated for the second time and give the same result it is called:",
+                "options": ["A. Validity", "B. Pilot study", "C. Reliability", "D. Research hypothesis"],
+                "answer": "C"
+            },
+            {
+                "question": "10. The process of selecting a sample population from the target population is called:",
+                "options": ["A. Research method", "B. Sampling method", "C. Study method", "D. Generalization method"],
+                "answer": "B"
+            },
+            {
+                "question": "11. Non Probability sampling types include:",
+                "options": ["A. Simple random", "B. Clustered random", "C. Stratified random", "D. Snow-ball"],
+                "answer": "D"
+            },
+            {
+                "question": "12. Convenience sampling is type of:",
+                "options": ["A. Probability sampling", "B. Judgmental sampling", "C. Non probability sampling", "D. Systematic sampling"],
+                "answer": "C"
+            },
+            {
+                "question": "13. One of the following is not important when choosing between quantitative or qualitative methods of data collection:",
+                "options": ["A. Nature of the study", "B. Study aims", "C. Study objectives", "D. Study sample"],
+                "answer": "D"
+            },
+            {
+                "question": "14. The method of sampling that selects subjects through using a fixed interval is:",
+                "options": ["A. Probability sample", "B. Stratified sampling", "C. Systematic Sampling", "D. Convenience sampling"],
+                "answer": "C"
+            },
+            {
+                "question": "15. The most applicable and widely used method of sampling in clinical research is:",
+                "options": ["A. Convenience sampling", "B. Judgmental sampling", "C. Cluster sampling", "D. Snow-ball sampling"],
+                "answer": "A"
+            },
+            {
+                "question": "16. The statement that provide the reader with an understanding of the researcher’s expectations:",
+                "options": ["A. Design", "B. Hypothesis", "C. Setting", "D. Sampling"],
+                "answer": "B"
+            },
+            {
+                "question": "17. Retrospective study examines variables of interest:",
+                "options": ["A. In the past", "B. At one point in time", "C. In the present", "D. Over a period of time"],
+                "answer": "A"
+            },
+            {
+                "question": "18. Hypotheses not needed with:",
+                "options": ["A. Qualitative studies", "B. Experimental studies", "C. Quasi-experimental studies", "D. Quantitative studies"],
+                "answer": "A"
+            },
+            {
+                "question": "19. Research question must be all of the following Except:",
+                "options": ["A. Concise", "B. Clear", "C. Simple", "D. Arguable"],
+                "answer": "D"
+            },
+            {
+                "question": "20. The research question includes the PICO/T elements, the (P) means:",
+                "options": ["A. Problem", "B. Patient", "C. Population", "D. All of the above"],
+                "answer": "D"
+            }
             ],
-            "answer": "C"
-        },
-        {
-            "question": "What is the role of a biopsy in cancer diagnosis?",
-            "options": [
-                "A. Cleaning wounds",
-                "B. Removing tumors completely",
-                "C. Examining tissue under a microscope",
-                "D. Treating infection"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "Which of the following is NOT a common cancer symptom?",
-            "options": [
-                "A. Sudden tooth pain",
-                "B. Change in bowel habits",
-                "C. A sore that doesn’t heal",
-                "D. Unusual bleeding"
-            ],
-            "answer": "A"
-        },
-        {
-            "question": "What does the “C” in the CAUTION acronym stand for?",
-            "options": [
-                "A. Chest pain",
-                "B. Chronic headache",
-                "C. Change in bowel or bladder habits",
-                "D. Coughing continuously"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "Which of the following is a type of cancer treatment?",
-            "options": [
-                "A. Dialysis",
-                "B. Physical therapy",
-                "C. Chemotherapy",
-                "D. ECG"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "Radiotherapy uses:",
-            "options": [
-                "A. Water jets",
-                "B. Electric current",
-                "C. Ionizing radiation",
-                "D. Sound waves"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "Electrosurgery is often used to treat cancers of:",
-            "options": [
-                "A. Kidney and liver",
-                "B. Brain and spine",
-                "C. Skin and mouth",
-                "D. Bones and joints"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "Laser surgery is:",
-            "options": [
-                "A. Only for blood cancers",
-                "B. Uses high-frequency sound",
-                "C. Uses focused light to remove tumors",
-                "D. Done without anesthesia"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "A caregiver is someone who:",
-            "options": [
-                "A. Performs surgery",
-                "B. Only gives injections",
-                "C. Supports the patient’s daily needs",
-                "D. Diagnoses cancer"
-            ],
-            "answer": "C"
-        }
-    ],
-    "TF": [
-        {"question": "Benign tumors always spread to other parts of the body.", "answer": False},
-        {"question": "Malignant tumors may invade nearby healthy tissue.", "answer": True},
-        {"question": "Leukemia is an example of solid cancer.", "answer": False},
-        {"question": "Bone marrow biopsy can help diagnose blood cancers.", "answer": True},
-        {"question": "Smoking is a risk factor for cancer.", "answer": True},
-        {"question": "Tumor markers are always 100% reliable.", "answer": False},
-        {"question": "Cancer may cause changes in warts or moles.", "answer": True},
-        {"question": "Radiotherapy uses radio frequency sounds.", "answer": False},
-        {"question": "Chemotherapy uses chemical substances to kill cancer cells.", "answer": True},
-        {"question": "Surgery is never used for cancer treatment.", "answer": False},
-        {"question": "The caregiver plays no role in medical support.", "answer": False},
-        {"question": "Healthy diet and exercise have no effect on cancer prevention.", "answer": False},
-        {"question": "Sun exposure can increase the risk of skin cancer.", "answer": True},
-        {"question": "Infections have no relationship with cancer.", "answer": False},
-        {"question": "Cancer patients may receive more than one type of treatment.", "answer": True}
-    ]
-},
-"L7 Perioperative Nursing Management": {
-    "MCQs": [
-        {
-            "question": "What are the three phases of perioperative nursing?",
-            "options": [
-                "A. Emergency, Recovery, Chronic",
-                "B. Admission, Transfer, Discharge",
-                "C. Preoperative, Intraoperative, Postoperative",
-                "D. Planning, Execution, Follow-up"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "Which of the following is a main goal of preoperative fasting?",
-            "options": [
-                "A. Reduce blood pressure",
-                "B. Improve medication absorption",
-                "C. Prevent aspiration during anesthesia",
-                "D. Control pain"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "Informed consent must be obtained:",
-            "options": [
-                "A. After giving anesthesia",
-                "B. By the nurse only",
-                "C. By the surgeon with full explanation",
-                "D. Only in emergency cases"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "Incentive spirometry is used to:",
-            "options": [
-                "A. Increase heart rate",
-                "B. Promote lung expansion and prevent atelectasis",
-                "C. Control nausea",
-                "D. Stimulate bowel movement"
-            ],
-            "answer": "B"
-        },
-        {
-            "question": "The purpose of compression stockings preoperatively is to:",
-            "options": [
-                "A. Warm the legs",
-                "B. Reduce pain",
-                "C. Prevent blood clots",
-                "D. Strengthen muscles"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "The immediate preoperative intervention includes:",
-            "options": [
-                "A. Giving antibiotics",
-                "B. Removal of dentures and jewelry",
-                "C. Starting feeding",
-                "D. Sending the patient home"
-            ],
-            "answer": "B"
-        },
-        {
-            "question": "Who is responsible for passing instruments during surgery?",
-            "options": [
-                "A. Circulating nurse",
-                "B. Scrub nurse",
-                "C. Nurse manager",
-                "D. Anesthetist"
-            ],
-            "answer": "B"
-        },
-        {
-            "question": "Which of the following is a duty of the circulating nurse?",
-            "options": [
-                "A. Suture the patient",
-                "B. Pass instruments",
-                "C. Document procedures and manage equipment",
-                "D. Administer anesthesia"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "When does the postoperative phase begin?",
-            "options": [
-                "A. After anesthesia induction",
-                "B. After surgical site closure",
-                "C. After patient reaches PACU",
-                "D. After discharge"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "How often are vital signs monitored in PACU?",
-            "options": [
-                "A. Every hour",
-                "B. Every 30 minutes",
-                "C. Every 15 minutes",
-                "D. Once only"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "Which of the following is a sign of hypovolemic shock?",
-            "options": [
-                "A. Warm, dry skin",
-                "B. Low blood pressure and weak pulse",
-                "C. Slow breathing",
-                "D. Flushed skin"
-            ],
-            "answer": "B"
-        },
-        {
-            "question": "A nasogastric tube is left postoperatively to:",
-            "options": [
-                "A. Administer pain medication",
-                "B. Prevent constipation",
-                "C. Allow bowel rest and remove secretions",
-                "D. Provide fluids"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "What is one main intervention to promote early wound healing?",
-            "options": [
-                "A. Avoid movement",
-                "B. Keep wound moist",
-                "C. Observe for signs of infection",
-                "D. Remove dressings daily"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "When can oral nutrition usually begin after surgery?",
-            "options": [
-                "A. After 24 hours",
-                "B. After bowel sounds return and liquids are tolerated",
-                "C. Immediately after surgery",
-                "D. After vomiting"
-            ],
-            "answer": "B"
-        },
-        {
-            "question": "The WHO surgical safety checklist is used to:",
-            "options": [
-                "A. Train new nurses",
-                "B. Prevent patient falls",
-                "C. Improve surgical team communication and safety",
-                "D. Schedule operating room time"
-            ],
-            "answer": "C"
-        }
-    ],
-    "TF": [
-        {"question": "The preoperative phase ends when the patient is transferred to the operating room.", "answer": True},
-        {"question": "It is not necessary to assess for allergies before surgery.", "answer": False},
-        {"question": "Preoperative education includes breathing exercises and pain management.", "answer": True},
-        {"question": "Jewelry should be worn during surgery for good luck.", "answer": False},
-        {"question": "The scrub nurse maintains sterility and passes instruments to the surgeon.", "answer": True},
-        {"question": "The circulating nurse administers anesthesia.", "answer": False},
-        {"question": "In PACU, patients are monitored every 15 minutes.", "answer": True},
-        {"question": "Turning the patient helps prevent respiratory complications.", "answer": True},
-        {"question": "Opioids are not allowed in PACU.", "answer": False},
-        {"question": "Hypothermia is uncommon in surgical patients.", "answer": False},
-        {"question": "Patients are encouraged to ambulate early after surgery.", "answer": True},
-        {"question": "Wound infection signs include redness, swelling, and pus.", "answer": True},
-        {"question": "If the patient hasn’t voided in 24 hours post-op, it’s normal.", "answer": False},
-        {"question": "The nurse must document sponge and instrument counts.", "answer": True},
-        {"question": "Patient should be discharged from PACU only when stable and oriented.", "answer": True}
-    ]
-},
-"L8 Liver Cirrhosis": {
-    "MCQs": [
-        {
-            "question": "What is liver cirrhosis?",
-            "options": [
-                "A. Infection of liver cells",
-                "B. Cancer of the liver",
-                "C. Chronic replacement of normal liver tissue with fibrosis",
-                "D. Enlargement of bile ducts"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "The most common type of cirrhosis is:",
-            "options": [
-                "A. Post necrotic cirrhosis",
-                "B. Biliary cirrhosis",
-                "C. Alcoholic cirrhosis",
-                "D. Cardiac cirrhosis"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "Which of the following is NOT a function of the liver?",
-            "options": [
-                "A. Vitamin storage",
-                "B. Oxygen production",
-                "C. Protein metabolism",
-                "D. Bile formation"
-            ],
-            "answer": "B"
-        },
-        {
-            "question": "In decompensated cirrhosis, which symptom is expected?",
-            "options": [
-                "A. Morning indigestion only",
-                "B. Strong appetite",
-                "C. Clubbing of fingers",
-                "D. Firm enlarged liver"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "Palmar erythema is characterized by:",
-            "options": [
-                "A. Yellowing of the skin",
-                "B. Painful fingertips",
-                "C. Reddened palms",
-                "D. Blue lips"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "Portal hypertension occurs due to:",
-            "options": [
-                "A. Low blood pressure",
-                "B. Blocked arteries",
-                "C. Increased pressure in the portal vein",
-                "D. Reduced cardiac output"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "Ascites is best described as:",
-            "options": [
-                "A. Blood in stool",
-                "B. Accumulation of fat in the liver",
-                "C. Fluid accumulation in the abdomen",
-                "D. Liver shrinkage"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "Which complication is due to build-up of toxins in the brain?",
-            "options": [
-                "A. Hepatorenal syndrome",
-                "B. Jaundice",
-                "C. Hepatic encephalopathy",
-                "D. Anemia"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "Which test confirms current hepatitis C infection?",
-            "options": [
-                "A. Anti-HCV test",
-                "B. Hemoglobin test",
-                "C. Liver enzyme test",
-                "D. Hepatitis C PCR"
-            ],
-            "answer": "D"
-        },
-        {
-            "question": "A high-protein diet is avoided in which condition?",
-            "options": [
-                "A. Ascites",
-                "B. Hepatic coma",
-                "C. Mild cirrhosis",
-                "D. Anemia"
-            ],
-            "answer": "B"
-        },
-        {
-            "question": "Which herbal remedy is sometimes used for jaundice?",
-            "options": [
-                "A. Ginger",
-                "B. Ginseng",
-                "C. Milk thistle (Silymarin)",
-                "D. Aloe vera"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "Which is a sign of compensated cirrhosis?",
-            "options": [
-                "A. Jaundice",
-                "B. Ascites",
-                "C. Flatulent dyspepsia",
-                "D. Coma"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "Endoscopic sclerotherapy is used to treat:",
-            "options": [
-                "A. Hepatic coma",
-                "B. Bleeding esophageal varices",
-                "C. Ascites",
-                "D. Hepatitis"
-            ],
-            "answer": "B"
-        },
-        {
-            "question": "Hepatocellular carcinoma is most commonly a complication of:",
-            "options": [
-                "A. Appendicitis",
-                "B. Acute pancreatitis",
-                "C. Cirrhosis",
-                "D. Gallstones"
-            ],
-            "answer": "C"
-        },
-        {
-            "question": "Jaundice results from:",
-            "options": [
-                "A. Low platelet count",
-                "B. High bilirubin in blood",
-                "C. Vitamin C deficiency",
-                "D. High calcium"
-            ],
-            "answer": "B"
-        }
-    ],
-    "TF": [
-        {"question": "Cirrhosis is an acute, reversible condition.", "answer": False},
-        {"question": "Portal hypertension can lead to varices and ascites.", "answer": True},
-        {"question": "Albumin production decreases in cirrhosis.", "answer": True},
-        {"question": "Hepatic encephalopathy causes increased alertness.", "answer": False},
-        {"question": "One function of the liver is storing vitamins.", "answer": True},
-        {"question": "Palmar erythema is caused by excessive bile salts in the blood.", "answer": False},
-        {"question": "Hepatitis C can be asymptomatic for years.", "answer": True},
-        {"question": "Patients with jaundice often have dark-colored urine.", "answer": True},
-        {"question": "Prolonged alcohol use is a major cause of cirrhosis.", "answer": True},
-        {"question": "Liver biopsy is used to diagnose cirrhosis.", "answer": True},
-        {"question": "Sodium-rich diets are encouraged in ascites.", "answer": False},
-        {"question": "Hepatitis A and E are transmitted by fecal-oral route.", "answer": True},
-        {"question": "Clubbing of fingers is a sign of compensated cirrhosis.", "answer": False},
-        {"question": "The liver converts glucose to glycogen and stores it.", "answer": True},
-        {"question": "Hepatic coma is improved by increasing dietary protein.", "answer": False}
-    ]
-},
-"L9 Renal Failure": {
-    "MCQs": [
-        {
-            "question": "Which of the following is a function of the kidneys?",
-            "options": ["A. Regulation of insulin", "B. Production of bile", "C. Regulation of blood pressure and RBCs", "D. Secretion of digestive enzymes"],
-            "answer": "C"
-        },
-        {
-            "question": "Acute renal failure is best defined as:",
-            "options": ["A. A genetic disorder of the kidneys", "B. Permanent loss of kidney function", "C. Sudden decline in kidney function", "D. A type of bladder infection"],
-            "answer": "C"
-        },
-        {
-            "question": "Which of the following is a prerenal cause of acute renal failure?",
-            "options": ["A. Kidney stone", "B. Nephrotoxic drugs", "C. Heart failure", "D. Urinary tract tumor"],
-            "answer": "C"
-        },
-        {
-            "question": "The oliguric phase of acute renal failure is characterized by:",
-            "options": ["A. Increased urinary output", "B. Urine output less than 400 ml/day", "C. No change in urine output", "D. Excessive urination"],
-            "answer": "B"
-        },
-        {
-            "question": "During the diuretic phase, patients often experience:",
-            "options": ["A. Hyperkalemia", "B. Anuria", "C. Increased urine output", "D. Pulmonary edema"],
-            "answer": "C"
-        },
-        {
-            "question": "One of the earliest signs of acute kidney injury may include:",
-            "options": ["A. High hemoglobin", "B. Increased appetite", "C. Nausea and lethargy", "D. Jaundice"],
-            "answer": "C"
-        },
-        {
-            "question": "Which of the following is a risk factor for acute renal failure?",
-            "options": ["A. Viral meningitis", "B. Liver disease", "C. Migraine", "D. High calcium"],
-            "answer": "B"
-        },
-        {
-            "question": "The best indicator of kidney function is:",
-            "options": ["A. Hemoglobin", "B. Serum creatinine", "C. Platelet count", "D. Bilirubin"],
-            "answer": "B"
-        },
-        {
-            "question": "Which is a major complication of chronic renal failure?",
-            "options": ["A. Hypercalcemia", "B. Jaundice", "C. Anemia", "D. Polycythemia"],
-            "answer": "C"
-        },
-        {
-            "question": "Uremic fetor refers to:",
-            "options": ["A. Urinary retention", "B. Yellow skin", "C. Ammonia-like breath odor", "D. Blood in stool"],
-            "answer": "C"
-        },
-        {
-            "question": "Which system is affected with muscle cramps and bone pain in CRF?",
-            "options": ["A. Integumentary", "B. Musculoskeletal", "C. Neurologic", "D. Cardiovascular"],
-            "answer": "B"
-        },
-        {
-            "question": "Which dietary element is usually restricted in CRF?",
-            "options": ["A. Carbohydrates", "B. Water-soluble vitamins", "C. Potassium and phosphorus", "D. Iron"],
-            "answer": "C"
-        },
-        {
-            "question": "Which hormone is reduced in CRF, leading to anemia?",
-            "options": ["A. Renin", "B. Erythropoietin", "C. Aldosterone", "D. Thyroxine"],
-            "answer": "B"
-        },
-        {
-            "question": "Which is a prevention strategy for ARF?",
-            "options": ["A. Restricting fluids at all times", "B. Delay treatment of hypotension", "C. Providing adequate hydration during surgery", "D. Avoiding oxygen therapy"],
-            "answer": "C"
-        },
-        {
-            "question": "The fluid intake in CRF should be:",
-            "options": ["A. Unlimited", "B. 500–600 ml above previous 24h urine output", "C. Less than 100 ml per day", "D. Based on serum sodium only"],
-            "answer": "B"
-        }
-    ],
-    "TF": [
-        {"question": "The urethra connects the kidney directly to the bladder.", "answer": False},
-        {"question": "Acute renal failure can be reversible if treated early.", "answer": True},
-        {"question": "Use of NSAIDs can lead to intrarenal failure.", "answer": True},
-        {"question": "Urinary obstruction is a postrenal cause of acute renal failure.", "answer": True},
-        {"question": "The oliguric phase of ARF is marked by increased creatinine.", "answer": True},
-        {"question": "Hyponatremia is commonly seen in the diuretic phase of ARF.", "answer": True},
-        {"question": "High-protein diet is recommended for patients with chronic renal failure.", "answer": False},
-        {"question": "Chronic renal failure is a reversible condition.", "answer": False},
-        {"question": "Hyperkalemia is a life-threatening complication in CRF.", "answer": True},
-        {"question": "Dialysis is indicated when BUN reaches 20 mg/dL.", "answer": False},
-        {"question": "Anemia in CRF is due to decreased erythropoietin.", "answer": True},
-        {"question": "Uremia can lead to altered mental status and seizures.", "answer": True},
-        {"question": "Magnesium-based antacids are recommended in CRF.", "answer": False},
-        {"question": "High-biologic-value proteins include meat and eggs.", "answer": True},
-        {"question": "Dialysis removes waste, excess fluids, and electrolytes from the blood.", "answer": True}
-    ]
-},
-
-
+        "TF":[
+            {
+                "question": "Qualitative researches describe narrative descriptions.",
+                "answer": True
+            },
+            {
+                "question": "Study Variables are measurable characteristics of subjects.",
+                "answer": True
+            },
+            {
+                "question": "Non-experimental research variables are manipulated by the researcher.",
+                "answer": False
+            },
+            {
+                "question": "Correlation research explains the relationships between variables.",
+                "answer": True
+            },
+            {
+                "question": "Retrospective research examines data that will occur in the future.",
+                "answer": False
+            },
+            {
+                "question": "Nursing researches empower nurse’s clinical practice.",
+                "answer": True
+            },
+            {
+                "question": "A major purpose of research is to generalize research objectives to a large population.",
+                "answer": True
+            },
+            {
+                "question": "In Clinical research the whole population is called “sample population”.",
+                "answer": False
+            },
+            {
+                "question": "A problem statement is an expression of a dilemma or disturbing situation that needs investigation.",
+                "answer": True
+            },
+            {
+                "question": "Conceptual research is obtained through experimentation.",
+                "answer": False
+            },
+            {
+                "question": "Sources of research problems are funding agencies, past researches, and observation.",
+                "answer": True
+            },
+            {
+                "question": "The mass purposes of the research are expression of feelings, descending orders & experience.",
+                "answer": False
+            },
+            {
+                "question": "A research hypothesis is a specific concept that describes what happened in a certain circumstance.",
+                "answer": True
+            },
+            {
+                "question": "The independent variable is the first variable that can be changed and is considered the cause of any changes in the outcome.",
+                "answer": True
+            },
+            {
+                "question": "Data collection is the process of systematically applying statistical techniques to describe, illustrate, and evaluate data.",
+                "answer": False
+            },
+            {
+                "question": "In the 1st step of the research process, the student identifies a topic that meets the assignment requirements.",
+                "answer": False
+            },
+            {
+                "question": "Accessing and collecting the information needed is the last step of the research process.",
+                "answer": False
+            },
+            {
+                "question": "Generalization is the degree to which research findings can be generalized and is an important criteria for assessing the quality of research.",
+                "answer": True
+            },
+            {
+                "question": "The appropriateness of information for a topic is evaluated based on authority, bias, objectivity, accuracy & coverage.",
+                "answer": True
+            },
+            {
+                "question": "Dissemination means the process in which data of the research are collected.",
+                "answer": False
+            },
+            {
+                "question": "Retrospective research examines data that will occur in the future.",
+                "answer": False
+            },
+            {
+                "question": "Research is not transmittable.",
+                "answer": False
+            },
+            {
+                "question": "Patient Feedback cannot be a source of research question.",
+                "answer": False
+            },
+            {
+                "question": "Nursing research provides the foundation for evidence-based nursing practice.",
+                "answer": True
+            },
+            {
+                "question": "Representation of minority is the advantage of simple random sampling.",
+                "answer": False
+            },
+            {
+                "question": "A sample is a subset of the population selected.",
+                "answer": True
+            },
+            {
+                "question": "In probability sampling methods all subjects have equal chances to be selected in the sample.",
+                "answer": True
+            },
+            {
+                "question": "Research is actually a voyage of discovery.",
+                "answer": True
+            },
+            {
+                "question": "The subjects have the right to accept or reject participation in a study.",
+                "answer": True
+            },
+            {
+                "question": "Nursing research provides the foundation for evidence-based nursing practice.",
+                "answer": True
+            },
+            {
+                "question": "Qualitative research describe narrative descriptions.",
+                "answer": True
+            },
+            {
+                "question": "Study Variables are measurable characteristics of subjects.",
+                "answer": True
+            },
+            {
+                "question": "Study setting represent the sample of the study.",
+                "answer": False
+            },
+            {
+                "question": "Non-experimental research variables are manipulated by the researcher.",
+                "answer": False
+            },
+            {
+                "question": "Correlation research explain the relationships between variables.",
+                "answer": True
+            },
+            {
+                "question": "Retrospective research examines data will occurred in the future.",
+                "answer": False
+            },
+            {
+                "question": "Null Hypothesis predicts no relationship between variables.",
+                "answer": True
+            },
+            {
+                "question": "Nursing research empowers nurse’s clinical practice.",
+                "answer": True
+            },
+            {
+                "question": "A major purpose of research is to generalize research objectives to a large population.",
+                "answer": False
+            },
+            {
+                "question": "In Clinical research the whole population called “sample population”.",
+                "answer": False
+            },
+            {
+                "question": "A sample is a subset of the population selected.",
+                "answer": True
+            },
+            {
+                "question": "In probability sampling methods all subjects have equal chances to be selected in the sample.",
+                "answer": True
+            },
+            {
+                "question": "Representation of minority is the advantage of simple random sampling.",
+                "answer": False
+            },
+            {
+                "question": "Research is actually a voyage of discovery.",
+                "answer": True
+            },
+            {
+                "question": "The Subjects have the right to accept or reject participation in study.",
+                "answer": True
+            }
+            ]
+    },
 
 
 }
+#  7774771769:AAHXK9PVehCzEh5d9NOksBlD4UyfqbZ5ObM
