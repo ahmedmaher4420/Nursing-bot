@@ -1,4 +1,3 @@
-
 quizzes = {
     "Critical": {
             "Mid Term" :[
@@ -55,7 +54,7 @@ quizzes = {
                 {"question": "In diabetes management, lifestyle modification is essential in both types.", "options": ["True", "False"], "answer": "True"},
                 {"question": "Shock always results in inadequate tissue perfusion.", "options": ["True", "False"], "answer": "True"}
             ],
-            "L1 DM": [
+            "L1 DM Quiz": [
                 {
                     "question": "Insulin, secreted by alpha cells, moves glucose from the blood into muscle, liver, and fat cells.",
                     "answer": "False"
@@ -196,7 +195,7 @@ quizzes = {
                 {"question": "Diabetic patients should be encouraged to soak their feet to keep the skin soft and smooth.", "options": ["True", "False"], "answer": "False"},
                 {"question": "Avoidance of smoking and elevated blood lipids is a key instruction for foot care because they lead to peripheral vascular disease.", "options": ["True", "False"], "answer": "True"}
             ],
-            "L2 ICU Devices": [
+            "L2 ICU Devices Quiz": [
                 {"question": "Critical Care units are designed to meet the special needs of acutely and critically ill patients.", "options": ["True", "False"], "answer": "True"},
                 {"question": "The Femoral vein in the groin is the most commonly used site for percutaneous Central Venous Catheter (CVC) line insertion.", "options": ["True", "False"], "answer": "False"},
                 {"question": "One purpose of the Arterial Line (A-line) is to test for the oxygen saturation in the blood.", "options": ["True", "False"], "answer": "True"},
@@ -468,7 +467,7 @@ quizzes = {
                 {"question": "The Crash Cart carries instruments for cardiopulmonary resuscitation and must be checked only for medication expiration dates.", "options": ["True", "False"], "answer": "False"},
                 {"question": "A Urinary catheter is classified as a reusable piece of ICU equipment.", "options": ["True", "False"], "answer": "False"}
             ],
-            "L3 Hypertension Crisis": [
+            "L3 Hypertension Crisis Quiz": [
                 {"question": "Blood pressure is mathematically defined as the product of Cardiac Output multiplied by:", "options": ["Heart Rate", "Stroke Volume", "Peripheral Resistance", "Blood Viscosity"], "answer": "Peripheral Resistance"},
                 {"question": "Hypertension is sometimes called 'the silent killer' primarily because:", "options": ["It only affects elderly people", "It is difficult to diagnose", "People who have it are often symptom free", "It is easily treated"], "answer": "People who have it are often symptom free"},
                 {"question": "The definition of Hypertension is a systolic blood pressure (SBP) greater than 140 mm Hg and a diastolic blood pressure (DBP) greater than 90 mm Hg over a sustained period, based on the average of how many measurements?", "options": ["One measurement", "Two or more measurements", "Three or more measurements", "Four or more measurements"], "answer": "Two or more measurements"},
@@ -538,7 +537,7 @@ quizzes = {
                 {"question": "When assessing a patient's response to activity for Activity Intolerance, the nurse should monitor for pulse, heart rate, chest pain, and excessive fatigue.", "options": ["True", "False"], "answer": "True"}
                             
             ],
-            "L4 Conscious Level": [
+            "L4 Conscious Level Quiz": [
                 {"question": "Consciousness is defined as:", "options": ["The state of sleep", "The state of awareness of oneself and the environment", "A state of confusion", "A loss of memory"], "answer": "The state of awareness of oneself and the environment"},
                 {"question": "Impaired consciousness is characterized by:", "options": ["Increased alertness", "Reduced wakefulness and awareness", "Improved responsiveness", "Full orientation"], "answer": "Reduced wakefulness and awareness"},
                 {"question": "A coma is a:", "options": ["Mild sleep disturbance", "Profound state of unresponsiveness", "Temporary confusion", "Condition of increased activity"], "answer": "Profound state of unresponsiveness"},
@@ -678,7 +677,7 @@ quizzes = {
                 {"question": "Psychogenic disturbances of consciousness include significant stressful stimuli like pain and immobilization, especially in older people.", "options": ["True", "False"], "answer": "True"},
 
             ],
-            "L5 Mechanical Ventilation": [
+            "L5 Mechanical Ventilation Quiz": [
                 {"question": "Mechanical ventilation is defined as:", "options": ["A device that filters blood", "An apparatus that replaces normal breathing by providing air or oxygen under pressure", "A type of manual resuscitation", "A diagnostic tool"], "answer": "An apparatus that replaces normal breathing by providing air or oxygen under pressure"},
                 {"question": "Mechanical ventilation can provide:", "options": ["Only oxygen", "Intermittent or continuous flow of air or oxygen under pressure", "Only continuous air flow", "Negative pressure only"], "answer": "Intermittent or continuous flow of air or oxygen under pressure"},
                 {"question": "The two main types of mechanical ventilation are:", "options": ["CPAP and BiPAP", "Non-invasive and invasive ventilation", "Manual and automatic ventilation", "Pressure and volume ventilation"], "answer": "Non-invasive and invasive ventilation"},
@@ -808,7 +807,7 @@ quizzes = {
                 {"question": "A/C is a combination of set patient or ventilator-initiated breaths delivered by the ventilator that controls volume or pressure, and the patient's own spontaneous breaths.", "options": ["True", "False"], "answer": "False"}
 
             ],
-            "L6 Shock": [
+            "L6 Shock Quiz": [
                 {"question": "Shock is primarily defined as a complex condition where systemic blood pressure is inadequate to deliver:", "options": ["Plasma proteins and hormones to the liver", "Blood volume to the lungs", "Oxygen and nutrients to support vital organs and cellular function", "CO₂ for maintaining acid-base balance"], "answer": "Oxygen and nutrients to support vital organs and cellular function"},
                 {"question": "Adequate tissue perfusion depends on three primary factors. Which of the following is NOT one of these three factors?", "options": ["Blood volume", "Capacity of the blood vessels", "Venous oxygen saturation (SVO₂)", "Pumping action of the heart"], "answer": "Venous oxygen saturation (SVO₂)"},
                 {"question": "The Initial Stage of shock is characterized by the change in cellular metabolism from aerobic to anaerobic metabolism, which leads to the production of:", "options": ["Ketone bodies and hyperglycemia", "Lactic acid and tissue perfusion, causing metabolic acidosis", "CO₂ and respiratory alkalosis", "Pyruvic acid and cellular alkalosis"], "answer": "Lactic acid and tissue perfusion, causing metabolic acidosis"},
@@ -909,7 +908,7 @@ quizzes = {
                 {"question": "In the Irreversible Stage of shock, the heart rate becomes Erratic, and the skin may present with Jaundice.", "options": ["True", "False"], "answer": "True"}
 
             ],
-            "L7 Stroke": [
+            "L7 Stroke Quiz": [
                     {"question": "Stroke is the third most common cause of death globally after cancer and ischemic heart disease.", "options": ["True", "False"], "answer": "False"},
                     {"question": "The clinical deficit of a stroke must last more than 24 hours to fit the formal definition, otherwise, it is classified as a TIA.", "options": ["True", "False"], "answer": "True"},
                     {"question": "Ischemic stroke is the least common form of stroke, accounting for 15% of cases.", "options": ["True", "False"], "answer": "False"},
@@ -1009,7 +1008,7 @@ quizzes = {
                     {"question": "Stroke is a preventable and treatable emergency.", "options": ["True", "False"], "answer": "True"}
 
             ],
-            "L8 Hospice Care": [
+            "L8 Hospice Care Quiz": [
                     {"question": "According to the WHO, Palliative Care is defined as services designed to prevent and relieve suffering for patients and families facing life-threatening illness, and planning for it should begin:", "options": ["When the patient's life expectancy is less than 6 months.", "After all cure-oriented treatments have been exhausted.", "Early in the patient's journey of serious illness.", "Only in the tertiary level of care."], "answer": "Early in the patient's journey of serious illness."},
                     {"question": "End of Life Care is typically the care provided for people with advanced disease once they have reached a point of rapid physical decline, which is usually the last:", "options": ["Few years of life.", "Few weeks or months before an inevitable death.", "12 months of life.", "6 months of life."], "answer": "Few weeks or months before an inevitable death."},
                     {"question": "The defining characteristic that differentiates Hospice Care from general Palliative Care is that Hospice is a special program of care limited to persons:", "options": ["With Psychosocial or Spiritual needs.", "Who are receiving Curative treatments.", "With a terminal illness, with a life expectancy of six months or less.", "Requiring only pain management."], "answer": "With a terminal illness, with a life expectancy of six months or less."},
@@ -1100,7 +1099,7 @@ quizzes = {
                     {"question": "Hospice promotes dignity, comfort, and peace at the end of life.", "options": ["True", "False"], "answer": "True"}
 
             ],
-            "L9 Cardiovascular Disorder": [
+            "L9 Cardiovascular Disorde Quiz": [
                     {"question": "Cardiac Tamponade is a life-threatening complication caused by pressure on the heart when fluid or blood builds up in the space between the heart muscle and the outer sac (Pericardium). This complication leads to:", "options": ["Increased Cardiac Output (CO) and Hypertension.", "Increased Venous Return and Wide Pulse Pressure.", "Decreased CO, Hypotension, and Distended Neck Veins (JVD).", "Bradycardia and Warm, Dry Skin."], "answer": "Decreased CO, Hypotension, and Distended Neck Veins (JVD)."},
                     {"question": "Which clinical sign, often associated with Cardiac Tamponade, refers to a decrease in Systolic Blood Pressure (SBP) greater than 10 mmHg during inspiration?", "options": ["Beck's Triad.", "Pulsus Tardus.", "Pulsus Paradoxus.", "Wide Pulse Pressure."], "answer": "Pulsus Paradoxus."},
                     {"question": "Cardiac Tamponade can be caused by various conditions. Which of the following is considered an Iatrogenic cause?", "options": ["Post Myocardial Infarction (MI).", "Post Central Line Insertion (Accidental perforation).", "Systemic Lupus Erythematosus (SLE).", "Viral Infection."], "answer": "Post Central Line Insertion (Accidental perforation)."},
@@ -1210,7 +1209,7 @@ quizzes = {
                 {"question": "Which of the following organisms is responsible for the development of acute glomerulonephritis?","options": ["Streptococcal pneumonia", "Haemophilus influenza", "Group A β-hemolytic streptococcus", "Staphylococcus aureus"],"answer": "Group A β-hemolytic streptococcus"},
                 {"question": "A child with acute glomerulonephritis is at risk for:","options": ["Hypoxia", "Kernicterus", "Hypertensive encephalopathy", "Infection"],"answer": "Hypertensive encephalopathy"}
         ],
-        "L1 Introduction":[
+        "L1 Introduction Quiz":[
                 {
                     "question": "Which of the following is NOT a primary goal of pediatric nursing?",
                     "options": ["To promote growth and development toward an optimum state of health", "To perform complex surgical procedures on children", "To interpret basic needs of children to their family members", "To prevent disease and alleviate suffering in children"],
@@ -1537,7 +1536,7 @@ quizzes = {
                     "answer": "True"
                 }
         ],
-        "L2 Mental Retardation":[
+        "L2 Mental Retardation Quiz":[
                 {
                     "question": "Pediatrics is defined as the branch of medical science that deals with the care of children from conception to:",
                     "options": ["School age", "Young adulthood", "Adolescence", "Puberty"],
@@ -1780,7 +1779,7 @@ quizzes = {
                 {"question": "Sleep problems and convulsions are common features in early childhood mental retardation.", "options": ["True", "False"], "answer": "True"}
 
         ],
-        "L3 Cerebral Palsy":[
+        "L3 Cerebral Palsy Quiz":[
                 {"question": "Cerebral palsy is defined as a non-progressive disorder of cerebral function involving posture and movement, dating to events in all of the following periods EXCEPT:", "options": ["Prenatal period", "Natal period", "Neonatal period", "Adolescence period"], "answer": "Adolescence period"},
                 {"question": "Cerebral palsy is often associated with all of the following EXCEPT:", "options": ["Epilepsy", "Abnormalities of speech", "Abnormalities of vision", "Normal intellectual function"], "answer": "Normal intellectual function"},
                 {"question": "Which of the following is considered an Antenatal cause of Cerebral Palsy?", "options": ["Kernicterus", "Maternal irradiations of the pelvis", "Birth injury", "Meningitis"], "answer": "Maternal irradiations of the pelvis"},
@@ -1838,7 +1837,7 @@ quizzes = {
                 {"question": "Early diagnosis of cerebral palsy is necessary to prevent secondary positional deformities.", "options": ["True", "False"], "answer": "True"}
 
         ],
-        "L4 Nephrotic Syndrome":[
+        "L4 Nephrotic Syndrome Quiz":[
             {"question": "Nephrotic Syndrome is characterized by alterations of the glomerular capillary wall resulting in all of the following EXCEPT:", "options": ["Albuminuria", "Hypoalbuminemia", "Hyperlipidemia", "Hypertension"], "answer": "Hypertension"},
             {"question": "In the pathophysiology of Nephrotic Syndrome, the loss of plasma protein (albumin) leads directly to:", "options": ["Increased oncotic pressure", "Stimulation of renin-angiotensin system", "Decreased oncotic pressure", "Acute kidney failure"], "answer": "Decreased oncotic pressure"},
             {"question": "Decreased oncotic pressure in Nephrotic Syndrome causes fluid to move from the vascular space to the:", "options": ["Renal tubules", "Blood plasma", "Extracellular fluid", "Intracellular fluid"], "answer": "Extracellular fluid"},
@@ -1901,7 +1900,7 @@ quizzes = {
             {"question": "Restriction of physical activity is never recommended for nephrotic children.", "options": ["True", "False"], "answer": "False"}
 
         ],
-        "L5 Nephritis":[
+        "L5 Nephritis Quiz":[
             {"question": "APSAGN is defined as a non-bacterial inflammation of the glomeruli secondary to infection by which organism?", "options": ["Staphylococcus aureus of the skin.", "Group A β-hemolytic streptococcal of pharynx or skin.", "Pneumococcal infection of the respiratory tract.", "Viral infection of the gastrointestinal tract."], "answer": "Group A β-hemolytic streptococcal of pharynx or skin."},
             {"question": "The typical time frame for the onset of APSAGN symptoms after a streptococcal pharyngitis infection is:", "options": ["Immediately after the infection.", "3-4 weeks after the infection.", "10-14 days after the infection.", "3-5 days after the infection."], "answer": "10-14 days after the infection."},
             {"question": "Which clinical manifestation is described as the initial sign of APSAGN and is characteristically found around the eyes in the morning?", "options": ["Hypertension", "Hematuria", "Edema", "Headache"], "answer": "Edema"},
@@ -1959,7 +1958,7 @@ quizzes = {
             {"question": "The onset of APSGN symptoms after streptococcal pharyngitis is usually:", "options": ["Immediately", "10–14 days", "1–2 months", "6 months"], "answer": "10–14 days"}
 
         ],
-        "L6 Congestive Heart Failure":[
+        "L6 Congestive Heart Failure Quiz":[
             {"question": "Congestive Heart Failure (CHF) is a condition in which the heart cannot adequately perform which primary function?", "options": ["Receiving oxygen-rich blood from the tissues.", "Pumping blood to meet the body's metabolic needs.", "Maintaining normal blood pressure in the arteries.", "Ensuring coagulation factors are balanced."], "answer": "Pumping blood to meet the body's metabolic needs."},
             {"question": "The backing up of blood into certain body tissues, causing fluid buildup, is the reason for the term:", "options": ["Myocardial Infarction", "Congestion", "Ischemia", "Hypoxia"], "answer": "Congestion"},
             {"question": "The most common cause of Congestive Heart Failure in children is:", "options": ["Acquired infections like myocarditis.", "Obesity and poor diet.", "Severe hypertension.", "Congenital Heart Disease (CHD)."], "answer": "Congenital Heart Disease (CHD)."},
@@ -2017,7 +2016,7 @@ quizzes = {
             {"question": "Continuous observation of the child is important in CHF management.", "options": ["True", "False"], "answer": "True"}
 
         ],
-        "L7 Rheumatic Fever":[
+        "L7 Rheumatic Fever Quiz":[
             {"question": "Acute rheumatic fever is a systemic disease of childhood that follows infection by which organism?", "options": ["Staphylococcus aureus", "Pneumococcal pneumonia", "Group A beta hemolytic streptococci", "Haemophilus influenza"], "answer": "Group A beta hemolytic streptococci"},
             {"question": "Rheumatic fever is primarily an inflammatory disease of:", "options": ["Skeletal muscle tissue", "Nervous system tissue only", "Connective tissue", "Renal epithelial tissue"], "answer": "Connective tissue"},
             {"question": "The most susceptible age group for Rheumatic Fever is typically:", "options": ["Infants and toddlers (1-4 years)", "School-age children (5-15 years)", "Adolescents (16-18 years)", "Young adults (18-25 years)"], "answer": "School-age children (5-15 years)"},
@@ -2077,21 +2076,511 @@ quizzes = {
         ],
     },
     "Growth Stages": {
-        "" : [
+        "Mid Term" : [
+            {"question": "Eruption of lower central incisors at 16-20 months.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Child can sit with support at 8 months.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Posterior fontanel is diamond shape.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The anterior fontanel closed between 12-18 weeks.", "options": ["True", "False"], "answer": "False"},
+            {"question": "In cephalohematoma swelling due to accumulation of blood between periosteum (membrane covers the surface of bone and flat bone of the skull).", "options": ["True", "False"], "answer": "True"},
+            {"question": "At birth chest circumference is larger than the head circumference.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Socioeconomic status of the family affects growth and development of children.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Graded independence is a need of infant stage.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Mongolian spots disappear within few days after birth.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Infant child is characterized by grows and develops skills more rapidly.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Direction of motor development that proceeds from head downward is called proximodistal.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Development is quantitative change in the child function resulting from multiplication of cells.", "options": ["True", "False"], "answer": "False"},
+            {"question": "\"Freud\" termed infant stage with \"genital period\".", "options": ["True", "False"], "answer": "False"},
+            {"question": "Caregiver, educator, and researcher are secondary role of pediatric nurse.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Thumb sucking considered a problem of the preschool child.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Newborn infant can smile at 40 days.", "options": ["True", "False"], "answer": "True"},
+            {"question": "During infancy period the normal child develops a sense of trust.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Growth and development occur in an orderly sequence.", "options": ["True", "False"], "answer": "True"},
+            {"question": "During the third 4 months of age, the infant gains 1/4 Kg/month.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The infant can balance his head well at the fourth month.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Physical growth includes temperature, pulse, respiration and blood pressure.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Grasping reflex is considered a protective reflex.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Convection is a heat loss through air currents that flow over the newborn.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The nurse notes that an infant growth proceeds from head down to toes.", "options": ["Cephalocaudal", "Proximodistal", "Differentiation", "Mass to specific"], "answer": "Cephalocaudal"},
+            {"question": "Vernix caseosa is:", "options": ["Black coloration on the lower back or buttocks", "Peeling of the skin", "Small white spots common on the nose and forehead of newborn", "Yellowish cream substance covering the newborn skin"], "answer": "Yellowish cream substance covering the newborn skin"},
+            {"question": "As described by Erikson, the major psychosocial conflict of the infant child is:", "options": ["Autonomy vs. Shame and doubt", "Industry vs. Infancy", "Trust vs. mistrust", "Initiative vs. guilt"], "answer": "Trust vs. mistrust"},
+            {"question": "The normal average rate of respiratory rate for newborn is:", "options": ["20-30 c/m", "18-20 c/m", "30-60 c/m", "20-40 c/m"], "answer": "30-60 c/m"},
+            {"question": "It occurs during the first 2 to 4 weeks of life, due to shrink or separation of the placenta:", "options": ["Lanugo hair", "Desquamation", "Mongolian spots", "Millia"], "answer": "Desquamation"}
 
-        ]
-    },
-    "Emergency & Critical Care Medicine": {
-        "" : [
+        ],
+        "L1 Growth and Development of Children Quiz":[
+            {"question": "Growth refers to:", "options": ["Increase in skills and abilities", "Increase in physical size of the body or any part", "Development of social behaviors", "Emotional maturation"], "answer": "Increase in physical size of the body or any part"},
+            {"question": "Growth can be measured by weight, height, head circumference, and skin fold thickness.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Development refers to:", "options": ["Increase in physical size", "Progressive increase in skills and capacity of function", "Only motor skills", "Only social skills"], "answer": "Progressive increase in skills and capacity of function"},
+            {"question": "Development involves qualitative changes and can be measured through observation.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Physical growth can be assessed by:", "options": ["Head circumference", "Thoracic diameter", "Weight and height", "All of the above"], "answer": "All of the above"},
+            {"question": "Physiological growth is assessed through:", "options": ["Weight and height", "Temperature, pulse, respiration, blood pressure", "Head circumference", "Skin fold thickness"], "answer": "Temperature, pulse, respiration, blood pressure"},
+            {"question": "Motor development is part of:", "options": ["Growth", "Development", "Genetic factors", "Environmental factors"], "answer": "Development"},
+            {"question": "Intellectual (cognitive) development includes:", "options": ["Problem solving and reasoning", "Love and fear", "Friendship and self-concept", "Sitting and standing"], "answer": "Problem solving and reasoning"},
+            {"question": "Emotional development includes learning love, fear, and other feelings.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Social development in children refers to:", "options": ["Physical growth of limbs", "Raising and training in cultural norms, self-concept, friendship", "Fine motor skills development", "Weight gain"], "answer": "Raising and training in cultural norms, self-concept, friendship"},
+            {"question": "Growth and development are continuous processes.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Each stage of growth and development depends on the preceding one.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Individual differences in growth mean:", "options": ["All children grow at the same rate", "All children go through same sequence but at different rates", "Growth stops after age 5", "None of the above"], "answer": "All children go through same sequence but at different rates"},
+            {"question": "During prenatal stage, which body part grows faster?", "options": ["Limbs", "Head", "Abdomen", "Feet"], "answer": "Head"},
+            {"question": "Growth and development proceed in a predictable sequence but not always at the same rate.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Cephalocaudal pattern of growth means:", "options": ["Growth proceeds from toes to head", "Growth proceeds from head down to toes", "Growth proceeds from periphery to center", "Growth proceeds randomly"], "answer": "Growth proceeds from head down to toes"},
+            {"question": "Proximodistal pattern of growth means:", "options": ["Growth proceeds from center of body to periphery", "Growth proceeds from head to toes", "Growth proceeds from simple to complex", "Growth proceeds uniformly"], "answer": "Growth proceeds from center of body to periphery"},
+            {"question": "General to specific pattern means:", "options": ["Development progresses from complex to simple", "Development progresses from simple to complex", "Growth is unpredictable", "Only physical growth occurs"], "answer": "Development progresses from simple to complex"},
+            {"question": "Factors affecting growth and development include:", "options": ["Genetic/hereditary factors", "Maternal factors", "Fetal factors", "Environmental factors", "All of the above"], "answer": "All of the above"},
+            {"question": "Teenage mothers are more likely to have premature children, while mothers over 40 have higher risk of Down syndrome infants.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Examples of maternal factors affecting growth include:", "options": ["Nutritional deficiencies", "Diabetes", "Radiation exposure", "All of the above"], "answer": "All of the above"},
+            {"question": "Fetal factors affecting growth include:", "options": ["Mal-position in utero", "Faulty placental implantation", "Both A and B", "None of the above"], "answer": "Both A and B"},
+            {"question": "Environmental factors affecting growth and development include:", "options": ["Socio-economic status", "Nutrition", "Exercise", "Mass media influence", "All of the above"], "answer": "All of the above"},
+            {"question": "Importance of understanding growth and development for nurses includes:", "options": ["Helping to predict expectations at different ages", "Planning care", "Educating parents for optimal growth", "All of the above"], "answer": "All of the above"},
+            {"question": "The prenatal period extends from conception to birth and includes germinal, embryonic, and fetal stages.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Neonatal stage is from:", "options": ["Birth to 1 week", "Birth to 1 month", "Birth to 6 months", "Birth to 12 months"], "answer": "Birth to 1 month"},
+            {"question": "Infancy stage covers:", "options": ["1 month to 12 months", "1 month to 3 years", "3 to 6 years", "6 to 12 years"], "answer": "1 month to 12 months"},
+            {"question": "Toddler stage covers:", "options": ["1 to 3 years", "3 to 6 years", "6 to 12 years", "12 to 18 years"], "answer": "1 to 3 years"},
+            {"question": "Preschool stage covers:", "options": ["1 to 3 years", "3 to <6 years", "6 to <12 years", "12 to 18 years"], "answer": "3 to <6 years"},
+            {"question": "Adolescence stage covers:", "options": ["6 to 12 years", "3 to 6 years", "12 to ~18 years", "18 to 25 years"], "answer": "12 to ~18 years"},
+            {"question": "Growth is fundamentally a change resulting from an increase in cell number, and it is considered a:", "options": ["Qualitative change", "Progressive increase in skills", "Quantitative change", "Change measured only by observation"], "answer": "Quantitative change"},
+            {"question": "Development primarily involves qualitative changes and is measured through:", "options": ["Kilograms and centimeters", "Head circumference", "Observation", "Thoracic diameter"], "answer": "Observation"},
+            {"question": "Which type of growth is specifically assessed by measuring vital signs (Temperature, Pulse, Respiration, and Blood Pressure)?", "options": ["Physical Growth", "Motor Development", "Physiological Growth", "Emotional Development"], "answer": "Physiological Growth"},
+            {"question": "The pattern of growth that states development proceeds from simple function to complex function and activities is called:", "options": ["Cephalocaudal", "Proximodistal", "General to specific", "Differentiation"], "answer": "General to specific"},
+            {"question": "According to the principles of growth, which body part grows faster than the others during the prenatal stage?", "options": ["Extremities", "Trunk", "Head", "Other organs"], "answer": "Head"},
+            {"question": "Maternal exposure to radiation is listed as a factor affecting the fetus by causing:", "options": ["Mal-position in utero", "Gene mutations", "Faulty placental implantation", "Nutritional deficiencies"], "answer": "Gene mutations"},
+            {"question": "The Embryonic period of the prenatal stage occurs between:", "options": ["Conception to approximately 2 weeks", "2 to 8 weeks", "8 to 40 weeks (birth)", "Birth to 1 month"], "answer": "2 to 8 weeks"},
+            {"question": "The Toddler stage of growth and development spans the age range of:", "options": ["1 month to 12 months", "1 to 3 years", "3 to less than 6 years", "6 to less than 12 years"], "answer": "1 to 3 years"},
+            {"question": "Development involves progressive increase in skills and capacity of function and is measured by centimeters or kilograms.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Physical growth is assessed through measurement of head circumference, thoracic diameter, and arm circumference.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The principle of Individual Differences means that all children go through a normal sequence of growth, but not at the same rate.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The Proximodistal pattern means that development proceeds from head down to toes.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Mothers who are over 40 years are more likely to have an infant with Down syndrome.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Exercise is considered an external environmental factor that promotes circulation and stimulates muscular development.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The development of a child's self-concept and friendship is part of their Intellectual (Cognitive) Development.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The Neonatal stage of growth and development is defined as the period from 1 month to 12 months.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The Fetal period of the prenatal stage is from 8 to 40 weeks (birth).", "options": ["True", "False"], "answer": "True"},
+            {"question": "Development proceeds in regular, related directions which reflect the physical development and maturation of neuromuscular functions.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The primary importance of knowing the stages of growth for a nurse is to help in formulating the plan of care and parents' education.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The School Stage spans from 6 years to less than 12 years.", "options": ["True", "False"], "answer": "True"}
 
-        ]
+        ],
+        "L2 Growth & Development of Newborn Quiz":[
+            {"question": "The newborn stage lasts for:", "options": ["The first 12 months of life", "The first 2 weeks of life", "The first 4 weeks or first month of life", "6 months of age"], "answer": "The first 4 weeks or first month of life"},
+            {"question": "The normal newborn is expected to lose what percentage of their birth weight by 3-4 days after birth?", "options": ["2% to 5%", "5% to 10%", "10% to 15%", "Over 15%"], "answer": "5% to 10%"},
+            {"question": "The normal range for the head circumference of a newborn infant is:", "options": ["30-33 cm", "33-35 cm", "35-37 cm", "37-40 cm"], "answer": "33-35 cm"},
+            {"question": "Which of the following describes the shape of the Anterior Fontanel?", "options": ["Triangular", "Oval", "Diamond", "Circular"], "answer": "Diamond"},
+            {"question": "The Posterior Fontanel typically closes by the end of:", "options": ["12-18 months of age", "The first week of age", "The first to the second month of age", "6 months of age"], "answer": "The first to the second month of age"},
+            {"question": "The accumulation of blood between the periosteum and the flat bone of the skull, which disappears in weeks or months, is called:", "options": ["Caput-succedaneum", "Cephalohematoma", "Milia", "Mongolian spots"], "answer": "Cephalohematoma"},
+            {"question": "The normal average rate of respiratory rate for a newborn is:", "options": ["20-30 c/m", "18-20 c/m", "30-60 c/m", "60-80 c/m"], "answer": "30-60 c/m"},
+            {"question": "Heat loss through air currents that flow over the newborn is specifically called:", "options": ["Radiation", "Evaporation", "Conduction", "Convection"], "answer": "Convection"},
+            {"question": "The black or blue-black color found on the lower back or buttocks of the newborn is called:", "options": ["Milia", "Lanugo hair", "Desquamation", "Mongolian spots"], "answer": "Mongolian spots"},
+            {"question": "Which reflex is essential for feeding and involves the infant turning their head toward a stimulus that touches their cheek?", "options": ["Sucking reflex", "Palmar grasp reflex", "Rooting reflex", "Moro reflex"], "answer": "Rooting reflex"},
+            {"question": "Which sense is considered the least mature in the newborn?", "options": ["Taste", "Touch", "Hearing", "Vision"], "answer": "Vision"},
+            {"question": "The dark green substance forming the first feces of a newborn infant, passed within 24 to 48 hours following birth, is called:", "options": ["Transitional stools", "Breast-fed stools", "Meconium", "Formula stools"], "answer": "Meconium"},
+            {"question": "Due to the liver adjustment at birth, the newborn is prone to hypoglycemia because of low stores of:", "options": ["Plasma protein", "Prothrombin", "Glycogen", "Coagulation factors"], "answer": "Glycogen"},
+            {"question": "According to the needs of a newborn infant, which of the following is a primary physiological need?", "options": ["Graded independence", "Warmth", "Freedom from punishment", "Self-esteem"], "answer": "Warmth"},
+            {"question": "The immediate assessment of a newborn infant after birth is performed using:", "options": ["Physical Growth Chart", "Denver Developmental Screening Test", "Apgar scoring", "Vital Signs Assessment only"], "answer": "Apgar scoring"},
+            {"question": "The newborn stage is defined as the transitional period from intrauterine life to extra uterine environment.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The normal head circumference is smaller than the chest circumference at birth.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The anterior fontanel is triangular in shape and closes by the end of the first to the second month of age.", "options": ["True", "False"], "answer": "False"},
+            {"question": "A normal heart rate for a newborn is typically 120-140 beats per minute.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Evaporation is a form of heat loss through direct contact with cold objects.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Mongolian spots typically disappear within a few days after birth.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Lanugo hair is the yellowish cream substance that covers the newborn's skin.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The rooting and sucking reflexes are considered protective reflexes.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The newborn's sense of smell and taste are both considered acute.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Transitional stools are passed by the 2nd-3rd day, are greenish brown to yellowish brown, and are less sticky than meconium.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The newborn stage lasts for:", "options": ["First week of life", "First 2 weeks", "First 4 weeks or first month", "First 3 months"], "answer": "First 4 weeks or first month"},
+            {"question": "The gestational age of a normal newborn is 37–42 weeks.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Normal birth weight of a newborn is:", "options": ["1.5–2 kg", "2.7–4 kg", "4–5 kg", "2–2.5 kg"], "answer": "2.7–4 kg"},
+            {"question": "Newborns may lose 5–10% of their weight in the first 3–4 days after birth.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Normal length of a newborn is:", "options": ["40–45 cm", "50–53.75 cm", "55–60 cm", "45–50 cm"], "answer": "50–53.75 cm"},
+            {"question": "Head circumference of a normal newborn is approximately:", "options": ["30 cm", "32 cm", "35 cm", "37 cm"], "answer": "35 cm"},
+            {"question": "Anterior fontanel measures:", "options": ["2 × 1 cm", "3 × 2 cm", "4 × 2–3 cm", "5 × 3 cm"], "answer": "4 × 2–3 cm"},
+            {"question": "Posterior fontanel closes by 18 months of age.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Caput succedaneum refers to:", "options": ["Accumulation of blood under periosteum", "Swelling of presenting part of skull due to labor pressure", "Brain hemorrhage", "None of the above"], "answer": "Swelling of presenting part of skull due to labor pressure"},
+            {"question": "Cephalohematoma is:", "options": ["Edema of scalp", "Accumulation of blood between periosteum and skull", "Skin peeling", "Mongolian spot"], "answer": "Accumulation of blood between periosteum and skull"},
+            {"question": "Normal chest circumference of a newborn is:", "options": ["25–28 cm", "30.5–33 cm", "35–38 cm", "28–30 cm"], "answer": "30.5–33 cm"},
+            {"question": "Normal newborn temperature range is:", "options": ["35–36 °C", "36.3–37.2 °C", "37.5–38 °C", "36–38 °C"], "answer": "36.3–37.2 °C"},
+            {"question": "Normal heart rate of a newborn is:", "options": ["80–120 bpm", "100–160 bpm", "120–180 bpm", "90–140 bpm"], "answer": "100–160 bpm"},
+            {"question": "Normal respiration rate of a newborn is:", "options": ["20–40 /min", "30–60 /min", "40–70 /min", "25–50 /min"], "answer": "30–60 /min"},
+            {"question": "Newborn skin color is usually red or dark pink.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Lanugo hair is:", "options": ["Thick hair over the body", "Fine hair over shoulders, back, extremities, forehead", "Hair on scalp only", "Hair that grows after 1 month"], "answer": "Fine hair over shoulders, back, extremities, forehead"},
+            {"question": "Vernix caseosa is:", "options": ["A dry flaky skin", "A cheese-like yellowish white substance covering skin", "Lanugo hair", "Meconium"], "answer": "A cheese-like yellowish white substance covering skin"},
+            {"question": "Mongolian spots are:", "options": ["Red rashes", "Blue-black pigmented areas on back and buttocks", "Swelling of scalp", "Yellowish skin"], "answer": "Blue-black pigmented areas on back and buttocks"},
+            {"question": "Newborns respond to sounds with crying or eye movement.", "options": ["True", "False"], "answer": "True"},
+            {"question": "First breath of a newborn usually occurs:", "options": ["Within 10 seconds", "Within 30 seconds after birth", "Within 1 minute", "After 2 minutes"], "answer": "Within 30 seconds after birth"},
+            {"question": "Fetal shunts that close after birth include:", "options": ["Foramen ovale and ductus arteriosus", "Umbilical vein only", "Pulmonary veins", "All of the above"], "answer": "Foramen ovale and ductus arteriosus"},
+            {"question": "Thermoregulation in newborns is poorly developed due to:", "options": ["Immature hypothalamus", "Large surface area to body mass ratio", "Lack of subcutaneous fat", "All of the above"], "answer": "All of the above"},
+            {"question": "Heat loss through conduction occurs when:", "options": ["Heat moves to cold air currents", "Heat moves to cold surfaces touching the newborn", "Heat evaporates from wet skin", "Heat moves toward cold objects nearby"], "answer": "Heat moves to cold surfaces touching the newborn"},
+            {"question": "Prevention of heat loss through evaporation includes:", "options": ["Placing infant near cold window", "Using fans in room", "Carefully drying the newborn after birth or bathing", "None of the above"], "answer": "Carefully drying the newborn after birth or bathing"},
+            {"question": "Total urine volume in newborns during first 24 hours is about 200–300 mL by end of first week.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Meconium is:", "options": ["First urine", "Dark green first feces composed of amniotic fluid, intestinal secretions, possibly blood", "Yellow transitional stool", "Breast milk residue"], "answer": "Dark green first feces composed of amniotic fluid, intestinal secretions, possibly blood"},
+            {"question": "Transitional stools appear:", "options": ["1–2 days after birth", "2–3 days after birth", "After 1 week", "After 2 weeks"], "answer": "2–3 days after birth"},
+            {"question": "Liver of newborn is deficient in forming:", "options": ["Plasma proteins", "Prothrombin", "Glycogen stores", "All of the above"], "answer": "All of the above"},
+            {"question": "Nursing care of newborn includes all EXCEPT:", "options": ["Apgar scoring", "Maintain airway and initiate respiration", "Immediate start of solid food", "Breastfeeding and fostering parent-infant attachment"], "answer": "Immediate start of solid food"},
+            {"question": "Clamping the umbilical cord, eye care, weighing, and identification are essential nursing interventions for the newborn.", "options": ["True", "False"], "answer": "True"}
+
+        ],
+        "L3 Stage of Growth & Development of children Quiz":[
+            {"question": "The Infant stage is the period that starts at the end of the first month up to the end of:", "options": ["6 months of age", "18 months of age", "The first year of age (12 months)", "The second year of age (24 months)"], "answer": "The first year of age (12 months)"},
+            {"question": "By the age of 1 year old, a healthy infant is expected to triple their birth weight and the average head circumference should be:", "options": ["43 cm", "46 cm", "48 cm", "50 cm"], "answer": "46 cm"},
+            {"question": "The Posterior Fontanel typically closes by:", "options": ["12-18 months of age", "The end of the first year", "6-8 weeks of age", "4 months of age"], "answer": "6-8 weeks of age"},
+            {"question": "The eruption of the Lower Central Incisors typically starts at which age?", "options": ["8 months", "12 months", "6 months", "9 months"], "answer": "6 months"},
+            {"question": "At what age is an infant expected to Sit alone and Pull himself to a standing position with assistance?", "options": ["6 months", "9 months", "8 months", "10 months"], "answer": "8 months"},
+            {"question": "An infant is able to transfer an object from one hand to the other at approximately:", "options": ["4 months", "6 months", "8 months", "10 months"], "answer": "6 months"},
+            {"question": "The infant's ability to Creep well (using hands and legs) is a gross motor skill expected at:", "options": ["8 months", "10 months", "11 months", "12 months"], "answer": "10 months"},
+            {"question": "According to Erikson's Psychosocial Development, the major conflict during the infant stage (birth to 1 year) is:", "options": ["Initiative vs. Guilt", "Autonomy vs. Shame and doubt", "Trust vs. Mistrust", "Identity vs. Role Confusion"], "answer": "Trust vs. Mistrust"},
+            {"question": "In Piaget's Cognitive Development, the infant is in the Sensorimotor stage and learns to separate themselves from other objects in the environment. Which milestone demonstrates this cognitive concept?", "options": ["Holding a rattle briefly", "Searching for a hidden toy (object permanence)", "Turning from side to back", "Laughing at 2 months"], "answer": "Searching for a hidden toy (object permanence)"},
+            {"question": "By what age can an infant typically say three to five words with meaning?", "options": ["8 months", "9-10 months", "1 year", "18 months"], "answer": "1 year"},
+            {"question": "According to Freud's Psychosexual Development, the infant stage is termed the Oral stage, where the mouth is the pleasure center. A negative habit that may result from unmet oral needs during this stage is:", "options": ["Bedwetting", "Thumb sucking", "Excessive toilet training", "Negativism"], "answer": "Thumb sucking"},
+            {"question": "The purpose of bathing an infant includes all of the following EXCEPT:", "options": ["Providing opportunity to note growth and development.", "Promoting comfort and stimulating circulation.", "Helping the infant sleep for the total 15 hours of the day.", "Cleanliness."], "answer": "Helping the infant sleep for the total 15 hours of the day."},
+            {"question": "When an infant is 12 months old, the recommended oral care is to use a soft infant toothbrush to brush teeth with water at least:", "options": ["Once a day", "Twice a day", "Once a week", "After every feed"], "answer": "Twice a day"},
+            {"question": "During the first 6 months, an infant's length increases by about 2.5 cm per month, with this increase occurring mainly in the legs.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The chest circumference equals the head circumference by the end of the first year of age.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The normal respiratory rate for an infant is 35±10 c/min.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Eruption of teeth starts at 6-8 months of age with the Upper Central Incisors.", "options": ["True", "False"], "answer": "False"},
+            {"question": "An infant can Roll over from front to back and has Good head control at 4 months of age.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The gross motor skill of Walk holding on furniture is expected at 11 months.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The infant is expected to Stand alone for variable length of time at 12 months.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The infant develops a sense of mistrust if their basic needs are consistently met by the caregiver.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The infant can fixate on small objects and adjust posture to see, which are part of the sensorimotor stage.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Signs of possible developmental delays include the inability to sit alone by age 9 months and inability to walk alone by 18 months.", "options": ["True", "False"], "answer": "True"},
+            {"question": "When cleaning an infant's eye, the nurse should wipe from the outer eye to the inner eye.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Infants may only have one or two naps by the end of the first year, with a total daily sleep of approximately 15 hours.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The infant stage starts:", "options": ["At birth", "End of first month up to 1 year", "1–2 years", "6 months–2 years"], "answer": "End of first month up to 1 year"},
+            {"question": "Infants grow and develop skills more rapidly during the first year.", "options": ["True", "False"], "answer": "True"},
+            {"question": "By 6 months, an infant usually:", "options": ["Gains half of birth weight", "Doubles birth weight", "Triples birth weight", "Maintains birth weight"], "answer": "Doubles birth weight"},
+            {"question": "By 12 months, an infant usually:", "options": ["Doubles birth weight", "Triples birth weight", "Gains 4 times birth weight", "Gains half of birth weight"], "answer": "Triples birth weight"},
+            {"question": "Infant’s weight can be roughly calculated as:", "options": ["Weight = Age in months + 9 ÷ 2", "Weight = Age in months × 2", "Weight = Age in months + 6", "Weight = Age in months ÷ 2"], "answer": "Weight = Age in months + 9 ÷ 2"},
+            {"question": "Infant length increases 2.5 cm per month in first 6 months.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Average head circumference at birth is:", "options": ["30–32 cm", "33–35 cm", "36–38 cm", "32–34 cm"], "answer": "33–35 cm"},
+            {"question": "Head circumference at 6 months is approximately:", "options": ["40 cm", "43 cm", "45 cm", "46 cm"], "answer": "43 cm"},
+            {"question": "Posterior fontanel closes by 6–8 weeks, anterior fontanel closes by 12–18 months.", "options": ["True", "False"], "answer": "True"},
+            {"question": "By 1 year, chest circumference:", "options": ["Is smaller than head circumference", "Equals head circumference", "Larger than head circumference", "Not measurable"], "answer": "Equals head circumference"},
+            {"question": "Normal pulse for infants is:", "options": ["80–100 bpm", "100–150 bpm", "110–150 bpm", "120–160 bpm"], "answer": "110–150 bpm"},
+            {"question": "Normal respiration for infants is:", "options": ["25–35 /min", "30–40 /min", "35 ± 10 /min", "40–50 /min"], "answer": "35 ± 10 /min"},
+            {"question": "Lower central incisors erupt at 6 months.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Upper central incisors erupt at:", "options": ["6 months", "7 months", "8 months", "9 months"], "answer": "8 months"},
+            {"question": "Lower lateral incisors erupt at:", "options": ["10 months", "11 months", "12 months", "13 months"], "answer": "11 months"},
+            {"question": "Upper cuspids erupt at 18 months.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Gross motor skill at 2 months includes:", "options": ["Sit alone", "Hold head erect in mid-position", "Crawl", "Walk"], "answer": "Hold head erect in mid-position"},
+            {"question": "Fine motor skill at 4 months includes:", "options": ["Hold own bottle", "Grasp objects involuntarily, plays with fingers", "Transfer object hand to hand", "Eat finger food"], "answer": "Grasp objects involuntarily, plays with fingers"},
+            {"question": "At 6 months, infants can:", "options": ["Lift chest and upper abdomen when prone", "Sit alone", "Walk with assistance", "Creep"], "answer": "Lift chest and upper abdomen when prone"},
+            {"question": "At 8 months, infant can sit alone and pull to standing with assistance.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Fine motor skill at 10 months includes:", "options": ["Hold bottle with coordination", "Grasp small objects using thumb and forefinger", "Eat finger food", "Transfer objects to mouth"], "answer": "Grasp small objects using thumb and forefinger"},
+            {"question": "Gross motor skill at 12 months:", "options": ["Stand alone and walk a few steps", "Crawl only", "Sit with support", "Raise to sitting with help"], "answer": "Stand alone and walk a few steps"},
+            {"question": "Infant emotions are unstable, rapidly changing from crying to laughing.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Stranger anxiety typically appears:", "options": ["Birth", "2 months", "By 8–10 months", "12 months"], "answer": "By 8–10 months"},
+            {"question": "Erikson’s psychosocial stage for infant:", "options": ["Autonomy vs shame", "Trust vs mistrust", "Initiative vs guilt", "Industry vs inferiority"], "answer": "Trust vs mistrust"},
+            {"question": "Piaget’s cognitive stage for infants:", "options": ["Preoperational", "Sensorimotor", "Concrete operational", "Formal operational"], "answer": "Sensorimotor"},
+            {"question": "Infants learn to separate themselves from objects and recognize familiar faces.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Language milestones (sequence 1–2 months: laughs, 2–6 months: make sounds ah, eh, uh, 8 months: babbles ma-ma, da-da, 1 year: says 3–5 meaningful words).", "options": ["True", "False"], "answer": "True"},
+            {"question": "Freud’s oral stage lasts:", "options": ["Birth to 12 months", "Birth to 18 months", "1–2 years", "2–3 years"], "answer": "Birth to 18 months"},
+            {"question": "Infants need love, security, feeding, warmth, pleasure of sucking, and sensory stimulation.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Daily care of infant includes all EXCEPT:", "options": ["Cleaning face, eyes, ears, hair", "Oral and teeth care", "Bathing and diaper care", "Starting solid foods immediately at 1 month"], "answer": "Starting solid foods immediately at 1 month"},
+            {"question": "Breastfeeding or formula feeding every 2–4 hours is recommended due to small stomach capacity.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Total daily sleep for infant is approximately:", "options": ["10 hours", "12 hours", "15 hours", "18 hours"], "answer": "15 hours"},
+            {"question": "Signs of developmental delay include all EXCEPT:", "options": ["Poor sucking reflex", "Absence of blink reflex", "Sitting alone by 9 months", "Transferring objects hand to hand by 1 year"], "answer": "Sitting alone by 9 months"},
+            {"question": "Infants unable to walk alone by 18 months may have developmental delays.", "options": ["True", "False"], "answer": "True"}
+
+        ],
     },
     "Nursing Quality": {
-        "" : [
+        "Mid Term" : [
+            {"question": "Any nursing procedure should guide by evidence-based.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The acceptable patient care must responsive to his cultural, values and social norms.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The Process refers to services provision for client general & specific.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Nursing mangers of the hospitals one of Stakeholder of nursing faculties.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The opinion of stakeholder not considered to make change in quality process.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Mortality and morbidity rate are not a diameter of healthcare services quality.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The quality success from the accountability of organization leaders.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Communication between organization and community not affect the quality process.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The quality of care depend on for what degree its compliance with the standard.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The concept of quality circles improved by using autocratic style of management.", "options": ["True", "False"], "answer": "False"},
+            {"question": "When you update your practice according to last researches results, it is considered the:", "options": ["Your practice at the high level of quality.", "Your practice at the high level of evidence based.", "Your practice at the high level of stander.", "Your practice at the high level of management."], "answer": "Your practice at the high level of evidence based."},
+            {"question": "The nursing manager evaluate the practice to ensure that this practice agreed to benchmark stander. This is for the:", "options": ["Quality assurance.", "Quality improvement.", "Total quality management.", "Quality control."], "answer": "Total quality management."},
+            {"question": "When you assess the customer satisfaction about your services this improvement of:", "options": ["Structure", "Process", "Outcome", "Input process"], "answer": "Outcome"},
+            {"question": "The improvement of the physical building and selection of high qualified personnel this improve of:", "options": ["Outcome", "Structure", "Output", "Implementation process"], "answer": "Structure"},
+            {"question": "Setting up the healthcare services nearest as possible the population geographic place is:", "options": ["Effectiveness healthcare services", "Acceptable healthcare services", "Accessible healthcare services", "Equitable healthcare services"], "answer": "Accessible healthcare services"},
+            {"question": "When you select the equipment which is high quality and lowest price this underlying the principle of:", "options": ["Effectiveness", "Efficiency", "Accessibility", "Safety"], "answer": "Efficiency"},
+            {"question": "When you motivate, share and increase the capability of your staff this is the:", "options": ["Quality assurance", "Quality circle", "Quality of care", "Quality control"], "answer": "Quality circle"},
+            {"question": "The collection of data and make statistical process to measure actual quality performance and take corrective action in:", "options": ["Quality assurance", "Quality circle", "Quality of care", "Quality control"], "answer": "Quality control"},
+            {"question": "The nursing manger should solve the problem and deal with the change of quality process through:", "options": ["Quality management", "Quality circle", "Quality improvement", "Quality control"], "answer": "Quality improvement"},
+            {"question": "The Quality-Product should have Life span before replacement this dimension of:", "options": ["Serviceability", "Durability", "Performance", "Reliability"], "answer": "Durability"},
+            {"question": "Which of the following elements of quality concerning with of investigation of current performance of the health system?", "options": ["Stakeholder involvement", "Situational analysis", "Confirmation of health goals", "Quality goals"], "answer": "Situational analysis"},
+            {"question": "Which of the following elements of quality concerning with reduction of mortality and morbidity?", "options": ["Stakeholder involvement", "Situational analysis", "Confirmation of health goals", "Quality goals"], "answer": "Quality goals"},
+            {"question": "The product is easy of getting repairs, speed & competence of repairs, this is meaning that:", "options": ["Durability", "Performance", "Serviceability", "Reliability"], "answer": "Serviceability"},
+            {"question": "The controlling process is donning before production of a lot design is the:", "options": ["Statistical process control", "Off-line quality control", "Acceptance sampling plans", "Monitoring control"], "answer": "Off-line quality control"},
+            {"question": "Which of the following dimension of Quality Service, ensure that Customer gets all they asked for?", "options": ["Completeness", "Courtesy", "Consistency", "Accuracy"], "answer": "Completeness"},
+
+        ],
+        "Total Nursing Quality Quiz":[
+            {"question": "Quality is an absolute concept and can only be judged by its inherent characteristics without comparison to standards.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Juran defined quality as 'conformance to requirement or specifications'.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The degree to which a set of inherent characteristics fulfills requirements is the definition of quality according to ISO 9001.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Mortality and morbidity rates are considered key diameters (indicators) of healthcare services quality.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Quality control is typically performed after the production or service delivery to find defects.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Nurses have the power to identify risk factors that could affect patient safety but are not responsible for implementing the safety elements.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Failure in listening to the patient is considered a factor that could jeopardize patient safety.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The prevention of pressure ulcers in immobilized patients is considered a minor issue unrelated to the core concepts of patient safety.", "options": ["True", "False"], "answer": "False"},
+            {"question": "A major way to increase morbidity and mortality in hospitals is the transmission of hospital-acquired pathogens through the hands of healthcare workers.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The main goal of Six Sigma is to achieve a process performance level of 3.4 defects per million opportunities.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Quality Improvement is the continuous effort to meet or exceed customer expectations and should involve all staff.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Quality of care is providing comprehensive care components based on the patient's needs, values, and cultural background.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Achieving high quality of service while ensuring it is the lowest price is underlying the principle of:", "options": ["Effectiveness", "Appropriateness", "Efficiency", "Accessibility"], "answer": "Efficiency"},
+            {"question": "The small groups of employees who voluntarily meet regularly to identify, analyze, and solve quality-related problems are best known as:", "options": ["Total Quality Management (TQM)", "Quality Assurance (QA)", "Quality Circle", "Six Sigma"], "answer": "Quality Circle"},
+            {"question": "If a nurse is assessing the physical environment of the hospital (e.g., building, equipment, high-qualified personnel), this corresponds to which dimension of quality?", "options": ["Process", "Structure", "Outcome", "Input"], "answer": "Structure"},
+            {"question": "When a nurse is measuring the actual performance of a quality standard and taking corrective action immediately, this action is called:", "options": ["Quality Assurance", "Quality Improvement", "Quality Control", "Quality Management"], "answer": "Quality Control"},
+            {"question": "The patient's satisfaction with the nursing care he received is primarily an assessment of the quality:", "options": ["Structure", "Process", "Outcome", "Input"], "answer": "Outcome"},
+            {"question": "Which dimension of a Quality Product refers to the product's ability to have a long life span before replacement is needed?", "options": ["Reliability", "Performance", "Serviceability", "Durability"], "answer": "Durability"},
+            {"question": "The nurse collaborates with other healthcare members, social service agencies, and judicial systems to ensure holistic care. This falls under which element of the nursing role?", "options": ["Communicator", "Consultant", "Researcher", "Collaborator"], "answer": "Collaborator"},
+            {"question": "The process of ensuring that the product or service is easy to get repairs for, with speed and competence of repairs, is called:", "options": ["Durability", "Serviceability", "Reliability", "Accuracy"], "answer": "Serviceability"},
+            {"question": "A fall is defined as unintentionally coming to rest on the ground floor, or other lower level, EXCEPT if the cause is:", "options": ["Syncope or overwhelming external force", "Slippery floors", "Weakness", "Loss of balance"], "answer": "Syncope or overwhelming external force"},
+            {"question": "What is the most crucial action a nurse should implement to prevent hospital-acquired infections?", "options": ["Providing supplemental oxygen", "Encouraging deep breathing", "Using good hand washing and aseptic technique", "Frequent vital signs monitoring"], "answer": "Using good hand washing and aseptic technique"},
+            {"question": "Quality can be defined as:", "options": ["Doing things fast regardless of results", "Doing right things right the first time", "Reducing costs only", "Providing services without standards"], "answer": "Doing right things right the first time"},
+            {"question": "Crosby defined quality as:", "options": ["Fitness for use", "Conformance to requirements or specifications", "Customer satisfaction", "Reducing defects"], "answer": "Conformance to requirements or specifications"},
+            {"question": "Juran defined quality as:", "options": ["Conformance to specifications", "Fitness for use", "Meeting only legal requirements", "Efficiency in production"], "answer": "Fitness for use"},
+            {"question": "ISO 9001 defines quality as:", "options": ["Degree to which inherent characteristics fulfill requirements", "Efficiency of production only", "Lowest cost production", "Customer loyalty"], "answer": "Degree to which inherent characteristics fulfill requirements"},
+            {"question": "Quality assurance is a continuous process to ensure agreed standards are delivered.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Quality circle is:", "options": ["A formal management committee", "A group of workforce volunteers addressing quality problems weekly", "Only supervisors meeting management", "Regulatory body meeting"], "answer": "A group of workforce volunteers addressing quality problems weekly"},
+            {"question": "Benefits of quality circles include all EXCEPT:", "options": ["Improve personal capabilities", "Increase self-respect", "Reduce conflict", "Replace quality control entirely"], "answer": "Replace quality control entirely"},
+            {"question": "Quality control (QC) is defined as:", "options": ["Continuous training of employees", "Systematic control of factors affecting product/service quality", "Customer satisfaction surveys", "Only product testing"], "answer": "Systematic control of factors affecting product/service quality"},
+            {"question": "Steps of Quality Control include all EXCEPT:", "options": ["Formulate quality policy", "Set standards/specifications", "Ignore deviations", "Take corrective actions"], "answer": "Ignore deviations"},
+            {"question": "Quality improvement (QI) involves continuously monitoring, analyzing, and improving systems and procedures.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The PDCA cycle in Quality Management stands for:", "options": ["Plan, Do, Check, Act", "Prepare, Develop, Create, Apply", "Plan, Determine, Control, Act", "Plan, Design, Check, Analyze"], "answer": "Plan, Do, Check, Act"},
+            {"question": "The main components of Quality Management (QM) are:", "options": ["Quality planning, quality assurance, quality control, quality improvement", "Inspection, correction, implementation, reporting", "Staff training, customer service, auditing, evaluation", "Planning, staffing, monitoring, evaluating"], "answer": "Quality planning, quality assurance, quality control, quality improvement"},
+            {"question": "Total Quality Management (TQM) integrates development, maintenance, and improvement efforts of various groups in an organization.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Six Sigma is a methodology to:", "options": ["Increase production only", "Eliminate waste, rework, and mistakes; increase customer satisfaction", "Provide daily reports", "Reduce number of employees"], "answer": "Eliminate waste, rework, and mistakes; increase customer satisfaction"},
+            {"question": "Evidence-based service care is:", "options": ["Care based on tradition", "Care guided by the best available research for optimal outcomes", "Care based on intuition", "Random care decisions"], "answer": "Care guided by the best available research for optimal outcomes"},
+            {"question": "Components of high quality health care include all EXCEPT:", "options": ["Structure", "Process", "Outcome", "Marketing"], "answer": "Marketing"},
+            {"question": "Safe care minimizes risk and harm to service users.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Dimensions of quality product include:", "options": ["Performance, Reliability, Durability, Serviceability, Aesthetics, Safety", "Marketing, Advertisement, Pricing, Distribution", "Speed, Cost, Promotion, Loyalty", "Training, Supervision, Motivation"], "answer": "Performance, Reliability, Durability, Serviceability, Aesthetics, Safety"},
+            {"question": "Dimensions of quality service include:", "options": ["Time & timeliness, completeness, courtesy, consistency, accessibility, accuracy, responsiveness", "Design, manufacturing, delivery, promotion", "Cost, revenue, profit, expansion", "Materials, equipment, labor, supervision"], "answer": "Time & timeliness, completeness, courtesy, consistency, accessibility, accuracy, responsiveness"},
+            {"question": "The six domains of quality interventions include all EXCEPT:", "options": ["Leadership", "Information", "Advertising", "Models of care"], "answer": "Advertising"},
+            {"question": "Stakeholder involvement includes political/community leaders, service users, regulatory bodies, and representatives of health workers.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Steps of Quality Improvement (QI) include all EXCEPT:", "options": ["Identify the problem", "Root cause analysis", "Research utilization", "Ignoring follow-up"], "answer": "Ignoring follow-up"},
+            {"question": "Quality control aims to improve income, reduce cost, ensure interchangeability, and achieve customer satisfaction.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The three main types of quality control are:", "options": ["Statistical process control, off-line QC, acceptance sampling plans", "Planning, checking, reporting", "Training, inspection, supervision", "Marketing, auditing, evaluation"], "answer": "Statistical process control, off-line QC, acceptance sampling plans"},
+            {"question": "Off-line QC tests product after production but before marketing to customers.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Leadership in quality interventions requires:", "options": ["Strong support from national and community leaders", "Only middle management involvement", "Only internal staff compliance", "External audits only"], "answer": "Strong support from national and community leaders"},
+            {"question": "Quality Management has historical stages including inspection, control, assurance, and total quality management.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Seven tools for quality include:", "options": ["Pareto charts, check sheets, cause-effect diagrams, scatter diagrams, histograms, flow charts, control charts", "Surveys, interviews, emails, meetings, videos, reports, newsletters", "Budget, marketing, staffing, scheduling, evaluation, planning, training", "None of the above"], "answer": "Pareto charts, check sheets, cause-effect diagrams, scatter diagrams, histograms, flow charts, control charts"},
+            {"question": "Total Quality Management (TQM) is defined as:", "options": ["A method to reduce employee workload", "An effective system integrating quality development, maintenance, and improvement across an organization to ensure full customer satisfaction", "A financial accounting system", "A marketing strategy"], "answer": "An effective system integrating quality development, maintenance, and improvement across an organization to ensure full customer satisfaction"},
+            {"question": "Which of the following is a customer satisfaction oriented benefit of TQM?", "options": ["Reductions in operating costs", "Improvement in product quality", "Reductions in liability exposure", "Reductions in field service costs"], "answer": "Improvement in product quality"},
+            {"question": "Economic improvement benefits of TQM include:", "options": ["Improvement in product design", "Improvement in employee morale", "Reductions in operating losses", "Improvement of product service"], "answer": "Reductions in operating losses"},
+            {"question": "Which of the following is NOT a principle of TQM?", "options": ["Customer focus", "Leadership", "Employee punishment", "Continual improvement"], "answer": "Employee punishment"},
+            {"question": "The 8 principles of TQM include all of the following EXCEPT:", "options": ["System approach to management", "Factual approach to decision making", "Mutual beneficial supplier relationship", "Ignoring customer feedback"], "answer": "Ignoring customer feedback"},
+            {"question": "Involvement of people in TQM means:", "options": ["Sharing knowledge and recognizing contributions", "Limiting staff input", "Punishing mistakes", "Outsourcing responsibilities"], "answer": "Sharing knowledge and recognizing contributions"},
+            {"question": "The process approach in TQM emphasizes:", "options": ["Random task execution", "Managing activities and resources as a process to achieve results efficiently", "Ignoring efficiency", "Avoiding documentation"], "answer": "Managing activities and resources as a process to achieve results efficiently"},
+            {"question": "Continual improvement in TQM refers to:", "options": ["Occasional quality audits", "Progressive improvement in organizational efficiency and effectiveness", "Reducing staff numbers", "Ignoring defects"], "answer": "Progressive improvement in organizational efficiency and effectiveness"},
+            {"question": "Six Sigma was founded by:", "options": ["Toyota", "Motorola", "General Electric", "IBM"], "answer": "Motorola"},
+            {"question": "“Father of Six Sigma” is:", "options": ["W. Edwards Deming", "Philip Crosby", "Bill Smith", "Joseph Juran"], "answer": "Bill Smith"},
+            {"question": "The main goal of Six Sigma is:", "options": ["Increase marketing budget", "Eliminate waste, rework, and mistakes to improve quality", "Reduce employee morale", "Increase product packaging"], "answer": "Eliminate waste, rework, and mistakes to improve quality"},
+            {"question": "Lean Six Sigma focuses on:", "options": ["Ignoring defects", "Reducing defects and eliminating waste in time, effort, and resources", "Reducing customer involvement", "Increasing paper documentation only"], "answer": "Reducing defects and eliminating waste in time, effort, and resources"},
+            {"question": "DMAIC in Six Sigma stands for:", "options": ["Define, Measure, Analyze, Improve, Control", "Develop, Manage, Apply, Implement, Check", "Design, Make, Assess, Improve, Confirm", "Determine, Measure, Act, Inspect, Control"], "answer": "Define, Measure, Analyze, Improve, Control"},
+            {"question": "In Six Sigma, the Measure step focuses on:", "options": ["Guessing customer needs", "Collecting data to understand current process performance", "Ignoring defects", "Assigning blame for errors"], "answer": "Collecting data to understand current process performance"},
+            {"question": "The Control step in DMAIC ensures:", "options": ["Improvements are sustained over time", "Employees work longer hours", "Customer complaints are ignored", "Defects are hidden"], "answer": "Improvements are sustained over time"},
+            {"question": "Patient safety is defined as:", "options": ["Freedom from danger, risk, or injury in the workplace", "Avoiding documentation", "Ignoring errors", "Reducing staff numbers"], "answer": "Freedom from danger, risk, or injury in the workplace"},
+            {"question": "Patient Safety Culture includes:", "options": ["Pervasive commitment to patient safety", "Open communication", "Just culture vs blame/no blame environment", "All of the above"], "answer": "All of the above"},
+            {"question": "The six aims of patient safety include all EXCEPT:", "options": ["Safety", "Timely care", "Efficiency", "Profit maximization"], "answer": "Profit maximization"},
+            {"question": "A common patient safety error in hospitals is:", "options": ["Medication errors", "Patient falls", "Improper use of equipment", "All of the above"], "answer": "All of the above"},
+            {"question": "Chemical restraints are legal only if:", "options": ["Used whenever convenient", "Necessary to protect patient or others from harm, with a physician’s order", "Applied indefinitely", "Ordered verbally by a nurse"], "answer": "Necessary to protect patient or others from harm, with a physician’s order"},
+            {"question": "Surgical asepsis refers to:", "options": ["Reducing the growth of microorganisms", "Eliminating all microorganisms from an area", "Using gloves only", "Sterilizing hands with soap"], "answer": "Eliminating all microorganisms from an area"},
+            {"question": "Medical asepsis (clean technique) includes:", "options": ["Using only antibiotics", "Reducing and controlling the number of pathogens", "Sterilizing all equipment", "Ignoring contamination"], "answer": "Reducing and controlling the number of pathogens"},
+            {"question": "Hospital fire safety measures include:", "options": ["Use of fire alarms", "Location and use of fire extinguishers", "Evacuation procedures", "All of the above"], "answer": "All of the above"},
+            {"question": "Nurses’ role in patient safety includes:", "options": ["Identifying risks", "Preventing hospital-acquired infections", "Communicating patient needs to healthcare system", "All of the above"], "answer": "All of the above"}
 
         ]
     },
     "Critical Thinking": {
+        "Mid Term" : [
+            {"question": "Problem-solving requires traditional thinking and coming up with innovative or creative solutions.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Crisis problems occur when an unexpected problem puts the stability of the organization at risk.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Critical thinking enables individuals to engage in independent and reflective thinking and arrive at well-informed and logical conclusions.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Critical thinkers aim to set aside personal biases and emotions.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Emotional intelligence is the ability to recognize and manage the own emotions of oneself only.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Managing emotions is beneficial for personal growth and involves the ability to critically evaluate one's own feelings and those of others.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Decision makers with an analytical style have much greater tolerance for ambiguity than do directive styles.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Directive types of decision makers make fast decisions and focus on the long-term results.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The analytical decision-making style is characterized by a low tolerance for ambiguity and fast decision-making.", "options": ["True", "False"], "answer": "False"},
+            {"question": "An emotionally intelligent person tends to have better-developed coping mechanisms and support systems.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The third step in the problem-solving process is:", "options": ["Identify major & root Causes", "Select the best Solution", "Develop Solutions", "Implement the best Solution"], "answer": "Develop Solutions"},
+            {"question": "The drive to constantly monitor and correct your ways of thinking is:", "options": ["Analysis", "Evaluation", "Self-Regulation", "Open-Mindedness"], "answer": "Self-Regulation"},
+            {"question": "......................... allows one to be aware of other people’s feelings, needs, and concerns.", "options": ["Self-management", "Social awareness", "Self-awareness", "Relationship management"], "answer": "Social awareness"},
+            {"question": "External Factors that affect decision making is:", "options": ["Physical and emotional state", "Personal characteristics", "Culture, social, and philosophical background", "Time"], "answer": "Culture, social, and philosophical background"},
+            {"question": "......................... arises when two or more individuals exhibit contrasting values, goals.", "options": ["Intrapersonal", "Interpersonal", "Intergroup", "Inter-organizational"], "answer": "Interpersonal"},
+            {"question": "Which of the following is NOT a key skill for building emotional intelligence (EQ)?", "options": ["Self-management", "Self-awareness", "Technical skills", "Relationship management"], "answer": "Technical skills"}
+
+        ],
+        "L1 Introduction to Critical Thinking Quiz" : [
+            {"question": "The Greek word kritikos from which the term 'critical' comes means being negative and focusing on faults.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Critical thinking is a passive process that involves primarily absorbing information without questioning its source.", "options": ["True", "False"], "answer": "False"},
+            {"question": "One of the characteristics of a critical thinker is to strive for Objectivity by aiming to set aside personal biases and emotions.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Inference is the critical thinking skill that focuses on communicating your findings and reasoning clearly to others.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Self-Reflection is the characteristic where critical thinkers continuously evaluate and improve their own thinking skills, recognizing their biases and limitations.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Critical Thinking enhances the ability to make principled choices and navigate complex Ethical Dilemmas.", "options": ["True", "False"], "answer": "True"},
+            {"question": "In the steps of critical thinking, establishing significance is the stage where you determine if all arguments are relevant to the problem and if the sample size is sufficient.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The main goal of Analytical Thinking is to break down complex issues into smaller components and identify patterns and connections between different elements.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The critical thinking skill defined as the drive to constantly monitor and correct your ways of thinking is:", "options": ["Evaluation", "Self-Regulation", "Interpretation", "Analysis"], "answer": "Self-Regulation"},
+            {"question": "Which step in the critical thinking process immediately follows 'Analyze and evaluate the data' and precedes 'Establish significance'?", "options": ["Gather data, opinions, and arguments", "Identify assumptions", "Make a decision/reach a conclusion", "Present or communicate"], "answer": "Identify assumptions"},
+            {"question": "Critical thinking is vital for Decision Making because it helps individuals to:", "options": ["Focus only on short-term consequences", "Arrive at conclusions quickly without considering alternatives", "Weigh pros and cons, considering potential consequences and minimizing biases", "Rely only on surface-level understanding"], "answer": "Weigh pros and cons, considering potential consequences and minimizing biases"},
+            {"question": "The characteristic of a critical thinker that requires them to be receptive to new information and willing to revise their beliefs based on evidence is:", "options": ["Objectivity", "Inquisitiveness", "Open-Mindedness", "Analytical Thinking"], "answer": "Open-Mindedness"},
+            {"question": "The critical thinking skill that involves assessing whether the knowledge you have is sufficient and reliable is:", "options": ["Analysis", "Explanation", "Evaluation", "Inference"], "answer": "Inference"},
+            {"question": "Critical thinking enables individuals to go beyond surface-level understanding and engage in:", "options": ["Subjective and emotional thinking", "Independent and reflective thinking", "Traditional and conformist judgment", "Focusing on faults and being negative"], "answer": "Independent and reflective thinking"},
+            {"question": "The term 'critical' comes from the Greek word 'kritikos' meaning:", "options": ["Able to solve problems", "Able to judge or discern", "Able to memorize facts", "Able to communicate"], "answer": "Able to judge or discern"},
+            {"question": "Critical thinking involves:", "options": ["Being negative and finding faults", "Clarifying thinking to break down information and make informed decisions", "Avoiding analysis of information", "Ignoring other perspectives"], "answer": "Clarifying thinking to break down information and make informed decisions"},
+            {"question": "Critical thinking is defined as:", "options": ["The process of memorizing information", "Actively analyzing, evaluating, and synthesizing information to make reasoned judgments", "Following instructions without question", "Only listening to authority figures"], "answer": "Actively analyzing, evaluating, and synthesizing information to make reasoned judgments"},
+            {"question": "Which of the following is NOT an importance of critical thinking?", "options": ["Effective problem-solving", "Decision-making", "Ethical reasoning", "Ignoring evidence"], "answer": "Ignoring evidence"},
+            {"question": "Critical thinking enhances learning by:", "options": ["Encouraging surface-level understanding", "Questioning and critically evaluating ideas and sources", "Memorizing only", "Avoiding analysis"], "answer": "Questioning and critically evaluating ideas and sources"},
+            {"question": "Effective communication through critical thinking means:", "options": ["Articulating thoughts and supporting arguments with evidence", "Ignoring others’ viewpoints", "Speaking without preparation", "Using emotional appeals only"], "answer": "Articulating thoughts and supporting arguments with evidence"},
+            {"question": "Characteristics of critical thinking include all EXCEPT:", "options": ["Analytical thinking", "Open-mindedness", "Objectivity", "Blind acceptance of information"], "answer": "Blind acceptance of information"},
+            {"question": "Analytical thinking means:", "options": ["Breaking down complex issues and identifying patterns", "Avoiding problem analysis", "Relying on personal opinions only", "Ignoring evidence"], "answer": "Breaking down complex issues and identifying patterns"},
+            {"question": "Open-mindedness in critical thinking refers to:", "options": ["Considering only one perspective", "Being receptive to new information and revising beliefs based on evidence", "Rejecting alternative viewpoints", "Avoiding discussion"], "answer": "Being receptive to new information and revising beliefs based on evidence"},
+            {"question": "Inquisitiveness as a characteristic of critical thinking means:", "options": ["Asking probing questions to understand underlying assumptions", "Accepting explanations at face value", "Avoiding curiosity", "Following instructions blindly"], "answer": "Asking probing questions to understand underlying assumptions"},
+            {"question": "Self-reflection in critical thinking involves:", "options": ["Assessing one’s own thinking process and biases", "Ignoring mistakes", "Blaming others for errors", "Avoiding evaluation"], "answer": "Assessing one’s own thinking process and biases"},
+            {"question": "Which of the following is NOT a critical thinking skill?", "options": ["Analysis", "Interpretation", "Memorization", "Self-regulation"], "answer": "Memorization"},
+            {"question": "Problem-solving as a critical thinking skill means:", "options": ["Tackling unexpected problems and resolving conflicts", "Avoiding challenges", "Ignoring problems", "Following instructions without thought"], "answer": "Tackling unexpected problems and resolving conflicts"},
+            {"question": "The first step in the critical thinking process is:", "options": ["Gather data", "Identify the problem or question", "Make a decision", "Present a conclusion"], "answer": "Identify the problem or question"},
+            {"question": "When gathering data in critical thinking, you should:", "options": ["Use only one source", "Collect multiple sources and perspectives", "Ignore evidence", "Accept opinions blindly"], "answer": "Collect multiple sources and perspectives"},
+            {"question": "Analyzing and evaluating data involves:", "options": ["Checking reliability of sources and strength of conclusions", "Memorizing facts without understanding", "Ignoring assumptions", "Avoiding critical assessment"], "answer": "Checking reliability of sources and strength of conclusions"},
+            {"question": "Identifying assumptions in critical thinking ensures:", "options": ["Recognition of bias in sources and self", "Acceptance of all information as true", "Avoidance of questioning evidence", "Blind decision-making"], "answer": "Recognition of bias in sources and self"},
+            {"question": "Establishing significance involves:", "options": ["Determining which information is most important and relevant", "Ignoring key data", "Choosing random facts", "Avoiding analysis"], "answer": "Determining which information is most important and relevant"},
+            {"question": "Making a decision in critical thinking requires:", "options": ["Considering various possible conclusions and weighing their strengths and limitations", "Choosing the first idea that comes to mind", "Ignoring evidence", "Following others’ opinions blindly"], "answer": "Considering various possible conclusions and weighing their strengths and limitations"},
+            {"question": "Presenting or communicating a conclusion involves:", "options": ["Sharing findings clearly with stakeholders", "Keeping conclusions secret", "Avoiding explanation", "Ignoring audience understanding"], "answer": "Sharing findings clearly with stakeholders"},
+            {"question": "To improve your critical thinking, you should:", "options": ["Define your question and keep your goal in mind", "Rely on assumptions", "Avoid exploring alternatives", "Focus only on short-term outcomes"], "answer": "Define your question and keep your goal in mind"},
+            {"question": "Gathering reliable information means:", "options": ["Using trustworthy sources and ignoring biases", "Using random internet sources", "Following rumors", "Avoiding verification"], "answer": "Using trustworthy sources and ignoring biases"},
+            {"question": "Asking the right questions ensures:", "options": ["You get accurate answers leading to informed conclusions", "Confusion and misunderstanding", "Blind acceptance of information", "Ignoring evidence"], "answer": "You get accurate answers leading to informed conclusions"},
+            {"question": "Considering short- and long-term consequences helps:", "options": ["Evaluate both immediate and future outcomes of decisions", "Focus only on one outcome", "Avoid reflection", "Ignore results"], "answer": "Evaluate both immediate and future outcomes of decisions"},
+            {"question": "Exploring all sides in critical thinking means:", "options": ["Considering multiple perspectives and thinking creatively before concluding", "Accepting the first solution", "Ignoring alternative viewpoints", "Following one authority only"], "answer": "Considering multiple perspectives and thinking creatively before concluding"}
+
+        ],
+        "L2 Decision Making Quiz" : [
+            {"question": "Decision making is primarily the mental process that results in the selection of a course of action from only two options.", "options": ["True", "False"], "answer": "False"},
+            {"question": "External factors affecting decision making include the decision maker's past experiences and self-confidence.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The first three steps of the Decision Making Process involve identifying the problem, identifying the criteria, and allocating weight to the criteria.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Decision makers using the Directive Style have a low tolerance for ambiguity and tend to focus on short-run results.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Analytical decision makers are best characterized as careful decision makers who consider minimal alternatives to save time.", "options": ["True", "False"], "answer": "False"},
+            {"question": "One of the advantages of the Decision Making process is that it provides a smart risk-taking opportunity.", "options": ["True", "False"], "answer": "True"},
+            {"question": "In the Behavioral Style, decision makers often avoid conflict and believe acceptance by others is important.", "options": ["True", "False"], "answer": "True"},
+            {"question": "A major disadvantage of decision making is that it always improves the quality of the final choice due to increased participation.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Individuals with a Conceptual Style are typically very broad in their outlook and are good at finding creative solutions, focusing on the long run.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Lack of reliable data and too many options are considered Obstacles of effective decision making.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Which of the following is considered an Internal Factor affecting the decision-making process?", "options": ["Environmental conditions", "Time constraint", "Physical and emotional state", "Lack of Resources"], "answer": "Physical and emotional state"},
+            {"question": "The characteristic that best describes the Directive Style of decision making is:", "options": ["High tolerance for ambiguity", "Focus on long-term consequences", "Receptive to subordinates' suggestions", "Make fast decisions with minimal information"], "answer": "Make fast decisions with minimal information"},
+            {"question": "Which of the following Decision Making Styles is best characterized by a high tolerance for ambiguity and a desire to gather more information and alternatives?", "options": ["Directive Style", "Conceptual Style", "Behavioral Style", "Analytical Style"], "answer": "Analytical Style"},
+            {"question": "Which of the following is an advantage of the decision-making process?", "options": ["Groups Reduce the Amount of Accountability", "Time consuming", "Improves the Degree of Acceptance and Commitment", "Different Priority of individuals"], "answer": "Improves the Degree of Acceptance and Commitment"},
+            {"question": "According to the 8 steps of the Decision Making Process, what is the final step?", "options": ["Selection of alternatives", "Implementation of the best alternatives", "Develop alternatives", "Evaluation of decision effectiveness"], "answer": "Evaluation of decision effectiveness"},
+            {"question": "Decision making can be regarded as:", "options": ["The process of memorizing facts", "Mental processes resulting in selecting a course of action among alternatives", "Only following instructions", "Ignoring choices"], "answer": "Mental processes resulting in selecting a course of action among alternatives"},
+            {"question": "A decision is defined as:", "options": ["Choosing from two or more alternatives", "Following someone else’s choice", "Avoiding decision-making", "Memorizing options"], "answer": "Choosing from two or more alternatives"},
+            {"question": "Decision making is:", "options": ["The process of making a choice among options and committing to a future course of action", "Avoiding choices", "Following orders without thought", "Memorizing instructions"], "answer": "The process of making a choice among options and committing to a future course of action"},
+            {"question": "External factors affecting decision making include:", "options": ["Personal attitudes and knowledge", "Environmental conditions and time", "Past experiences", "Personality traits"], "answer": "Environmental conditions and time"},
+            {"question": "Internal factors affecting decision making include all EXCEPT:", "options": ["Physical and emotional state", "Culture and past experiences", "Environmental conditions", "Knowledge and attitudes"], "answer": "Environmental conditions"},
+            {"question": "Personality factors like self-esteem and self-confidence affect:", "options": ["Willingness to take risks in solving problems", "The speed of internet connection", "Physical strength", "Memorization ability"], "answer": "Willingness to take risks in solving problems"},
+            {"question": "The first step in the decision-making process is:", "options": ["Identification of decision criteria", "Identification of the problem", "Analysis of alternatives", "Implementation of alternatives"], "answer": "Identification of the problem"},
+            {"question": "Which of the following is NOT a step in the decision-making process?", "options": ["Evaluation of decision effectiveness", "Develop alternatives", "Random guessing", "Allocating weight to criteria"], "answer": "Random guessing"},
+            {"question": "Directive decision-making style is characterized by:", "options": ["High tolerance for ambiguity", "Focus on short-term, efficient, logical decisions with minimal information", "Long-term broad outlook", "Avoiding decisions entirely"], "answer": "Focus on short-term, efficient, logical decisions with minimal information"},
+            {"question": "Analytical style decision makers:", "options": ["Want more information and consider more alternatives", "Focus only on short-term solutions", "Avoid collecting data", "Make decisions randomly"], "answer": "Want more information and consider more alternatives"},
+            {"question": "Conceptual style decision makers:", "options": ["Look at many alternatives and focus on long-term creative solutions", "Make fast decisions with minimal information", "Avoid thinking about alternatives", "Only follow others’ opinions"], "answer": "Look at many alternatives and focus on long-term creative solutions"},
+            {"question": "Behavioral style decision makers:", "options": ["Work well with others and value acceptance by others", "Focus only on data", "Avoid meetings", "Ignore suggestions"], "answer": "Work well with others and value acceptance by others"},
+            {"question": "An advantage of decision making is:", "options": ["Increases people's participation", "Reduces available alternatives", "Decreases commitment", "Worsens decision quality"], "answer": "Increases people's participation"},
+            {"question": "A disadvantage of decision making includes:", "options": ["Provides more information", "Time consuming and may receive irrelevant opinions", "Improves organization strength", "Increases commitment"], "answer": "Time consuming and may receive irrelevant opinions"},
+            {"question": "Obstacles to decision making include all EXCEPT:", "options": ["Lack of reliable data", "Level of decision making not clear", "Clear and sufficient resources", "Lack of time"], "answer": "Clear and sufficient resources"},
+            {"question": "Decision making is only about memorizing options.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Environmental conditions and time are external factors affecting decision making.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Personality traits like self-confidence do not affect decision making.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Directive style decision makers focus on efficiency and logic, often using minimal information.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Analytical decision makers avoid considering multiple alternatives.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Conceptual style decision makers are creative and focus on long-term solutions.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Behavioral style decision makers value collaboration and suggestions from others.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Decision making always saves time and avoids irrelevant opinions.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Lack of reliable data is an obstacle to decision making.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Clear resources and support can eliminate obstacles in decision making.", "options": ["True", "False"], "answer": "True"}
+
+        ],
+        "L3 Problem Solving Quiz" : [
+            {"question": "Problem Solving is simply the act of identifying a problem and immediately selecting one solution to implement.", "options": ["True", "False"], "answer": "False"},
+            {"question": "A Problem is defined as a discrepancy between an existing state of affairs and a desired state of affairs.", "options": ["True", "False"], "answer": "True"},
+            {"question": "One of the primary functions of problem-solving is to prevent the recurrence of the problem in the future.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Crisis Problems are unexpected issues that put the stability of the organization at risk and require an immediate, rapid response.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The first step in the systematic problem-solving process is to Generate alternative solutions.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Functional Fixedness is a state of mind that encourages an individual to explore new and unique solutions rather than customary ones.", "options": ["True", "False"], "answer": "False"},
+            {"question": "A disadvantage of problem-solving is the potential for emotional and cognitive biases to interfere with the process.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The Key Purpose of problem solving is to find the root cause of the problem and improve the process.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Daily Problems are simple issues that require the manager's attention only once, without developing a corrective action plan.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The Scientific Method is a problem-solving approach that involves overcoming obstacles by generating and testing hypotheses.", "options": ["True", "False"], "answer": "True"},
+            {"question": "In the systematic problem-solving process, which step immediately follows 'Develop solutions'?", "options": ["Define the problem", "Identify major & root causes", "Implement the best solution", "Select the best solution"], "answer": "Select the best solution"},
+            {"question": "The type of managerial problem that is typically routine, happens frequently, and requires established procedures for handling is:", "options": ["Crisis Problems", "Daily Problems", "Unexpected Problems", "Policy Problems"], "answer": "Daily Problems"},
+            {"question": "When an individual sees problems only in a customary manner and this prevents them from exploring all available options, they are suffering from the obstacle known as:", "options": ["Misleading Information", "Mindset Obstacle", "Functional Fixedness", "Overemphasis on analysis"], "answer": "Functional Fixedness"},
+            {"question": "Which of the following is considered a Disadvantage of the problem-solving process?", "options": ["Improvement of teamwork", "Time-Consuming Assessment", "Continuous engagement", "Promotes higher critical thinking levels"], "answer": "Time-Consuming Assessment"},
+            {"question": "The ability to apply appropriate skills systematically to find and resolve issues is the core definition of:", "options": ["Decision Making", "Critical Thinking", "Problem Solving", "Analytical Thinking"], "answer": "Problem Solving"},
+            {"question": "Problem solving is primarily the responsibility of:", "options": ["The manager", "The patients", "Visitors", "External auditors"], "answer": "The manager"},
+            {"question": "A problem is defined as:", "options": ["A simple task with no challenges", "A discrepancy between an existing and a desired state of affairs", "A routine procedure", "Memorizing instructions"], "answer": "A discrepancy between an existing and a desired state of affairs"},
+            {"question": "Problem solving involves:", "options": ["Identifying and solving problems systematically", "Following rules blindly", "Avoiding difficult situations", "Ignoring unknowns"], "answer": "Identifying and solving problems systematically"},
+            {"question": "One of the key functions of problem solving is:", "options": ["Seeking information", "Ignoring data", "Avoiding analysis", "Memorizing facts"], "answer": "Seeking information"},
+            {"question": "Key purposes of problem solving include all EXCEPT:", "options": ["Overcoming obstacles", "Improving efficiency and productivity", "Ignoring challenges", "Promoting innovation and creativity"], "answer": "Ignoring challenges"},
+            {"question": "Types of managerial problems include:", "options": ["Structured, Unstructured, and Crises problems", "Only routine problems", "Only emergencies", "Problems unrelated to work"], "answer": "Structured, Unstructured, and Crises problems"},
+            {"question": "Structured problems are:", "options": ["New and ambiguous problems", "Crises problems that threaten stability", "Straightforward, familiar, and easily defined problems", "Impossible to solve"], "answer": "Straightforward, familiar, and easily defined problems"},
+            {"question": "Unstructured problems are:", "options": ["Simple and familiar", "New or unusual with ambiguous or incomplete information", "Routine tasks", "Easily solved without analysis"], "answer": "New or unusual with ambiguous or incomplete information"},
+            {"question": "Crises problems are:", "options": ["Problems with a standard solution", "Problems that threaten organizational stability unexpectedly", "Easy to predict and handle", "Avoided by managers"], "answer": "Problems that threaten organizational stability unexpectedly"},
+            {"question": "The first step in the problem solving process is:", "options": ["Develop solutions", "Define problem", "Implement the best solution", "Determine effectiveness"], "answer": "Define problem"},
+            {"question": "Methods of problem solving include all EXCEPT:", "options": ["Trial and error", "Scientific experimentation", "Novel solution or interventions", "Ignoring the problem"], "answer": "Ignoring the problem"},
+            {"question": "Advantages of problem solving include:", "options": ["Continuous engagement and development of higher critical thinking", "Nurses’ unpreparedness", "Emotional and cognitive biases", "Implementation challenges"], "answer": "Continuous engagement and development of higher critical thinking"},
+            {"question": "Disadvantages of problem solving include:", "options": ["Promotes teamwork", "Time-consuming assessment and potential for failure", "Continuous engagement", "Knowledge retention"], "answer": "Time-consuming assessment and potential for failure"},
+            {"question": "Obstacles to problem solving include all EXCEPT:", "options": ["Misleading information", "Mindset limitations", "Functional fixedness", "Clear and complete information"], "answer": "Clear and complete information"},
+            {"question": "Functional fixedness refers to:", "options": ["Flexibility in thinking", "Seeing problems only in customary ways, limiting exploration of alternatives", "Creative thinking", "Effective problem solving"], "answer": "Seeing problems only in customary ways, limiting exploration of alternatives"},
+            {"question": "Problem solving is only the responsibility of the nurse.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Identifying the real problem can be challenging.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Functions of problem solving include seeking information and generating knowledge.", "options": ["True", "False"], "answer": "True"},
+            {"question": "One purpose of problem solving is to ignore obstacles.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Innovation and creativity are promoted through problem-solving activities.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Structured problems are new and unfamiliar.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Trial and error is a method of problem solving.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Time-consuming assessment is an advantage of problem solving.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Misleading information can obstruct effective problem solving.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Functional fixedness allows for maximum exploration of solutions.", "options": ["True", "False"], "answer": "False"}
+
+        ],
+        "L4 Emotional Intelligence Quiz" : [
+            {"question": "Emotional Intelligence (EQ) is primarily concerned with qualities like analytical skills and logical reasoning, similar to Intelligence Quotient (IQ).", "options": ["True", "False"], "answer": "False"},
+            {"question": "EQ is considered a learned capability that can enhance outstanding performance at work.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Self-Awareness is the ability to recognize and manage the emotions of oneself and others.", "options": ["True", "False"], "answer": "False"},
+            {"question": "An emotionally intelligent person tends to have better-developed coping mechanisms and support systems.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The key skills for building EQ are Self-Management, Social Awareness, Relationship Management, and Technical Skills.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Social Awareness allows one to be aware of other people’s feelings, needs, and concerns.", "options": ["True", "False"], "answer": "True"},
+            {"question": "One advantage of high EQ is that it leads to decreased occupational stress and reduced staff turnover.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Relationship Management focuses on how to influence, coach, and handle conflict effectively with others.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The ability to recognize and manage the emotions of oneself and others, and to use this understanding to guide thinking and actions, is the definition of:", "options": ["Self-Awareness", "Critical Thinking", "Emotional Intelligence", "Social Awareness"], "answer": "Emotional Intelligence"},
+            {"question": "Which emotional intelligence skill focuses on the drive to achieve, optimism, and being organized in one's personal life?", "options": ["Self-Awareness", "Self-Management", "Relationship Management", "Social Awareness"], "answer": "Self-Management"},
+            {"question": "Practicing empathy and utilizing verbal and non-verbal cues to gain insight into the feelings of colleagues or clients are specific ways to improve the skill of:", "options": ["Self-Management", "Self-Awareness", "Relationship Management", "Social Awareness"], "answer": "Social Awareness"},
+            {"question": "Which of the following is a direct advantage of having high Emotional Intelligence in a professional setting?", "options": ["Increased ability to store and retrieve technical information (IQ)", "Increased Leadership Ability", "Reduced need for interpersonal communication", "Making fast decisions with minimal information"], "answer": "Increased Leadership Ability"},
+            {"question": "Managing your negative emotions effectively, and trying to look at situations objectively so you don't get overwhelmed easily, is a recommendation on how to improve which skill?", "options": ["Social Awareness", "Self-Management", "Relationship Management", "Conceptual Thinking"], "answer": "Self-Management"},
+            {"question": "The key skill for building EQ that helps in handling conflict and resolving disagreements in the workplace is:", "options": ["Self-Awareness", "Social Awareness", "Relationship Management", "Self-Management"], "answer": "Relationship Management"},
+            {"question": "Emotional intelligence (EQ) primarily helps in:", "options": ["Memorizing facts", "Handling interpersonal and intrapersonal relationships effectively", "Learning mathematics", "Following rules blindly"], "answer": "Handling interpersonal and intrapersonal relationships effectively"},
+            {"question": "Emotional intelligence is defined as:", "options": ["The ability to store and retrieve information", "The ability to recognize and manage emotions of oneself and others", "Only logical reasoning", "Avoiding emotional awareness"], "answer": "The ability to recognize and manage emotions of oneself and others"},
+            {"question": "Key skills of emotional intelligence include all EXCEPT:", "options": ["Self-management", "Self-awareness", "Social awareness", "Memorization skills"], "answer": "Memorization skills"},
+            {"question": "Self-management refers to:", "options": ["Understanding others’ feelings", "Managing one’s own emotions and responses", "Avoiding responsibility", "Memorizing rules"], "answer": "Managing one’s own emotions and responses"},
+            {"question": "Self-awareness involves:", "options": ["Controlling others’ behavior", "Recognizing and understanding one’s own emotions", "Ignoring setbacks", "Following orders blindly"], "answer": "Recognizing and understanding one’s own emotions"},
+            {"question": "Social awareness is the ability to:", "options": ["Predict future events", "Be aware of other people’s feelings, needs, and concerns", "Memorize facts quickly", "Avoid interactions"], "answer": "Be aware of other people’s feelings, needs, and concerns"},
+            {"question": "Relationship management involves:", "options": ["Ignoring others’ emotions", "Managing the emotions of oneself and others in relationships", "Working alone", "Avoiding communication"], "answer": "Managing the emotions of oneself and others in relationships"},
+            {"question": "Characteristics of emotionally intelligent people include all EXCEPT:", "options": ["Better stress management", "Strong coping mechanisms", "Inefficient workplace performance", "Ability to manage relationships well"], "answer": "Inefficient workplace performance"},
+            {"question": "Which is NOT a model of emotional intelligence?", "options": ["Ability model", "Mixed model", "Trait model", "Memory model"], "answer": "Memory model"},
+            {"question": "In the Ability model, managing emotions involves:", "options": ["Avoiding emotions", "Critically evaluating feelings of oneself and others", "Ignoring relationships", "Memorizing data"], "answer": "Critically evaluating feelings of oneself and others"},
+            {"question": "In the Mixed model, empathy includes:", "options": ["Service orientation, developing others, and political awareness", "Ignoring others’ feelings", "Memorizing rules", "Avoiding social interaction"], "answer": "Service orientation, developing others, and political awareness"},
+            {"question": "Trait model refers to:", "options": ["A set of external behaviors", "Self-perceptions of emotional abilities at lower levels of personality", "IQ-based memory skills", "Learning facts only"], "answer": "Self-perceptions of emotional abilities at lower levels of personality"},
+            {"question": "Advantages of emotional intelligence include all EXCEPT:", "options": ["Enhances problem-solving skills", "Helps inspire and guide groups", "Decreases self-awareness", "Improves negotiation and conflict resolution"], "answer": "Decreases self-awareness"},
+            {"question": "Being emotionally intelligent involves all EXCEPT:", "options": ["Managing negative emotions", "Practicing empathy", "Knowing your stressors", "Ignoring feedback"], "answer": "Ignoring feedback"},
+            {"question": "Optimism helps in:", "options": ["Memorizing data faster", "Bouncing back from adversity", "Avoiding challenges", "Ignoring problems"], "answer": "Bouncing back from adversity"},
+            {"question": "IQ and EQ are the same.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Self-awareness is the ability to recognize one’s own emotions.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Social awareness helps in understanding others’ feelings and needs.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Emotionally intelligent people are less resilient to stress.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The Ability model includes perceiving, facilitating, understanding, and managing emotions.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The Mixed model emphasizes self-awareness, self-regulation, motivation, empathy, and social skills.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Trait model focuses on personality traits unrelated to emotions.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Emotional intelligence improves negotiation, conflict resolution, and leadership.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Managing negative emotions is not part of developing emotional intelligence.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Optimism and proactive stress management are ways to enhance EQ.", "options": ["True", "False"], "answer": "True"}
+
+        ],
+    },
+    "Emergency & Critical Care Medicine": {
         "" : [
 
         ]
@@ -2102,4 +2591,3 @@ quizzes = {
         ]
     },
 }
-
