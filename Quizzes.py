@@ -1,6 +1,60 @@
 
 quizzes = {
     "Critical": {
+            "Mid Term" :[
+                {"question": "Which procedure involves the surgical creation of an opening in the trachea to establish an emergency or prolonged artificial airway?", "options": ["Bronchoscopy", "Cricothyrotomy", "Laryngoscopy", "Tracheostomy"], "answer": "Tracheostomy"},
+                {"question": "Which device is specifically designed to diagnose and deliver an electrical shock to treat Ventricular Fibrillation (VF) or pulseless Ventricular Tachycardia (VT) in public settings?", "options": ["Electrocardiogram (ECG)", "Central Venous Catheter (CVC)", "Automated External Defibrillator (AED)", "Bag Valve Mask (BVM)"], "answer": "Automated External Defibrillator (AED)"},
+                {"question": "The main purpose of inserting an Arterial Line in a critically ill patient is for:", "options": ["Administering high-flow IV fluids and vasopressors", "Measuring Pulmonary Artery Pressure (PAP)", "Continuous Blood Pressure monitoring and frequent Blood Gas sampling", "Providing Total Parenteral Nutrition (TPN)"], "answer": "Continuous Blood Pressure monitoring and frequent Blood Gas sampling"},
+                {"question": "A Swan-Ganz catheter is a specialized device used in critical care to measure which specific physiological parameter?", "options": ["Intracranial Pressure (ICP)", "Cardiac Tamponade Pressure", "Blood pressure in the pulmonary artery", "Peripheral Artery Pressure"], "answer": "Blood pressure in the pulmonary artery"},
+                {"question": "Which laboratory or assessment tool is the standard, objective method used to evaluate and document a patient's Level of Consciousness (LOC) in an acute setting?", "options": ["Mini Mental State Exam (MMSE)", "Confusion Assessment Method (CAM)", "Glasgow Coma Scale (GCS)", "National Institutes of Health Stroke Scale (NIHSS)"], "answer": "Glasgow Coma Scale (GCS)"},
+                {"question": "Which type of shock is caused by massive vasodilation and pooling of blood due to a loss of sympathetic tone following a spinal cord injury or spinal anesthesia?", "options": ["Septic shock", "Hypovolemic shock", "Neurogenic shock", "Anaphylactic shock"], "answer": "Neurogenic shock"},
+                {"question": "The most common underlying cause that precipitates Cardiogenic Shock (impairment of the heart's pumping action) is:", "options": ["Pulmonary Embolism", "Aortic Dissection", "Severe Dysrhythmias", "Myocardial Infarction (MI)"], "answer": "Myocardial Infarction (MI)"},
+                {"question": "Which mode of Mechanical Ventilation guarantees the delivery of a preset Tidal Volume or Pressure at a set rate regardless of any spontaneous breathing efforts made by the patient?", "options": ["Assist-Control (AC)", "Controlled Mandatory Ventilation (CMV)", "Pressure Support Ventilation (PSV)", "SIMV"], "answer": "Controlled Mandatory Ventilation (CMV)"},
+                {"question": "The ventilator complication known as Barotrauma is specifically the result of:", "options": ["Infection due to prolonged intubation", "Fluid overload causing pulmonary edema", "High pressures leading to alveolar rupture and pneumothorax", "Oxygen toxicity causing fibrosis"], "answer": "High pressures leading to alveolar rupture and pneumothorax"},
+                {"question": "Hypovolemic shock is characterized by a primary deficiency in:", "options": ["Ejection Fraction (EF)", "Systemic Vascular Resistance (SVR)", "Intravascular volume and Preload", "Adrenal corticosteroid release"], "answer": "Intravascular volume and Preload"},
+                {"question": "Type 1 Diabetes Mellitus (DM) is characterized by Insulin resistance with a relative insulin deficiency.", "options": ["True", "False"], "answer": "False"},
+                {"question": "The Assist-Control (AC) mode of ventilation allows the patient to take spontaneous breaths in addition to the mandatory set breaths delivered by the machine.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Secondary Diabetes Mellitus is a form of DM that is caused by hormonal disorders, pancreatic disease, or drug use.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Anaphylactic Shock is characterized by a massive vasodilation due to an IgG-mediated systemic allergic reaction to an antigen.", "options": ["True", "False"], "answer": "False"},
+                {"question": "The Controlled Mandatory Ventilation (CMV) mode ensures a fixed tidal volume is delivered, but it must be initiated by the patient's effort.", "options": ["True", "False"], "answer": "False"},
+                {"question": "CPAP (Continuous Positive Airway Pressure) is a mode of MV that provides different pressures during inspiration (IPAP) and expiration (EPAP).", "options": ["True", "False"], "answer": "False"},
+                {"question": "A primary goal of nursing care for an unconscious patient is to place the patient on their side (lateral position) to prevent aspiration.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Hand hygiene (alcohol gel or washing) is only required at the ICU entry and exit points, not at every bed space.", "options": ["True", "False"], "answer": "False"},
+                {"question": "The Central Venous Catheter (CVC) is primarily used to administer medications and fluids, and is also used to measure Central Venous Pressure (CVP).", "options": ["True", "False"], "answer": "True"},
+                {"question": "The Electrocardiogram (ECG) is used to record the electrical activity of the heart and is essential for detecting ischemia and arrhythmias.", "options": ["True", "False"], "answer": "True"},
+                {"question": "The main purpose of a tracheostomy is to maintain an open airway.", "options": ["True", "False"], "answer": "True"},
+                {"question": "The most common cause of cardiogenic shock is myocardial infarction.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Hypovolemic shock is caused by fluid or blood loss.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Neurogenic shock causes massive vasoconstriction.", "options": ["True", "False"], "answer": "False"},
+                {"question": "In Assist-Control ventilation, the patient initiates a breath, and the ventilator delivers a full breath.", "options": ["True", "False"], "answer": "True"},
+                {"question": "CPAP provides continuous positive pressure during spontaneous breathing.", "options": ["True", "False"], "answer": "True"},
+                {"question": "BiPAP provides different pressure during inspiration and expiration.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Barotrauma is caused by excessive airway pressure.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Proper hand hygiene is essential when entering or leaving ICU or before touching any patient.", "options": ["True", "False"], "answer": "True"},
+                {"question": "The AED is used to diagnose and treat ventricular fibrillation or tachycardia.", "options": ["True", "False"], "answer": "True"},
+                {"question": "The ECG helps detect arrhythmias, ischemia, and myocardial infarction.", "options": ["True", "False"], "answer": "True"},
+                {"question": "The AED delivers a controlled electric shock to restore normal rhythm.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Unconscious patients should be positioned on their side to prevent aspiration.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Regular repositioning helps prevent pressure sores.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Monitoring vital signs frequently is not necessary for unconscious patients.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Nutrition for unconscious patients may be given through NG tube or IV fluids.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Type 1 diabetes mellitus is caused by:", "options": ["Insulin resistance", "Autoimmune destruction of beta cells", "Excess insulin", "Pancreatitis"], "answer": "Autoimmune destruction of beta cells"},
+                {"question": "Type 2 diabetes mellitus is due to:", "options": ["Insulin resistance and relative insulin deficiency", "Complete lack of insulin", "Infection", "Viral damage"], "answer": "Insulin resistance and relative insulin deficiency"},
+                {"question": "Gestational diabetes occurs:", "options": ["After menopause", "During pregnancy", "In childhood", "During infection"], "answer": "During pregnancy"},
+                {"question": "Secondary diabetes is caused by other conditions like pancreatic disease or drugs.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Insulin deficiency in Type 1 diabetes requires lifelong insulin therapy.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Type 2 diabetes can be managed by diet, exercise, and oral medications.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Diabetes mellitus involves abnormal metabolism of carbohydrates, fats, and proteins.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Insulin resistance is characteristic of Type 1 diabetes.", "options": ["True", "False"], "answer": "False"},
+                {"question": "The most effective infection control practice in ICU is hand hygiene.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Cardiac tamponade can be treated with pericardiocentesis.", "options": ["True", "False"], "answer": "True"},
+                {"question": "AEDs can automatically analyze heart rhythm and deliver shocks if needed.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Mechanical ventilation can cause barotrauma due to high airway pressure.", "options": ["True", "False"], "answer": "True"},
+                {"question": "A central venous catheter can be used to give parenteral nutrition.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Unconscious patients should never be left in a supine position without airway support.", "options": ["True", "False"], "answer": "True"},
+                {"question": "In diabetes management, lifestyle modification is essential in both types.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Shock always results in inadequate tissue perfusion.", "options": ["True", "False"], "answer": "True"}
+            ],
             "L1 DM": [
                 {
                     "question": "Insulin, secreted by alpha cells, moves glucose from the blood into muscle, liver, and fat cells.",
@@ -1132,89 +1186,918 @@ quizzes = {
                     {"question": "Hypertension is a risk factor for both angina and MI.", "options": ["True", "False"], "answer": "True"},
 
             ],
-            "Mid Term" :[
-                {"question": "Which procedure involves the surgical creation of an opening in the trachea to establish an emergency or prolonged artificial airway?", "options": ["Bronchoscopy", "Cricothyrotomy", "Laryngoscopy", "Tracheostomy"], "answer": "Tracheostomy"},
-                {"question": "Which device is specifically designed to diagnose and deliver an electrical shock to treat Ventricular Fibrillation (VF) or pulseless Ventricular Tachycardia (VT) in public settings?", "options": ["Electrocardiogram (ECG)", "Central Venous Catheter (CVC)", "Automated External Defibrillator (AED)", "Bag Valve Mask (BVM)"], "answer": "Automated External Defibrillator (AED)"},
-                {"question": "The main purpose of inserting an Arterial Line in a critically ill patient is for:", "options": ["Administering high-flow IV fluids and vasopressors", "Measuring Pulmonary Artery Pressure (PAP)", "Continuous Blood Pressure monitoring and frequent Blood Gas sampling", "Providing Total Parenteral Nutrition (TPN)"], "answer": "Continuous Blood Pressure monitoring and frequent Blood Gas sampling"},
-                {"question": "A Swan-Ganz catheter is a specialized device used in critical care to measure which specific physiological parameter?", "options": ["Intracranial Pressure (ICP)", "Cardiac Tamponade Pressure", "Blood pressure in the pulmonary artery", "Peripheral Artery Pressure"], "answer": "Blood pressure in the pulmonary artery"},
-                {"question": "Which laboratory or assessment tool is the standard, objective method used to evaluate and document a patient's Level of Consciousness (LOC) in an acute setting?", "options": ["Mini Mental State Exam (MMSE)", "Confusion Assessment Method (CAM)", "Glasgow Coma Scale (GCS)", "National Institutes of Health Stroke Scale (NIHSS)"], "answer": "Glasgow Coma Scale (GCS)"},
-                {"question": "Which type of shock is caused by massive vasodilation and pooling of blood due to a loss of sympathetic tone following a spinal cord injury or spinal anesthesia?", "options": ["Septic shock", "Hypovolemic shock", "Neurogenic shock", "Anaphylactic shock"], "answer": "Neurogenic shock"},
-                {"question": "The most common underlying cause that precipitates Cardiogenic Shock (impairment of the heart's pumping action) is:", "options": ["Pulmonary Embolism", "Aortic Dissection", "Severe Dysrhythmias", "Myocardial Infarction (MI)"], "answer": "Myocardial Infarction (MI)"},
-                {"question": "Which mode of Mechanical Ventilation guarantees the delivery of a preset Tidal Volume or Pressure at a set rate regardless of any spontaneous breathing efforts made by the patient?", "options": ["Assist-Control (AC)", "Controlled Mandatory Ventilation (CMV)", "Pressure Support Ventilation (PSV)", "SIMV"], "answer": "Controlled Mandatory Ventilation (CMV)"},
-                {"question": "The ventilator complication known as Barotrauma is specifically the result of:", "options": ["Infection due to prolonged intubation", "Fluid overload causing pulmonary edema", "High pressures leading to alveolar rupture and pneumothorax", "Oxygen toxicity causing fibrosis"], "answer": "High pressures leading to alveolar rupture and pneumothorax"},
-                {"question": "Hypovolemic shock is characterized by a primary deficiency in:", "options": ["Ejection Fraction (EF)", "Systemic Vascular Resistance (SVR)", "Intravascular volume and Preload", "Adrenal corticosteroid release"], "answer": "Intravascular volume and Preload"},
-                {"question": "Type 1 Diabetes Mellitus (DM) is characterized by Insulin resistance with a relative insulin deficiency.", "options": ["True", "False"], "answer": "False"},
-                {"question": "The Assist-Control (AC) mode of ventilation allows the patient to take spontaneous breaths in addition to the mandatory set breaths delivered by the machine.", "options": ["True", "False"], "answer": "False"},
-                {"question": "Secondary Diabetes Mellitus is a form of DM that is caused by hormonal disorders, pancreatic disease, or drug use.", "options": ["True", "False"], "answer": "True"},
-                {"question": "Anaphylactic Shock is characterized by a massive vasodilation due to an IgG-mediated systemic allergic reaction to an antigen.", "options": ["True", "False"], "answer": "False"},
-                {"question": "The Controlled Mandatory Ventilation (CMV) mode ensures a fixed tidal volume is delivered, but it must be initiated by the patient's effort.", "options": ["True", "False"], "answer": "False"},
-                {"question": "CPAP (Continuous Positive Airway Pressure) is a mode of MV that provides different pressures during inspiration (IPAP) and expiration (EPAP).", "options": ["True", "False"], "answer": "False"},
-                {"question": "A primary goal of nursing care for an unconscious patient is to place the patient on their side (lateral position) to prevent aspiration.", "options": ["True", "False"], "answer": "True"},
-                {"question": "Hand hygiene (alcohol gel or washing) is only required at the ICU entry and exit points, not at every bed space.", "options": ["True", "False"], "answer": "False"},
-                {"question": "The Central Venous Catheter (CVC) is primarily used to administer medications and fluids, and is also used to measure Central Venous Pressure (CVP).", "options": ["True", "False"], "answer": "True"},
-                {"question": "The Electrocardiogram (ECG) is used to record the electrical activity of the heart and is essential for detecting ischemia and arrhythmias.", "options": ["True", "False"], "answer": "True"},
-                {"question": "The main purpose of a tracheostomy is to maintain an open airway.", "options": ["True", "False"], "answer": "True"},
-                {"question": "The most common cause of cardiogenic shock is myocardial infarction.", "options": ["True", "False"], "answer": "True"},
-                {"question": "Hypovolemic shock is caused by fluid or blood loss.", "options": ["True", "False"], "answer": "True"},
-                {"question": "Neurogenic shock causes massive vasoconstriction.", "options": ["True", "False"], "answer": "False"},
-                {"question": "In Assist-Control ventilation, the patient initiates a breath, and the ventilator delivers a full breath.", "options": ["True", "False"], "answer": "True"},
-                {"question": "CPAP provides continuous positive pressure during spontaneous breathing.", "options": ["True", "False"], "answer": "True"},
-                {"question": "BiPAP provides different pressure during inspiration and expiration.", "options": ["True", "False"], "answer": "True"},
-                {"question": "Barotrauma is caused by excessive airway pressure.", "options": ["True", "False"], "answer": "True"},
-                {"question": "Proper hand hygiene is essential when entering or leaving ICU or before touching any patient.", "options": ["True", "False"], "answer": "True"},
-                {"question": "The AED is used to diagnose and treat ventricular fibrillation or tachycardia.", "options": ["True", "False"], "answer": "True"},
-                {"question": "The ECG helps detect arrhythmias, ischemia, and myocardial infarction.", "options": ["True", "False"], "answer": "True"},
-                {"question": "The AED delivers a controlled electric shock to restore normal rhythm.", "options": ["True", "False"], "answer": "True"},
-                {"question": "Unconscious patients should be positioned on their side to prevent aspiration.", "options": ["True", "False"], "answer": "True"},
-                {"question": "Regular repositioning helps prevent pressure sores.", "options": ["True", "False"], "answer": "True"},
-                {"question": "Monitoring vital signs frequently is not necessary for unconscious patients.", "options": ["True", "False"], "answer": "False"},
-                {"question": "Nutrition for unconscious patients may be given through NG tube or IV fluids.", "options": ["True", "False"], "answer": "True"},
-                {"question": "Type 1 diabetes mellitus is caused by:", "options": ["Insulin resistance", "Autoimmune destruction of beta cells", "Excess insulin", "Pancreatitis"], "answer": "Autoimmune destruction of beta cells"},
-                {"question": "Type 2 diabetes mellitus is due to:", "options": ["Insulin resistance and relative insulin deficiency", "Complete lack of insulin", "Infection", "Viral damage"], "answer": "Insulin resistance and relative insulin deficiency"},
-                {"question": "Gestational diabetes occurs:", "options": ["After menopause", "During pregnancy", "In childhood", "During infection"], "answer": "During pregnancy"},
-                {"question": "Secondary diabetes is caused by other conditions like pancreatic disease or drugs.", "options": ["True", "False"], "answer": "True"},
-                {"question": "Insulin deficiency in Type 1 diabetes requires lifelong insulin therapy.", "options": ["True", "False"], "answer": "True"},
-                {"question": "Type 2 diabetes can be managed by diet, exercise, and oral medications.", "options": ["True", "False"], "answer": "True"},
-                {"question": "Diabetes mellitus involves abnormal metabolism of carbohydrates, fats, and proteins.", "options": ["True", "False"], "answer": "True"},
-                {"question": "Insulin resistance is characteristic of Type 1 diabetes.", "options": ["True", "False"], "answer": "False"},
-                {"question": "The most effective infection control practice in ICU is hand hygiene.", "options": ["True", "False"], "answer": "True"},
-                {"question": "Cardiac tamponade can be treated with pericardiocentesis.", "options": ["True", "False"], "answer": "True"},
-                {"question": "AEDs can automatically analyze heart rhythm and deliver shocks if needed.", "options": ["True", "False"], "answer": "True"},
-                {"question": "Mechanical ventilation can cause barotrauma due to high airway pressure.", "options": ["True", "False"], "answer": "True"},
-                {"question": "A central venous catheter can be used to give parenteral nutrition.", "options": ["True", "False"], "answer": "True"},
-                {"question": "Unconscious patients should never be left in a supine position without airway support.", "options": ["True", "False"], "answer": "True"},
-                {"question": "In diabetes management, lifestyle modification is essential in both types.", "options": ["True", "False"], "answer": "True"},
-                {"question": "Shock always results in inadequate tissue perfusion.", "options": ["True", "False"], "answer": "True"}
-
-            ]
     },
     "Pediatric": {
-        "L1 " : [
+        "Mid Term" : [
+                {"question": "Cerebral palsy is often associated with epilepsy and abnormalities of speech and vision.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Diet of a child with acute glomerulonephritis contains salts and protein.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Nephrotic syndrome occurs in boys more than girls.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Group AB-hemolytic streptococcal can cause nephrotic syndrome.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Hyperthermia is a common manifestation of acute glomerulonephritis.", "options": ["True", "False"], "answer": "False"},
+                {"question": "The factors that affect the risk of infection include climate and age.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Hypothermia is a common manifestation of acute glomerulonephritis.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Hypertensive encephalopathy is an important sign of a child with acute glomerulonephritis.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Profound level of mental retardation can be trained.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Low set ears are commonly associated with mental retardation in children.", "options": ["True", "False"], "answer": "True"},
+                {"question": "The main criteria of cerebral palsy is hypertonicity of muscle tone.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Epidemiological age of children with acute glomerulonephritis is usually 5-10 years.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Protein is restricted for a child with nephrotic syndrome.", "options": ["True", "False"], "answer": "False"}, 
+                {"question": "Which of the following is most likely associated with congestive heart disease?","options": ["Endocarditis", "Increased blood pressure", "Heavy exercises", "Child sex"],"answer": "Endocarditis"},
+                {"question": "Mental retardation is characterized by each of the following EXCEPT:","options": ["Reduced spontaneous activity", "Reduced spontaneous movements", "Tremors or involuntary movements", "Short attention span"],"answer": "Tremors or involuntary movements"},
+                {"question": "For a child with acute glomerulonephritis, which nursing intervention takes highest priority during edema?","options": ["Restriction of fluid intake", "Monitoring acid-base balance", "Avoiding abdominal palpation", "Monitoring blood pressure"],"answer": "Restriction of fluid intake"},
+                {"question": "A child with nephrotic syndrome is at risk for:","options": ["Hypoxia", "Kernicterus", "Hypertensive encephalopathy", "Infection"],"answer": "Infection"},
+                {"question": "Which part of the kidney is primarily affected in nephrotic syndrome?","options": ["Cortex", "Ureter", "Nephron", "Bladder"],"answer": "Nephron"},
+                {"question": "Which of the following organisms is responsible for the development of acute glomerulonephritis?","options": ["Streptococcal pneumonia", "Haemophilus influenza", "Group A β-hemolytic streptococcus", "Staphylococcus aureus"],"answer": "Group A β-hemolytic streptococcus"},
+                {"question": "A child with acute glomerulonephritis is at risk for:","options": ["Hypoxia", "Kernicterus", "Hypertensive encephalopathy", "Infection"],"answer": "Hypertensive encephalopathy"}
+        ],
+        "L1 Introduction":[
+                {
+                    "question": "Which of the following is NOT a primary goal of pediatric nursing?",
+                    "options": ["To promote growth and development toward an optimum state of health", "To perform complex surgical procedures on children", "To interpret basic needs of children to their family members", "To prevent disease and alleviate suffering in children"],
+                    "answer": "To perform complex surgical procedures on children"
+                },
+                {
+                    "question": "Which quality of a good pediatric nurse emphasizes the focus on the child's environment and support system?",
+                    "options": ["Good observer", "Honest and truthful", "Interested in family care", "Sympathetic and patient"],
+                    "answer": "Interested in family care"
+                },
+                {
+                    "question": "The primary role of the pediatric nurse that includes diagnosing, monitoring, and administering therapeutic intervention is the:",
+                    "options": ["Advocate", "Educator", "Caregiver", "Manager or Leader"],
+                    "answer": "Caregiver"
+                },
+                {
+                    "question": "As an Educator, the pediatric nurse promotes child health and prevents complications primarily through:",
+                    "options": ["Monitoring vital signs and administering immunizations", "Health education about healthy lifestyle, behavior, and attitude", "Organizing the care unit and developing staff", "Collecting, analyzing, and interpreting data from research projects"],
+                    "answer": "Health education about healthy lifestyle, behavior, and attitude"
+                },
+                {
+                    "question": "The Manager/Leader role requires the nurse to perform all of the following EXCEPT:",
+                    "options": ["Planning and giving direction", "Developing staff and monitoring operations", "Applying findings from research projects", "Organizing care orderly for successful outcomes"],
+                    "answer": "Applying findings from research projects"
+                },
+                {
+                    "question": "Which action is a part of the Coordinator and Collaborator role?",
+                    "options": ["Providing health teaching to children and their parents", "Monitoring patients' safety and protecting them from harm", "Working together with other health team members towards better child health care", "Assessing their needs and planning for their care"],
+                    "answer": "Working together with other health team members towards better child health care"
+                },
+                {
+                    "question": "Using play and other creative techniques is explicitly mentioned as a useful strategy for the nurse's role as a:",
+                    "options": ["Consultant", "Communicator", "Caregiver", "Researcher"],
+                    "answer": "Communicator"
+                },
+                {
+                    "question": "Which level of education typically corresponds to the Differentiated Practice Role of Care Manager?",
+                    "options": ["Associate degree", "BS degree", "Master degree", "Doctorate degree"],
+                    "answer": "BS degree"
+                },
+                {
+                    "question": "Which of the following is listed as an Advanced practice role?",
+                    "options": ["Clinical care coordinator (associate degree)", "Care manager (BS degree)", "Clinical nurse specialist", "Clinical nurse (Master degree)"],
+                    "answer": "Clinical nurse specialist"
+                },
+                {
+                    "question": "Protecting patients from harm and ensuring patient safety falls primarily under which Primary Role?",
+                    "options": ["Caregiver", "Advocate", "Manager or Leader", "Researcher"],
+                    "answer": "Advocate"
+                },
+                {
+                    "question": "Which set of care types is included in the concept of pediatric nursing?",
+                    "options": ["Diagnostic and Surgical care only", "Preventive, promotive, curative, and rehabilitative care", "Acute and Chronic illness care only", "Medical and Therapeutic care only"],
+                    "answer": "Preventive, promotive, curative, and rehabilitative care"
+                },
+                {
+                    "question": "Pediatrics can be defined as the branch of medical science that deals with the care of children from conception to adolescence in health and illness.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "The primary goal of pediatric nursing is only to provide curative care to sick children.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                },
+                {
+                    "question": "A good pediatric nurse must be sympathetic, kind, patient, and cheerful.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "The role of Advocate primarily involves helping the child achieve optimal growth and development through health education.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                },
+                {
+                    "question": "Nursing research is an integral part of professional nursing, and pediatric nurses should participate or perform research projects.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "As a Collaborator, the nurse's duties include interpreting the objectives of health care to the family and working together with other health team members.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "The Consultant role is limited to guiding parents and does not extend to assisting older children with self-care.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                },
+                {
+                    "question": "The care provided by the nurse to sick children and their families does not include the evaluation of children's condition and the plan of care.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                },
+                {
+                    "question": "The Differentiated Practice Role of Clinical nurse is associated with a Master degree.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "The Differentiated Practice Role of Clinical care coordinator is associated with a Master degree.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                },
+                {
+                    "question": "The nurse's goal to promote growth and development is aimed at enabling children to function at the peak of their capacity in the future.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "The pediatric nurse gives direct bedside care only in hospitals.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                },
+                {
+                    "question": "The nurse can collaborate with social service agencies, judicial systems, and schools to ensure holistic care.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "The concept of child care implies that a healthy child contributes to a healthy nation.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "Which professional provides direct bedside care to sick children and guides families during health and illness?",
+                    "options": ["General practitioner", "Pediatric nurse", "Pharmacist", "Physiotherapist"],
+                    "answer": "Pediatric nurse"
+                },
+                {
+                    "question": "Pediatrics deals with the health and illness of children from conception to adolescence.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "Pediatric nursing emphasizes the development of body, mind, and spirit of children.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "One of the main goals of pediatric nursing is to maintain the child’s health and prevent disease.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "Pediatric nurses should guide family members in childcare and decision-making.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "Which quality is essential for a pediatric nurse?",
+                    "options": ["Compassion and patience", "Knowledge of child growth and development", "Ability to educate and guide families", "All of the above"],
+                    "answer": "All of the above"
+                },
+                {
+                    "question": "A pediatric nurse only focuses on the child, not the family.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                },
+                {
+                    "question": "As a caregiver, the pediatric nurse:",
+                    "options": ["Only educates parents", "Works with administrative tasks only", "Helps patients, diagnoses, monitors, and administers therapeutic intervention", "Does not interact with the child"],
+                    "answer": "Helps patients, diagnoses, monitors, and administers therapeutic intervention"
+                },
+                {
+                    "question": "As an advocate, a pediatric nurse helps families make informed decisions and ensures patient safety.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "As an educator, the pediatric nurse maintains child’s health, promotes optimal growth, and teaches healthy lifestyle and behavior.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "Which role involves performing research related to child health?",
+                    "options": ["Educator", "Caregiver", "Researcher", "Manager"],
+                    "answer": "Researcher"
+                },
+                {
+                    "question": "The pediatric nurse only provides bedside care and does not manage staff.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                },
+                {
+                    "question": "As a manager, the pediatric nurse organizes care for better outcomes, plans and develops staff, monitors operations, and represents staff members.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "As a coordinator, the pediatric nurse works with other health team members, acts as a liaison, and coordinates nursing services with other child services.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "The communicator role involves using play and age-appropriate communication techniques and effective communication with children and families.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "As a consultant, the pediatric nurse guides parents on health maintenance, illness prevention, and promotes self-care and responsibility in older children.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "Advanced practice pediatric nurses assist children to return to maximal function after illness or disabilities.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "The concept of child care emphasizes: Healthy child → Healthy citizen → Healthy nation.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "Every child has the fundamental right to health.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "Pediatric nursing aims only to treat illness without preventive care.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                },
+                {
+                    "question": "Pediatric nursing provides care in hospitals, homes, and community settings.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "The primary role of pediatric nursing includes preventive, promotive, curative, and rehabilitative care.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "Pediatric nursing disregards family education in childcare.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                },
+                {
+                    "question": "The pediatric nurse participates in research by identifying problem areas, collecting data, analyzing, and applying findings.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "Which of the following is NOT a primary role of a pediatric nurse?",
+                    "options": ["Caregiver", "Educator", "Cleaning staff", "Researcher"],
+                    "answer": "Cleaning staff"
+                },
+                {
+                    "question": "Effective communication with children may involve play and other creative techniques.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "A pediatric nurse collaborates with social service agencies, judicial systems, and schools to ensure holistic care.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "The pediatric nurse focuses only on physical development and ignores mental and spiritual growth.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                },
+                {
+                    "question": "Pediatric nursing aims to help children function at the peak of their capacity in the future.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "Pediatric nurses educate parents about healthy lifestyle, behavior, and attitude to develop proper child care practices.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "Pediatric nursing is concerned only with curative care.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                },
+                {
+                    "question": "Research is an integral part of professional pediatric nursing.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "Pediatric nurses assist children to achieve optimal growth and development and prevent diseases.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "The pediatric nurse acts as an advocate to ensure patient safety and protect children from harm.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "Pediatric nursing does not include rehabilitative care.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                },
+                {
+                    "question": "Pediatric nurses act as coordinators among healthcare team members to achieve better child health outcomes.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "Communication with children should be age-appropriate and may include play techniques.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "A pediatric nurse as a consultant only focuses on young children and ignores older children’s self-care.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                },
+                {
+                    "question": "Managerial roles of pediatric nurses include planning, giving direction, developing staff, and monitoring operations.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "Pediatric nursing covers preventive, promotive, curative, and rehabilitative care in all settings.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                }
+        ],
+        "L2 Mental Retardation":[
+                {
+                    "question": "Pediatrics is defined as the branch of medical science that deals with the care of children from conception to:",
+                    "options": ["School age", "Young adulthood", "Adolescence", "Puberty"],
+                    "answer": "Adolescence"
+                },
+                {
+                    "question": "Which of the following is NOT one of the four components of care emphasized in Pediatric Nursing?",
+                    "options": ["Curative care", "Preventive care", "Surgical care", "Rehabilitative care"],
+                    "answer": "Surgical care"
+                },
+                {
+                    "question": "A primary goal of pediatric nursing is to promote growth and development towards an optimum state of health for functioning at the:",
+                    "options": ["Average level of society", "Peak of their capacity in future", "Minimal level required for independence", "Level comparable to their peers"],
+                    "answer": "Peak of their capacity in future"
+                },
+                {
+                    "question": "Which personal quality is essential for a good pediatric nurse, as it relates to emotional support and endurance?",
+                    "options": ["Good observer", "Honest and truthful", "Sympathetic, kind, patient, and cheerful", "Highly skilled in research"],
+                    "answer": "Sympathetic, kind, patient, and cheerful"
+                },
+                {
+                    "question": "The primary role of the pediatric nurse that involves direct, hands-on tasks such as diagnosing, monitoring, and administering therapeutic intervention is the:",
+                    "options": ["Advocate", "Educator", "Caregiver", "Consultant"],
+                    "answer": "Caregiver"
+                },
+                {
+                    "question": "The role where the nurse ensures patient safety and protects them from harm by assisting the family in making informed decisions is the:",
+                    "options": ["Manager or Leader", "Researcher", "Advocate", "Communicator"],
+                    "answer": "Advocate"
+                },
+                {
+                    "question": "As an Educator, the pediatric nurse prevents diseases and complications primarily through:",
+                    "options": ["Administering vaccinations on schedule", "Health education about healthy lifestyle, behavior, and attitude", "Collaborating with social service agencies", "Performing physical assessments"],
+                    "answer": "Health education about healthy lifestyle, behavior, and attitude"
+                },
+                {
+                    "question": "Which responsibility belongs to the Pediatric Nurse in the role of Manager or Leader?",
+                    "options": ["Collecting, analyzing, and interpreting data", "Assisting older children with self-care", "Developing staff and monitoring operations", "Interpreting the objectives of health care to the family"],
+                    "answer": "Developing staff and monitoring operations"
+                },
+                {
+                    "question": "When acting as a Communicator, the nurse often utilizes which technique to interact effectively with infants and children?",
+                    "options": ["Standard medical terminology", "Detailed written reports", "Play and other creative techniques", "Verbal instructions only"],
+                    "answer": "Play and other creative techniques"
+                },
+                {
+                    "question": "The secondary role that involves guiding older children to become responsible for their own lives and developing self-care ways is the:",
+                    "options": ["Collaborator", "Communicator", "Consultant", "Caregiver"],
+                    "answer": "Consultant"
+                },
+                {
+                    "question": "In the Differentiated Practice Roles framework, the Clinical care coordinator role is associated with which level of education?",
+                    "options": ["Master degree", "BS degree", "Associate degree", "PhD"],
+                    "answer": "Associate degree"
+                },
+                {
+                    "question": "Which of the following is listed as an Advanced Practice Role?",
+                    "options": ["Care manager", "Clinical care coordinator", "Clinical nurse specialist", "Clinical nurse"],
+                    "answer": "Clinical nurse specialist"
+                },
+                {
+                    "question": "Pediatric nursing emphasizes only the physical development of the growing individual.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                },
+                {
+                    "question": "The nurse's role is limited to providing direct bedside care to sick children in hospitals and does not extend to home care guidance.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                },
+                {
+                    "question": "The role of the Advocate includes attention to patients' safety and protecting patients from harm.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "Nursing research is considered an integral part of professional nursing for the pediatric nurse.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "As a Collaborator, the nurse acts as a liaison among health team members and interprets the objectives of health care to the family.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "The care provided by the nurse to sick children and their families does not include the Evaluation step of the nursing care plan.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                },
+                {
+                    "question": "The Manager/Leader role is responsible for developing staff and giving rewards fairly.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "The concept of Child Care asserts that a healthy child becomes a healthy citizen, which makes a healthy nation.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "Mental retardation is defined as limitations in performance due to impairments in measured intelligence and:",
+                    "options": ["Motor capacity", "Adaptive behavior", "Verbal expression", "Manipulative capacities"],
+                    "answer": "Adaptive behavior"
+                },
+                {
+                    "question": "The normal range for Intelligence Quotient (IQ) is typically:",
+                    "options": ["70–90", "90–110", "110–130", "Above 130"],
+                    "answer": "90–110"
+                },
+                {
+                    "question": "According to the classification table, the prognosis for a child with Moderate mental retardation (IQ 36-50) is primarily:",
+                    "options": ["Educable in special class, self care", "Non-trainable, need total supervision", "Educational problem, self care", "Trainable, self care"],
+                    "answer": "Trainable, self care"
+                },
+                {
+                    "question": "Chromosomal abnormalities, such as Down syndrome, are listed under which etiological category for mental retardation?",
+                    "options": ["Intrauterine", "Perinatal", "Genetic", "Postnatal"],
+                    "answer": "Genetic"
+                },
+                {
+                    "question": "Which condition, resulting from high bilirubin levels (jaundice), is classified as a Neonatal predisposing factor for mental retardation?",
+                    "options": ["Rubella", "Hypothyroidism", "Kernicterus", "Asphyxia during labor"],
+                    "answer": "Kernicterus"
+                },
+                {
+                    "question": "Which of the following is the Cardinal symptom of mental retardation?",
+                    "options": ["Convulsions", "Sleep problems", "Delayed achievement of development milestones", "Short attention span"],
+                    "answer": "Delayed achievement of development milestones"
+                },
+                {
+                    "question": "Delayed social smile and poor feeding (weak or uncoordinated sucking) are main clinical findings during which period of the child's life?",
+                    "options": ["Early childhood", "Late childhood", "Infancy", "Adolescence"],
+                    "answer": "Infancy"
+                },
+                {
+                    "question": "Life-long therapy with thyroid hormone is the specific treatment required for which treatable condition that can lead to mental impairment?",
+                    "options": ["Galactosemia", "Phenylketonuria", "Rubella infection", "Congenital hypothyroidism"],
+                    "answer": "Congenital hypothyroidism"
+                },
+                {
+                    "question": "The nurse should anticipate which emotional reaction from the family upon discovering the child's diagnosis of mental retardation?",
+                    "options": ["Grief reaction to loss of the perfect child", "Immediate acceptance and commitment to training", "Relief that the cause is identified", "Anger directed only at the child"],
+                    "answer": "Grief reaction to loss of the perfect child"
+                },
+                {
+                    "question": "In the management of untreatable mental retardation, which measure is supportive but specifically reserved for the profoundly retarded children?",
+                    "options": ["Treatment of associated problems like epilepsy", "Education and training programs", "Institutionalization", "Emotional support to the family"],
+                    "answer": "Institutionalization"
+                },
+                {
+                    "question": "The prevalence of mental retardation in the general population is approximately 2-3% of children.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "About 75% (3/4) of the total mental retardation cases are of the severe to profound type.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                },
+                {
+                    "question": "A child with Profound mental retardation (IQ < 20) is classified as non-trainable and needs total supervision.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "Rubella and toxoplasmosis are examples of Perinatal congenital infections that can cause mental retardation.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                },
+                {
+                    "question": "Asphyxia during labor is classified as a Perinatal cause of mental retardation.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "Delayed speech and language disabilities are the most important features found in infancy.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                },
+                {
+                    "question": "One of the prevention strategies for mental retardation is the vaccination of all females against rubella before the childbearing period.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {
+                    "question": "Galactosemia requires life-long therapy with thyroid hormone.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                },
+                {
+                    "question": "When helping the family adjust to the diagnosis, the nurse should discourage the expression of feelings and concerns to reduce family anxiety.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                },
+                {
+                    "question": "Cerebral palsy, blindness, and deafness are conditions that may be confused with mental retardation.",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                },
+                {"question": "Mental retardation is defined as limitations in performance due to:", "options": ["Impairments in adaptive behavior and measured intelligence", "Physical disability only", "Emotional disturbance only", "Language delay only"], "answer": "Impairments in adaptive behavior and measured intelligence"},
+                {"question": "Intelligence is usually expressed in terms of:", "options": ["Mental quotient", "Developmental index", "Intelligence quotient (IQ)", "Growth percentile"], "answer": "Intelligence quotient (IQ)"},
+                {"question": "Normal IQ range is:", "options": ["80-90", "90-110", "100-120", "70-90"], "answer": "90-110"},
+                {"question": "The formula for IQ is:", "options": ["Chronologic age ÷ Mental age × 100", "Mental age ÷ Chronologic age × 100", "Mental age × Chronologic age ÷ 100", "Chronologic age × Mental age ÷ 100"], "answer": "Mental age ÷ Chronologic age × 100"},
+                {"question": "Prevalence of mental retardation in the general population is:", "options": ["1–2%", "2–3%", "5–6%", "10%"], "answer": "2–3%"},
+                {"question": "The majority of mental retardation cases are:", "options": ["Mild type", "Moderate type", "Severe type", "Profound type"], "answer": "Mild type"},
+                {"question": "Mild mental retardation corresponds to an IQ of:", "options": ["20-35", "36-50", "51-70", "68-83"], "answer": "51-70"},
+                {"question": "Severe mental retardation usually requires:", "options": ["Special education and minimal supervision", "Total supervision", "Self-care with slight support", "No supervision needed"], "answer": "Total supervision"},
+                {"question": "Genetic causes of mental retardation include:", "options": ["Down syndrome", "Microcephaly", "Hydrocephalus", "All of the above"], "answer": "All of the above"},
+                {"question": "Congenital infections causing mental retardation include:", "options": ["Rubella", "Toxoplasmosis", "Both A and B", "None"], "answer": "Both A and B"},
+                {"question": "Drugs and toxins during pregnancy that may cause mental retardation include:", "options": ["Phenytoin", "Alcohol", "Tobacco", "All of the above"], "answer": "All of the above"},
+                {"question": "Perinatal causes of mental retardation include:", "options": ["Asphyxia during labor", "Trauma during labor", "Intracranial hemorrhage", "All of the above"], "answer": "All of the above"},
+                {"question": "Neonatal causes of mental retardation include:", "options": ["Hypoglycemia", "Kernicterus", "Intracranial infections", "All of the above"], "answer": "All of the above"},
+                {"question": "Postnatal causes of mental retardation include:", "options": ["Trauma", "Infections like meningitis", "Poisoning like lead or copper", "All of the above"], "answer": "All of the above"},
+                {"question": "Delayed achievement of developmental milestones is:", "options": ["A cardinal symptom of mental retardation", "Not significant", "Only present in severe cases", "Only in neonates"], "answer": "A cardinal symptom of mental retardation"},
+                {"question": "In infancy, a main clinical finding is:", "options": ["Delayed social smile", "Weak or uncoordinated sucking", "Delayed head and trunk control", "All of the above"], "answer": "All of the above"},
+                {"question": "In early childhood, which feature is important?", "options": ["Delayed speech and language", "Short attention span and hyperactivity", "Delayed standing and walking", "All of the above"], "answer": "All of the above"},
+                {"question": "School failure in late childhood can be a manifestation of mental retardation.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Diagnosis of mental retardation includes:", "options": ["History and physical examination", "IQ test", "Laboratory and imaging investigations", "All of the above"], "answer": "All of the above"},
+                {"question": "Conditions that may be confused with mental retardation include:", "options": ["Cerebral palsy", "Blindness and deafness", "Social deprivation", "All of the above"], "answer": "All of the above"},
+                {"question": "Prevention of mental retardation includes vaccination of females against rubella before childbearing.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Avoiding further pregnancies in untreatable inherited disorders is part of prevention.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Early diagnosis of treatable conditions like congenital hypothyroidism can prevent retardation.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Galactosemia management requires a galactose-free diet.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Management of untreatable conditions is primarily supportive.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Emotional support to the family is part of management of mental retardation.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Institutionalization may be required for profoundly retarded children.", "options": ["True", "False"], "answer": "True"},
+                {"question": "General nursing care includes helping the family adjust to the diagnosis.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Nurses should encourage families to express concerns and repeat information as needed.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Nurses should help families develop a thorough plan of care and teach necessary skills.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Interpreting child’s behavior (e.g., regression, anger) to parents is part of nursing care.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Nurses should assess siblings and communicate honestly about the child’s condition.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Promoting family understanding includes clarifying misconceptions and reinforcing information.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Reducing family fears includes discussing fear of death, tests, or child’s ability to compete with peers.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Nursing care does NOT involve helping parents plan for the future of the child.", "options": ["True", "False"], "answer": "False"},
+                {"question": "The nurse serves as a role model regarding attitude and behavior toward the child.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Short attention span and hyperactivity in early childhood are clinical features of mental retardation.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Poor feeding and weak sucking in infancy can indicate mental retardation.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Delayed head and trunk control may appear as hypotonia or spastic muscle tone.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Sleep problems and convulsions are common features in early childhood mental retardation.", "options": ["True", "False"], "answer": "True"}
+
+        ],
+        "L3 Cerebral Palsy":[
+                {"question": "Cerebral palsy is defined as a non-progressive disorder of cerebral function involving posture and movement, dating to events in all of the following periods EXCEPT:", "options": ["Prenatal period", "Natal period", "Neonatal period", "Adolescence period"], "answer": "Adolescence period"},
+                {"question": "Cerebral palsy is often associated with all of the following EXCEPT:", "options": ["Epilepsy", "Abnormalities of speech", "Abnormalities of vision", "Normal intellectual function"], "answer": "Normal intellectual function"},
+                {"question": "Which of the following is considered an Antenatal cause of Cerebral Palsy?", "options": ["Kernicterus", "Maternal irradiations of the pelvis", "Birth injury", "Meningitis"], "answer": "Maternal irradiations of the pelvis"},
+                {"question": "Intracranial hemorrhage that occurs during labor is classified as which type of cause for Cerebral Palsy?", "options": ["Antenatal", "Intranatal", "Postnatal", "Genetic"], "answer": "Intranatal"},
+                {"question": "Kernicterus, resulting from severe neonatal jaundice, is primarily listed as a:", "options": ["Antenatal cause", "Intranatal cause", "Postnatal cause", "Genetic cause"], "answer": "Postnatal cause"},
+                {"question": "Which of the following muscle tone variations in Cerebral Palsy is characterized by stiff muscles and exaggerated reflexes?", "options": ["Rigidity", "Ataxia", "Hypotonia", "Spasticity"], "answer": "Spasticity"},
+                {"question": "All of the following are common signs and symptoms of Cerebral Palsy EXCEPT:", "options": ["Tremors or involuntary movements", "Difficulty with swallowing", "Always normal reflexes", "Delays in reaching motor skills milestones"], "answer": "Always normal reflexes"},
+                {"question": "Which type of Cerebral Palsy is the most common?", "options": ["Ataxic CP", "Extrapyramidal CP", "Spastic CP", "Mixed types CP"], "answer": "Spastic CP"},
+                {"question": "The most severe form of Spastic Cerebral Palsy, associated with marked motor impairment of all extremities and high association with mental retardation and seizures, is:", "options": ["Spastic monoplegia", "Spastic diplegia", "Spastic hemiplegia", "Spastic quadriplegia"], "answer": "Spastic quadriplegia"},
+                {"question": "Ataxic cerebral palsy, due to perinatal asphyxia affecting the cerebellum, is characterized by:", "options": ["Stiff muscles with exaggerated reflexes", "Lower limbs more affected than upper", "Hypotonia, intention tremors, and ataxic gait", "Arm being more involved than the leg"], "answer": "Hypotonia, intention tremors, and ataxic gait"},
+                {"question": "Which treatment measure is used to reduce abnormal muscle tone (spasticity) in Cerebral Palsy?", "options": ["Life-long thyroid hormone therapy", "Small regular doses of benzodiazepine", "High caloric, high roughage diet", "Serial plastering and splinting"], "answer": "Small regular doses of benzodiazepine"},
+                {"question": "When feeding a child with Cerebral Palsy, the nurse should advise the family to:", "options": ["Allow the child to lie down to conserve energy", "Place foods far back in the mouth to overcome tongue thrust", "Restrict the diet to low-calorie soft foods", "Use pillows to support the head during feeding"], "answer": "Place foods far back in the mouth to overcome tongue thrust"},
+                {"question": "Which nursing intervention is recommended to address Impaired Verbal Communication in a child with Cerebral Palsy?", "options": ["Performing range of motion exercises every 4 hours", "Assisting with jaw control during feeding", "Using non-verbal communication through flashcards and talking boards", "Providing a high roughage, high caloric diet"], "answer": "Using non-verbal communication through flashcards and talking boards"},
+                {"question": "Cerebral palsy is considered a progressive disorder of cerebral function that worsens over time.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Maternal hemorrhage and placental insufficiency are classified as Intranatal causes of Cerebral Palsy.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Birth injury and cerebral anoxia occurring during labor are considered Postnatal causes of Cerebral Palsy.", "options": ["True", "False"], "answer": "False"},
+                {"question": "A characteristic sign of the spasticity type of Cerebral Palsy is stiff muscles with normal reflexes.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Delays in speech development and problems with swallowing are common symptoms associated with Cerebral Palsy.", "options": ["True", "False"], "answer": "True"},
+                {"question": "In Spastic Hemiplegia, the leg is often more involved than the arm.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Infants with Extrapyramidal Cerebral Palsy are typically hypotonic with poor head control.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Prevention of maternal irradiation and proper management of neonatal jaundice are key preventative measures against Cerebral Palsy.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Physiotherapy is used in the treatment of Cerebral Palsy primarily to prevent gross contractures.", "options": ["True", "False"], "answer": "True"},
+                {"question": "For injury prevention in a child with Cerebral Palsy, the use of side rails on the bed and padded furniture is recommended, but pillows should be avoided due to the risk of suffocation.", "options": ["True", "False"], "answer": "True"},
+                {"question": "A high caloric, low roughage diet is advised for a child with Cerebral Palsy due to high calorie expenditure and feeding difficulty.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Early diagnosis of Cerebral Palsy is necessary only to determine the prognosis and plan for future education.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Cerebral palsy is defined as:", "options": ["A progressive disorder of cerebral function", "A non-progressive disorder of cerebral function involving posture and movement", "A temporary muscle disorder", "Only a speech disorder"], "answer": "A non-progressive disorder of cerebral function involving posture and movement"},
+                {"question": "Cerebral palsy often involves abnormalities in:", "options": ["Speech", "Vision", "Intellectual function", "All of the above"], "answer": "All of the above"},
+                {"question": "The incidence of cerebral palsy is approximately:", "options": ["1/1000", "2/1000", "4/1000", "10/1000"], "answer": "4/1000"},
+                {"question": "Antenatal causes of cerebral palsy include:", "options": ["TORCH infections", "Maternal hemorrhage and placental insufficiency", "Maternal irradiation", "All of the above"], "answer": "All of the above"},
+                {"question": "Intranatal causes of cerebral palsy include:", "options": ["Birth trauma", "Cerebral anoxia", "Prematurity and low birth weight", "All of the above"], "answer": "All of the above"},
+                {"question": "Postnatal causes of cerebral palsy include:", "options": ["Intracranial infections", "Neonatal asphyxia", "Hypoglycemia and kernicterus", "All of the above"], "answer": "All of the above"},
+                {"question": "Spasticity is characterized by:", "options": ["Floppy muscles and reduced reflexes", "Stiff muscles and exaggerated reflexes", "Normal muscle tone with rigidity", "Intention tremor"], "answer": "Stiff muscles and exaggerated reflexes"},
+                {"question": "Rigidity in cerebral palsy refers to:", "options": ["Stiff muscles with normal reflexes", "Floppy muscles with reduced reflexes", "Tremors and involuntary movements", "Delayed milestones"], "answer": "Stiff muscles with normal reflexes"},
+                {"question": "Signs of cerebral palsy in infancy include:", "options": ["Delays in motor skill milestones", "Favoring one side of the body", "Problems with sucking or feeding", "All of the above"], "answer": "All of the above"},
+                {"question": "Delayed speech development is a common sign in early childhood cerebral palsy.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Extrapyramidal cerebral palsy infants are usually:", "options": ["Hypertonic with spasticity", "Hypotonic with poor head control", "Ataxic with tremors", "All of the above"], "answer": "Hypotonic with poor head control"},
+                {"question": "Ataxic cerebral palsy is due to damage in the:", "options": ["Basal ganglia", "Cerebellum", "Cerebral cortex", "Spinal cord"], "answer": "Cerebellum"},
+                {"question": "Spastic hemiplegia affects:", "options": ["Only the lower limbs", "Both sides equally", "One side, often with arm more affected than leg", "Only the head"], "answer": "One side, often with arm more affected than leg"},
+                {"question": "Spastic quadriplegia is:", "options": ["The mildest form of cerebral palsy", "The most severe form affecting all extremities", "Only affects legs", "Only affects arms"], "answer": "The most severe form affecting all extremities"},
+                {"question": "Common neurological problems associated with cerebral palsy include:", "options": ["Seizures", "Intellectual disabilities", "Abnormal touch or pain perception", "All of the above"], "answer": "All of the above"},
+                {"question": "Diagnosis of cerebral palsy relies on:", "options": ["History and physical examination", "EEG and CT scan if needed", "Hearing and visual function tests", "All of the above"], "answer": "All of the above"},
+                {"question": "Preventing maternal irradiation is part of cerebral palsy prevention.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Proper management of neonatal jaundice helps prevent cerebral palsy.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Physiotherapy in cerebral palsy helps prevent:", "options": ["Speech delay", "Gross contractures", "Visual defects", "Hearing loss"], "answer": "Gross contractures"},
+                {"question": "Serial plastering and splinting are used to:", "options": ["Treat seizures", "Correct speech delay", "Treat positional deformities", "Improve intellectual ability"], "answer": "Treat positional deformities"},
+                {"question": "Reducing abnormal muscle tone may involve:", "options": ["High-dose antibiotics", "Small regular doses of benzodiazepine", "Thyroid hormone", "Antiepileptics"], "answer": "Small regular doses of benzodiazepine"},
+                {"question": "Nursing care for impaired physical mobility includes:", "options": ["Range of motion exercises every 4 hours", "Encouraging sitting, balancing, crawling, and walking", "Using aids like parallel bars and crutches", "All of the above"], "answer": "All of the above"},
+                {"question": "Nutritional management for cerebral palsy involves:", "options": ["Low-calorie diet", "High-calorie, high-roughage diet", "Liquid-only diet", "Restricting meals to reduce movement"], "answer": "High-calorie, high-roughage diet"},
+                {"question": "Positioning the child upright during feeding helps:", "options": ["Improve mobility", "Prevent aspiration", "Reduce seizures", "Correct deformities"], "answer": "Prevent aspiration"},
+                {"question": "Nursing interventions to reduce risk of injury include:", "options": ["Providing a safe physical environment", "Using padded furniture", "Applying seat belts and ensuring safe toys", "All of the above"], "answer": "All of the above"},
+                {"question": "Impaired verbal communication care includes:", "options": ["Using speech therapy", "Speaking slowly with eye contact", "Using non-verbal communication like pictures and flashcards", "All of the above"], "answer": "All of the above"},
+                {"question": "Difficulty walking in cerebral palsy may present as:", "options": ["Walking on toes", "Scissors-like gait", "Wide-based gait", "All of the above"], "answer": "All of the above"},
+                {"question": "Tremors or involuntary movements are signs of cerebral palsy.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Mixed types of cerebral palsy involve:", "options": ["Only spastic features", "Only extrapyramidal features", "Combination of different types", "Only ataxic features"], "answer": "Combination of different types"},
+                {"question": "Early diagnosis of cerebral palsy is necessary to prevent secondary positional deformities.", "options": ["True", "False"], "answer": "True"}
+
+        ],
+        "L4 Nephrotic Syndrome":[
+            {"question": "Nephrotic Syndrome is characterized by alterations of the glomerular capillary wall resulting in all of the following EXCEPT:", "options": ["Albuminuria", "Hypoalbuminemia", "Hyperlipidemia", "Hypertension"], "answer": "Hypertension"},
+            {"question": "In the pathophysiology of Nephrotic Syndrome, the loss of plasma protein (albumin) leads directly to:", "options": ["Increased oncotic pressure", "Stimulation of renin-angiotensin system", "Decreased oncotic pressure", "Acute kidney failure"], "answer": "Decreased oncotic pressure"},
+            {"question": "Decreased oncotic pressure in Nephrotic Syndrome causes fluid to move from the vascular space to the:", "options": ["Renal tubules", "Blood plasma", "Extracellular fluid", "Intracellular fluid"], "answer": "Extracellular fluid"},
+            {"question": "Hyperlipidemia in Nephrotic Syndrome is a result of the liver being stimulated to synthesize:", "options": ["Immunoglobulin", "Albumin", "Lipoproteins", "Prothrombin"], "answer": "Lipoproteins"},
+            {"question": "The most common type of primary disease in children with Nephrotic Syndrome, representing approximately 80% of cases, is:", "options": ["Systemic Lupus Erythematosus (SLE)", "Secondary Nephrotic Syndrome", "Congenital Nephrotic Syndrome", "Minimal Change Nephrotic Syndrome (MCNS)"], "answer": "Minimal Change Nephrotic Syndrome (MCNS)"},
+            {"question": "Which of the following is an expected epidemiological finding for children diagnosed with Nephrotic Syndrome?", "options": ["Girls more than boys", "Age usually above 10 years", "Boys more than girls", "Normal blood pressure"], "answer": "Boys more than girls"},
+            {"question": "Congenital Nephrotic Syndrome is characterized by all of the following EXCEPT:", "options": ["Proteinuria and edema manifested early", "The disease is autosomal recessive", "The condition responds readily to usual therapy", "Infants are small for gestational age"], "answer": "The condition responds readily to usual therapy"},
+            {"question": "The characteristic symptom of Nephrotic Syndrome that occurs slowly and is first noticed about the eyes and ankles is:", "options": ["Vomiting", "Diarrhea", "Edema", "Fever"], "answer": "Edema"},
+            {"question": "Which of the following is typically NOT a clinical manifestation or sign of Nephrotic Syndrome?", "options": ["Pale and irritable appearance", "Respiratory difficulty due to pleural effusion", "Abdominal distention due to ascites", "High blood pressure (Hypertension)"], "answer": "High blood pressure (Hypertension)"},
+            {"question": "The most common site of infection that a child with Nephrotic Syndrome is susceptible to is:", "options": ["Pneumonia", "Peritonitis", "Cellulitis", "Septicemia"], "answer": "Peritonitis"},
+            {"question": "The increased susceptibility to infection in Nephrotic Syndrome is due to all of the following EXCEPT:", "options": ["Hypoproteinemia and decreased Immunoglobulin levels", "Edema fluid acting as a good culture medium", "Immunosuppressive therapy", "Elevated Bactericidal activity of leukocytes"], "answer": "Elevated Bactericidal activity of leukocytes"},
+            {"question": "In the specific therapy for Minimal Change Nephrotic Syndrome, Prednisone is typically given initially at a dosage of:", "options": ["2 mg/kg/week", "2 mg/kg/day", "1 mg/kg/day", "5 mg/kg/day"], "answer": "2 mg/kg/day"},
+            {"question": "Which nursing intervention is crucial when a child with Nephrotic Syndrome develops ascites and requires the Paracentesis procedure?", "options": ["Administering a large dose of diuretics immediately before", "Placing the child in a prone position", "Ensuring the child voids before the procedure", "Restricting all fluid intake for 24 hours prior"], "answer": "Ensuring the child voids before the procedure"},
+            {"question": "When planning a diet for a child with Nephrotic Syndrome, the nurse advises a well-balanced diet with protein intake adjusted based on:", "options": ["The child's age only", "The child's weight gain", "The degree of dysfunction of the kidney", "The frequency of diarrhea"], "answer": "The degree of dysfunction of the kidney"},
+            {"question": "The objectives of nursing care for children with Nephrotic Syndrome emphasize the need to educate the mother regarding the disease's nature, which is:", "options": ["Acute and self-limiting", "Always cured completely after the first course of steroids", "Chronic, relapsing, and remitting", "Slowly progressive to chronic kidney failure"], "answer": "Chronic, relapsing, and remitting"},
+            {"question": "Nephrotic Syndrome is a rare, acute medical condition in children.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The pathophysiology of Nephrotic Syndrome involves the activation of the renin-angiotensin system, which leads to sodium retention and further edema.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Congenital Nephrotic Syndrome typically responds well to the usual steroid therapy and has a good prognosis.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The child's weight gain in Nephrotic Syndrome is mainly due to an increase in fat mass caused by Hyperlipidemia.", "options": ["True", "False"], "answer": "False"},
+            {"question": "One of the causes of pain and respiratory difficulty in Nephrotic Syndrome is pulmonary edema, pleural effusion, and ascites.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Arterial or venous thrombosis is a recognized complication of Nephrotic Syndrome.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Diuretics and restriction of salt and water are used in the treatment of Nephrotic Syndrome only if the edema is severe.", "options": ["True", "False"], "answer": "True"},
+            {"question": "In the nursing care for edema, changing the child's position frequently is not necessary, as it can cause further discomfort.", "options": ["True", "False"], "answer": "False"},
+            {"question": "When a child has ascites, the nurse should position the child in a semi-sitting position to facilitate breathing.", "options": ["True", "False"], "answer": "True"},
+            {"question": "To protect the child from infection, the nurse should keep the child warm and dry and expose them to as many visitors as possible to build immunity.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Nephrotic Syndrome (NS) in children is characterized by:", "options": ["Albuminuria, hypoalbuminemia, hyperlipidemia", "Hypertension only", "Hyperglycemia only", "Anemia only"], "answer": "Albuminuria, hypoalbuminemia, hyperlipidemia"},
+            {"question": "The most common type of primary nephrotic syndrome in children is:", "options": ["Focal segmental glomerulosclerosis", "Minimal change nephrotic syndrome (MCNS)", "Membranoproliferative glomerulonephritis", "Congenital nephrotic syndrome"], "answer": "Minimal change nephrotic syndrome (MCNS)"},
+            {"question": "Approximately what percentage of children with NS have minimal change nephrotic syndrome?", "options": ["50%", "60%", "80%", "90%"], "answer": "80%"},
+            {"question": "The usual age of onset of nephrotic syndrome in children is:", "options": ["<1 year", "2–7 years", "8–12 years", "Adolescence only"], "answer": "2–7 years"},
+            {"question": "Nephrotic syndrome is more common in:", "options": ["Girls", "Boys", "Equal in boys and girls", "Only infants"], "answer": "Boys"},
+            {"question": "Secondary nephrotic syndrome can result from:", "options": ["Systemic lupus erythematosus", "Heavy metal poisoning", "Cancer", "All of the above"], "answer": "All of the above"},
+            {"question": "Congenital nephrotic syndrome is:", "options": ["Autosomal dominant", "Autosomal recessive", "X-linked recessive", "Multifactorial"], "answer": "Autosomal recessive"},
+            {"question": "Early manifestations of congenital nephrotic syndrome include:", "options": ["Large gestational age", "Proteinuria and edema", "Rapid response to usual therapy", "None of the above"], "answer": "Proteinuria and edema"},
+            {"question": "The characteristic symptom of nephrotic syndrome is:", "options": ["Hypertension", "Edema", "Hyperactivity", "Jaundice"], "answer": "Edema"},
+            {"question": "Edema in nephrotic syndrome usually begins:", "options": ["At the abdomen", "Around eyes and ankles", "At the hands", "At the chest"], "answer": "Around eyes and ankles"},
+            {"question": "Children with nephrotic syndrome often experience:", "options": ["Weight loss", "Weight gain due to fluid accumulation", "Fever without edema", "None of the above"], "answer": "Weight gain due to fluid accumulation"},
+            {"question": "Clinical features of nephrotic syndrome may include:", "options": ["Pale, irritable, restless child", "Poor appetite", "Vomiting, abdominal distention", "All of the above"], "answer": "All of the above"},
+            {"question": "Blood pressure in nephrotic syndrome is usually:", "options": ["Normal or slightly decreased", "High", "Severely low", "Extremely high"], "answer": "Normal or slightly decreased"},
+            {"question": "The main cause of nephrotic syndrome is:", "options": ["Bacterial infection", "Unknown, depends on clinical and microscopic findings", "Trauma", "Allergy"], "answer": "Unknown, depends on clinical and microscopic findings"},
+            {"question": "Children with nephrotic syndrome are at increased risk of infection due to:", "options": ["Hypoproteinemia", "Decreased immunoglobulin levels", "Immunosuppressive therapy", "All of the above"], "answer": "All of the above"},
+            {"question": "The most common site of infection in nephrotic syndrome is:", "options": ["Skin", "Peritoneum (peritonitis)", "Lungs", "Urinary tract"], "answer": "Peritoneum (peritonitis)"},
+            {"question": "Complications of nephrotic syndrome may include:", "options": ["Arterial or venous thrombosis", "Acute or chronic kidney failure", "Hyperlipidemia", "All of the above"], "answer": "All of the above"},
+            {"question": "Initial treatment of severe edema may include:", "options": ["Prednisone only", "Diuretics", "High-salt diet", "Surgery"], "answer": "Diuretics"},
+            {"question": "Specific therapy for children with nephrotic syndrome includes:", "options": ["Prednisone 2 mg/kg/day in divided doses for 4 weeks, then alternate-day therapy", "Insulin therapy", "Antibiotics only", "Chemotherapy"], "answer": "Prednisone 2 mg/kg/day in divided doses for 4 weeks, then alternate-day therapy"},
+            {"question": "Nursing care for edema includes:", "options": ["Keeping skin dry and clean", "Frequent position changes", "Daily weighing of the child", "All of the above"], "answer": "All of the above"},
+            {"question": "High-calorie, high-roughage diet is advised in nephrotic syndrome to:", "options": ["Promote weight loss", "Promote protein and nutrient intake", "Restrict fluid", "Increase edema"], "answer": "Promote protein and nutrient intake"},
+            {"question": "During ascites, the child should be positioned:", "options": ["Lying flat", "Semi-sitting", "Prone", "Trendelenburg"], "answer": "Semi-sitting"},
+            {"question": "Nurses must prepare for paracentesis by:", "options": ["Ensuring child voids before procedure", "Observing and charting drainage amount and color", "Both A and B", "Neither"], "answer": "Both A and B"},
+            {"question": "Heart failure management in nephrotic syndrome includes:", "options": ["Activity restriction", "Semi-sitting position", "Oxygen therapy", "All of the above"], "answer": "All of the above"},
+            {"question": "Preventing infection in children with nephrotic syndrome includes:", "options": ["Keeping child warm and dry", "Avoiding exposure to infected persons", "Proper hand washing and aseptic technique", "All of the above"], "answer": "All of the above"},
+            {"question": "Emotional support to parents includes:", "options": ["Allowing visits", "Explaining treatment and care", "Both A and B", "None"], "answer": "Both A and B"},
+            {"question": "Health teaching at discharge should include:", "options": ["Diet and medications", "Prevention of infection", "Skin care, follow-up, frequent urine analysis", "All of the above"], "answer": "All of the above"},
+            {"question": "Daily weighing of the child helps to:", "options": ["Monitor fluid retention", "Monitor nutritional intake", "Both A and B", "None"], "answer": "Both A and B"},
+            {"question": "Protein in the diet of nephrotic children is:", "options": ["Unrestricted", "Limited according to kidney dysfunction", "Completely avoided", "High only if edema is severe"], "answer": "Limited according to kidney dysfunction"},
+            {"question": "Prednisone therapy is given for:", "options": ["1 week only", "4 weeks then alternate-day therapy for 3–6 months", "Lifetime", "2 days"], "answer": "4 weeks then alternate-day therapy for 3–6 months"},
+            {"question": "Restriction of salt and water is advised in nephrotic syndrome when:", "options": ["Edema is mild", "Edema is severe", "Child is underweight", "Child has fever"], "answer": "Edema is severe"},
+            {"question": "Children with nephrotic syndrome may have:", "options": ["Vomiting and abdominal distention", "Reduced urinary output", "Pain and respiratory difficulty due to ascites", "All of the above"], "answer": "All of the above"},
+            {"question": "Prednisone in nephrotic syndrome is administered in:", "options": ["1 large dose", "3–4 divided doses", "Only at night", "Only weekly"], "answer": "3–4 divided doses"},
+            {"question": "Nursing care objectives include:", "options": ["Educating parents about chronic relapsing nature", "Ensuring compliance with medications", "Routine medical follow-up care", "All of the above"], "answer": "All of the above"},
+            {"question": "Restriction of physical activity is never recommended for nephrotic children.", "options": ["True", "False"], "answer": "False"}
+
+        ],
+        "L5 Nephritis":[
+            {"question": "APSAGN is defined as a non-bacterial inflammation of the glomeruli secondary to infection by which organism?", "options": ["Staphylococcus aureus of the skin.", "Group A β-hemolytic streptococcal of pharynx or skin.", "Pneumococcal infection of the respiratory tract.", "Viral infection of the gastrointestinal tract."], "answer": "Group A β-hemolytic streptococcal of pharynx or skin."},
+            {"question": "The typical time frame for the onset of APSAGN symptoms after a streptococcal pharyngitis infection is:", "options": ["Immediately after the infection.", "3-4 weeks after the infection.", "10-14 days after the infection.", "3-5 days after the infection."], "answer": "10-14 days after the infection."},
+            {"question": "Which clinical manifestation is described as the initial sign of APSAGN and is characteristically found around the eyes in the morning?", "options": ["Hypertension", "Hematuria", "Edema", "Headache"], "answer": "Edema"},
+            {"question": "The characteristic color of urine in APSAGN, often described as cloudy, smoky, or brownish, is due to the presence of:", "options": ["Proteinuria", "Pyuria", "Hematuria", "Glycosuria"], "answer": "Hematuria"},
+            {"question": "Severe hypertension in a child with APSAGN may develop rapidly and lead to serious complications such as:", "options": ["Renal failure", "Hypertensive encephalopathy", "Congestive heart failure", "Hypoglycemia"], "answer": "Hypertensive encephalopathy"},
+            {"question": "The most effective treatment for severe hypertension in APSAGN is:", "options": ["Restriction of fluid intake only.", "Diuretics and increased oral potassium.", "Anti-hypertensive drugs (e.g., Furosemide, Nifedipine, Hydralazine).", "Surgical intervention."], "answer": "Anti-hypertensive drugs (e.g., Furosemide, Nifedipine, Hydralazine)."},
+            {"question": "When APSAGN progresses to renal failure, which immediate intervention may be performed to rapidly reduce blood volume?", "options": ["Diuretics only", "Oral fluid restriction", "Venesection (rapid withdrawal of 300 ml blood)", "IV fluid administration"], "answer": "Venesection (rapid withdrawal of 300 ml blood)"},
+            {"question": "Which nursing care measure takes the highest priority during the acute phase of APSAGN?", "options": ["Daily measurement of abdominal girth.", "Frequent observation of vital signs for sudden changes.", "Allowing the child free access to activity.", "Providing a regular diet with unrestricted salt."], "answer": "Frequent observation of vital signs for sudden changes."},
+            {"question": "In the diet planning for an APSAGN patient with hypertension and edema, the nurse should advise:", "options": ["Salt restriction only.", "Protein restriction only.", "Salt restriction and protein restriction.", "Regular diet with high protein."], "answer": "Salt restriction and protein restriction."},
+            {"question": "The amount of fluid intake allowed for a child with APSAGN is typically determined by:", "options": ["The child's preference.", "A standard hospital protocol for all renal patients.", "Daily urine output plus insensible water loss.", "The child's body weight only."], "answer": "Daily urine output plus insensible water loss."},
+            {"question": "When a child with APSAGN exhibits cerebral manifestations (headache, irritability) due to hypertension, the nurse should take the following safety precaution:", "options": ["Keep the room dark and silent.", "Put the child in a crib with gaits (side rails).", "Restrict all movement and activity.", "Administer over-the-counter pain medication."], "answer": "Put the child in a crib with gaits (side rails)."},
+            {"question": "Bed rest is enforced during the acute phase of APSAGN until which clinical sign stops?", "options": ["Hypertension is controlled.", "Edema is completely resolved.", "Hematuria is stopped.", "Appetite returns to normal."], "answer": "Hematuria is stopped"},
+            {"question": "The age group most commonly affected by APSAGN is usually 5-10 years.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Both male and female sexes are equally affected by APSAGN.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Edema in APSAGN typically starts in the extremities and then spreads to the face and periorbital area during the day.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Oliguria (scanty urine volume) is a common finding in most APSAGN patients.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Cerebral manifestation (e.g., irritability, insomnia, headache) in APSAGN is an initial symptom, but it is not indicative of severe hypertension.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Congestive heart failure (CHF) is a possible complication of APSAGN due to hypervolemia (excess fluid volume).", "options": ["True", "False"], "answer": "True"},
+            {"question": "During the acute phase of APSAGN, protein should be restricted in the diet for all patients regardless of the severity of the disease.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The nurse should weigh the child daily at the same time and keep the skin dry and clean to manage edema.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Monitoring the child's urine carefully (amount, color, and specific gravity) is a crucial part of the nursing care for APSAGN.", "options": ["True", "False"], "answer": "True"},
+            {"question": "To prevent infection in an APSAGN child, the nurse should allow controlled contact with visitors to avoid social isolation.", "options": ["True", "False"], "answer": "False"},
+            {"question": "In mild cases of APSAGN with controlled symptoms, a regular diet may be permitted.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The APSAGN is known to have an excellent prognosis, with most children recovering completely without long-term damage.", "options": ["True", "False"], "answer": "True"},
+            {"question": "For a child with APSAGN and symptoms of cardiac decompensation, the diet should be restricted in potassium to avoid further heart strain.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Acute Post Streptococcal Glomerulonephritis (APSGN) is caused by:", "options": ["Non-bacterial inflammation of glomeruli secondary to group A β-hemolytic streptococcal infection", "Viral infection only", "Bacterial infection unrelated to streptococcus", "Autoimmune disease only"], "answer": "Non-bacterial inflammation of glomeruli secondary to group A β-hemolytic streptococcal infection"},
+            {"question": "APSGN is an immune-mediated disease affecting:", "options": ["Heart valves", "Capillary loops in the kidney", "Lungs", "Liver"], "answer": "Capillary loops in the kidney"},
+            {"question": "APSGN usually occurs in children aged:", "options": ["1–3 years", "3–10 years", "10–15 years", "Adolescents only"], "answer": "3–10 years"},
+            {"question": "Both sexes are equally affected in APSGN.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The onset of APSGN is typically:", "options": ["Immediately after infection", "1–3 weeks after pharynx or skin infection", "3–6 months after infection", "Only in neonatal period"], "answer": "1–3 weeks after pharynx or skin infection"},
+            {"question": "The initial sign of APSGN is usually:", "options": ["Hypertension", "Edema, especially periorbital in the morning", "Hematuria", "Fever"], "answer": "Edema, especially periorbital in the morning"},
+            {"question": "Hematuria in APSGN is often described as:", "options": ["Clear urine", "Smoky, tea- or cola-colored urine", "Cloudy but normal-colored urine", "Completely red urine without clarity"], "answer": "Smoky, tea- or cola-colored urine"},
+            {"question": "APSGN commonly follows:", "options": ["Respiratory tract or skin infection", "Only viral infection", "Chronic kidney disease", "Autoimmune disorders only"], "answer": "Respiratory tract or skin infection"},
+            {"question": "Children with APSGN may develop severe hypertension causing:", "options": ["Hypertensive encephalopathy", "Heart failure", "Pulmonary edema", "All of the above"], "answer": "Hypertensive encephalopathy"},
+            {"question": "Clinical signs of hypertensive encephalopathy include:", "options": ["Irritability and headache", "Vomiting", "Blurred vision", "All of the above"], "answer": "All of the above"},
+            {"question": "Complications of APSGN may include:", "options": ["Heart failure and pulmonary edema", "Acute renal failure", "Convulsions", "All of the above"], "answer": "All of the above"},
+            {"question": "The urine in APSGN is typically:", "options": ["Clear and abundant", "Cloudy, smoky, brownish, and scanty", "Yellow and normal volume", "Milky and abundant"], "answer": "Cloudy, smoky, brownish, and scanty"},
+            {"question": "The prognosis of APSGN:", "options": ["Complete recovery in >95% of cases", "Always fatal", "Leads to chronic kidney disease in most cases", "Rarely recovers without dialysis"], "answer": "Complete recovery in >95% of cases"},
+            {"question": "APSGN occurs most commonly in which seasons?", "options": ["Summer and autumn", "Winter and spring", "Autumn and winter", "Summer only"], "answer": "Winter and spring"},
+            {"question": "Antibiotics recommended for treatment of streptococcal infection in APSGN include:", "options": ["Amoxicillin 30 mg/kg/day orally for 10 days", "Cefadroxil 30 mg/kg/day orally for 10 days", "Both A and B", "None of the above"], "answer": "Both A and B"},
+            {"question": "Treatment of hypertension in APSGN may include:", "options": ["Water and salt restriction", "Diuretics", "Both A and B", "Only rest"], "answer": "Both A and B"},
+            {"question": "Peritoneal dialysis in APSGN is indicated for:", "options": ["Mild edema", "Renal failure", "Hypertension only", "None"], "answer": "Renal failure"},
+            {"question": "Nursing care includes bed rest until:", "options": ["Fever resolves", "Hematuria stops", "Hypertension is treated", "Edema resolves"], "answer": "Hematuria stops"},
+            {"question": "Vital signs in APSGN patients must be taken:", "options": ["Daily", "Weekly", "Frequently", "Only on admission"], "answer": "Frequently"},
+            {"question": "Fluid intake in APSGN should be:", "options": ["Unlimited", "As ordered and divided throughout the day", "Only once a day", "Restricted indefinitely"], "answer": "As ordered and divided throughout the day"},
+            {"question": "Dietary care for APSGN patients with hypertension and edema includes:", "options": ["Regular diet with no restrictions", "Salt restriction and protein restriction in acute cases", "High salt and high protein", "Only liquid diet"], "answer": "Salt restriction and protein restriction in acute cases"},
+            {"question": "For edema management, nursing care includes:", "options": ["Keeping skin dry and clean", "Daily weighing at the same time", "Both A and B", "None of the above"], "answer": "Both A and B"},
+            {"question": "Prevention of infection in APSGN involves:", "options": ["Avoiding contact with infected persons", "Keeping the child warm and dry", "Proper hand hygiene", "All of the above"], "answer": "All of the above"},
+            {"question": "Allowing the child to play activities according to his condition is part of APSGN nursing care.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Health teaching to parents during discharge should include:", "options": ["Diet and fluid restrictions", "Observation of urine", "Activity as permitted and medication adherence", "Prevention of infection and follow-up", "All of the above"], "answer": "All of the above"},
+            {"question": "APSGN is caused by bacterial invasion of the kidney glomeruli.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Chest X-ray, throat swab culture, urine and blood tests are part of diagnostic evaluation of APSGN.", "options": ["True", "False"], "answer": "True"},
+            {"question": "APSGN never causes acute renal failure.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The typical urine output in APSGN is:", "options": ["Normal", "Increased", "Scanty (oliguria)", "None of the above"], "answer": "Scanty (oliguria)"},
+            {"question": "The onset of APSGN symptoms after streptococcal pharyngitis is usually:", "options": ["Immediately", "10–14 days", "1–2 months", "6 months"], "answer": "10–14 days"}
+
+        ],
+        "L6 Congestive Heart Failure":[
+            {"question": "Congestive Heart Failure (CHF) is a condition in which the heart cannot adequately perform which primary function?", "options": ["Receiving oxygen-rich blood from the tissues.", "Pumping blood to meet the body's metabolic needs.", "Maintaining normal blood pressure in the arteries.", "Ensuring coagulation factors are balanced."], "answer": "Pumping blood to meet the body's metabolic needs."},
+            {"question": "The backing up of blood into certain body tissues, causing fluid buildup, is the reason for the term:", "options": ["Myocardial Infarction", "Congestion", "Ischemia", "Hypoxia"], "answer": "Congestion"},
+            {"question": "The most common cause of Congestive Heart Failure in children is:", "options": ["Acquired infections like myocarditis.", "Obesity and poor diet.", "Severe hypertension.", "Congenital Heart Disease (CHD)."], "answer": "Congenital Heart Disease (CHD)."},
+            {"question": "When the Left Heart pumping chambers fail, blood stays in the:", "options": ["Tissues of the body, leading to systemic congestion.", "Lungs, leading to pulmonary congestion.", "Right atrium, causing tricuspid valve issues.", "Peripheral veins, causing peripheral edema."], "answer": "Lungs, leading to pulmonary congestion."},
+            {"question": "If the Right Heart pumping chambers fail, which of the following is the primary result?", "options": ["Pulmonary edema.", "Severe systemic hypotension.", "Congestion of the tissues and organs (systemic congestion).", "Insufficient oxygen supply to the brain."], "answer": "Congestion of the tissues and organs (systemic congestion)."},
+            {"question": "One of the most common signs of CHF, especially in infants, related to feeding difficulty and increased energy expenditure is:", "options": ["Vomiting soon after feeding.", "Failure to thrive/poor weight gain.", "Bradycardia (slow heart rate).", "Increased frequency of urination."], "answer": "Failure to thrive/poor weight gain."},
+            {"question": "Which symptom is a direct result of Pulmonary Congestion in a child with CHF?", "options": ["Hepatomegaly", "Periorbital edema", "Tachypnea (increased respiratory rate)", "Reduced peripheral pulses"], "answer": "Tachypnea (increased respiratory rate)"},
+            {"question": "A key nursing intervention aimed at maximizing chest excursion and easing the work of breathing for a child with CHF is:", "options": ["Placing the child in a propped up (semi-Fowler's) position.", "Encouraging the child to lie flat in bed.", "Restricting oral fluids only.", "Administering aspirin for inflammation."], "answer": "Placing the child in a propped up (semi-Fowler's) position."},
+            {"question": "When administering Digoxin to a child with CHF, the nurse must exercise caution due to the risk of toxic effects. The initial digitalizing dose is typically administered as:", "options": ["A single dose over 24 hours.", "The full calculated dose at once.", "One half of the total calculated dose, followed by the remainder divided over two doses.", "Continuous infusion over 48 hours."], "answer": "One half of the total calculated dose, followed by the remainder divided over two doses."},
+            {"question": "The goal of maintaining the child's O2 saturation above 95% is achieved by providing:", "options": ["High-calorie diet.", "Absolute bed rest.", "Supplemental oxygen.", "Administering a full dose of diuretics."], "answer": "Supplemental oxygen."},
+            {"question": "When monitoring fluid balance in a child with CHF, the nurse should report which finding immediately?", "options": ["Stable weight for 2 days.", "Positive fluid state or decreased urine output.", "Normal respiratory rate of 20 breaths/min.", "Heart rate within the normal range for age."], "answer": "Positive fluid state or decreased urine output."},
+            {"question": "Which medication, commonly used to treat CHF, requires the nurse to observe for potential potassium deficiency?", "options": ["Digoxin", "Beta-blockers", "Diuretics (e.g., Furosemide)", "Anti-hypertensive agents (e.g., Nifedipine)"], "answer": "Diuretics (e.g., Furosemide)"},
+            {"question": "In CHF, the left heart receives oxygen-poor blood from the body tissues and pumps it to the lungs.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Organs and tissues in a child with CHF receive an adequate supply of blood, despite the heart's reduced pumping action.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Reduced cardiac output in CHF leads to decreased blood flow to the kidneys, which triggers fluid retention.", "options": ["True", "False"], "answer": "True"},
+            {"question": "An increased respiratory rate (↑ RR) is an early and important sign of CHF in children.", "options": ["True", "False"], "answer": "True"},
+            {"question": "A child with CHF should be encouraged to drink large amounts of oral fluids to help manage congestion.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The nurse should organize nursing activities to provide proper rest periods for the child with CHF.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Daily weight measurement is not necessary once the child's edema starts to decrease.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The nurse should auscultate the child's breath sounds and lung fields for noting crackles and wheezes, which are signs of pulmonary congestion.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The administration of antibiotics is a standard treatment for CHF, regardless of the cause.", "options": ["True", "False"], "answer": "False"},
+            {"question": "During the digitalizing process with Digoxin, the heart rate must be checked correctly to identify complications like toxicity.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Hypoxia and dyspnea are direct clinical effects resulting from congestion of the lungs in CHF.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Diuretics are typically administered to a CHF patient in a dose of 1-3 mg/kg orally.", "options": ["True", "False"], "answer": "True"},
+            {"question": "If the pumping chambers of the heart do not function properly, it can lead to blood staying in the lungs or body tissues.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Congestive heart failure (CHF) is defined as a condition in which:", "options": ["The heart cannot adequately pump blood", "The lungs fail to oxygenate blood", "Kidneys stop functioning", "The liver cannot metabolize blood"], "answer": "The heart cannot adequately pump blood"},
+            {"question": "In CHF, blood backs up into tissues causing:", "options": ["Edema", "Dehydration", "Hypotension", "Hyperglycemia"], "answer": "Edema"},
+            {"question": "The most common cause of CHF in children is:", "options": ["Congenital heart disease", "Viral infection", "Kidney failure", "Pneumonia"], "answer": "Congenital heart disease"},
+            {"question": "Causes of CHF in children include:", "options": ["Tetralogy of Fallot", "Valve malformations", "Septal defects", "All of the above"], "answer": "All of the above"},
+            {"question": "Other causes of CHF include:", "options": ["Heart damage from group A strep infections", "Endocarditis", "Myocarditis", "All of the above"], "answer": "All of the above"},
+            {"question": "CHF leads to inadequate blood supply to:", "options": ["Lungs only", "Kidneys only", "Organs and tissues of the body", "Skin only"], "answer": "Organs and tissues of the body"},
+            {"question": "CHF may develop quickly in children and often involves:", "options": ["Left ventricle only", "Right ventricle only", "Both ventricles", "Atria only"], "answer": "Both ventricles"},
+            {"question": "Symptoms of CHF in children include:", "options": ["Shortness of breath", "Rapid heartbeat and wheezing", "Poor appetite and slow weight gain", "All of the above"], "answer": "All of the above"},
+            {"question": "In CHF, children may exhibit:", "options": ["Sweating", "Cyanosis of hands and feet", "Abdominal tenderness", "All of the above"], "answer": "All of the above"},
+            {"question": "Diagnosis of CHF is based on:", "options": ["Medical history and physical exam", "ECG and chest X-ray", "Echocardiography and catheterization", "All of the above"], "answer": "All of the above"},
+            {"question": "CHF can be prevented by prompt treatment of underlying disease and maintaining healthy body weight.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Long-term effects of untreated CHF may include:", "options": ["Permanent damage to brain, liver, and kidneys", "Delays in development", "Early death", "All of the above"], "answer": "All of the above"},
+            {"question": "Treatment for CHF may include:", "options": ["Oxygen therapy", "Sodium restriction in diet", "Heart medications like digitalis", "All of the above"], "answer": "All of the above"},
+            {"question": "Water pills (diuretics) are used in CHF to:", "options": ["Increase blood pressure", "Relieve pressure on the heart by removing excess fluid", "Slow heartbeat", "None of the above"], "answer": "Relieve pressure on the heart by removing excess fluid"},
+            {"question": "Stronger heart medications in severe CHF help by:", "options": ["Relaxing blood vessels", "Increasing forceful heart contractions", "Both A and B", "None"], "answer": "Both A and B"},
+            {"question": "Nursing care for CHF includes monitoring:", "options": ["Respiratory rate, rhythm, and character", "Breath sounds for crackles, wheezes, or rhonchi", "Heart sounds and murmurs", "All of the above"], "answer": "All of the above"},
+            {"question": "Supplemental oxygen should be provided to maintain O2 saturation at:", "options": [">90%", ">95%", ">85%", ">80%"], "answer": ">95%"},
+            {"question": "Deep breathing and coughing should be encouraged every 24 hours in CHF children.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Nursing care for CHF includes:", "options": ["Monitoring intake and output", "Checking weight daily", "Observing for edema", "All of the above"], "answer": "All of the above"},
+            {"question": "Diuretic commonly used in children with CHF is:", "options": ["Furosemide", "Spironolactone", "Hydrochlorothiazide", "Mannitol"], "answer": "Furosemide"},
+            {"question": "Digoxin must be used carefully to avoid toxic effects.", "options": ["True", "False"], "answer": "True"},
+            {"question": "During digitalization with digoxin, the total calculated dose should be:", "options": ["Given at once", "Half given first, remaining divided into two doses at 8-hour intervals", "Given once daily only", "Not divided"], "answer": "Half given first, remaining divided into two doses at 8-hour intervals"},
+            {"question": "CHF nursing care also includes:", "options": ["Limiting oral fluids", "Maintaining prescribed activity level", "Organizing rest periods properly", "All of the above"], "answer": "All of the above"},
+            {"question": "Potassium deficiency should be observed when administering diuretics for CHF.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Monitoring in CHF includes ABGs to:", "options": ["Assess oxygenation", "Assess response to O2 therapy", "Monitor hemodynamic changes", "All of the above"], "answer": "All of the above"},
+            {"question": "CHF is never associated with congenital heart disease in children.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Prompt treatment of the underlying disease can reduce the risk of CHF.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Common complications in CHF children may include:", "options": ["Pulmonary edema", "Arrhythmias", "Anemia and nutritional deficits", "All of the above"], "answer": "All of the above"},
+            {"question": "CHF may require open heart surgery if:", "options": ["The cause is congenital heart disease", "Only medications are ineffective", "Both A and B", "None"], "answer": "Both A and B"},
+            {"question": "Continuous observation of the child is important in CHF management.", "options": ["True", "False"], "answer": "True"}
+
+        ],
+        "L7 Rheumatic Fever":[
+            {"question": "Acute rheumatic fever is a systemic disease of childhood that follows infection by which organism?", "options": ["Staphylococcus aureus", "Pneumococcal pneumonia", "Group A beta hemolytic streptococci", "Haemophilus influenza"], "answer": "Group A beta hemolytic streptococci"},
+            {"question": "Rheumatic fever is primarily an inflammatory disease of:", "options": ["Skeletal muscle tissue", "Nervous system tissue only", "Connective tissue", "Renal epithelial tissue"], "answer": "Connective tissue"},
+            {"question": "The most susceptible age group for Rheumatic Fever is typically:", "options": ["Infants and toddlers (1-4 years)", "School-age children (5-15 years)", "Adolescents (16-18 years)", "Young adults (18-25 years)"], "answer": "School-age children (5-15 years)"},
+            {"question": "Which of the following is considered an environmental risk factor for Rheumatic Fever?", "options": ["High altitude", "High socio-economic status", "Overcrowding and poor sanitation", "Incidence during summer months"], "answer": "Overcrowding and poor sanitation"},
+            {"question": "The pathogenesis of Rheumatic Fever involves a delayed immune response occurring after a latent period of:", "options": ["3-5 days", "1-3 days", "1-5 weeks", "6 months"], "answer": "1-5 weeks"},
+            {"question": "The classic joint inflammation associated with Rheumatic Fever is characterized by:", "options": ["A fixed inflammation in one large joint", "Inflammation that affects only the small joints of the fingers", "Inflammation that 'moves' from one large joint to another over several days", "Inflammation that is non-tender and non-red"], "answer": "Inflammation that 'moves' from one large joint to another over several days"},
+            {"question": "Which clinical manifestation of Rheumatic Fever is described as a change in neuromuscular movements, which the child cannot control?", "options": ["Arthritis", "Carditis", "Chorea", "Subcutaneous nodules"], "answer": "Chorea"},
+            {"question": "Which symptom is the most serious manifestation of Rheumatic Fever?", "options": ["Polyarthritis", "Subcutaneous nodules", "Carditis", "Erythema marginatum"], "answer": "Carditis"},
+            {"question": "In the medical management of Rheumatic Fever, which medication is primarily used to reduce joint inflammation and pain?", "options": ["Penicillin", "Digoxin", "Aspirin (Salicylates)", "Anti-hypertensive agents"], "answer": "Aspirin (Salicylates)"},
+            {"question": "The specific goal of administering penicillin in the treatment of Acute Rheumatic Fever is to:", "options": ["Treat the resulting joint pain", "Eliminate any remaining Group A β-hemolytic streptococci", "Prevent further neurological damage", "Reduce the cardiac inflammation"], "answer": "Eliminate any remaining Group A β-hemolytic streptococci"},
+            {"question": "When a child with Rheumatic Fever has Chorea, the nursing intervention that takes highest priority is:", "options": ["Vigorous range-of-motion exercises", "Encouraging the child to walk unaided", "Preventing injury by padding side rails and not leaving the child unattended", "Restricting all visitors to minimize stress"], "answer": "Preventing injury by padding side rails and not leaving the child unattended"},
+            {"question": "For a child on prolonged bed rest due to Rheumatic Fever, the nurse should provide:", "options": ["Full unrestricted physical activity", "Quiet activities only, avoiding all sensory stimulation", "Diversional activities (e.g., reading, quiet games) to prevent restlessness and boredom", "High-protein diet with no fluid restriction"], "answer": "Diversional activities (e.g., reading, quiet games) to prevent restlessness and boredom"},
+            {"question": "Acute Rheumatic Fever is considered a primary bacterial infection of the heart.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Girls are more susceptible than boys to developing Rheumatic Fever.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Antibody-induced immunological damage in Rheumatic Fever primarily targets the heart valves, joints, subcutaneous tissue, and the basal ganglia of the brain.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Subcutaneous nodules, when present, are typically small, painful, and located over joints like the elbow or knee.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The primary purpose of administering Salicylates (Aspirin) is to treat carditis, the most serious complication.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Bed rest is an essential part of the treatment for Rheumatic Fever, particularly during the acute phase.", "options": ["True", "False"], "answer": "True"},
+            {"question": "When a child is diagnosed with Carditis, the degree of restriction on activity is much less than a child diagnosed only with Arthritis.", "options": ["True", "False"], "answer": "False"},
+            {"question": "When providing comfort for joint pain, the nurse should use ice packs and cold compresses to reduce inflammation.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The nurse should inform visitors that a child with Chorea is able to control their involuntary movements with concentration.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Secondary prevention of Rheumatic Fever involves identifying and treating the initial streptococcal infection promptly.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Prophylactic antibiotics are given after the initial infection has subsided to prevent a recurrence of Rheumatic Fever.", "options": ["True", "False"], "answer": "True"},
+            {"question": "A key nursing goal for a child with Rheumatic Fever is promoting energy conservation by providing rest periods between activities.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Evaluation of the nursing goals is met when the child's joint pain is reduced and injury is prevented.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Acute rheumatic fever (ARF) is usually a complication of:", "options": ["Viral infection", "Group A beta-hemolytic streptococcal infection", "Fungal infection", "Mycoplasma infection"], "answer": "Group A beta-hemolytic streptococcal infection"},
+            {"question": "ARF is an inflammatory disease primarily affecting connective tissue, heart, blood vessels, joints, and CNS.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Most susceptible age group for ARF is:", "options": ["1-4 years", "5-15 years", "16-20 years", ">20 years"], "answer": "5-15 years"},
+            {"question": "ARF is more common in:", "options": ["Boys > girls", "Girls > boys", "Equal in both sexes", "Only in boys"], "answer": "Girls > boys"},
+            {"question": "Environmental factors like overcrowding, poor sanitation, and poverty increase ARF incidence.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The latent period between streptococcal infection and onset of ARF symptoms is:", "options": ["1-3 days", "1-3 weeks", "1-3 months", "Immediately"], "answer": "1-3 weeks"},
+            {"question": "Major symptoms of ARF include:", "options": ["Joint inflammation", "Carditis", "Chorea", "All of the above"], "answer": "All of the above"},
+            {"question": "Arthritis in ARF commonly affects:", "options": ["Fingers and toes", "Major joints like knees, ankles, elbows, and wrists", "Spine only", "Jaw only"], "answer": "Major joints like knees, ankles, elbows, and wrists"},
+            {"question": "Arthritis in ARF progresses to chronic joint disease.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Carditis in ARF can manifest as:", "options": ["Endocarditis", "Myocarditis", "Pericarditis", "All of the above"], "answer": "All of the above"},
+            {"question": "Carditis is the only major ARF manifestation that can cause permanent organ damage.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Chorea occurs in what percentage of ARF cases?", "options": ["1-2%", "5-10%", "20-25%", "50%"], "answer": "5-10%"},
+            {"question": "Chorea is clinically manifested by:", "options": ["Deterioration of handwriting", "Emotional lability", "Grimacing of the face", "All of the above"], "answer": "All of the above"},
+            {"question": "Erythema marginatum is an itchy rash seen in ARF.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Subcutaneous nodules in ARF are:", "options": ["Painful, soft", "Painless, pea-sized, palpable", "Only on the face", "Always itchy"], "answer": "Painless, pea-sized, palpable"},
+            {"question": "Minor criteria for ARF include:", "options": ["Fever", "Arthralgia", "Abnormal ECG pattern", "All of the above"], "answer": "All of the above"},
+            {"question": "Laboratory investigations for ARF may include:", "options": ["ESR", "CRP", "Throat culture and ECG", "All of the above"], "answer": "All of the above"},
+            {"question": "There is a definitive single test to diagnose ARF.", "options": ["True", "False"], "answer": "False"},
+            {"question": "ARF treatment includes:", "options": ["Antibiotics for streptococcal infection", "Anti-inflammatory medications", "Bed rest", "All of the above"], "answer": "All of the above"},
+            {"question": "Even if the throat culture is negative, antibiotics may be given to treat ARF.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Duration of bed rest for ARF depends on:", "options": ["Age of child only", "Severity of disease and heart/joint involvement", "Type of infection only", "None of the above"], "answer": "Severity of disease and heart/joint involvement"},
+            {"question": "Nursing assessment in ARF includes:", "options": ["Complete history of recent infections", "Physical exam for major/minor manifestations", "Vital signs observation", "All of the above"], "answer": "All of the above"},
+            {"question": "Major nursing diagnoses for ARF include:", "options": ["Acute pain related to joint inflammation", "Activity intolerance related to carditis or arthralgia", "Risk for injury related to chorea", "All of the above"], "answer": "All of the above"},
+            {"question": "Nursing interventions to reduce joint pain include:", "options": ["Warm baths", "Gentle range-of-motion exercises", "Proper positioning", "All of the above"], "answer": "All of the above"},
+            {"question": "Diversional activities and sensory stimulation help prevent restlessness and boredom during bed rest.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Energy conservation in ARF nursing care involves:", "options": ["Providing rest periods between activities", "Ignoring chorea movements", "Encouraging nonstop activity", "None of the above"], "answer": "Providing rest periods between activities"},
+            {"question": "Safety measures for ARF patients with chorea include:", "options": ["Padding side rails", "Never leaving the child unattended in wheelchair", "Using appropriate safety measures", "All of the above"], "answer": "All of the above"},
+            {"question": "Evaluation of nursing goals in ARF is evidenced by:", "options": ["Reduced pain", "Conserved energy", "Prevention of injury", "All of the above"], "answer": "All of the above"},
+            {"question": "ARF is more prevalent in third-world countries and during winter/early spring.", "options": ["True", "False"], "answer": "True"},
+            {"question": "ARF can only occur once in a lifetime.", "options": ["True", "False"], "answer": "False"}
+
+        ],
+    },
+    "Growth Stages": {
+        "" : [
 
         ]
     },
     "Emergency & Critical Care Medicine": {
-        "L1 " : [
-
-        ]
-    },
-    "Growth Stages": {
-        "L1 " : [
+        "" : [
 
         ]
     },
     "Nursing Quality": {
-        "L1 " : [
+        "" : [
 
         ]
     },
     "Critical Thinking": {
-        "L1 " : [
+        "" : [
 
         ]
     },
     "Pediatric Medicine & Surgery": {
-        "L1 " : [
+        "" : [
 
         ]
     },
