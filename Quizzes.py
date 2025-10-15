@@ -1,7 +1,7 @@
 
 quizzes = {
     "Critical": {
-            "L1 DM Quiz": [
+            "L1 DM": [
                 {
                     "question": "Insulin, secreted by alpha cells, moves glucose from the blood into muscle, liver, and fat cells.",
                     "answer": "False"
@@ -142,7 +142,7 @@ quizzes = {
                 {"question": "Diabetic patients should be encouraged to soak their feet to keep the skin soft and smooth.", "options": ["True", "False"], "answer": "False"},
                 {"question": "Avoidance of smoking and elevated blood lipids is a key instruction for foot care because they lead to peripheral vascular disease.", "options": ["True", "False"], "answer": "True"}
             ],
-            "L2 ICU Devices Quiz": [
+            "L2 ICU Devices": [
                 {"question": "Critical Care units are designed to meet the special needs of acutely and critically ill patients.", "options": ["True", "False"], "answer": "True"},
                 {"question": "The Femoral vein in the groin is the most commonly used site for percutaneous Central Venous Catheter (CVC) line insertion.", "options": ["True", "False"], "answer": "False"},
                 {"question": "One purpose of the Arterial Line (A-line) is to test for the oxygen saturation in the blood.", "options": ["True", "False"], "answer": "True"},
@@ -414,7 +414,7 @@ quizzes = {
                 {"question": "The Crash Cart carries instruments for cardiopulmonary resuscitation and must be checked only for medication expiration dates.", "options": ["True", "False"], "answer": "False"},
                 {"question": "A Urinary catheter is classified as a reusable piece of ICU equipment.", "options": ["True", "False"], "answer": "False"}
             ],
-            "L3 Hypertension Crisis Quiz": [
+            "L3 Hypertension Crisis": [
                 {"question": "Blood pressure is mathematically defined as the product of Cardiac Output multiplied by:", "options": ["Heart Rate", "Stroke Volume", "Peripheral Resistance", "Blood Viscosity"], "answer": "Peripheral Resistance"},
                 {"question": "Hypertension is sometimes called 'the silent killer' primarily because:", "options": ["It only affects elderly people", "It is difficult to diagnose", "People who have it are often symptom free", "It is easily treated"], "answer": "People who have it are often symptom free"},
                 {"question": "The definition of Hypertension is a systolic blood pressure (SBP) greater than 140 mm Hg and a diastolic blood pressure (DBP) greater than 90 mm Hg over a sustained period, based on the average of how many measurements?", "options": ["One measurement", "Two or more measurements", "Three or more measurements", "Four or more measurements"], "answer": "Two or more measurements"},
@@ -1132,7 +1132,7 @@ quizzes = {
                     {"question": "Hypertension is a risk factor for both angina and MI.", "options": ["True", "False"], "answer": "True"},
 
             ],
-            "Mid Term وأسئلة شبهه " :[
+            "Mid Term" :[
                 {"question": "Which procedure involves the surgical creation of an opening in the trachea to establish an emergency or prolonged artificial airway?", "options": ["Bronchoscopy", "Cricothyrotomy", "Laryngoscopy", "Tracheostomy"], "answer": "Tracheostomy"},
                 {"question": "Which device is specifically designed to diagnose and deliver an electrical shock to treat Ventricular Fibrillation (VF) or pulseless Ventricular Tachycardia (VT) in public settings?", "options": ["Electrocardiogram (ECG)", "Central Venous Catheter (CVC)", "Automated External Defibrillator (AED)", "Bag Valve Mask (BVM)"], "answer": "Automated External Defibrillator (AED)"},
                 {"question": "The main purpose of inserting an Arterial Line in a critically ill patient is for:", "options": ["Administering high-flow IV fluids and vasopressors", "Measuring Pulmonary Artery Pressure (PAP)", "Continuous Blood Pressure monitoring and frequent Blood Gas sampling", "Providing Total Parenteral Nutrition (TPN)"], "answer": "Continuous Blood Pressure monitoring and frequent Blood Gas sampling"},
