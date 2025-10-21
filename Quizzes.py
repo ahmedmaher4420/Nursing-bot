@@ -476,63 +476,63 @@ quizzes = {
             ],
             "L1 DM Quiz": [
                 {
-                    "question": "Insulin, secreted by alpha cells, moves glucose from the blood into muscle, liver, and fat cells.",
+                    "question": "Insulin, secreted by alpha cells, moves glucose from the blood into muscle, liver, and fat cells.","options": ["True", "False"],
                     "answer": "False"
                 },
                 {
-                    "question": "The onset of Type 1 diabetes may be associated with sudden weight loss or nausea, vomiting, or abdominal pains if DKA has developed.",
+                    "question": "The onset of Type 1 diabetes may be associated with sudden weight loss or nausea, vomiting, or abdominal pains if DKA has developed.","options": ["True", "False"],
                     "answer": "True"
                 },
                 {
-                    "question": "In the diagnostic criteria, a two-hours postload glucose concentration equal to or greater than 126 mg/dL confirms the diagnosis of Diabetes Mellitus.",
+                    "question": "In the diagnostic criteria, a two-hours postload glucose concentration equal to or greater than 126 mg/dL confirms the diagnosis of Diabetes Mellitus.","options": ["True", "False"],
                     "answer": "False"
                 },
                 {
-                    "question": "Limiting saturated fats to less than 30% of total calories is a goal in the diabetic diet.",
+                    "question": "Limiting saturated fats to less than 30% of total calories is a goal in the diabetic diet.","options": ["True", "False"],
                     "answer": "False"
                 },
                 {
-                    "question": "Exercise is beneficial for people with diabetes because it lowers blood glucose levels by increasing glucose uptake by muscles and improving insulin utilization.",
+                    "question": "Exercise is beneficial for people with diabetes because it lowers blood glucose levels by increasing glucose uptake by muscles and improving insulin utilization.","options": ["True", "False"],
                     "answer": "True"
                 },
                 {
-                    "question": "For patients not receiving insulin, SMBG is generally recommended 2 to 3 times per week.",
+                    "question": "For patients not receiving insulin, SMBG is generally recommended 2 to 3 times per week.","options": ["True", "False"],
                     "answer": "True"
                 },
                 {
-                    "question": "Glycated hemoglobin (A1C) levels become higher because the glucose complex lasts for the life of white blood cells (WBCs).",
+                    "question": "Glycated hemoglobin (A1C) levels become higher because the glucose complex lasts for the life of white blood cells (WBCs).","options": ["True", "False"],
                     "answer": "False"
                 },
                 {
-                    "question": "In Type 2 diabetes, insulin is never necessary, as meal planning and oral agents are always effective.",
+                    "question": "In Type 2 diabetes, insulin is never necessary, as meal planning and oral agents are always effective.","options": ["True", "False"],
                     "answer": "False"
                 },
                 {
-                    "question": "A common cause of hypoglycemia is eating too much food or reduced physical activity.",
+                    "question": "A common cause of hypoglycemia is eating too much food or reduced physical activity.","options": ["True", "False"],
                     "answer": "False"
                 },
                 {
-                    "question": "Cerebrovascular disease and Peripheral vascular disease are examples of diabetic Microvascular complications.",
+                    "question": "Cerebrovascular disease and Peripheral vascular disease are examples of diabetic Microvascular complications.","options": ["True", "False"],
                     "answer": "False"
                 },
                 {
-                    "question": "Retinopathy is the leading cause of blindness among people between 20 and 74 years of age.",
+                    "question": "Retinopathy is the leading cause of blindness among people between 20 and 74 years of age.","options": ["True", "False"],
                     "answer": "True"
                 },
                 {
-                    "question": "In treating diabetic foot ulcers, controlling glucose levels is important because it promotes wound healing.",
+                    "question": "In treating diabetic foot ulcers, controlling glucose levels is important because it promotes wound healing.","options": ["True", "False"],
                     "answer": "True"
                 },
                 {
-                    "question": "Patients with diabetes are advised to use the elbow to check water temperature before washing their feet to avoid burns.",
+                    "question": "Patients with diabetes are advised to use the elbow to check water temperature before washing their feet to avoid burns.","options": ["True", "False"],
                     "answer": "True"
                 },
                 {
-                    "question": "Patients with diabetes can walk barefoot indoors as long as the floor is clean.",
+                    "question": "Patients with diabetes can walk barefoot indoors as long as the floor is clean.","options": ["True", "False"],
                     "answer": "False"
                 },
                 {
-                    "question": "Rubbing a thin coat of skin lotion between the toes is recommended for keeping the skin soft and smooth.",
+                    "question": "Rubbing a thin coat of skin lotion between the toes is recommended for keeping the skin soft and smooth.","options": ["True", "False"],
                     "answer": "False"
                 },
                 {"question": "Diabetes Mellitus is characterized by elevated levels of glucose in the blood (hyperglycemia) resulting from the body's inability to:", "options": ["Produce insulin or effectively use the insulin it produces.", "Produce glucagon in sufficient amounts.", "Only break down stored glycogen (glycogenolysis).", "Only form glucose from noncarbohydrate substances (gluconeogenesis)."], "answer": "Produce insulin or effectively use the insulin it produces."},
