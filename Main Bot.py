@@ -1,17 +1,22 @@
 import os
 import random
+from flask import Flask, request
 from telegram import Update, ReplyKeyboardMarkup
-from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
+from telegram.ext import Application, CommandHandler, MessageHandler, ContextTypes, filters
 from Quizzes import quizzes  # ملف الكويز القديم
 
+TOKEN = "8419066396:AAEgaf63xX_GKQSCTBQf5cy9Q9I91CnDJdo"
 BASE_PATH = os.path.join(os.getcwd(), "Lectures")
+
+app = Flask(__name__)
+telegram_app = Application.builder().token(TOKEN).build()
 
 # 🧠 كلاس إدارة جلسة المستخدم
 class UserSession:
     def __init__(self):
-        self.stage_stack = []  # stack لتخزين المراحل السابقة
+        self.stage_stack = []
         self.subject = None
-        self.stage = None  # lecture / quiz / subject_options
+        self.stage = None
         self.lecture = None
         self.quiz = None
         self.review_list = []
@@ -244,13 +249,16 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             await start_quiz(update, context)
 
 # 🚀 تشغيل البوت
-def main():
-    TOKEN = "8419066396:AAEgaf63xX_GKQSCTBQf5cy9Q9I91CnDJdo"
-    app = ApplicationBuilder().token(TOKEN).build()
-    app.add_handler(CommandHandler("start", start))
-    app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
-    print("🤖 Nursing Hub bot is running...")
-    app.run_polling()
+# 🧠 Webhook endpoint
+@app.route(f"/{TOKEN}", methods=["POST"])
+def webhook():
+    update = Update.de_json(request.get_json(force=True), telegram_app.bot)
+    telegram_app.update_queue.put(update)
+    return "OK", 200
 
 if __name__ == "__main__":
-    main()
+    telegram_app.add_handler(CommandHandler("start", start))
+    telegram_app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
+
+    print("✅ Flask server running with Webhook...")
+    app.run(host="0.0.0.0", port=8080)
