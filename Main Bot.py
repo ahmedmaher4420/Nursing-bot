@@ -288,3 +288,5 @@ if __name__ == "__main__":
     telegram_app.add_handler(CommandHandler("start", start))
     telegram_app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
 
+    print("✅ Flask server running with Webhook...")
+    app.run(host="0.0.0.0", port=8080)
