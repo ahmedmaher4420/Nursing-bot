@@ -3,6 +3,7 @@ import random
 from flask import Flask, request
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, ContextTypes, filters
+from telegram.error import Forbidden
 from Quizzes import quizzes  # ملف الكويز القديم
 
 TOKEN = "8419066396:AAEgaf63xX_GKQSCTBQf5cy9Q9I91CnDJdo"
@@ -40,6 +41,13 @@ def get_lectures(subject):
         return []
     return sorted([f for f in os.listdir(subject_path) if f.endswith(".pdf")])
 
+# 🔒 إرسال رسالة بأمان (تجاهل Forbidden)
+async def safe_send_message(bot, chat_id, text=None, **kwargs):
+    try:
+        await bot.send_message(chat_id=chat_id, text=text, **kwargs)
+    except Forbidden:
+        print(f"⚠️ لا يمكن إرسال رسالة للمستخدم {chat_id}، البوت محظور.")
+
 # 🚀 بدء البوت
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     context.user_data.clear()
@@ -47,7 +55,9 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     subjects = get_subjects()
     keyboard = [[s] for s in subjects]
     keyboard = base_keyboard(keyboard)
-    await update.message.reply_text(
+    await safe_send_message(
+        context.bot,
+        update.message.chat_id,
         "Welcome to Nursing Hub\nاختر المادة:",
         reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True)
     )
@@ -61,7 +71,9 @@ async def show_subject_options(update: Update, context: ContextTypes.DEFAULT_TYP
 
     keyboard = [["📄 عرض المحاضرات"], ["🧠 عرض الكويزات"]]
     keyboard = base_keyboard(keyboard)
-    await update.message.reply_text(
+    await safe_send_message(
+        context.bot,
+        update.message.chat_id,
         f"📚 اختر ما تريد في مادة *{session.subject}*:",
         reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True),
         parse_mode="Markdown"
@@ -72,14 +84,16 @@ async def show_lectures(update: Update, context: ContextTypes.DEFAULT_TYPE):
     session = context.user_data['session']
     lectures = get_lectures(session.subject)
     if not lectures:
-        await update.message.reply_text("❌ لا توجد محاضرات لهذه المادة.")
+        await safe_send_message(context.bot, update.message.chat_id, "❌ لا توجد محاضرات لهذه المادة.")
         return
 
     session.stage_stack.append("subject_options")
     session.stage = "lectures"
     keyboard = [[lec.replace(".pdf", "")] for lec in lectures]
     keyboard = base_keyboard(keyboard)
-    await update.message.reply_text(
+    await safe_send_message(
+        context.bot,
+        update.message.chat_id,
         f"📄 اختر المحاضرة من مادة *{session.subject}*:",
         reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True),
         parse_mode="Markdown"
@@ -94,14 +108,12 @@ async def show_pdf(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     file_path = os.path.join(BASE_PATH, session.subject, session.lecture)
     if not os.path.exists(file_path):
-        await update.message.reply_text("❌ الملف غير موجود.")
+        await safe_send_message(context.bot, update.message.chat_id, "❌ الملف غير موجود.")
         return
 
-    # إرسال رسالة جاري التحميل
-    loading_msg = await update.message.reply_text("⏳ جاري تحميل المحاضرة...")
+    loading_msg = await safe_send_message(context.bot, update.message.chat_id, "⏳ جاري تحميل المحاضرة...")
 
     try:
-        # إرسال الملف
         with open(file_path, "rb") as f:
             await context.bot.send_document(
                 chat_id=update.message.chat_id,
@@ -109,10 +121,10 @@ async def show_pdf(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 filename=session.lecture,
                 caption=f"📘 {session.lecture}"
             )
-        # حذف رسالة جاري التحميل
-        await context.bot.delete_message(chat_id=update.message.chat_id, message_id=loading_msg.message_id)
+    except Forbidden:
+        print(f"⚠️ لا يمكن إرسال الملف للمستخدم {update.message.chat_id}, البوت محظور.")
     except Exception as e:
-        await update.message.reply_text(f"❌ حدث خطأ أثناء تحميل الملف: {str(e)}")
+        await safe_send_message(context.bot, update.message.chat_id, f"❌ حدث خطأ أثناء تحميل الملف: {str(e)}")
 
 # 🧠 عرض كل الكويزات
 async def show_all_quizzes(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -121,12 +133,14 @@ async def show_all_quizzes(update: Update, context: ContextTypes.DEFAULT_TYPE):
     session.stage = "quizzes"
     all_quizzes = [k for k in quizzes.get(session.subject, {})]
     if not all_quizzes:
-        await update.message.reply_text("❌ لا توجد كويزات لهذه المادة.")
+        await safe_send_message(context.bot, update.message.chat_id, "❌ لا توجد كويزات لهذه المادة.")
         return
 
     keyboard = [[q] for q in all_quizzes]
     keyboard = base_keyboard(keyboard)
-    await update.message.reply_text(
+    await safe_send_message(
+        context.bot,
+        update.message.chat_id,
         "🧠 اختر الكويز الذي تريد البدء به:",
         reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True)
     )
@@ -135,7 +149,7 @@ async def show_all_quizzes(update: Update, context: ContextTypes.DEFAULT_TYPE):
 async def start_quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
     session = context.user_data['session']
     if session.stage != "quizzes":
-        return  # ليس كويز، تجاهل
+        return
     quiz_name = update.message.text
     quiz_data = quizzes[session.subject][quiz_name].copy()
     random.shuffle(quiz_data)
@@ -157,7 +171,11 @@ async def send_next_question(update: Update, context: ContextTypes.DEFAULT_TYPE)
     q_index = quiz_state["current_q"]
     questions = quiz_state["questions"]
     if q_index >= len(questions):
-        await update.message.reply_text(f"✅ انتهى الكويز!\nنتيجتك: {quiz_state['score']}/{len(questions)}")
+        await safe_send_message(
+            context.bot,
+            update.message.chat_id,
+            f"✅ انتهى الكويز!\nنتيجتك: {quiz_state['score']}/{len(questions)}"
+        )
         session.quiz = None
         await go_home(update, context)
         return
@@ -165,7 +183,9 @@ async def send_next_question(update: Update, context: ContextTypes.DEFAULT_TYPE)
     q = questions[q_index]
     keyboard = [[opt] for opt in q.get("options", [])]
     keyboard = base_keyboard(keyboard, in_quiz=True)
-    await update.message.reply_text(
+    await safe_send_message(
+        context.bot,
+        update.message.chat_id,
         f"🧩 السؤال {q_index+1} من {len(questions)}:\n{q['question']}",
         reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True)
     )
@@ -176,7 +196,11 @@ async def handle_quiz_answer(update: Update, context: ContextTypes.DEFAULT_TYPE)
     quiz_state = session.quiz
     answer = update.message.text.strip()
     if answer == "🏁 إنهاء الكويز":
-        await update.message.reply_text(f"⏹️ تم إنهاء الكويز.\nنتيجتك: {quiz_state['score']}/{len(quiz_state['questions'])}")
+        await safe_send_message(
+            context.bot,
+            update.message.chat_id,
+            f"⏹️ تم إنهاء الكويز.\nنتيجتك: {quiz_state['score']}/{len(quiz_state['questions'])}"
+        )
         session.quiz = None
         await go_home(update, context)
         return
@@ -185,9 +209,13 @@ async def handle_quiz_answer(update: Update, context: ContextTypes.DEFAULT_TYPE)
     q = quiz_state["questions"][q_index]
     if answer == q.get("answer"):
         quiz_state["score"] += 1
-        await update.message.reply_text("✅ إجابة صحيحة!")
+        await safe_send_message(context.bot, update.message.chat_id, "✅ إجابة صحيحة!")
     else:
-        await update.message.reply_text(f"❌ خطأ! الإجابة الصحيحة: {q.get('answer')}")
+        await safe_send_message(
+            context.bot,
+            update.message.chat_id,
+            f"❌ خطأ! الإجابة الصحيحة: {q.get('answer')}"
+        )
         session.review_list.append(q)
 
     quiz_state["current_q"] += 1
@@ -200,7 +228,9 @@ async def go_home(update: Update, context: ContextTypes.DEFAULT_TYPE):
     subjects = get_subjects()
     keyboard = [[s] for s in subjects]
     keyboard = base_keyboard(keyboard)
-    await update.message.reply_text(
+    await safe_send_message(
+        context.bot,
+        update.message.chat_id,
         "🏠 عدت إلى القائمة الرئيسية.\nاختر المادة:",
         reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True)
     )
@@ -220,7 +250,7 @@ async def go_back(update: Update, context: ContextTypes.DEFAULT_TYPE):
     elif last_stage == "lecture_selection":
         await show_lectures(update, context)
     elif last_stage == "quiz":
-        pass  # لا نرجع داخل الكويز، فقط انهاء
+        pass
 
 # 🎯 التعامل مع الرسائل
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -242,13 +272,11 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     elif text == "⬅️ رجوع":
         await go_back(update, context)
     else:
-        # التمييز بين المحاضرة والكويز حسب المرحلة
         if session.stage == "lectures":
             await show_pdf(update, context)
         elif session.stage == "quizzes":
             await start_quiz(update, context)
 
-# 🚀 تشغيل البوت
 # 🧠 Webhook endpoint
 @app.route(f"/{TOKEN}", methods=["POST"])
 def webhook():
@@ -260,5 +288,3 @@ if __name__ == "__main__":
     telegram_app.add_handler(CommandHandler("start", start))
     telegram_app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
 
-    print("✅ Flask server running with Webhook...")
-    app.run(host="0.0.0.0", port=8080)
