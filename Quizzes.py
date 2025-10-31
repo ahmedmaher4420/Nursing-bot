@@ -1691,243 +1691,1568 @@ quizzes = {
 
         ]
     },
-    "Critical Thinking": {
-        "Mid Term" : [
-            {"question": "Problem-solving requires traditional thinking and coming up with innovative or creative solutions.", "options": ["True", "False"], "answer": "False"},
-            {"question": "Crisis problems occur when an unexpected problem puts the stability of the organization at risk.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Critical thinking enables individuals to engage in independent and reflective thinking and arrive at well-informed and logical conclusions.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Critical thinkers aim to set aside personal biases and emotions.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Emotional intelligence is the ability to recognize and manage the own emotions of oneself only.", "options": ["True", "False"], "answer": "False"},
-            {"question": "Managing emotions is beneficial for personal growth and involves the ability to critically evaluate one's own feelings and those of others.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Decision makers with an analytical style have much greater tolerance for ambiguity than do directive styles.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Directive types of decision makers make fast decisions and focus on the long-term results.", "options": ["True", "False"], "answer": "False"},
-            {"question": "The analytical decision-making style is characterized by a low tolerance for ambiguity and fast decision-making.", "options": ["True", "False"], "answer": "False"},
-            {"question": "An emotionally intelligent person tends to have better-developed coping mechanisms and support systems.", "options": ["True", "False"], "answer": "True"},
-            {"question": "The third step in the problem-solving process is:", "options": ["Identify major & root Causes", "Select the best Solution", "Develop Solutions", "Implement the best Solution"], "answer": "Develop Solutions"},
-            {"question": "The drive to constantly monitor and correct your ways of thinking is:", "options": ["Analysis", "Evaluation", "Self-Regulation", "Open-Mindedness"], "answer": "Self-Regulation"},
-            {"question": "......................... allows one to be aware of other people’s feelings, needs, and concerns.", "options": ["Self-management", "Social awareness", "Self-awareness", "Relationship management"], "answer": "Social awareness"},
-            {"question": "External Factors that affect decision making is:", "options": ["Physical and emotional state", "Personal characteristics", "Culture, social, and philosophical background", "Time"], "answer": "Culture, social, and philosophical background"},
-            {"question": "......................... arises when two or more individuals exhibit contrasting values, goals.", "options": ["Intrapersonal", "Interpersonal", "Intergroup", "Inter-organizational"], "answer": "Interpersonal"},
-            {"question": "Which of the following is NOT a key skill for building emotional intelligence (EQ)?", "options": ["Self-management", "Self-awareness", "Technical skills", "Relationship management"], "answer": "Technical skills"}
-
-        ],
-        "L1 Introduction to Critical Thinking Quiz" : [
-            {"question": "The Greek word kritikos from which the term 'critical' comes means being negative and focusing on faults.", "options": ["True", "False"], "answer": "False"},
-            {"question": "Critical thinking is a passive process that involves primarily absorbing information without questioning its source.", "options": ["True", "False"], "answer": "False"},
-            {"question": "One of the characteristics of a critical thinker is to strive for Objectivity by aiming to set aside personal biases and emotions.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Inference is the critical thinking skill that focuses on communicating your findings and reasoning clearly to others.", "options": ["True", "False"], "answer": "False"},
-            {"question": "Self-Reflection is the characteristic where critical thinkers continuously evaluate and improve their own thinking skills, recognizing their biases and limitations.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Critical Thinking enhances the ability to make principled choices and navigate complex Ethical Dilemmas.", "options": ["True", "False"], "answer": "True"},
-            {"question": "In the steps of critical thinking, establishing significance is the stage where you determine if all arguments are relevant to the problem and if the sample size is sufficient.", "options": ["True", "False"], "answer": "True"},
-            {"question": "The main goal of Analytical Thinking is to break down complex issues into smaller components and identify patterns and connections between different elements.", "options": ["True", "False"], "answer": "True"},
-            {"question": "The critical thinking skill defined as the drive to constantly monitor and correct your ways of thinking is:", "options": ["Evaluation", "Self-Regulation", "Interpretation", "Analysis"], "answer": "Self-Regulation"},
-            {"question": "Which step in the critical thinking process immediately follows 'Analyze and evaluate the data' and precedes 'Establish significance'?", "options": ["Gather data, opinions, and arguments", "Identify assumptions", "Make a decision/reach a conclusion", "Present or communicate"], "answer": "Identify assumptions"},
-            {"question": "Critical thinking is vital for Decision Making because it helps individuals to:", "options": ["Focus only on short-term consequences", "Arrive at conclusions quickly without considering alternatives", "Weigh pros and cons, considering potential consequences and minimizing biases", "Rely only on surface-level understanding"], "answer": "Weigh pros and cons, considering potential consequences and minimizing biases"},
-            {"question": "The characteristic of a critical thinker that requires them to be receptive to new information and willing to revise their beliefs based on evidence is:", "options": ["Objectivity", "Inquisitiveness", "Open-Mindedness", "Analytical Thinking"], "answer": "Open-Mindedness"},
-            {"question": "The critical thinking skill that involves assessing whether the knowledge you have is sufficient and reliable is:", "options": ["Analysis", "Explanation", "Evaluation", "Inference"], "answer": "Inference"},
-            {"question": "Critical thinking enables individuals to go beyond surface-level understanding and engage in:", "options": ["Subjective and emotional thinking", "Independent and reflective thinking", "Traditional and conformist judgment", "Focusing on faults and being negative"], "answer": "Independent and reflective thinking"},
-            {"question": "The term 'critical' comes from the Greek word 'kritikos' meaning:", "options": ["Able to solve problems", "Able to judge or discern", "Able to memorize facts", "Able to communicate"], "answer": "Able to judge or discern"},
-            {"question": "Critical thinking involves:", "options": ["Being negative and finding faults", "Clarifying thinking to break down information and make informed decisions", "Avoiding analysis of information", "Ignoring other perspectives"], "answer": "Clarifying thinking to break down information and make informed decisions"},
-            {"question": "Critical thinking is defined as:", "options": ["The process of memorizing information", "Actively analyzing, evaluating, and synthesizing information to make reasoned judgments", "Following instructions without question", "Only listening to authority figures"], "answer": "Actively analyzing, evaluating, and synthesizing information to make reasoned judgments"},
-            {"question": "Which of the following is NOT an importance of critical thinking?", "options": ["Effective problem-solving", "Decision-making", "Ethical reasoning", "Ignoring evidence"], "answer": "Ignoring evidence"},
-            {"question": "Critical thinking enhances learning by:", "options": ["Encouraging surface-level understanding", "Questioning and critically evaluating ideas and sources", "Memorizing only", "Avoiding analysis"], "answer": "Questioning and critically evaluating ideas and sources"},
-            {"question": "Effective communication through critical thinking means:", "options": ["Articulating thoughts and supporting arguments with evidence", "Ignoring others’ viewpoints", "Speaking without preparation", "Using emotional appeals only"], "answer": "Articulating thoughts and supporting arguments with evidence"},
-            {"question": "Characteristics of critical thinking include all EXCEPT:", "options": ["Analytical thinking", "Open-mindedness", "Objectivity", "Blind acceptance of information"], "answer": "Blind acceptance of information"},
-            {"question": "Analytical thinking means:", "options": ["Breaking down complex issues and identifying patterns", "Avoiding problem analysis", "Relying on personal opinions only", "Ignoring evidence"], "answer": "Breaking down complex issues and identifying patterns"},
-            {"question": "Open-mindedness in critical thinking refers to:", "options": ["Considering only one perspective", "Being receptive to new information and revising beliefs based on evidence", "Rejecting alternative viewpoints", "Avoiding discussion"], "answer": "Being receptive to new information and revising beliefs based on evidence"},
-            {"question": "Inquisitiveness as a characteristic of critical thinking means:", "options": ["Asking probing questions to understand underlying assumptions", "Accepting explanations at face value", "Avoiding curiosity", "Following instructions blindly"], "answer": "Asking probing questions to understand underlying assumptions"},
-            {"question": "Self-reflection in critical thinking involves:", "options": ["Assessing one’s own thinking process and biases", "Ignoring mistakes", "Blaming others for errors", "Avoiding evaluation"], "answer": "Assessing one’s own thinking process and biases"},
-            {"question": "Which of the following is NOT a critical thinking skill?", "options": ["Analysis", "Interpretation", "Memorization", "Self-regulation"], "answer": "Memorization"},
-            {"question": "Problem-solving as a critical thinking skill means:", "options": ["Tackling unexpected problems and resolving conflicts", "Avoiding challenges", "Ignoring problems", "Following instructions without thought"], "answer": "Tackling unexpected problems and resolving conflicts"},
-            {"question": "The first step in the critical thinking process is:", "options": ["Gather data", "Identify the problem or question", "Make a decision", "Present a conclusion"], "answer": "Identify the problem or question"},
-            {"question": "When gathering data in critical thinking, you should:", "options": ["Use only one source", "Collect multiple sources and perspectives", "Ignore evidence", "Accept opinions blindly"], "answer": "Collect multiple sources and perspectives"},
-            {"question": "Analyzing and evaluating data involves:", "options": ["Checking reliability of sources and strength of conclusions", "Memorizing facts without understanding", "Ignoring assumptions", "Avoiding critical assessment"], "answer": "Checking reliability of sources and strength of conclusions"},
-            {"question": "Identifying assumptions in critical thinking ensures:", "options": ["Recognition of bias in sources and self", "Acceptance of all information as true", "Avoidance of questioning evidence", "Blind decision-making"], "answer": "Recognition of bias in sources and self"},
-            {"question": "Establishing significance involves:", "options": ["Determining which information is most important and relevant", "Ignoring key data", "Choosing random facts", "Avoiding analysis"], "answer": "Determining which information is most important and relevant"},
-            {"question": "Making a decision in critical thinking requires:", "options": ["Considering various possible conclusions and weighing their strengths and limitations", "Choosing the first idea that comes to mind", "Ignoring evidence", "Following others’ opinions blindly"], "answer": "Considering various possible conclusions and weighing their strengths and limitations"},
-            {"question": "Presenting or communicating a conclusion involves:", "options": ["Sharing findings clearly with stakeholders", "Keeping conclusions secret", "Avoiding explanation", "Ignoring audience understanding"], "answer": "Sharing findings clearly with stakeholders"},
-            {"question": "To improve your critical thinking, you should:", "options": ["Define your question and keep your goal in mind", "Rely on assumptions", "Avoid exploring alternatives", "Focus only on short-term outcomes"], "answer": "Define your question and keep your goal in mind"},
-            {"question": "Gathering reliable information means:", "options": ["Using trustworthy sources and ignoring biases", "Using random internet sources", "Following rumors", "Avoiding verification"], "answer": "Using trustworthy sources and ignoring biases"},
-            {"question": "Asking the right questions ensures:", "options": ["You get accurate answers leading to informed conclusions", "Confusion and misunderstanding", "Blind acceptance of information", "Ignoring evidence"], "answer": "You get accurate answers leading to informed conclusions"},
-            {"question": "Considering short- and long-term consequences helps:", "options": ["Evaluate both immediate and future outcomes of decisions", "Focus only on one outcome", "Avoid reflection", "Ignore results"], "answer": "Evaluate both immediate and future outcomes of decisions"},
-            {"question": "Exploring all sides in critical thinking means:", "options": ["Considering multiple perspectives and thinking creatively before concluding", "Accepting the first solution", "Ignoring alternative viewpoints", "Following one authority only"], "answer": "Considering multiple perspectives and thinking creatively before concluding"}
-
-        ],
-        "L2 Decision Making Quiz" : [
-            {"question": "Decision making is primarily the mental process that results in the selection of a course of action from only two options.", "options": ["True", "False"], "answer": "False"},
-            {"question": "External factors affecting decision making include the decision maker's past experiences and self-confidence.", "options": ["True", "False"], "answer": "False"},
-            {"question": "The first three steps of the Decision Making Process involve identifying the problem, identifying the criteria, and allocating weight to the criteria.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Decision makers using the Directive Style have a low tolerance for ambiguity and tend to focus on short-run results.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Analytical decision makers are best characterized as careful decision makers who consider minimal alternatives to save time.", "options": ["True", "False"], "answer": "False"},
-            {"question": "One of the advantages of the Decision Making process is that it provides a smart risk-taking opportunity.", "options": ["True", "False"], "answer": "True"},
-            {"question": "In the Behavioral Style, decision makers often avoid conflict and believe acceptance by others is important.", "options": ["True", "False"], "answer": "True"},
-            {"question": "A major disadvantage of decision making is that it always improves the quality of the final choice due to increased participation.", "options": ["True", "False"], "answer": "False"},
-            {"question": "Individuals with a Conceptual Style are typically very broad in their outlook and are good at finding creative solutions, focusing on the long run.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Lack of reliable data and too many options are considered Obstacles of effective decision making.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Which of the following is considered an Internal Factor affecting the decision-making process?", "options": ["Environmental conditions", "Time constraint", "Physical and emotional state", "Lack of Resources"], "answer": "Physical and emotional state"},
-            {"question": "The characteristic that best describes the Directive Style of decision making is:", "options": ["High tolerance for ambiguity", "Focus on long-term consequences", "Receptive to subordinates' suggestions", "Make fast decisions with minimal information"], "answer": "Make fast decisions with minimal information"},
-            {"question": "Which of the following Decision Making Styles is best characterized by a high tolerance for ambiguity and a desire to gather more information and alternatives?", "options": ["Directive Style", "Conceptual Style", "Behavioral Style", "Analytical Style"], "answer": "Analytical Style"},
-            {"question": "Which of the following is an advantage of the decision-making process?", "options": ["Groups Reduce the Amount of Accountability", "Time consuming", "Improves the Degree of Acceptance and Commitment", "Different Priority of individuals"], "answer": "Improves the Degree of Acceptance and Commitment"},
-            {"question": "According to the 8 steps of the Decision Making Process, what is the final step?", "options": ["Selection of alternatives", "Implementation of the best alternatives", "Develop alternatives", "Evaluation of decision effectiveness"], "answer": "Evaluation of decision effectiveness"},
-            {"question": "Decision making can be regarded as:", "options": ["The process of memorizing facts", "Mental processes resulting in selecting a course of action among alternatives", "Only following instructions", "Ignoring choices"], "answer": "Mental processes resulting in selecting a course of action among alternatives"},
-            {"question": "A decision is defined as:", "options": ["Choosing from two or more alternatives", "Following someone else’s choice", "Avoiding decision-making", "Memorizing options"], "answer": "Choosing from two or more alternatives"},
-            {"question": "Decision making is:", "options": ["The process of making a choice among options and committing to a future course of action", "Avoiding choices", "Following orders without thought", "Memorizing instructions"], "answer": "The process of making a choice among options and committing to a future course of action"},
-            {"question": "External factors affecting decision making include:", "options": ["Personal attitudes and knowledge", "Environmental conditions and time", "Past experiences", "Personality traits"], "answer": "Environmental conditions and time"},
-            {"question": "Internal factors affecting decision making include all EXCEPT:", "options": ["Physical and emotional state", "Culture and past experiences", "Environmental conditions", "Knowledge and attitudes"], "answer": "Environmental conditions"},
-            {"question": "Personality factors like self-esteem and self-confidence affect:", "options": ["Willingness to take risks in solving problems", "The speed of internet connection", "Physical strength", "Memorization ability"], "answer": "Willingness to take risks in solving problems"},
-            {"question": "The first step in the decision-making process is:", "options": ["Identification of decision criteria", "Identification of the problem", "Analysis of alternatives", "Implementation of alternatives"], "answer": "Identification of the problem"},
-            {"question": "Which of the following is NOT a step in the decision-making process?", "options": ["Evaluation of decision effectiveness", "Develop alternatives", "Random guessing", "Allocating weight to criteria"], "answer": "Random guessing"},
-            {"question": "Directive decision-making style is characterized by:", "options": ["High tolerance for ambiguity", "Focus on short-term, efficient, logical decisions with minimal information", "Long-term broad outlook", "Avoiding decisions entirely"], "answer": "Focus on short-term, efficient, logical decisions with minimal information"},
-            {"question": "Analytical style decision makers:", "options": ["Want more information and consider more alternatives", "Focus only on short-term solutions", "Avoid collecting data", "Make decisions randomly"], "answer": "Want more information and consider more alternatives"},
-            {"question": "Conceptual style decision makers:", "options": ["Look at many alternatives and focus on long-term creative solutions", "Make fast decisions with minimal information", "Avoid thinking about alternatives", "Only follow others’ opinions"], "answer": "Look at many alternatives and focus on long-term creative solutions"},
-            {"question": "Behavioral style decision makers:", "options": ["Work well with others and value acceptance by others", "Focus only on data", "Avoid meetings", "Ignore suggestions"], "answer": "Work well with others and value acceptance by others"},
-            {"question": "An advantage of decision making is:", "options": ["Increases people's participation", "Reduces available alternatives", "Decreases commitment", "Worsens decision quality"], "answer": "Increases people's participation"},
-            {"question": "A disadvantage of decision making includes:", "options": ["Provides more information", "Time consuming and may receive irrelevant opinions", "Improves organization strength", "Increases commitment"], "answer": "Time consuming and may receive irrelevant opinions"},
-            {"question": "Obstacles to decision making include all EXCEPT:", "options": ["Lack of reliable data", "Level of decision making not clear", "Clear and sufficient resources", "Lack of time"], "answer": "Clear and sufficient resources"},
-            {"question": "Decision making is only about memorizing options.", "options": ["True", "False"], "answer": "False"},
-            {"question": "Environmental conditions and time are external factors affecting decision making.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Personality traits like self-confidence do not affect decision making.", "options": ["True", "False"], "answer": "False"},
-            {"question": "Directive style decision makers focus on efficiency and logic, often using minimal information.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Analytical decision makers avoid considering multiple alternatives.", "options": ["True", "False"], "answer": "False"},
-            {"question": "Conceptual style decision makers are creative and focus on long-term solutions.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Behavioral style decision makers value collaboration and suggestions from others.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Decision making always saves time and avoids irrelevant opinions.", "options": ["True", "False"], "answer": "False"},
-            {"question": "Lack of reliable data is an obstacle to decision making.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Clear resources and support can eliminate obstacles in decision making.", "options": ["True", "False"], "answer": "True"}
-
-        ],
-        "L3 Problem Solving Quiz" : [
-            {"question": "Problem Solving is simply the act of identifying a problem and immediately selecting one solution to implement.", "options": ["True", "False"], "answer": "False"},
-            {"question": "A Problem is defined as a discrepancy between an existing state of affairs and a desired state of affairs.", "options": ["True", "False"], "answer": "True"},
-            {"question": "One of the primary functions of problem-solving is to prevent the recurrence of the problem in the future.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Crisis Problems are unexpected issues that put the stability of the organization at risk and require an immediate, rapid response.", "options": ["True", "False"], "answer": "True"},
-            {"question": "The first step in the systematic problem-solving process is to Generate alternative solutions.", "options": ["True", "False"], "answer": "False"},
-            {"question": "Functional Fixedness is a state of mind that encourages an individual to explore new and unique solutions rather than customary ones.", "options": ["True", "False"], "answer": "False"},
-            {"question": "A disadvantage of problem-solving is the potential for emotional and cognitive biases to interfere with the process.", "options": ["True", "False"], "answer": "True"},
-            {"question": "The Key Purpose of problem solving is to find the root cause of the problem and improve the process.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Daily Problems are simple issues that require the manager's attention only once, without developing a corrective action plan.", "options": ["True", "False"], "answer": "False"},
-            {"question": "The Scientific Method is a problem-solving approach that involves overcoming obstacles by generating and testing hypotheses.", "options": ["True", "False"], "answer": "True"},
-            {"question": "In the systematic problem-solving process, which step immediately follows 'Develop solutions'?", "options": ["Define the problem", "Identify major & root causes", "Implement the best solution", "Select the best solution"], "answer": "Select the best solution"},
-            {"question": "The type of managerial problem that is typically routine, happens frequently, and requires established procedures for handling is:", "options": ["Crisis Problems", "Daily Problems", "Unexpected Problems", "Policy Problems"], "answer": "Daily Problems"},
-            {"question": "When an individual sees problems only in a customary manner and this prevents them from exploring all available options, they are suffering from the obstacle known as:", "options": ["Misleading Information", "Mindset Obstacle", "Functional Fixedness", "Overemphasis on analysis"], "answer": "Functional Fixedness"},
-            {"question": "Which of the following is considered a Disadvantage of the problem-solving process?", "options": ["Improvement of teamwork", "Time-Consuming Assessment", "Continuous engagement", "Promotes higher critical thinking levels"], "answer": "Time-Consuming Assessment"},
-            {"question": "The ability to apply appropriate skills systematically to find and resolve issues is the core definition of:", "options": ["Decision Making", "Critical Thinking", "Problem Solving", "Analytical Thinking"], "answer": "Problem Solving"},
-            {"question": "Problem solving is primarily the responsibility of:", "options": ["The manager", "The patients", "Visitors", "External auditors"], "answer": "The manager"},
-            {"question": "A problem is defined as:", "options": ["A simple task with no challenges", "A discrepancy between an existing and a desired state of affairs", "A routine procedure", "Memorizing instructions"], "answer": "A discrepancy between an existing and a desired state of affairs"},
-            {"question": "Problem solving involves:", "options": ["Identifying and solving problems systematically", "Following rules blindly", "Avoiding difficult situations", "Ignoring unknowns"], "answer": "Identifying and solving problems systematically"},
-            {"question": "One of the key functions of problem solving is:", "options": ["Seeking information", "Ignoring data", "Avoiding analysis", "Memorizing facts"], "answer": "Seeking information"},
-            {"question": "Key purposes of problem solving include all EXCEPT:", "options": ["Overcoming obstacles", "Improving efficiency and productivity", "Ignoring challenges", "Promoting innovation and creativity"], "answer": "Ignoring challenges"},
-            {"question": "Types of managerial problems include:", "options": ["Structured, Unstructured, and Crises problems", "Only routine problems", "Only emergencies", "Problems unrelated to work"], "answer": "Structured, Unstructured, and Crises problems"},
-            {"question": "Structured problems are:", "options": ["New and ambiguous problems", "Crises problems that threaten stability", "Straightforward, familiar, and easily defined problems", "Impossible to solve"], "answer": "Straightforward, familiar, and easily defined problems"},
-            {"question": "Unstructured problems are:", "options": ["Simple and familiar", "New or unusual with ambiguous or incomplete information", "Routine tasks", "Easily solved without analysis"], "answer": "New or unusual with ambiguous or incomplete information"},
-            {"question": "Crises problems are:", "options": ["Problems with a standard solution", "Problems that threaten organizational stability unexpectedly", "Easy to predict and handle", "Avoided by managers"], "answer": "Problems that threaten organizational stability unexpectedly"},
-            {"question": "The first step in the problem solving process is:", "options": ["Develop solutions", "Define problem", "Implement the best solution", "Determine effectiveness"], "answer": "Define problem"},
-            {"question": "Methods of problem solving include all EXCEPT:", "options": ["Trial and error", "Scientific experimentation", "Novel solution or interventions", "Ignoring the problem"], "answer": "Ignoring the problem"},
-            {"question": "Advantages of problem solving include:", "options": ["Continuous engagement and development of higher critical thinking", "Nurses’ unpreparedness", "Emotional and cognitive biases", "Implementation challenges"], "answer": "Continuous engagement and development of higher critical thinking"},
-            {"question": "Disadvantages of problem solving include:", "options": ["Promotes teamwork", "Time-consuming assessment and potential for failure", "Continuous engagement", "Knowledge retention"], "answer": "Time-consuming assessment and potential for failure"},
-            {"question": "Obstacles to problem solving include all EXCEPT:", "options": ["Misleading information", "Mindset limitations", "Functional fixedness", "Clear and complete information"], "answer": "Clear and complete information"},
-            {"question": "Functional fixedness refers to:", "options": ["Flexibility in thinking", "Seeing problems only in customary ways, limiting exploration of alternatives", "Creative thinking", "Effective problem solving"], "answer": "Seeing problems only in customary ways, limiting exploration of alternatives"},
-            {"question": "Problem solving is only the responsibility of the nurse.", "options": ["True", "False"], "answer": "False"},
-            {"question": "Identifying the real problem can be challenging.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Functions of problem solving include seeking information and generating knowledge.", "options": ["True", "False"], "answer": "True"},
-            {"question": "One purpose of problem solving is to ignore obstacles.", "options": ["True", "False"], "answer": "False"},
-            {"question": "Innovation and creativity are promoted through problem-solving activities.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Structured problems are new and unfamiliar.", "options": ["True", "False"], "answer": "False"},
-            {"question": "Trial and error is a method of problem solving.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Time-consuming assessment is an advantage of problem solving.", "options": ["True", "False"], "answer": "False"},
-            {"question": "Misleading information can obstruct effective problem solving.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Functional fixedness allows for maximum exploration of solutions.", "options": ["True", "False"], "answer": "False"}
-
-        ],
-        "L4 Emotional Intelligence Quiz" : [
-            {"question": "Emotional Intelligence (EQ) is primarily concerned with qualities like analytical skills and logical reasoning, similar to Intelligence Quotient (IQ).", "options": ["True", "False"], "answer": "False"},
-            {"question": "EQ is considered a learned capability that can enhance outstanding performance at work.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Self-Awareness is the ability to recognize and manage the emotions of oneself and others.", "options": ["True", "False"], "answer": "False"},
-            {"question": "An emotionally intelligent person tends to have better-developed coping mechanisms and support systems.", "options": ["True", "False"], "answer": "True"},
-            {"question": "The key skills for building EQ are Self-Management, Social Awareness, Relationship Management, and Technical Skills.", "options": ["True", "False"], "answer": "False"},
-            {"question": "Social Awareness allows one to be aware of other people’s feelings, needs, and concerns.", "options": ["True", "False"], "answer": "True"},
-            {"question": "One advantage of high EQ is that it leads to decreased occupational stress and reduced staff turnover.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Relationship Management focuses on how to influence, coach, and handle conflict effectively with others.", "options": ["True", "False"], "answer": "True"},
-            {"question": "The ability to recognize and manage the emotions of oneself and others, and to use this understanding to guide thinking and actions, is the definition of:", "options": ["Self-Awareness", "Critical Thinking", "Emotional Intelligence", "Social Awareness"], "answer": "Emotional Intelligence"},
-            {"question": "Which emotional intelligence skill focuses on the drive to achieve, optimism, and being organized in one's personal life?", "options": ["Self-Awareness", "Self-Management", "Relationship Management", "Social Awareness"], "answer": "Self-Management"},
-            {"question": "Practicing empathy and utilizing verbal and non-verbal cues to gain insight into the feelings of colleagues or clients are specific ways to improve the skill of:", "options": ["Self-Management", "Self-Awareness", "Relationship Management", "Social Awareness"], "answer": "Social Awareness"},
-            {"question": "Which of the following is a direct advantage of having high Emotional Intelligence in a professional setting?", "options": ["Increased ability to store and retrieve technical information (IQ)", "Increased Leadership Ability", "Reduced need for interpersonal communication", "Making fast decisions with minimal information"], "answer": "Increased Leadership Ability"},
-            {"question": "Managing your negative emotions effectively, and trying to look at situations objectively so you don't get overwhelmed easily, is a recommendation on how to improve which skill?", "options": ["Social Awareness", "Self-Management", "Relationship Management", "Conceptual Thinking"], "answer": "Self-Management"},
-            {"question": "The key skill for building EQ that helps in handling conflict and resolving disagreements in the workplace is:", "options": ["Self-Awareness", "Social Awareness", "Relationship Management", "Self-Management"], "answer": "Relationship Management"},
-            {"question": "Emotional intelligence (EQ) primarily helps in:", "options": ["Memorizing facts", "Handling interpersonal and intrapersonal relationships effectively", "Learning mathematics", "Following rules blindly"], "answer": "Handling interpersonal and intrapersonal relationships effectively"},
-            {"question": "Emotional intelligence is defined as:", "options": ["The ability to store and retrieve information", "The ability to recognize and manage emotions of oneself and others", "Only logical reasoning", "Avoiding emotional awareness"], "answer": "The ability to recognize and manage emotions of oneself and others"},
-            {"question": "Key skills of emotional intelligence include all EXCEPT:", "options": ["Self-management", "Self-awareness", "Social awareness", "Memorization skills"], "answer": "Memorization skills"},
-            {"question": "Self-management refers to:", "options": ["Understanding others’ feelings", "Managing one’s own emotions and responses", "Avoiding responsibility", "Memorizing rules"], "answer": "Managing one’s own emotions and responses"},
-            {"question": "Self-awareness involves:", "options": ["Controlling others’ behavior", "Recognizing and understanding one’s own emotions", "Ignoring setbacks", "Following orders blindly"], "answer": "Recognizing and understanding one’s own emotions"},
-            {"question": "Social awareness is the ability to:", "options": ["Predict future events", "Be aware of other people’s feelings, needs, and concerns", "Memorize facts quickly", "Avoid interactions"], "answer": "Be aware of other people’s feelings, needs, and concerns"},
-            {"question": "Relationship management involves:", "options": ["Ignoring others’ emotions", "Managing the emotions of oneself and others in relationships", "Working alone", "Avoiding communication"], "answer": "Managing the emotions of oneself and others in relationships"},
-            {"question": "Characteristics of emotionally intelligent people include all EXCEPT:", "options": ["Better stress management", "Strong coping mechanisms", "Inefficient workplace performance", "Ability to manage relationships well"], "answer": "Inefficient workplace performance"},
-            {"question": "Which is NOT a model of emotional intelligence?", "options": ["Ability model", "Mixed model", "Trait model", "Memory model"], "answer": "Memory model"},
-            {"question": "In the Ability model, managing emotions involves:", "options": ["Avoiding emotions", "Critically evaluating feelings of oneself and others", "Ignoring relationships", "Memorizing data"], "answer": "Critically evaluating feelings of oneself and others"},
-            {"question": "In the Mixed model, empathy includes:", "options": ["Service orientation, developing others, and political awareness", "Ignoring others’ feelings", "Memorizing rules", "Avoiding social interaction"], "answer": "Service orientation, developing others, and political awareness"},
-            {"question": "Trait model refers to:", "options": ["A set of external behaviors", "Self-perceptions of emotional abilities at lower levels of personality", "IQ-based memory skills", "Learning facts only"], "answer": "Self-perceptions of emotional abilities at lower levels of personality"},
-            {"question": "Advantages of emotional intelligence include all EXCEPT:", "options": ["Enhances problem-solving skills", "Helps inspire and guide groups", "Decreases self-awareness", "Improves negotiation and conflict resolution"], "answer": "Decreases self-awareness"},
-            {"question": "Being emotionally intelligent involves all EXCEPT:", "options": ["Managing negative emotions", "Practicing empathy", "Knowing your stressors", "Ignoring feedback"], "answer": "Ignoring feedback"},
-            {"question": "Optimism helps in:", "options": ["Memorizing data faster", "Bouncing back from adversity", "Avoiding challenges", "Ignoring problems"], "answer": "Bouncing back from adversity"},
-            {"question": "IQ and EQ are the same.", "options": ["True", "False"], "answer": "False"},
-            {"question": "Self-awareness is the ability to recognize one’s own emotions.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Social awareness helps in understanding others’ feelings and needs.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Emotionally intelligent people are less resilient to stress.", "options": ["True", "False"], "answer": "False"},
-            {"question": "The Ability model includes perceiving, facilitating, understanding, and managing emotions.", "options": ["True", "False"], "answer": "True"},
-            {"question": "The Mixed model emphasizes self-awareness, self-regulation, motivation, empathy, and social skills.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Trait model focuses on personality traits unrelated to emotions.", "options": ["True", "False"], "answer": "False"},
-            {"question": "Emotional intelligence improves negotiation, conflict resolution, and leadership.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Managing negative emotions is not part of developing emotional intelligence.", "options": ["True", "False"], "answer": "False"},
-            {"question": "Optimism and proactive stress management are ways to enhance EQ.", "options": ["True", "False"], "answer": "True"}
-
-        ],
-        "L5 Communication Skills Quiz" :[
-            {"question": "Communication is defined as:", "options": ["The art of transmitting information, ideas, and attitudes among people.", "The act of speaking only.", "The process of writing only.", "The art of using body language alone."], "answer": "The art of transmitting information, ideas, and attitudes among people."},
-            {"question": "Which of the following is a type of verbal communication?", "options": ["Facial expressions", "Written reports", "Eye contact", "Body posture"], "answer": "Written reports"},
-            {"question": "Nonverbal communication includes all of the following EXCEPT:", "options": ["Gestures", "Tone of voice", "Written letters", "Facial expressions"], "answer": "Written letters"},
-            {"question": "The correct order of the communication process is:", "options": ["Sender → Encode → Channel → Receiver → Decode → Feedback", "Receiver → Feedback → Encode → Channel → Sender", "Sender → Channel → Encode → Feedback → Receiver", "Sender → Decode → Channel → Feedback → Receiver"], "answer": "Sender → Encode → Channel → Receiver → Decode → Feedback"},
-            {"question": "Downward communication flows:", "options": ["From subordinates to managers", "Between departments at the same level", "From managers to subordinates", "Across unrelated departments only"], "answer": "From managers to subordinates"},
-            {"question": "Upward communication is mainly used to:", "options": ["Give feedback to superiors", "Assign duties", "Offer instructions", "Highlight subordinates’ mistakes"], "answer": "Give feedback to superiors"},
-            {"question": "Lateral or horizontal communication occurs:", "options": ["Between superiors and subordinates", "Between departments or peers at the same level", "Between nurse and patient only", "From management to patients"], "answer": "Between departments or peers at the same level"},
-            {"question": "A barrier related to the sender includes:", "options": ["Distraction", "Using difficult terminology", "Emotional reactions", "Misconceptions"], "answer": "Using difficult terminology"},
-            {"question": "A barrier related to the receiver includes:", "options": ["Low voice tone", "Noise", "Emotions such as anger", "Improper timing"], "answer": "Emotions such as anger"},
-            {"question": "Barriers related to media include:", "options": ["Unclear message", "Incomplete content", "Inappropriate medium", "Technical language"], "answer": "Inappropriate medium"},
-            {"question": "Therapeutic communication focuses on:", "options": ["Collecting data only", "Physical, mental, and emotional well-being of patients", "Controlling patient behavior", "Using medical jargon effectively"], "answer": "Physical, mental, and emotional well-being of patients"},
-            {"question": "Which of the following is a technique of therapeutic communication?", "options": ["Giving orders", "Active listening", "Avoiding touch", "Ignoring patient’s emotions"], "answer": "Active listening"},
-            {"question": "Empathy in therapeutic communication means:", "options": ["Feeling sorry for the patient", "Ignoring patient emotions", "Understanding and accepting another person’s feelings", "Sharing your personal emotions frequently"], "answer": "Understanding and accepting another person’s feelings"},
-            {"question": "The technique 'Using Silence' is intended to:", "options": ["End the conversation", "Give the nurse time to leave", "Allow therapeutic reflection and comfort", "Show disinterest"], "answer": "Allow therapeutic reflection and comfort"},
-            {"question": "Clarifying in communication is used to:", "options": ["Check understanding accuracy", "End the session", "Express disagreement", "Avoid discussion"], "answer": "Check understanding accuracy"},
-            {"question": "Asking open-ended questions helps to:", "options": ["Get detailed responses", "Limit patient’s answer", "Avoid extra information", "Block communication"], "answer": "Get detailed responses"},
-            {"question": "Summarizing in communication means:", "options": ["Giving advice", "Reviewing key points briefly", "Repeating questions", "Avoiding closure"], "answer": "Reviewing key points briefly"},
-            {"question": "Self-disclosure should be used to:", "options": ["Talk about yourself", "Show you understand the patient’s experience", "Shift focus away from patient", "Replace empathy"], "answer": "Show you understand the patient’s experience"},
-            {"question": "Confrontation in therapeutic communication is used to:", "options": ["Blame the patient", "Help the patient recognize inconsistencies in feelings or behavior", "End the conversation quickly", "Provide false reassurance"], "answer": "Help the patient recognize inconsistencies in feelings or behavior"},
-            {"question": "The main purpose of feedback in the communication process is to:", "options": ["Complete the communication cycle", "Start new conversation", "Interrupt the message", "Block understanding"], "answer": "Complete the communication cycle"},
-            {"question": "Effective communication is the lifeblood of a successful organization and reinforces its vision.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Closed-ended questions are primarily used to allow the patient to take the lead in the conversation and offer open-ended information.", "options": ["True", "False"], "answer": "False"},
-            {"question": "Clarifying is checking to ensure that your understanding of the other party's message is accurate and correct.", "options": ["True", "False"], "answer": "True"},
-            {"question": "A nurse uses Self-Disclosure to share personal experience with the patient with the primary goal of making the conversation about the nurse herself.", "options": ["True", "False"], "answer": "False"},
-            {"question": "Summarizing is a concise review of the key aspects of the message, typically used at the end of the communication.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Verbal communication includes only spoken and written words, excluding tone of voice and speed of speech.", "options": ["True", "False"], "answer": "False"},
-            {"question": "Using Silence is a deliberate lack of verbal communication for a specific therapeutic purpose.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Confrontation is a direct technique to help a person become aware of the inconsistencies in their feelings, attitudes, beliefs, or behaviors.", "options": ["True", "False"], "answer": "True"},
-            {"question": "Communication skills are essential only in the workplace and do not significantly affect an individual's personal life.", "options": ["True", "False"], "answer": "False"},
-            {"question": "Paraphrasing is briefly restating another's message in your own words to show that you are actively seeking understanding.", "options": ["True", "False"], "answer": "True"},
-            {"question": "The technique used to center on key elements in a message and guide the direction of the conversation toward an important area is:", "options": ["Summarizing", "Paraphrasing", "Focusing", "Providing Information"], "answer": "Focusing"},
-            {"question": "Which of the following is considered an example of a Psychological Barrier that hinders effective communication?", "options": ["Noise in the surrounding environment", "Geographical distance between the sender and receiver", "Prejudgment or Stereotyping", "Use of complex technical terms (Jargon)"], "answer": "Prejudgment or Stereotyping"},
-            {"question": "Which type of communication is the message primarily transmitted through spoken or written words?", "options": ["Non-Verbal Communication", "Therapeutic Communication", "Verbal Communication", "All of the above"], "answer": "Verbal Communication"},
-            {"question": "Communication is defined as the art of transmitting information, ideas, and attitudes from one person to another, or the process of:", "options": ["Physical handling of individuals", "Meaningful Interaction among human beings", "Issuing orders and instructions only", "Evaluating complex information"], "answer": "Meaningful Interaction among human beings"},
-            {"question": "One of the therapeutic communication techniques involves listening attentively and showing verbal and non-verbal interest, which belongs to the technique of:", "options": ["Clarifying", "Using Silence", "Active Listening", "Self-Disclosure"], "answer": "Active Listening"}
-
-        ],
-    },
     "Emergency & Critical Care Medicine": {
         "" : [
 
         ]
     },
     "Pediatric Medicine & Surgery": {
-        "" : [
+        "تدريبات": [
+                {"question": "Hematemesis means:", "options": ["Vomiting of bright red blood", "Passage of blood in stool", "Blood in stool can’t be seen by naked eye", "Coughing fresh blood"], "answer": "Vomiting of bright red blood"},
+                {"question": "Management of GERD includes:", "options": ["Dietary measures", "Positioning", "Medication and may be surgery", "All answers are true"], "answer": "All answers are true"},
+                {"question": "Dysphagia means:", "options": ["Hunger sensation", "Difficulty in swallowing", "Passage of loss watery stool", "None of the above"], "answer": "Difficulty in swallowing"},
+                {"question": "Absolute contraindication of breast milk includes:", "options": ["Some inborn error of metabolism", "Common cold", "Protein energy malnutrition", "None of the above answer is correct"], "answer": "Some inborn error of metabolism"},
+                {"question": "In drowning, first important management is:", "options": ["Immediate cardiac massage, good ventilation", "Plasma administration", "Blood transfusion", "None of the above answers is correct"], "answer": "Immediate cardiac massage, good ventilation"},
+                {"question": "Investigation required in coma includes:", "options": ["Blood glucose and serum electrolytes", "CT and MRI", "Blood and urine analysis", "All answers are correct"], "answer": "All answers are correct"},
+                {"question": "Management of convulsions includes:", "options": ["Measurement and correction of serum electrolytes", "Anticonvulsant", "Evaluation of the patient", "All answers are correct"], "answer": "All answers are correct"},
+                {"question": "The most important follow-up for macrocephaly is:", "options": ["Body weight", "Serum protein", "Head circumference", "All answers are correct"], "answer": "Head circumference"},
+                {"question": "Inability to suckle may be due to:", "options": ["Blocked nostril", "Mouth fungal infection", "Improper position during feeding", "All the answers are correct"], "answer": "All the answers are correct"},
+                {"question": "Tachypnea in neonate means:", "options": ["Respiratory rate from 30 to 60 per minute", "Respiratory rate over 60", "Respiratory rate less than 60", "None of the above"], "answer": "Respiratory rate over 60"},
+                {"question": "The main nursing intervention in cases of pneumothorax:", "options": ["Chest tube underwater seal", "Antibiotics", "Suction", "None of the above"], "answer": "Chest tube underwater seal"},
+                {"question": "Signs of the baby suckling in a good position include:", "options": ["His chin is touching the breast", "His mouth is wide open", "His lower lip is curled outwards", "All answers are correct"], "answer": "All answers are correct"},
+                {"question": "Certain rules should be fulfilled with complementary feeding to avoid inhibition of breast milk:", "options": ["Both breasts should be given and completely emptied at each feed", "The feed should always be immediately after breastfeeding", "The feed should not be too sweet", "All answers are correct"], "answer": "All answers are correct"},
+                {"question": "Value of assessing growth by percentile charts:", "options": ["Follow up of growth", "Early detection of deviation from normal growth", "Helps in excluding organic problems as a cause of minor complaints", "All answers are correct"], "answer": "All answers are correct"},
+                {"question": "Main management of croup includes:", "options": ["Antibiotics", "Humidification and nebulizer", "Anti-parasitic", "All answers are correct"], "answer": "Humidification and nebulizer"},
+                {"question": "Cardiopulmonary resuscitation steps:", "options": ["Airway, breathing and circulation", "Intravenous fluid first before breathing aid", "Plasma and blood", "Antibiotics"], "answer": "Airway, breathing and circulation"},
+                {"question": "Nursing intervention targeted to shocked patient through:", "options": ["Restore intravenous fluid", "Monitoring vital signs", "Oxygen administration", "All of the above"], "answer": "All of the above"},
+                {"question": "Signs and symptoms of hypovolemic shock include:", "options": ["Rapid weak thready pulse", "Hypothermia", "Rapid shallow breathing", "All of the above"], "answer": "All of the above"},
+                {"question": "Apnea means:", "options": ["Increased depth of breathing", "Difficult breathing", "Forced expiration against a partially closed glottis", "Cessation of breathing"], "answer": "Cessation of breathing"},
+                {"question": "Nursing intervention in case of respiratory failure includes:", "options": ["Respiratory support including maintaining airway and good oxygenation", "Suction", "Withdrawal of blood gases and electrolytes", "All of the above"], "answer": "All of the above"},
+                {"question": "Indication of intravenous fluid therapy in neonate includes:", "options": ["Feeding intolerance", "Severe respiratory distress", "Shock", "All of the above"], "answer": "All of the above"},
+                {"question": "Hydration state assessment includes:", "options": ["Skin turgor", "Altered conscious level", "Anterior fontanelle", "All of the above"], "answer": "All of the above"},
+                {"question": "Anemia is defined as:", "options": ["Reduction of the red cell volume (hematocrit) or hemoglobin concentration below the range of normal values for age", "Reduction of the red cell volume (hematocrit) only", "Hemoglobin concentration below the range of normal values for age only", "Increase of the red cell volume or hemoglobin concentration below normal"], "answer": "Reduction of the red cell volume (hematocrit) or hemoglobin concentration below the range of normal values for age"},
+                {"question": "In neonate the most common cause of hypertension is:", "options": ["Renal artery embolus after umbilical artery catheter placement", "Congenital renal diseases", "Renal artery stenosis", "All statements are correct"], "answer": "Renal artery embolus after umbilical artery catheter placement"},
+                {"question": "Heart failure most common cause is:", "options": ["Volume overload", "Cardiomyopathy", "Pressure overload", "All statements are correct"], "answer": "All statements are correct"},
+                {"question": "Management of heart failure includes except:", "options": ["Treatment of the cause", "Monitoring of the vital signs", "Drugs such as inotropes and diuretics", "Low calories high salt diet"], "answer": "Low calories high salt diet"},
+                {"question": "Goals of treatment of hypertension:", "options": ["Acute hypertension aim is to reduce BP gradually and prevent complications", "Keep BP above 90th percentile for age", "Reduce blood quickly", "All statements are not correct"], "answer": "Acute hypertension aim is to reduce BP gradually and prevent complications"},
+                {"question": "Laboratory investigation in cases of iron deficiency anemia include:", "options": ["Complete blood picture", "Iron binding capacity, ferritin, transferrin", "Occult blood in stool", "All statements are correct"], "answer": "All statements are correct"},
+                {"question": "Cardiogenic shock is caused by failure of heart to pump the blood effectively; the patient shows except:", "options": ["Irregular heart rate", "Shortness of breath", "Decreased jugular venous pressure", "Increased blood pressure"], "answer": "Increased blood pressure"},
+                {"question": "Febrile seizure includes all except:", "options": ["Strong family history", "Age from 6 months to 6 years", "Neurologically and metabolically not free", "Male more than female"], "answer": "Neurologically and metabolically not free"}
 
-        ]
+        ],
+        "L1 PEDIATRIC EMERGENCIES" : [
+                {"question": "Cardio-respiratory arrest in children is characterized by:", "options": ["Pale or blue color, no respiration, and no palpable carotid or femoral pulse", "Increased heart rate and strong pulse", "Normal respiration and normal color", "High blood pressure"], "answer": "Pale or blue color, no respiration, and no palpable carotid or femoral pulse"},
+                {"question": "During airway management, if a cervical injury is suspected, which maneuver should be used?", "options": ["Head tilt–chin lift", "Jaw thrust", "Mouth-to-mouth only", "Nose breathing"], "answer": "Jaw thrust"},
+                {"question": "The ratio of chest compression to ventilation in infants and children is:", "options": ["30:2", "15:2", "10:1", "5:1"], "answer": "15:2"},
+                {"question": "The rate of chest compressions in children should be:", "options": ["20–40 per minute", "40–60 per minute", "60–100 per minute", "120–150 per minute"], "answer": "60–100 per minute"},
+                {"question": "Vascular access in pediatric emergencies should be obtained within:", "options": ["30 seconds", "60 seconds", "90 seconds", "2 minutes"], "answer": "90 seconds"},
+                {"question": "The AED can be used for infants under 1 year old.", "options": ["True", "False"], "answer": "False"},
+                {"question": "External cardiac massage is done on the upper third of the sternum in a child.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Drugs and vascular access are part of the “Circulation” step in CPR.", "options": ["True", "False"], "answer": "True"},
+                {"question": "The most common type of shock in children is:", "options": ["Cardiogenic shock", "Hypovolemic shock", "Neurogenic shock", "Septic shock"], "answer": "Hypovolemic shock"},
+                {"question": "The second most common type of shock in children is:", "options": ["Septic shock", "Cardiogenic shock", "Neurogenic shock", "Anaphylactic shock"], "answer": "Septic shock"},
+                {"question": "A late sign of shock in children is:", "options": ["Tachycardia", "Pallor", "Hypotension", "Restlessness"], "answer": "Hypotension"},
+                {"question": "Which of the following is not a cause of cardiogenic shock?", "options": ["Myocarditis", "Cardiac tamponade", "Arrhythmia", "Dehydration"], "answer": "Dehydration"},
+                {"question": "Oxygen therapy is the most important part of initial shock management.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Dopamine and dobutamine are examples of inotropes used in shock treatment.", "options": ["True", "False"], "answer": "True"},
+                {"question": "The child should be placed in a sitting position during shock.", "options": ["True", "False"], "answer": "False"},
+                {"question": "“Dry drowning” occurs due to:", "options": ["Pulmonary edema", "Laryngeal spasm and cerebral anoxia", "Hypothermia", "Airway obstruction by food"], "answer": "Laryngeal spasm and cerebral anoxia"},
+                {"question": "Poor prognosis after drowning is expected if:", "options": ["Submersion < 3 minutes", "Water temperature > 25°C", "Pupils are dilated and fixed", "Immediate CPR started"], "answer": "Pupils are dilated and fixed"},
+                {"question": "Polluted water can cause delayed death from pneumonia or pulmonary edema.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Cardiac massage should be delayed until the airway is clear.", "options": ["True", "False"], "answer": "False"},
+                {"question": "According to the rule of nines, the anterior trunk equals:", "options": ["9%", "18%", "27%", "36%"], "answer": "18%"},
+                {"question": "In children under 10 years, for each year of age, 0.5% is subtracted from each leg and added to the head.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Second-degree burns involve:", "options": ["Only epidermis", "Epidermis and part of dermis", "Full dermis and subcutaneous tissue", "Muscle and bone"], "answer": "Epidermis and part of dermis"},
+                {"question": "Third-degree burns are typically:", "options": ["Painful", "Painless", "Itchy", "Mild"], "answer": "Painless"},
+                {"question": "Hospital admission is required for:", "options": ["First-degree burns", "Second-degree burns covering 10% BSA", "Third-degree burns covering 2% BSA", "Superficial burns only"], "answer": "Second-degree burns covering 10% BSA"},
+                {"question": "Curling ulcers can occur after severe burns, so H₂ blockers are used.", "options": ["True", "False"], "answer": "True"},
+                {"question": "The skin regenerates after third-degree burns without grafting.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Cold water is part of the first aid for burns.", "options": ["True", "False"], "answer": "True"}
+        ],
+        "L2 Hepatology": [
+            {"question": "Jaundice becomes clinically apparent in children when serum bilirubin reaches:", "options": ["1–2 mg/dL", "2–3 mg/dL", "4–5 mg/dL", ">5 mg/dL"], "answer": "2–3 mg/dL"},
+            {"question": "In neonates, jaundice may not appear until bilirubin level exceeds:", "options": ["2 mg/dL", "3 mg/dL", "4 mg/dL", "5 mg/dL"], "answer": "5 mg/dL"},
+            {"question": "Cholestasis is defined as increased conjugated bilirubin more than:", "options": ["10% of total bilirubin", "15% of total bilirubin", "20% of total bilirubin", "25% of total bilirubin"], "answer": "20% of total bilirubin"},
+            {"question": "Obstructive cholestasis is mainly due to:", "options": ["Functional impairment of hepatic cells", "Mechanical obstruction to bile flow", "Autoimmune disorders", "Congenital infection"], "answer": "Mechanical obstruction to bile flow"},
+            {"question": "In hepatocellular cholestasis, bile excretion is impaired due to:", "options": ["Mechanical blockage", "Hepatic functional defect", "Biliary atresia", "Gall stones"], "answer": "Hepatic functional defect"},
+            {"question": "Which of the following is commonly associated with obstructive jaundice?", "options": ["Pruritis", "Hypothermia", "Weight loss", "Fever"], "answer": "Pruritis"},
+            {"question": "In obstructive lesions, serum alkaline phosphatase is:", "options": ["Decreased", "Normal", "Increased less than 3 times", "Increased more than 3 times"], "answer": "Increased more than 3 times"},
+            {"question": "In hepatocellular disease, serum cholesterol is usually:", "options": [">250 mg/dL", "<250 mg/dL", "Normal", "Absent"], "answer": "<250 mg/dL"},
+            {"question": "Prolonged prothrombin time occurs in hepatocellular disease.", "options": ["True", "False"], "answer": "True"},
+            {"question": "TORCH screening is used to detect congenital infection.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Dark urine and pale stools are features of hemolytic jaundice only.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Ascites is defined as:", "options": ["Accumulation of air in the peritoneal sac", "Accumulation of blood in the peritoneum", "Accumulation of fluid in the peritoneal sac", "Fluid retention in the pleura"], "answer": "Accumulation of fluid in the peritoneal sac"},
+            {"question": "Which of the following is not a cause of transudate ascites?", "options": ["Heart failure", "Liver cirrhosis", "Peritonitis", "Nephrotic syndrome"], "answer": "Peritonitis"},
+            {"question": "The most accurate clinical method for detecting minimal ascites is:", "options": ["Shifting dullness", "Fluid thrill", "Abdominal percussion in knee-chest position", "Palpation"], "answer": "Abdominal percussion in knee-chest position"},
+            {"question": "Shifting dullness can detect:", "options": ["Minimal ascites", "Moderate ascites", "Massive ascites", "No ascites"], "answer": "Moderate ascites"},
+            {"question": "Which investigation helps detect the degree and cause of ascites?", "options": ["Chest X-ray", "Abdominal ultrasound", "MRI brain", "ECG"], "answer": "Abdominal ultrasound"},
+            {"question": "First-line treatment of ascites includes:", "options": ["Sodium restriction", "High-salt diet", "Steroid therapy", "Surgery"], "answer": "Sodium restriction"},
+            {"question": "Furosemide should always be used alone in ascites management.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Therapeutic paracentesis is reserved for severe cases.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Ascites can result from both liver and heart diseases.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Hepatitis is characterized by:", "options": ["Inflammation of the kidney", "Inflammation of the hepatocytes", "Inflammation of the pancreas", "Inflammation of the bile duct"], "answer": "Inflammation of the hepatocytes"},
+            {"question": "Chronic hepatitis is defined as inflammation lasting:", "options": ["Less than 6 weeks", "1–3 months", "More than 6 months", "More than 1 year"], "answer": "More than 6 months"},
+            {"question": "A common viral cause of hepatitis is:", "options": ["Influenza virus", "Hepatitis A, B, C viruses", "Rhinovirus", "Poliovirus"], "answer": "Hepatitis A, B, C viruses"},
+            {"question": "Non-hepatotropic viruses that can cause hepatitis include:", "options": ["Epstein-Barr virus", "Hepatitis D", "Hepatitis G", "Dengue virus"], "answer": "Epstein-Barr virus"},
+            {"question": "Anti-TB drugs like Isoniazid can cause drug-induced hepatitis.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Hepatitis may occur as part of systemic lupus erythematosus (SLE).", "options": ["True", "False"], "answer": "True"},
+            {"question": "Wilson disease is a metabolic cause of hepatitis.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Hepatitis A virus is transmitted mainly by:", "options": ["Fecal-oral route", "Blood transfusion", "Insect bites", "Sexual contact"], "answer": "Fecal-oral route"},
+            {"question": "The incubation period of Hepatitis A is approximately:", "options": ["5–10 days", "15–45 days", "2–3 months", "90–120 days"], "answer": "15–45 days"},
+            {"question": "Which phase of Hepatitis A shows jaundice and dark urine?", "options": ["Prodromal phase", "Icteric phase", "Convalescent phase", "Incubation period"], "answer": "Icteric phase"},
+            {"question": "IgM anti-HAV disappears within:", "options": ["2 weeks", "1 month", "4 months", "8 months"], "answer": "4 months"},
+            {"question": "The most common complication of Hepatitis A is:", "options": ["Acute fulminant hepatitis", "Chronic active hepatitis", "Hepatocellular carcinoma", "Liver cirrhosis"], "answer": "Acute fulminant hepatitis"},
+            {"question": "Hepatitis A vaccine is given to children older than 2 years.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Hepatitis A leads to chronic infection.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Hepatitis A can be prevented by hand washing and fly control.", "options": ["True", "False"], "answer": "True"}
+
+        ],
+        "L3 NEPHROLOGY": [
+            {
+                "question": "Nephrotic syndrome is characterized by all of the following EXCEPT:",
+                "options": ["Heavy proteinuria", "Hypoalbuminemia", "Hyperglycemia", "Generalized edema"],
+                "answer": "Hyperglycemia"
+            },
+            {
+                "question": "In nephrotic syndrome, serum albumin level is usually:",
+                "options": [">4.5 g/dL", "<2.5 g/dL", "3.5–5 g/dL", ">5.5 g/dL"],
+                "answer": "<2.5 g/dL"
+            },
+            {
+                "question": "The most common lipid abnormality in nephrotic syndrome is:",
+                "options": ["Hypolipidemia", "Hypercholesterolemia", "Normal lipid level", "Low triglycerides"],
+                "answer": "Hypercholesterolemia"
+            },
+            {
+                "question": "Nephrotic syndrome is always caused by infections.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "The most common type of nephrotic syndrome in children is:",
+                "options": ["Secondary nephrotic syndrome", "Congenital nephrotic syndrome", "Idiopathic nephrotic syndrome", "Diabetic nephropathy"],
+                "answer": "Idiopathic nephrotic syndrome"
+            },
+            {
+                "question": "Minimal change nephrotic syndrome represents approximately:",
+                "options": ["5% of cases", "10% of cases", "85% of cases", "50% of cases"],
+                "answer": "85% of cases"
+            },
+            {
+                "question": "Secondary nephrotic syndrome may occur due to all EXCEPT:",
+                "options": ["Systemic lupus erythematosus", "Diabetes mellitus", "Penicillamine", "Vitamin C overdose"],
+                "answer": "Vitamin C overdose"
+            },
+            {
+                "question": "Congenital nephrotic syndrome (Finnish type) is caused by a defect in nephrin protein.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Proteinuria in nephrotic syndrome results mainly from:",
+                "options": ["Decreased filtration rate", "Increased glomerular permeability", "Increased tubular reabsorption", "Low sodium intake"],
+                "answer": "Increased glomerular permeability"
+            },
+            {
+                "question": "In minimal change disease, proteinuria is:",
+                "options": ["Non-selective", "Selective (mainly albuminuria)", "Absent", "Mixed"],
+                "answer": "Selective (mainly albuminuria)"
+            },
+            {
+                "question": "Hypoalbuminemia in nephrotic syndrome is due to decreased liver synthesis of proteins.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Hyperlipidemia occurs in nephrotic syndrome because:",
+                "options": ["Liver increases lipoprotein production", "Lipid catabolism increases", "Protein loss decreases", "Glucose increases lipid use"],
+                "answer": "Liver increases lipoprotein production"
+            },
+            {
+                "question": "The usual age of onset of idiopathic nephrotic syndrome is:",
+                "options": ["0–1 years", "2–8 years", "9–15 years", ">18 years"],
+                "answer": "2–8 years"
+            },
+            {
+                "question": "The most common initial site of edema in nephrotic syndrome is:",
+                "options": ["Abdomen", "Eyes and lower limbs", "Hands", "Back"],
+                "answer": "Eyes and lower limbs"
+            },
+            {
+                "question": "Blood pressure is usually high in idiopathic nephrotic syndrome.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Which of the following is a common complication of nephrotic syndrome?",
+                "options": ["Bacterial infection", "Hypoglycemia", "Hyponatremia", "Polycythemia"],
+                "answer": "Bacterial infection"
+            },
+            {
+                "question": "Increased risk of thrombosis in nephrotic syndrome is due to:",
+                "options": ["Decreased coagulation factors", "Hypovolemia and increased coagulation factors", "Increased blood viscosity only", "Immune reaction"],
+                "answer": "Hypovolemia and increased coagulation factors"
+            },
+            {
+                "question": "Cellulitis and peritonitis are possible infections in nephrotic syndrome patients.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "In nephrotic syndrome, serum cholesterol level is usually:",
+                "options": ["<150 mg/dL", ">220 mg/dL", "Normal", "Low"],
+                "answer": ">220 mg/dL"
+            },
+            {
+                "question": "The complement (C3) level in idiopathic nephrotic syndrome is:",
+                "options": ["Decreased", "Normal", "Increased", "Absent"],
+                "answer": "Normal"
+            },
+            {
+                "question": "The main line of treatment in idiopathic nephrotic syndrome is:",
+                "options": ["Antibiotics", "Corticosteroids", "Diuretics", "Surgery"],
+                "answer": "Corticosteroids"
+            },
+            {
+                "question": "The preferred corticosteroid for treatment is:",
+                "options": ["Prednisone", "Dexamethasone", "Hydrocortisone", "Cortisone"],
+                "answer": "Prednisone"
+            },
+            {
+                "question": "Aggressive diuretic therapy is avoided in nephrotic syndrome.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Albumin infusion is indicated when serum albumin is:",
+                "options": [">3 g/dL", "<2 g/dL", "= 4.5 g/dL", ">2.5 g/dL"],
+                "answer": "<2 g/dL"
+            },
+            {
+                "question": "In steroid therapy, initial responders are:",
+                "options": ["Patients who respond within 1 month", "Patients who respond after 6 months", "Steroid-resistant cases", "Untreated patients"],
+                "answer": "Patients who respond within 1 month"
+            },
+            {
+                "question": "Frequent relapsers are patients who relapse 4 or more times in one year.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Indication for renal biopsy in nephrotic syndrome includes:",
+                "options": ["Age between 2–8 years", "Steroid-resistant or dependent cases", "Mild proteinuria only", "All idiopathic cases"],
+                "answer": "Steroid-resistant or dependent cases"
+            },
+            {
+                "question": "Acute renal failure is best defined as:",
+                "options": ["Gradual loss of kidney function", "Sudden drop in renal function with fluid and electrolyte imbalance", "Urinary tract infection", "Congenital kidney disorder"],
+                "answer": "Sudden drop in renal function with fluid and electrolyte imbalance"
+            },
+            {
+                "question": "The most common cause of prerenal acute renal failure is:",
+                "options": ["Dehydration", "Obstruction", "Tumor", "Stones"],
+                "answer": "Dehydration"
+            },
+            {
+                "question": "Postrenal failure occurs due to obstruction in urinary outflow.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "In ARF, serum potassium level is usually:",
+                "options": ["Decreased", "Normal", "Increased", "Variable"],
+                "answer": "Increased"
+            },
+            {
+                "question": "Dialysis is indicated in ARF when:",
+                "options": ["Patient recovers urine output", "Medical treatment fails", "Hypertension disappears", "Creatinine decreases"],
+                "answer": "Medical treatment fails"
+            },
+            {
+                "question": "Chronic renal failure is characterized by:",
+                "options": ["Sudden onset", "Irreversible reduction in GFR", "Complete renal recovery", "Transient electrolyte imbalance"],
+                "answer": "Irreversible reduction in GFR"
+            },
+            {
+                "question": "GFR less than 10 mL/min/1.73m² indicates end-stage renal disease.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "The main treatment for end-stage renal disease is:",
+                "options": ["Antibiotics", "Renal transplantation", "Steroids", "Vitamin D"],
+                "answer": "Renal transplantation"
+            },
+            {
+                "question": "Polyuria is defined as urine output more than:",
+                "options": ["2 L/day", "3 L/day", "5 L/day", "10 L/day"],
+                "answer": "5 L/day"
+            },
+            {
+                "question": "Diabetes insipidus is one of the causes of polyuria.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Urinary tract infection is most common in:",
+                "options": ["Male children", "Female children", "Equal in both sexes", "Elderly only"],
+                "answer": "Female children"
+            },
+            {
+                "question": "The most common organism causing UTI is:",
+                "options": ["Proteus", "Pseudomonas", "Escherichia coli", "Streptococcus"],
+                "answer": "Escherichia coli"
+            },
+            {
+                "question": "Uncircumcised males have higher risk of UTIs.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "In newborns, UTI may present as:",
+                "options": ["Fever and cough", "Poor feeding and hypothermia", "Abdominal distension", "Edema"],
+                "answer": "Poor feeding and hypothermia"
+            },
+            {
+                "question": "Significant bacteriuria in clean-catch urine sample is when colony count is:",
+                "options": ["<10,000/ml", ">100,000/ml", "10,000–50,000/ml", "None of the above"],
+                "answer": ">100,000/ml"
+            },
+            {
+                "question": "Any bacterial growth in suprapubic aspiration sample is considered significant.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "The best investigation to detect renal scars after UTI is:",
+                "options": ["Ultrasound", "DMSA scan", "CT scan", "Cystoscopy"],
+                "answer": "DMSA scan"
+            },
+            {
+                "question": "Treatment of UTI includes all EXCEPT:",
+                "options": ["Adequate hydration", "Antibiotics", "Constipation", "Urine culture follow-up"],
+                "answer": "Constipation"
+            },
+            {
+                "question": "Prophylactic antibiotics are recommended in children with vesicoureteric reflux.",
+                "options": ["True", "False"],
+                "answer": "True"
+            }
+        ],
+        "L4 THE NEWBORN INFANT": [
+            {"question": "Neonatal hypoglycemia is defined as blood glucose:", "options": ["<30 mg/dL", "<35 mg/dL", "<40 mg/dL", "<50 mg/dL"], "answer": "<40 mg/dL"},
+            {"question": "Which of the following statements about neonatal hypoglycemia is TRUE?", "options": ["All neonates show clear symptoms", "It occurs only in term infants", "Many neonates may show no symptoms", "It is not seen in infants of diabetic mothers"], "answer": "Many neonates may show no symptoms"},
+            {"question": "Which of the following is not a symptom of neonatal hypoglycemia?", "options": ["Lethargy", "Jitteriness", "Poor feeding", "Polyuria"], "answer": "Polyuria"},
+            {"question": "A newborn with hypoglycemia may present with:", "options": ["Hyperactivity", "Seizures and decreased level of consciousness", "Cyanosis only", "High fever"], "answer": "Seizures and decreased level of consciousness"},
+            {"question": "Infants at increased risk of neonatal hypoglycemia include:", "options": ["Infants of diabetic mothers", "Preterm infants", "Infants with intrauterine growth retardation", "All of the above"], "answer": "All of the above"},
+            {"question": "Which of the following is a possible differential diagnosis for neonatal hypoglycemia?", "options": ["Inborn errors of metabolism", "Hypothyroidism", "Polycythemia", "Vitamin D deficiency"], "answer": "Inborn errors of metabolism"},
+            {"question": "Genetic hyperinsulinism causes:", "options": ["Hyperglycemia", "Hypoglycemia", "Hypocalcemia", "Polycythemia"], "answer": "Hypoglycemia"},
+            {"question": "When blood sugar is <40 mg/dL with symptoms, management should start:", "options": ["Within 30 minutes", "Within 10 minutes", "After feeding", "After lab confirmation"], "answer": "Within 10 minutes"},
+            {"question": "When blood sugar is <40 mg/dL without symptoms, the first step is:", "options": ["Immediate IV dextrose", "Feeding and glucose monitoring", "Wait and observe", "Start antibiotics"], "answer": "Feeding and glucose monitoring"},
+            {"question": "If blood sugar is <20 mg/dL (with or without symptoms), treatment includes:", "options": ["Feeding only", "2 mL/kg of 10% dextrose IV within 10 minutes", "Oral glucose", "No urgent action needed"], "answer": "2 mL/kg of 10% dextrose IV within 10 minutes"},
+            {"question": "The recommended constant IV infusion rate for glucose after bolus is:", "options": ["2.0 mL/kg/h", "3.6 mL/kg/h", "5.0 mL/kg/h", "10 mL/kg/h"], "answer": "3.6 mL/kg/h"},
+            {"question": "In infants of diabetic mothers (IDM), maternal diabetes can be:", "options": ["Only gestational", "Only pre-existing", "Pre-existing or gestational", "Transient"], "answer": "Pre-existing or gestational"},
+            {"question": "Tight glycemic control during pregnancy helps to:", "options": ["Increase macrosomia", "Reduce fetal and neonatal complications", "Delay labor", "Increase insulin resistance"], "answer": "Reduce fetal and neonatal complications"},
+            {"question": "Which of the following congenital anomalies is common in IDM?", "options": ["Cardiac and neural tube defects", "Cleft lip", "Polydactyly", "Microcephaly"], "answer": "Cardiac and neural tube defects"},
+            {"question": "Hypocalcemia in IDM is defined as total serum calcium less than:", "options": ["9 mg/dL", "8 mg/dL", "7 mg/dL", "6 mg/dL"], "answer": "7 mg/dL"},
+            {"question": "Serum magnesium <1.5 mg/dL in IDM indicates:", "options": ["Hypermagnesemia", "Hypomagnesemia", "Hypercalcemia", "Hypoglycemia"], "answer": "Hypomagnesemia"},
+            {"question": "Which of the following is not a complication of IDM?", "options": ["RDS (Respiratory Distress Syndrome)", "Polycythemia", "Hypoglycemia", "Hypothyroidism"], "answer": "Hypothyroidism"},
+            {"question": "Small left colon syndrome is associated with:", "options": ["Delayed passage of meconium", "Intestinal perforation", "Bloody stools", "Vomiting blood"], "answer": "Delayed passage of meconium"},
+            {"question": "The best place for delivery of an IDM is:", "options": ["Home", "Rural clinic", "Hospital equipped for neonatal care", "Any maternity ward"], "answer": "Hospital equipped for neonatal care"},
+            {"question": "Blood sugar monitoring in IDM should be done at:", "options": ["1, 2, 3, 6, 12, 24, 36, and 48 hours after birth", "1, 3, 9, 15 hours after birth", "Only at 12 and 24 hours", "Once daily"], "answer": "1, 2, 3, 6, 12, 24, 36, and 48 hours after birth"},
+            {"question": "Treatment for hypoglycemia in IDM includes:", "options": ["IV bolus of 10% dextrose (2–4 mL/kg/min)", "Oral feeding only", "IV saline", "Antibiotics"], "answer": "IV bolus of 10% dextrose (2–4 mL/kg/min)"},
+            {"question": "Hypomagnesemia in IDM is treated with:", "options": ["Calcium gluconate", "MgSO₄ 50% (0.1–0.2 mL/kg IM)", "IV dextrose", "Insulin"], "answer": "MgSO₄ 50% (0.1–0.2 mL/kg IM)"},
+            {"question": "Maternal diabetes increases the risk of:", "options": ["Stillbirth and preterm delivery", "Low birth weight only", "Hypercalcemia", "Hypomagnesemia"], "answer": "Stillbirth and preterm delivery"},
+            {"question": "Macrosomia in IDM is due to:", "options": ["Fetal hyperinsulinemia", "Fetal hypothyroidism", "Placental insufficiency", "Maternal dehydration"], "answer": "Fetal hyperinsulinemia"},
+            {"question": "Neonatal hypoglycemia due to birth asphyxia is:", "options": ["Genetic", "Secondary", "Endocrine", "Unrelated"], "answer": "Secondary"},
+            {"question": "Neonatal hypoglycemia is defined as blood glucose below 40 mg/dL.", "options": ["True", "False"], "answer": "True"},
+            {"question": "All neonates with hypoglycemia show obvious clinical symptoms.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Seizures can be a symptom of neonatal hypoglycemia.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Infants of diabetic mothers are at increased risk of hypoglycemia.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Inborn errors of metabolism can cause hypoglycemia in newborns.", "options": ["True", "False"], "answer": "True"},
+            {"question": "If blood sugar <40 mg/dL with symptoms, IV glucose should be started within 30 minutes.", "options": ["True", "False"], "answer": "False"},
+            {"question": "If blood sugar <40 mg/dL without symptoms, feeding is the first step.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Blood glucose <20 mg/dL, even without symptoms, requires immediate IV therapy.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Maternal diabetes can cause congenital anomalies in the newborn.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Macrosomia means birth weight <2500 g.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Polycythemia is a possible complication of IDM.", "options": ["True", "False"], "answer": "True"},
+            {"question": "IDM infants have a higher risk of respiratory distress syndrome (RDS).", "options": ["True", "False"], "answer": "True"},
+            {"question": "Serum magnesium <1.5 mg/dL indicates hypermagnesemia.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Hypocalcemia in IDM means total calcium <7 mg/dL.", "options": ["True", "False"], "answer": "True"},
+            {"question": "IDM infants should be delivered at home under strict monitoring.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Small left colon syndrome may cause delayed passage of meconium.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Hypomagnesemia in IDM is treated with MgSO₄ injection.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Tight maternal glucose control reduces neonatal complications.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Hypoglycemia in IDM occurs due to high insulin levels in the fetus.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Monitoring blood sugar only once after birth is enough for IDM.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The neonatal period includes the first:", "options": ["2 weeks of life", "4 weeks of life", "2 months of life", "6 months of life"], "answer": "4 weeks of life"},
+            {"question": "A newborn showing heartbeat, movement, or breathing after delivery is defined as:", "options": ["Stillbirth", "Abortion", "Live birth", "Fetal death"], "answer": "Live birth"},
+            {"question": "A stillbirth is a fetus born dead at or after:", "options": ["20 weeks gestation", "22 weeks gestation", "24 weeks gestation", "28 weeks gestation"], "answer": "24 weeks gestation"},
+            {"question": "A fetus born dead before 24 weeks of gestation is termed:", "options": ["Abortion", "Stillbirth", "Preterm birth", "Intrauterine death"], "answer": "Abortion"},
+            {"question": "A preterm newborn is defined as a live-born infant with gestational age:", "options": ["< 34 weeks", "< 37 weeks", "37–42 weeks", "> 42 weeks"], "answer": "< 37 weeks"},
+            {"question": "A term infant is one born between:", "options": ["34–37 weeks", "37–42 weeks", "42–44 weeks", "28–36 weeks"], "answer": "37–42 weeks"},
+            {"question": "A post-term infant is born:", "options": ["Before 37 weeks", "Between 37–42 weeks", "After 42 weeks", "After 40 weeks"], "answer": "After 42 weeks"},
+            {"question": "Normal birth weight ranges between:", "options": ["1500–2500 g", "2000–4000 g", "2500–4000 g", "3000–4500 g"], "answer": "2500–4000 g"},
+            {"question": "Macrosomia is defined as birth weight:", "options": ["> 3500 g", "> 4000 g", "> 4500 g", "> 5000 g"], "answer": "> 4000 g"},
+            {"question": "Low birth weight refers to a baby weighing less than:", "options": ["3000 g", "2500 g", "2000 g", "1500 g"], "answer": "2500 g"},
+            {"question": "A baby weighing less than 1500 g is:", "options": ["Extremely low birth weight", "Very low birth weight", "Normal weight", "Low birth weight"], "answer": "Very low birth weight"},
+            {"question": "A baby weighing less than 1000 g is classified as:", "options": ["Extremely low birth weight", "Very low birth weight", "Low birth weight", "Small for gestational age"], "answer": "Extremely low birth weight"},
+            {"question": "A baby whose weight is between the 10th and 90th percentile for gestational age is:", "options": ["AGA", "LGA", "SGA", "Preterm"], "answer": "AGA"},
+            {"question": "A baby whose weight is above the 90th percentile for gestational age is:", "options": ["SGA", "AGA", "LGA", "LBW"], "answer": "LGA"},
+            {"question": "A baby whose weight is below the 10th percentile for gestational age is:", "options": ["SGA", "LGA", "AGA", "Preterm"], "answer": "SGA"},
+            {"question": "The Apgar score assesses the newborn’s condition at:", "options": ["1 and 3 minutes", "1 and 5 minutes", "3 and 10 minutes", "5 and 15 minutes"], "answer": "1 and 5 minutes"},
+            {"question": "The Apgar score evaluates all of the following EXCEPT:", "options": ["Heart rate", "Reflex response", "Muscle tone", "Blood glucose"], "answer": "Blood glucose"},
+            {"question": "Which of the following is NOT part of the Apgar scoring system?", "options": ["Appearance", "Pulse", "Growth percentile", "Respiration"], "answer": "Growth percentile"},
+            {"question": "A normal Apgar score at 1 minute is:", "options": ["0–3", "4–6", "7–10", "10–15"], "answer": "7–10"},
+            {"question": "An Apgar score of 0–3 at 1 minute indicates:", "options": ["Normal condition", "Mild distress", "Cardiopulmonary arrest", "Normal respiration"], "answer": "Cardiopulmonary arrest"},
+            {"question": "A score of 4–6 at 1 minute requires:", "options": ["Discharge", "No action", "Close observation and resuscitation", "Intubation"], "answer": "Close observation and resuscitation"},
+            {"question": "A score of 7–10 at 5 minutes indicates:", "options": ["Normal newborn", "Asphyxia", "Moderate distress", "Poor adaptation"], "answer": "Normal newborn"},
+            {"question": "The Apgar score of 0–3 at 5 minutes suggests:", "options": ["Normal baby", "Requires NICU admission and intubation", "Mild asphyxia", "Stable condition"], "answer": "Requires NICU admission and intubation"},
+            {"question": "In Apgar scoring, Appearance (color) gets 2 points when:", "options": ["Entire body is pink", "Blue extremities", "Entire body blue", "Pale skin"], "answer": "Entire body is pink"},
+            {"question": "Pulse rate >100/min in Apgar scoring gets a score of:", "options": ["0", "1", "2", "3"], "answer": "2"},
+            {"question": "In Apgar scoring, no respiratory effort receives a score of:", "options": ["0", "1", "2", "3"], "answer": "0"},
+            {"question": "Grimace response of coughing or sneezing gets a score of:", "options": ["0", "1", "2", "3"], "answer": "2"},
+            {"question": "Active motion in muscle tone indicates a score of:", "options": ["0", "1", "2", "3"], "answer": "2"},
+            {"question": "Blue, pale body color in Apgar scoring equals:", "options": ["0", "1", "2", "3"], "answer": "0"},
+            {"question": "The Apgar score should be reassessed at which times after birth?", "options": ["1 and 3 minutes", "1, 5, 10, and 15 minutes", "3, 6, and 9 minutes", "2 and 4 minutes"], "answer": "1, 5, 10, and 15 minutes"},
+            {"question": "The neonatal period refers to the first 4 weeks of life.", "options": ["True", "False"], "answer": "True"},
+            {"question": "A live birth is defined only by a heartbeat after delivery.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Stillbirth occurs when a fetus is born dead at or after 24 weeks of gestation.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Abortion refers to a fetus born dead after 24 weeks of gestation.", "options": ["True", "False"], "answer": "False"},
+            {"question": "A baby born before 37 weeks is called a preterm infant.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Term newborns are those born between 37 and 42 weeks of gestation.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Post-term refers to babies born before 37 weeks.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Low birth weight means less than 2500 grams.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Very low birth weight means less than 1000 grams.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Apgar score is performed at 1 and 5 minutes after birth.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The Apgar score assesses five parameters: Appearance, Pulse, Grimace, Activity, Respiration.", "options": ["True", "False"], "answer": "True"},
+            {"question": "A baby scoring 7–10 in Apgar is in need of immediate resuscitation.", "options": ["True", "False"], "answer": "False"},
+            {"question": "A baby scoring 0–3 at 1 minute requires immediate resuscitation.", "options": ["True", "False"], "answer": "True"},
+            {"question": "A baby with Apgar 4–6 should be closely observed and may need resuscitation.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The Apgar score includes assessment of body temperature.", "options": ["True", "False"], "answer": "False"},
+            {"question": "If a newborn’s body is completely pink, the Appearance score is 2.", "options": ["True", "False"], "answer": "True"},
+            {"question": "An absent pulse equals an Apgar score of 0 for Pulse.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Active motion receives a score of 2 for muscle tone.", "options": ["True", "False"], "answer": "True"},
+            {"question": "A pale newborn automatically scores 2 on Appearance.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The Apgar score should be reassessed at 1, 5, 10, and 15 minutes.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The main purpose of suctioning the oropharynx and nasopharynx in a newborn is to:", "options": ["Prevent hypothermia", "Clear airways and ensure proper breathing", "Stimulate the Moro reflex", "Prevent jaundice"], "answer": "Clear airways and ensure proper breathing"},
+            {"question": "Which of the following helps in maintaining newborn body temperature?", "options": ["Cold sponging", "Wrapping the baby in a sterile warm towel", "Placing the baby under air conditioning", "Immediate bathing"], "answer": "Wrapping the baby in a sterile warm towel"},
+            {"question": "The umbilical cord should be cared for using:", "options": ["Plain water", "Sterile clamp and antiseptic lotion", "Petroleum jelly", "Herbal oil"], "answer": "Sterile clamp and antiseptic lotion"},
+            {"question": "Vitamin K is given to newborns to prevent:", "options": ["Jaundice", "Ophthalmia neonatorum", "Hemorrhagic disease of the newborn", "Hypoglycemia"], "answer": "Hemorrhagic disease of the newborn"},
+            {"question": "A person skilled in resuscitation must attend:", "options": ["All normal deliveries", "Only cesarean deliveries", "All high-risk deliveries", "Only post-term deliveries"], "answer": "All high-risk deliveries"},
+            {"question": "Which of the following is NOT a high-risk delivery?", "options": ["Maternal diabetes", "Breech presentation", "Preterm labor", "Full-term normal vaginal delivery"], "answer": "Full-term normal vaginal delivery"},
+            {"question": "The first step in neonatal resuscitation is to assess:", "options": ["Temperature", "Color, breathing, and heart rate", "Weight and length", "Blood sugar"], "answer": "Color, breathing, and heart rate"},
+            {"question": "If a newborn is blue, has apnea, and heart rate < 100/min, the next step is:", "options": ["Dry and wrap the baby", "Give to mother", "Start bag and mask ventilation", "Do nothing"], "answer": "Start bag and mask ventilation"},
+            {"question": "When should cardiac massage and IV adrenaline be started?", "options": ["If HR < 60/min or absent", "If HR > 100/min", "If HR = 90/min", "If baby is pink"], "answer": "If HR < 60/min or absent"},
+            {"question": "Moro reflex normally disappears at:", "options": ["Birth", "1 month", "4 months", "12 months"], "answer": "4 months"},
+            {"question": "The normal Moro reflex indicates:", "options": ["Neurological impairment", "Normal neurological condition", "Hypothermia", "Neonatal jaundice"], "answer": "Normal neurological condition"},
+            {"question": "Asymmetrical Moro reflex suggests:", "options": ["Normal finding", "CNS depression", "Erb’s palsy or clavicle fracture", "Prematurity"], "answer": "Erb’s palsy or clavicle fracture"},
+            {"question": "The sucking reflex appears at:", "options": ["Birth", "20 weeks gestation", "≥ 28 weeks gestation", "40 weeks gestation"], "answer": "≥ 28 weeks gestation"},
+            {"question": "Caput succedaneum crosses sutures because it is:", "options": ["Subperiosteal bleeding", "Scalp edema", "Bone fracture", "Intracranial hemorrhage"], "answer": "Scalp edema"},
+            {"question": "Cephalhematoma differs from caput succedaneum because it:", "options": ["Crosses sutures", "Does not cross sutures", "Occurs only in term infants", "Requires no treatment"], "answer": "Does not cross sutures"},
+            {"question": "Main complications of cephalhematoma include:", "options": ["Jaundice and anemia", "Hypoglycemia", "Hypothermia", "Sepsis"], "answer": "Jaundice and anemia"},
+            {"question": "Intracranial hemorrhage in newborns is diagnosed by:", "options": ["X-ray", "CT and cranial ultrasound", "MRI only", "Physical examination"], "answer": "CT and cranial ultrasound"},
+            {"question": "The definition of Low Birth Weight (LBW) is:", "options": ["< 2000 g", "< 2500 g", "< 3000 g", "< 1500 g"], "answer": "< 2500 g"},
+            {"question": "Premature infants are those born:", "options": ["Before 34 weeks", "Before 37 weeks", "After 37 weeks", "After 42 weeks"], "answer": "Before 37 weeks"},
+            {"question": "The most common respiratory complication in premature infants is:", "options": ["Asthma", "Hyaline membrane disease", "Bronchitis", "Pneumothorax"], "answer": "Hyaline membrane disease"},
+            {"question": "Which of the following is a physiologic handicap of prematurity?", "options": ["Hyperthermia", "Hypothermia", "Obesity", "Increased muscle tone"], "answer": "Hypothermia"},
+            {"question": "Retrolental fibroplasia in premature infants is related to:", "options": ["Excessive oxygen therapy", "Hypoglycemia", "Vitamin K deficiency", "Hypothermia"], "answer": "Excessive oxygen therapy"},
+            {"question": "The first step in newborn care is to ensure a patent airway.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Premature infants are more prone to hypothermia due to immature temperature regulation.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Vitamin K should be given orally to prevent bleeding disorders.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The Moro reflex normally disappears at 6–8 months of age.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Caput succedaneum does not cross sutures.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Cephalhematoma usually requires surgical treatment.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Prematurity can be caused by twin pregnancy and maternal diabetes.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Intracranial hemorrhage is the least serious complication of birth trauma.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Preterm infants often suffer from hypoglycemia and hypocalcemia.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Low birth weight includes only preterm babies.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Small-for-date baby is also known as:", "options": ["Preterm baby", "Intrauterine growth retardation (IUGR)", "Post-term baby", "Macrosomic baby"], "answer": "Intrauterine growth retardation (IUGR)"},
+            {"question": "Which of the following is a cause of intrauterine growth retardation (IUGR)?", "options": ["Polycythemia", "Placental dysfunction", "Maternal smoking", "Both B and C"], "answer": "Both B and C"},
+            {"question": "Which of the following is not a typical feature of a small-for-date baby?", "options": ["Wasting of soft tissues", "Thick, firm skin", "Loose, dry skin", "Muscle wasting"], "answer": "Thick, firm skin"},
+            {"question": "The main benefit of incubator care for low birth weight babies is:", "options": ["To improve muscle tone", "To regulate temperature, humidity, and oxygen", "To provide vaccines", "To increase birth weight"], "answer": "To regulate temperature, humidity, and oxygen"},
+            {"question": "The best feeding option for a low birth weight baby is:", "options": ["Cow’s milk", "Breastfeeding if possible", "Honey and water", "Solid foods"], "answer": "Breastfeeding if possible"},
+            {"question": "If breastfeeding is impossible in a low birth weight baby, the next option is:", "options": ["Stop feeding", "Give parenteral nutrition", "Give glucose water", "Wait until the baby gains weight"], "answer": "Give parenteral nutrition"},
+            {"question": "To prevent infection in preterm or LBW infants, all except the following are recommended:", "options": ["Minimal visitors", "Strict handwashing", "Staff with infections can handle the babies", "Isolation of infected infants"], "answer": "Staff with infections can handle the babies"},
+            {"question": "Neonatal convulsions are defined as:", "options": ["Continuous crying", "Twitching, eye-rolling, or tonic stiffness", "Increased muscle tone only", "Irregular breathing pattern"], "answer": "Twitching, eye-rolling, or tonic stiffness"},
+            {"question": "The most common metabolic cause of neonatal convulsions is:", "options": ["Hypoglycemia", "Hypocalcemia", "Hyponatremia", "Hyperkalemia"], "answer": "Hypoglycemia"},
+            {"question": "Neonatal convulsions on day 2–3 are commonly due to:", "options": ["Meningitis", "Maternal anesthesia", "Congenital infection", "Drug withdrawal"], "answer": "Meningitis"},
+            {"question": "Which type of neonatal seizure involves rhythmic twitching of specific muscles?", "options": ["Focal", "Myoclonic", "Tonic", "Subtle"], "answer": "Focal"},
+            {"question": "Subtle seizures are characterized by:", "options": ["Rigid extremities", "Chewing, apnea, blinking, or bicycling movements", "Rhythmic twitching", "None of the above"], "answer": "Chewing, apnea, blinking, or bicycling movements"},
+            {"question": "Jitteriness in a newborn is:", "options": ["The same as convulsions", "A startle response to minor stimuli", "A sign of CNS depression", "A symptom of hypocalcemia"], "answer": "A startle response to minor stimuli"},
+            {"question": "Respiratory disorders are most common in:", "options": ["Term babies", "Post-term babies", "Preterm babies", "Small-for-date babies only"], "answer": "Preterm babies"},
+            {"question": "All of the following are signs of neonatal respiratory distress EXCEPT:", "options": ["Tachypnea", "Grunting", "Retractions", "Bradycardia"], "answer": "Bradycardia"},
+            {"question": "Downe’s score is used for:", "options": ["Assessing jaundice", "Assessing respiratory distress", "Assessing neurological function", "Evaluating Apgar score"], "answer": "Assessing respiratory distress"},
+            {"question": "The most common respiratory disorder in neonates is:", "options": ["Pneumonia", "Hyaline membrane disease (RDS)", "Meconium aspiration syndrome", "TTN"], "answer": "Hyaline membrane disease (RDS)"},
+            {"question": "The main cause of RDS is:", "options": ["Surfactant deficiency", "Infection", "Lung overexpansion", "Fluid retention"], "answer": "Surfactant deficiency"},
+            {"question": "Surfactant is produced by:", "options": ["Type I alveolar cells", "Type II alveolar cells", "Macrophages", "Epithelial cilia"], "answer": "Type II alveolar cells"},
+            {"question": "The main phospholipid in surfactant is:", "options": ["Cholesterol", "Phosphatidylcholine (lecithin)", "Phosphatidylserine", "Triglyceride"], "answer": "Phosphatidylcholine (lecithin)"},
+            {"question": "Surfactant deficiency causes:", "options": ["Airway obstruction", "Alveolar collapse and poor lung compliance", "Increased airway diameter", "Excess mucus secretion"], "answer": "Alveolar collapse and poor lung compliance"},
+            {"question": "RDS typically appears:", "options": ["Immediately after birth", "Within 2–4 hours after birth", "After 3 days", "After 1 week"], "answer": "Within 2–4 hours after birth"},
+            {"question": "The chest X-ray in RDS typically shows:", "options": ["Clear lungs", "Ground-glass appearance", "Pleural effusion", "Consolidation"], "answer": "Ground-glass appearance"},
+            {"question": "The first-line preventive measure for RDS in high-risk pregnancies is:", "options": ["Vitamin K injection", "Betamethasone (antenatal steroid)", "Antibiotics", "Oxygen therapy"], "answer": "Betamethasone (antenatal steroid)"},
+            {"question": "Surfactant replacement therapy is given:", "options": ["Intravenously", "Orally", "Through an endotracheal tube", "Subcutaneously"], "answer": "Through an endotracheal tube"},
+            {"question": "Transient tachypnea of the newborn (TTN) is caused by:", "options": ["Delayed absorption of lung fluid", "Surfactant deficiency", "Infection", "Pulmonary hemorrhage"], "answer": "Delayed absorption of lung fluid"},
+            {"question": "Meconium aspiration syndrome (MAS) is due to:", "options": ["Meconium in the lungs causing obstruction and inflammation", "Bacterial infection", "Hypocalcemia", "Jaundice"], "answer": "Meconium in the lungs causing obstruction and inflammation"},
+            {"question": "Thick meconium causes:", "options": ["Airway obstruction", "Inflammation", "Pneumothorax", "All of the above"], "answer": "Airway obstruction"},
+            {"question": "Small-for-date babies usually have thick, firm skin.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Incubator care helps regulate temperature, humidity, and oxygen concentration.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Parenteral nutrition is used when enteral feeding is not possible.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Breastfeeding should be avoided in low birth weight infants.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Neonatal convulsions may be due to metabolic or infectious causes.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Myoclonic seizures are characterized by brief jerks of distal muscles.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Respiratory distress in neonates is often due to cardiac disease.", "options": ["True", "False"], "answer": "False"},
+            {"question": "RDS is mainly due to surfactant excess.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Surfactant is composed mainly of phospholipids like lecithin.", "options": ["True", "False"], "answer": "True"},
+            {"question": "TTN is a benign, self-limiting condition.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Meconium aspiration syndrome occurs mainly in preterm infants.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Chronic intrauterine stress increases the risk of RDS.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Betamethasone given before preterm delivery helps prevent RDS.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Cyanosis and grunting are common signs of neonatal RDS.", "options": ["True", "False"], "answer": "True"},
+            {"question": "In RDS, symptoms usually resolve after 72 hours.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Congenital pneumonia in newborns is mainly caused by:", "options": ["Ingestion and/or aspiration of bacteria in amniotic fluid", "Viral infection after birth", "Lack of surfactant", "Premature rupture of membranes alone"], "answer": "Ingestion and/or aspiration of bacteria in amniotic fluid"},
+            {"question": "A major risk factor for congenital pneumonia is:", "options": ["Maternal smoking", "Chorioamnionitis", "Hypothermia", "Hypocalcemia"], "answer": "Chorioamnionitis"},
+            {"question": "Postnatal-acquired pneumonia occurs due to:", "options": ["Intrauterine bacterial ingestion", "Contact or droplet infection from caregivers", "Genetic defect", "Lack of oxygen"], "answer": "Contact or droplet infection from caregivers"},
+            {"question": "Aspiration pneumonia is commonly preceded by:", "options": ["Seizures", "Choking and vomiting", "Hypothermia", "Jaundice"], "answer": "Choking and vomiting"},
+            {"question": "A baby with cleft palate and vomiting followed by dyspnea is most likely suffering from:", "options": ["Congenital pneumonia", "Aspiration pneumonia", "Apnea of prematurity", "Cyanosis"], "answer": "Aspiration pneumonia"},
+            {"question": "Which of the following is not a risk factor for aspiration pneumonia?", "options": ["Gastroesophageal reflux disease (GORD)", "Bulbar palsy", "Tetanus infection", "Tracheoesophageal fistula (TOF)"], "answer": "Tetanus infection"},
+            {"question": "Clinical manifestations of neonatal pneumonia include:", "options": ["Tachypnea and retractions", "Bradycardia and cyanosis", "Abdominal distention", "Fever only"], "answer": "Tachypnea and retractions"},
+            {"question": "Apnea is defined as:", "options": ["Cessation of breathing for ≥ 10 seconds", "Cessation of breathing for ≥ 20 seconds with cyanosis and bradycardia", "Shallow breathing without cyanosis", "Irregular respiration"], "answer": "Cessation of breathing for ≥ 20 seconds with cyanosis and bradycardia"},
+            {"question": "Apnea of prematurity usually occurs:", "options": ["At birth", "Between 2nd–7th day of life", "After 2 weeks of life", "Only in term babies"], "answer": "Between 2nd–7th day of life"},
+            {"question": "The main cause of apnea of prematurity is:", "options": ["Infection", "Immaturity of brainstem respiratory center", "Metabolic acidosis", "Hypocalcemia"], "answer": "Immaturity of brainstem respiratory center"},
+            {"question": "Pathological apnea in newborns is suspected when apnea occurs:", "options": ["In the first day of life in preterm infant", "Between 2nd–7th day in preterm infant", "During sleep only", "After feeding"], "answer": "In the first day of life in preterm infant"},
+            {"question": "Central cyanosis is most prominent in:", "options": ["Fingers and toes", "Tongue and lips", "Fingernails only", "Abdomen"], "answer": "Tongue and lips"},
+            {"question": "Peripheral cyanosis is usually due to:", "options": ["Poor oxygenation in lungs", "Peripheral vasoconstriction", "Heart defects", "Low hemoglobin"], "answer": "Peripheral vasoconstriction"},
+            {"question": "Which statement is true about central cyanosis?", "options": ["Improves with warmth", "Not associated with clubbing", "Improves with oxygen", "Seen only in hands and feet"], "answer": "Improves with oxygen"},
+            {"question": "Peripheral cyanosis improves with:", "options": ["Oxygen", "Warmth", "Antibiotics", "Sedation"], "answer": "Warmth"},
+            {"question": "Which of the following parameters represents the normal hemoglobin in a newborn?", "options": ["5–8 gm%", "10–12 gm%", "15–19 gm%", "20–24 gm%"], "answer": "15–19 gm%"},
+            {"question": "The normal hematocrit (Hct) value in a neonate is:", "options": ["20–35%", "45–60%", "65–75%", "30–40%"], "answer": "45–60%"},
+            {"question": "Normal red blood cell (RBC) count in a newborn is approximately:", "options": ["2–3 million/mm³", "3–4 million/mm³", "5–6 million/mm³", "7–8 million/mm³"], "answer": "5–6 million/mm³"},
+            {"question": "The normal white blood cell (WBC) count in newborns ranges between:", "options": ["1,000–5,000/mm³", "9,000–25,000/mm³", "30,000–40,000/mm³", "50,000–60,000/mm³"], "answer": "9,000–25,000/mm³"},
+            {"question": "The percentage of neutrophils in newborn WBC count is about:", "options": ["20%", "40%", "60%", "80%"], "answer": "60%"},
+            {"question": "Normal platelet count in neonates is:", "options": ["50–100,000/mm³", "100–150,000/mm³", "150–250,000/mm³", "300–400,000/mm³"], "answer": "150–250,000/mm³"},
+            {"question": "Cord blood bilirubin should be:", "options": ["< 2.5 mg/dL", "< 5.0 mg/dL", "< 10 mg/dL", "< 12 mg/dL"], "answer": "< 2.5 mg/dL"},
+            {"question": "Total serum bilirubin after 24 hours of life should be less than:", "options": ["4 mg/dL", "5 mg/dL", "7 mg/dL", "10 mg/dL"], "answer": "7 mg/dL"},
+            {"question": "Between 2–6 days of life, total serum bilirubin should be less than:", "options": ["5 mg/dL", "8 mg/dL", "10 mg/dL", "12 mg/dL"], "answer": "12 mg/dL"},
+            {"question": "Immaturity of the respiratory center leading to apnea indicates:", "options": ["Secondary apnea", "Apnea of prematurity", "Cyanosis", "Congenital pneumonia"], "answer": "Apnea of prematurity"},
+            {"question": "Which of the following is not a characteristic of central cyanosis?", "options": ["Seen in tongue and lips", "Improves with oxygen", "Seen in fingers only", "Associated with clubbing"], "answer": "Seen in fingers only"},
+            {"question": "Fetal distress, tachycardia, and perinatal asphyxia before delivery are signs of:", "options": ["Postnatal-acquired pneumonia", "Congenital pneumonia", "Aspiration pneumonia", "Apnea of prematurity"], "answer": "Congenital pneumonia"},
+            {"question": "Bulbar palsy increases the risk of:", "options": ["Apnea", "Aspiration pneumonia", "Cyanosis", "Hemolytic anemia"], "answer": "Aspiration pneumonia"},
+            {"question": "Apnea accompanied by bradycardia is most likely:", "options": ["Normal in sleep", "Clinically significant", "Benign and ignored", "Caused by feeding"], "answer": "Clinically significant"},
+            {"question": "Reticulocyte count in newborns normally ranges between:", "options": ["1–2%", "3–4%", "5–7%", "8–10%"], "answer": "5–7%"},
+            {"question": "Congenital pneumonia can be caused by aspiration of bacteria in amniotic fluid.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Postnatal-acquired pneumonia is usually transmitted via the placenta.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Chorioamnionitis is a maternal condition that increases the risk of congenital pneumonia.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Apnea lasting for 10 seconds in a term baby is considered normal.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Apnea of prematurity occurs due to immaturity of the respiratory center.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Central cyanosis improves with warmth but not with oxygen.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Peripheral cyanosis usually results from peripheral vasoconstriction.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Cyanosis in the tongue and lips indicates central cyanosis.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Normal hemoglobin level in newborns is between 15–19 gm%.", "options": ["True", "False"], "answer": "True"},
+            {"question": "WBC count in newborns typically ranges from 9,000 to 25,000/mm³.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Neonatal platelet count below 100,000/mm³ is normal.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Bilirubin levels normally increase above 20 mg/dL in the first week.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Immature brainstem in preterm infants causes a poor response to CO₂ and hypoxia.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Aspiration pneumonia may occur after vomiting and choking episodes.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Peripheral cyanosis is associated with clubbing.", "options": ["True", "False"], "answer": "False"}
+
+        ],
+        "L5 NUTRITION F2": [
+            {"question": "Breastfeeding should be initiated within how many hours after birth?", "options": ["12–24 hours", "8–10 hours", "4–6 hours", "1–2 hours"], "answer": "4–6 hours"},
+            {"question": "Which of the following is NOT an advantage of breastfeeding?", "options": ["It is sterile", "It contains immunoglobulins", "It causes infant allergy", "It is inexpensive"], "answer": "It causes infant allergy"},
+            {"question": "The main immunoglobulin present in colostrum is:", "options": ["IgG", "IgA", "IgM", "IgE"], "answer": "IgA"},
+            {"question": "Which enzyme in breast milk helps digestion of fat?", "options": ["Amylase", "Lipase", "Protease", "Lactase"], "answer": "Lipase"},
+            {"question": "Which hormone is responsible for milk ejection reflex?", "options": ["Prolactin", "Oxytocin", "Estrogen", "Progesterone"], "answer": "Oxytocin"},
+            {"question": "Which hormone stimulates milk secretion?", "options": ["Estrogen", "Prolactin", "Oxytocin", "Progesterone"], "answer": "Prolactin"},
+            {"question": "The reflex that causes the infant to turn its head toward the nipple is called:", "options": ["Suckling reflex", "Swallowing reflex", "Rooting reflex", "Moro reflex"], "answer": "Rooting reflex"},
+            {"question": "Breast milk is always the same throughout the feed.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The yellow, thick milk produced in the first few days after birth is called:", "options": ["Foremilk", "Hind milk", "Colostrum", "Transitional milk"], "answer": "Colostrum"},
+            {"question": "Colostrum has:", "options": ["High carbohydrate and fat", "Low protein and vitamin A", "High protein and vitamin A", "No immunoglobulins"], "answer": "High protein and vitamin A"},
+            {"question": "Human milk protein is mainly casein.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Which of the following minerals in breast milk is well absorbed and efficiently utilized?", "options": ["Calcium", "Iron", "Sodium", "Potassium"], "answer": "Iron"},
+            {"question": "What vitamin is low in breast milk and may cause hemorrhagic disease of the newborn?", "options": ["Vitamin A", "Vitamin D", "Vitamin K", "Vitamin C"], "answer": "Vitamin K"},
+            {"question": "Exclusive breastfeeding means giving the baby only breast milk for the first 6 months.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Which of the following factors helps prevent infection in breastfed infants?", "options": ["Lactoferrin", "Lysozyme", "Bifidus factor", "All of the above"], "answer": "All of the above"},
+            {"question": "Foremilk is rich in:", "options": ["Fat", "Protein", "Water and nutrients", "Cholesterol"], "answer": "Water and nutrients"},
+            {"question": "Hind milk is rich in:", "options": ["Protein", "Fat", "Lactose", "Vitamins"], "answer": "Fat"},
+            {"question": "Breast milk helps protect against allergic diseases like eczema.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Which sign indicates GOOD suckling?", "options": ["Chin away from breast", "Mouth closed", "Slow deep sucks", "Smacking sounds"], "answer": "Slow deep sucks"},
+            {"question": "Which sign indicates POOR suckling?", "options": ["Wide open mouth", "Lips curled outward", "Chin touching breast", "Cheeks pulled in"], "answer": "Cheeks pulled in"},
+            {"question": "Pain in the mother’s nipple during feeding is a sign of poor attachment.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The best indicator of sufficient milk production is:", "options": ["Long feeding time", "Infant crying", "Adequate weight gain", "Frequent feeding"], "answer": "Adequate weight gain"},
+            {"question": "Complementary feeding should be given before breastfeeding.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Delayed milk appearance in primipara usually occurs after:", "options": ["1–2 days", "3–4 days", "4–5 days", "6–7 days"], "answer": "4–5 days"},
+            {"question": "Which of the following may cause cracked nipples?", "options": ["Improper feeding position", "Engorgement", "Retracted nipple", "All of the above"], "answer": "All of the above"},
+            {"question": "Applying hydrous lanolin helps heal cracked nipples.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Breast engorgement can be prevented by:", "options": ["Delaying feeds", "On-demand feeding", "Avoiding suckling", "Using bottle feeding"], "answer": "On-demand feeding"},
+            {"question": "Which of the following drugs is contraindicated during breastfeeding?", "options": ["Paracetamol", "Metronidazole", "Vitamin C", "Iron supplements"], "answer": "Metronidazole"},
+            {"question": "Estrogen-containing contraceptives decrease milk production.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Breastfeeding duration recommended in the Holy Quran is:", "options": ["1 year", "18 months", "2 years", "6 months"], "answer": "2 years"},
+            {"question": "Twins cannot be successfully breastfed by the same mother.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Which vitamin should be supplemented for all breastfed infants starting at 2 months?", "options": ["Vitamin A", "Vitamin D", "Vitamin K", "Vitamin E"], "answer": "Vitamin D"},
+            {"question": "Fluoride and vitamin D are not adequately supplied by breast milk.", "options": ["True", "False"], "answer": "True"},
+            {"question": "What is the function of lactobacillus bifidus in the infant’s gut?", "options": ["Increase infection", "Produce lactic acid to inhibit harmful bacteria", "Increase gas formation", "Cause diarrhea"], "answer": "Produce lactic acid to inhibit harmful bacteria"},
+            {"question": "Which reflex allows the infant to swallow milk without choking?", "options": ["Suckling reflex", "Swallowing reflex", "Rooting reflex", "Gag reflex"], "answer": "Swallowing reflex"},
+            {"question": "Colostrum has high levels of lactose and fat.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Breast milk from a well-nourished mother provides all nutrients except:", "options": ["Vitamin A and C", "Fluoride and Vitamin D", "Iron and Zinc", "Potassium and Calcium"], "answer": "Fluoride and Vitamin D"},
+            {"question": "Which of the following helps the milk flow from alveoli to ducts?", "options": ["Oxytocin", "Prolactin", "Estrogen", "Progesterone"], "answer": "Oxytocin"},
+            {"question": "Vitamin K injection at birth prevents hemorrhagic disease in newborns.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The most important reflex for successful lactation is:", "options": ["Rooting reflex", "Suckling reflex", "Milk ejection reflex", "Swallowing reflex"], "answer": "Milk ejection reflex"},
+            {
+                "question": "Which of the following is an absolute contraindication to breastfeeding?",
+                "options": {
+                "A": "Maternal tuberculosis under treatment",
+                "B": "Maternal hepatitis B (after vaccination of infant)",
+                "C": "Galactosemia in the infant",
+                "D": "Maternal chickenpox after delivery"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following maternal conditions is an absolute contraindication to breastfeeding?",
+                "options": {
+                "A": "Maternal HIV infection",
+                "B": "Maternal psychosis",
+                "C": "Maternal eclampsia",
+                "D": "Breast abscess"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Which drug is considered dangerous and contraindicated during breastfeeding?",
+                "options": {
+                "A": "Paracetamol",
+                "B": "Iron supplements",
+                "C": "Cyclophosphamide",
+                "D": "Vitamin D"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Breastfeeding should be temporarily stopped if the mother has:",
+                "options": {
+                "A": "Maternal HIV",
+                "B": "Breast abscess",
+                "C": "Galactosemia in infant",
+                "D": "Maternal hepatitis B (without infant vaccination)"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "In mothers with active tuberculosis, breastfeeding can resume after:",
+                "options": {
+                "A": "1 week",
+                "B": "The infant receives INH and mother improves",
+                "C": "6 months",
+                "D": "Negative sputum cultures"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Which infection of the infant is a temporary contraindication to breastfeeding?",
+                "options": {
+                "A": "Oral herpes simplex",
+                "B": "Chickenpox",
+                "C": "Influenza",
+                "D": "Pneumonia"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "When should breastfeeding ideally start after delivery?",
+                "options": {
+                "A": "Within 30 minutes",
+                "B": "After 3 hours",
+                "C": "After 12 hours",
+                "D": "After 24 hours"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "What is the most important factor for successful breastfeeding?",
+                "options": {
+                "A": "Good diet",
+                "B": "Nipple shape",
+                "C": "Happy and relaxed state of mind",
+                "D": "Birth weight"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Breastfeeding should preferably continue until:",
+                "options": {
+                "A": "6 months",
+                "B": "1 year",
+                "C": "2 years",
+                "D": "3 years"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following is the simple and commonest type of abnormal nutrition?",
+                "options": {
+                "A": "Malnutrition",
+                "B": "Undernutrition",
+                "C": "Overnutrition",
+                "D": "Kwashiorkor"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Body weight 60–80% of the standard with no edema indicates:",
+                "options": {
+                "A": "Kwashiorkor",
+                "B": "Marasmus",
+                "C": "Marasmic-kwashiorkor",
+                "D": "Obesity"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Body weight <60% with edema is characteristic of:",
+                "options": {
+                "A": "Kwashiorkor",
+                "B": "Marasmus",
+                "C": "Underweight",
+                "D": "Chronic malnutrition"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Which classification of PEM depends on weight and presence of edema?",
+                "options": {
+                "A": "Water-Law",
+                "B": "Welcome",
+                "C": "Gomez",
+                "D": "Harvard"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Kwashiorkor usually affects children aged:",
+                "options": {
+                "A": "<3 months",
+                "B": "3–6 months",
+                "C": "6 months–3 years",
+                "D": ">5 years"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "The main dietary cause of kwashiorkor is:",
+                "options": {
+                "A": "Protein deficiency",
+                "B": "Vitamin A deficiency",
+                "C": "Fat deficiency",
+                "D": "Excess protein intake"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Which of the following is not a constant feature of kwashiorkor?",
+                "options": {
+                "A": "Growth failure",
+                "B": "Edema",
+                "C": "Muscle wasting",
+                "D": "Ascites"
+                },
+                "answer": "D"
+            },
+            {
+                "question": "Nutritional edema in kwashiorkor is mainly due to:",
+                "options": {
+                "A": "Hypoproteinemia",
+                "B": "Sodium loss",
+                "C": "Dehydration",
+                "D": "Vitamin deficiency"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Hair changes in kwashiorkor include all of the following except:",
+                "options": {
+                "A": "Light color",
+                "B": "Soft texture",
+                "C": "Easily broken",
+                "D": "Thick and shiny hair"
+                },
+                "answer": "D"
+            },
+            {
+                "question": "Mental changes in kwashiorkor include:",
+                "options": {
+                "A": "Hyperactivity",
+                "B": "Apathy and disorientation",
+                "C": "Aggression",
+                "D": "Hallucination"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "One of the early sites for edema in kwashiorkor is:",
+                "options": {
+                "A": "Abdomen",
+                "B": "Dorsum of feet and legs",
+                "C": "Face",
+                "D": "Arms"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "True or False: Breastfeeding is contraindicated in infants with phenylketonuria.",
+                "answer": "True"
+            },
+            {
+                "question": "True or False: Maternal hepatitis B is an absolute contraindication even if the newborn receives vaccination.",
+                "answer": "False"
+            },
+            {
+                "question": "True or False: Breastfeeding should be encouraged on-demand, day and night.",
+                "answer": "True"
+            },
+            {
+                "question": "True or False: Maternal psychosis is a permanent contraindication to breastfeeding.",
+                "answer": "False (temporary)"
+            },
+            {
+                "question": "True or False: Mothers with breast abscess should feed from both breasts.",
+                "answer": "False"
+            },
+            {
+                "question": "True or False: Estrogen-containing contraceptives are suitable during breastfeeding.",
+                "answer": "False"
+            },
+            {
+                "question": "True or False: In neonatal intensive care units, expressed breast milk should be used whenever possible.",
+                "answer": "True"
+            },
+            {
+                "question": "True or False: Undernutrition is characterized by body weight less than 60%.",
+                "answer": "False (60–80%)"
+            },
+            {
+                "question": "True or False: Kwashiorkor is due to lack of carbohydrates in the diet.",
+                "answer": "False (lack of protein)"
+            },
+            {
+                "question": "True or False: Ascites is a common feature of kwashiorkor.",
+                "answer": "False"
+            },
+            {
+                "question": "True or False: In kwashiorkor, edema is bilateral, pitting, and starts from the feet.",
+                "answer": "True"
+            },
+            {
+                "question": "True or False: Malnutrition includes both deficiency and excess of nutrients.",
+                "answer": "True"
+            },
+            {
+                "question": "True or False: Muscle wasting in kwashiorkor affects mainly the biceps and triceps.",
+                "answer": "True"
+            },
+            {
+                "question": "True or False: Water-Law classification of PEM gives an idea about the duration of disease.",
+                "answer": "True"
+            },
+            {
+                "question": "True or False: A relaxed mental state of the mother improves lactation success.",
+                "answer": "True"
+            },
+                {
+                "question": "The Flag sign in kwashiorkor indicates:",
+                "options": {
+                "A": "Hair loss",
+                "B": "Segmental discoloration of hair",
+                "C": "Total hair whitening",
+                "D": "Alopecia"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "The Flag sign occurs due to:",
+                "options": {
+                "A": "Iron deficiency",
+                "B": "Vitamin C deficiency",
+                "C": "Repeated attacks of malnutrition",
+                "D": "Excess protein intake"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following is not a feature of skin changes in kwashiorkor?",
+                "options": {
+                "A": "Dry scaly skin",
+                "B": "Hyperpigmentation followed by exfoliation",
+                "C": "Petechial hemorrhages",
+                "D": "Thick, oily skin"
+                },
+                "answer": "D"
+            },
+            {
+                "question": "Hepatomegaly in kwashiorkor is mainly due to:",
+                "options": {
+                "A": "Protein deposition",
+                "B": "Fatty infiltration of the liver",
+                "C": "Iron overload",
+                "D": "Vitamin A toxicity"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "The most common cause of death in kwashiorkor is:",
+                "options": {
+                "A": "Dehydration",
+                "B": "Bronchopneumonia",
+                "C": "Heart failure",
+                "D": "Diarrhea"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Hypoglycemia in kwashiorkor occurs due to:",
+                "options": {
+                "A": "Insulin excess",
+                "B": "Decreased glycogen stores and intake",
+                "C": "Vitamin B deficiency",
+                "D": "Increased cortisol"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Which of the following infections is most common in kwashiorkor?",
+                "options": {
+                "A": "Tetanus",
+                "B": "Bronchopneumonia",
+                "C": "Malaria",
+                "D": "Meningitis"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Which vitamin deficiency causes night blindness and Bitot spots?",
+                "options": {
+                "A": "Vitamin B1",
+                "B": "Vitamin A",
+                "C": "Vitamin C",
+                "D": "Vitamin D"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "The main type of anemia caused by iron deficiency in kwashiorkor is:",
+                "options": {
+                "A": "Macrocytic",
+                "B": "Microcytic hypochromic",
+                "C": "Normocytic normochromic",
+                "D": "Megaloblastic"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Which vitamin deficiency leads to bleeding gums?",
+                "options": {
+                "A": "Vitamin A",
+                "B": "Vitamin B",
+                "C": "Vitamin C",
+                "D": "Vitamin K"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Kwashiorkor is associated with which electrolyte imbalance?",
+                "options": {
+                "A": "Hypernatremia",
+                "B": "Hypokalemia",
+                "C": "Hypercalcemia",
+                "D": "Hypermagnesemia"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "The albumin/globulin ratio in kwashiorkor is:",
+                "options": {
+                "A": "Normal",
+                "B": "Reversed",
+                "C": "Increased",
+                "D": "Doubled"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Marasmus results from deficiency of:",
+                "options": {
+                "A": "Protein only",
+                "B": "Total caloric intake",
+                "C": "Vitamins only",
+                "D": "Minerals only"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Marasmus is most common in:",
+                "options": {
+                "A": "Newborn period",
+                "B": "6 months to 3 years",
+                "C": "First 2 years of life",
+                "D": "After 5 years"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following is not a cause of secondary marasmus?",
+                "options": {
+                "A": "Chronic infection",
+                "B": "Malabsorption",
+                "C": "Cow’s milk allergy",
+                "D": "Obesity"
+                },
+                "answer": "D"
+            },
+            {
+                "question": "In marasmus, body weight is:",
+                "options": {
+                "A": "60–80% of normal",
+                "B": "<60% of normal",
+                "C": ">100% of normal",
+                "D": "Normal"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Which of the following is a distinguishing feature between marasmus and kwashiorkor?",
+                "options": {
+                "A": "Edema",
+                "B": "Anemia",
+                "C": "Diarrhea",
+                "D": "Vitamin deficiency"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Loss of subcutaneous fat in marasmus starts first in:",
+                "options": {
+                "A": "Face",
+                "B": "Limbs",
+                "C": "Abdominal wall",
+                "D": "Neck"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Which of the following is not commonly seen in marasmus?",
+                "options": {
+                "A": "Edema",
+                "B": "Muscle wasting",
+                "C": "Constipation",
+                "D": "Vitamin deficiency signs"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Vitamin A deficiency causes:",
+                "options": {
+                "A": "Scurvy",
+                "B": "Xerosis and keratomalacia",
+                "C": "Rickets",
+                "D": "Pellagra"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Bitot’s spots are found in:",
+                "options": {
+                "A": "Vitamin B deficiency",
+                "B": "Vitamin A deficiency",
+                "C": "Vitamin D deficiency",
+                "D": "Vitamin K deficiency"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Vitamin A is:",
+                "options": {
+                "A": "Water-soluble",
+                "B": "Fat-soluble",
+                "C": "Heat-labile",
+                "D": "Rapidly destroyed by light"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Night blindness is an early symptom of deficiency of:",
+                "options": {
+                "A": "Retinol",
+                "B": "Riboflavin",
+                "C": "Niacin",
+                "D": "Vitamin D"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Vitamin A is mainly stored in the:",
+                "options": {
+                "A": "Kidney",
+                "B": "Liver",
+                "C": "Muscle",
+                "D": "Skin"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "The most common age group affected by vitamin A deficiency ocular lesions is:",
+                "options": {
+                "A": "<6 months",
+                "B": "2–3 years",
+                "C": "5–10 years",
+                "D": "Adolescents"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "True or False: The “flag sign” is a characteristic hair change in kwashiorkor.",
+                "answer": "True"
+            },
+            {
+                "question": "True or False: Ascites is a common early sign of kwashiorkor.",
+                "answer": "False"
+            },
+            {
+                "question": "True or False: Vitamin B deficiency in kwashiorkor can cause glossitis and angular stomatitis.",
+                "answer": "True"
+            },
+            {
+                "question": "True or False: Hypoglycemia in kwashiorkor is due to increased glycogen storage.",
+                "answer": "False"
+            },
+            {
+                "question": "True or False: Marasmus involves severe protein deficiency with edema.",
+                "answer": "False"
+            },
+            {
+                "question": "True or False: In marasmus, subcutaneous fat is completely preserved.",
+                "answer": "False"
+            },
+            {
+                "question": "True or False: Vitamin A deficiency can cause keratomalacia and night blindness.",
+                "answer": "True"
+            },
+            {
+                "question": "True or False: In kwashiorkor, serum albumin level is decreased.",
+                "answer": "True"
+            },
+            {
+                "question": "True or False: Infections in malnutrition may be afebrile due to impaired immunity.",
+                "answer": "True"
+            },
+            {
+                "question": "True or False: Vitamin C deficiency causes rickets.",
+                "answer": "False"
+            },
+            {
+                "question": "True or False: Vitamin D deficiency causes rickets.",
+                "answer": "True"
+            },
+            {
+                "question": "True or False: The main cause of hepatomegaly in kwashiorkor is fatty infiltration.",
+                "answer": "True"
+            },
+            {
+                "question": "True or False: Marasmus commonly presents with diarrhea and constipation alternately.",
+                "answer": "True"
+            },
+            {
+                "question": "True or False: Vitamin A is stored in the skin and muscles.",
+                "answer": "False (stored in liver)"
+            },
+            {
+                "question": "True or False: Bitot’s spots are silver-gray plaques on the bulbar conjunctiva.",
+                "answer": "True"
+            },
+                {"question": "Acute hypervitaminosis A may occur in infants after ingesting:", "options": ["10,000 μg", "50,000 μg", "100,000 μg or more", "25,000 μg"], "answer": "100,000 μg or more"},
+            {"question": "Which of the following symptoms is commonly seen in acute hypervitaminosis A in infants?", "options": ["Polyuria", "Bulging fontanel", "Jaundice", "Diarrhea"], "answer": "Bulging fontanel"},
+            {"question": "Chronic hypervitaminosis A is associated with all of the following EXCEPT:", "options": ["Alopecia", "Hyperactivity", "Hepatomegaly", "Pruritus"], "answer": "Hyperactivity"},
+            {"question": "Carotenemia causes yellow discoloration of both the skin and sclera.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Severe congenital malformations in infants can result from maternal intake of:", "options": ["Retinoids", "Vitamin C", "Iron", "Carotenoids"], "answer": "Retinoids"},
+            {"question": "Carotenemia is toxic and leads to severe liver disease.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Rickets occurs before the fusion of the epiphyses.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Which of the following is not a cause of rickets?", "options": ["Vitamin D deficiency", "Calcium deficiency", "Phosphorus deficiency", "Excess Vitamin C"], "answer": "Excess Vitamin C"},
+            {"question": "Vitamin D–dependent rickets type 1 results from:", "options": ["End organ resistance", "Defective renal phosphate reabsorption", "Decreased 1α-hydroxylase enzyme activity", "Calcium overdose"], "answer": "Decreased 1α-hydroxylase enzyme activity"},
+            {"question": "Premature infants are at risk of rickets due to:", "options": ["Rickets of prematurity", "Iron deficiency", "Overexposure to sunlight", "Hypervitaminosis D"], "answer": "Rickets of prematurity"},
+            {"question": "Anticonvulsants like phenytoin may interfere with Vitamin D metabolism.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Which of the following dietary factors interferes with calcium absorption?", "options": ["High fat intake", "Cereals rich in phytates and phosphates", "Vitamin A", "Fruits and vegetables"], "answer": "Cereals rich in phytates and phosphates"},
+            {"question": "The zone of provisional calcification in rickets shows:", "options": ["Normal calcium deposition", "Frayed and irregular bone ends", "Increased ossification", "Decreased vascularity"], "answer": "Frayed and irregular bone ends"},
+            {"question": "In rickets, the zone of resting cartilage remains unchanged.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Which of the following is an early sign of rickets?", "options": ["Kyphosis", "Craniotabes", "Pigeon chest", "Bowlegs"], "answer": "Craniotabes"},
+            {"question": "“Rachitic rosary” in rickets refers to:", "options": ["Skull deformity", "Prominent costochondral junctions", "Wrist broadening", "Pelvic deformity"], "answer": "Prominent costochondral junctions"},
+            {"question": "Frontal bossing is due to thickening of frontal and parietal bones.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Harrison sulcus is caused by:", "options": ["Weak abdominal muscles", "Diaphragmatic pull during inspiration", "Liver enlargement", "Lung collapse"], "answer": "Diaphragmatic pull during inspiration"},
+            {"question": "“Pigeon breast” deformity is seen in:", "options": ["Scurvy", "Rickets", "Osteogenesis imperfecta", "Scoliosis"], "answer": "Rickets"},
+            {"question": "Kyphosis due to rickets disappears when the child is suspended by the shoulders.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The Marfan sign in rickets is:", "options": ["Bowing of the legs", "Groove over the medial malleolus", "Widening of the chest", "Enlargement of costochondral junctions"], "answer": "Groove over the medial malleolus"},
+            {"question": "Non-skeletal manifestation of rickets includes:", "options": ["Ptosis of the eye", "Ptosis of liver and spleen", "Hypertonia", "Tremors"], "answer": "Ptosis of liver and spleen"},
+            {"question": "Rickets may cause delayed motor milestones like walking.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Common complication of rickets includes:", "options": ["Respiratory infections", "Diabetes", "Jaundice", "Kidney stones"], "answer": "Respiratory infections"},
+            {"question": "In rickets, serum phosphate is typically:", "options": ["Normal", "Increased", "Decreased", "Variable"], "answer": "Decreased"},
+            {"question": "Serum alkaline phosphatase is increased in rickets.", "options": ["True", "False"], "answer": "True"},
+            {"question": "In rickets, which hormone is usually elevated?", "options": ["Growth hormone", "Parathormone (PTH)", "Insulin", "Calcitonin"], "answer": "Parathormone (PTH)"},
+            {"question": "The most characteristic radiological feature of active rickets is:", "options": ["Bone sclerosis", "Cupping and fraying of metaphysis", "Bone shortening", "Calcification of soft tissues"], "answer": "Cupping and fraying of metaphysis"},
+            {"question": "Healing rickets is characterized by a preparatory calcification line.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Prevention of rickets in full-term infants includes:", "options": ["Vitamin D 200 IU/day", "Vitamin D 400 IU/day from 3rd month", "Vitamin D 1000 IU/day from birth", "Calcium 500 mg/day"], "answer": "Vitamin D 400 IU/day from 3rd month"},
+            {"question": "Premature infants need 1000 IU/day of Vitamin D from the 2nd week.", "options": ["True", "False"], "answer": "True"},
+            {"question": "“Stoss therapy” for rickets involves:", "options": ["Small daily doses of Vitamin D", "Large single doses of Vitamin D", "Calcium supplements only", "Iron supplements"], "answer": "Large single doses of Vitamin D"},
+            {"question": "In Stoss therapy, Vitamin D is administered as:", "options": ["300–600 IU", "3,000–6,000 IU", "300,000–600,000 IU", "30,000 IU"], "answer": "300,000–600,000 IU"},
+            {"question": "Stoss therapy is preferred when adherence to daily therapy is doubtful.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Hypervitaminosis D results from:", "options": ["Deficiency of Vitamin D", "Prolonged high intake of Vitamin D", "Vitamin C deficiency", "Liver failure"], "answer": "Prolonged high intake of Vitamin D"},
+            {"question": "Which of the following is a clinical feature of Hypervitaminosis D?", "options": ["Hypocalcemia", "Hypercalcemia and hypercalciuria", "Alopecia", "Craniotabes"], "answer": "Hypercalcemia and hypercalciuria"},
+            {"question": "Constipation and irritability are symptoms of Hypervitaminosis D.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Treatment of Hypervitaminosis D includes:", "options": ["Increasing Vitamin D intake", "Corticosteroids like prednisone", "Vitamin A supplements", "Iron infusion"], "answer": "Corticosteroids like prednisone"},
+            {"question": "In severe cases of Hypervitaminosis D, calcium deposition may occur in long bones.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Radiographic findings in rickets include:", "options": ["Bone thickening", "Rarefaction and double periosteal line", "Shortened shafts", "Bone sclerosis"], "answer": "Rarefaction and double periosteal line"},
+            {"question": "Tetany is a state of:", "options": ["Hypoexcitability of the nervous system", "Hyperexcitability of the nervous system", "Cardiac depression", "Muscle relaxation"], "answer": "Hyperexcitability of the nervous system"},
+            {"question": "Tetany occurs when serum calcium level falls below:", "options": ["9 mg/dL", "8 mg/dL", "7 mg/dL", "10 mg/dL"], "answer": "7 mg/dL"},
+            {"question": "Tetany can occur as a complication of severe rickets.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Which of the following is not a cause of tetany?", "options": ["Hypocalcemia", "Hypomagnesemia", "Hyperphosphatemia", "Hypercalcemia"], "answer": "Hypercalcemia"},
+            {"question": "Tetany can occur due to alkalosis caused by:", "options": ["Excess HCl", "Vomiting or hyperventilation", "Metabolic acidosis", "Diarrhea"], "answer": "Vomiting or hyperventilation"},
+            {"question": "Hyperventilation leads to respiratory alkalosis which may cause tetany.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Hypomagnesemia can result from all of the following EXCEPT:", "options": ["Diuretic therapy", "Chronic diarrhea", "Vitamin D overdose", "Nephrotoxic medications"], "answer": "Vitamin D overdose"},
+            {"question": "The most specific sign for latent tetany is:", "options": ["Chevostek sign", "Trousseau sign", "Carpopedal spasm", "Laryngeal spasm"], "answer": "Trousseau sign"},
+            {"question": "Chevostek sign is specific for hypocalcemia.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Carpopedal spasm in tetany is characterized by:", "options": ["Flexion of the wrist and fingers", "Extension of wrist and fingers", "Tremor of the tongue", "Paralysis of limbs"], "answer": "Flexion of the wrist and fingers"},
+            {"question": "Laryngeal spasm in tetany manifests as:", "options": ["Cyanosis", "Stridor and inspiratory obstruction", "Dysphagia", "Dyspnea on exertion"], "answer": "Stridor and inspiratory obstruction"},
+            {"question": "Convulsions in neonatal tetany are usually localized and prolonged.", "options": ["True", "False"], "answer": "False"},
+            {"question": "ECG finding in tetany includes:", "options": ["Short QT interval", "Prolonged QT interval", "ST elevation", "Sinus bradycardia"], "answer": "Prolonged QT interval"},
+            {"question": "Emergency treatment for tetany includes:", "options": ["IV calcium gluconate 1–2 mL/kg of 10% solution", "Oral calcium carbonate", "Vitamin D injection", "IV magnesium sulfate"], "answer": "IV calcium gluconate 1–2 mL/kg of 10% solution"},
+            {"question": "Calcium gluconate should be given rapidly IV in tetany.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Maintenance therapy for tetany includes:", "options": ["Oral calcium supplements", "Iron supplements", "Insulin", "Vitamin K"], "answer": "Oral calcium supplements"},
+            {"question": "Hypomagnesemia in tetany is treated with:", "options": ["MgSO₄ 0.2 mL of 50% IM", "IV calcium chloride", "Oral magnesium carbonate", "Vitamin D"], "answer": "MgSO₄ 0.2 mL of 50% IM"},
+            {"question": "Breathing into a bag helps relieve tetany caused by alkalosis.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Obesity is defined as:", "options": ["Low muscle mass", "Excessive fat accumulation in body tissues", "High water retention", "Increased bone density"], "answer": "Excessive fat accumulation in body tissues"},
+            {"question": "The prevalence of childhood obesity is increasing globally.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The best parameter for screening obesity in children is:", "options": ["Waist circumference", "Skinfold thickness", "Body mass index (BMI)", "Weight alone"], "answer": "Body mass index (BMI)"},
+            {"question": "A child is considered overweight if BMI is above:", "options": ["75th percentile", "85th percentile", "90th percentile", "95th percentile"], "answer": "85th percentile"},
+            {"question": "Obesity in children is defined as BMI >95th percentile.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Adult obesity is defined as BMI:", "options": [">25", ">27", ">30", ">35"], "answer": ">30"},
+            {"question": "Body weight >120% of standard for height indicates:", "options": ["Overweight", "Obesity", "Normal weight", "Underweight"], "answer": "Obesity"},
+            {"question": "Exogenous obesity accounts for about 95% of cases.", "options": ["True", "False"], "answer": "True"},
+            {"question": "All of the following are causes of endogenous obesity EXCEPT:", "options": ["Turner syndrome", "Cushing syndrome", "Hypothyroidism", "Excess calorie intake"], "answer": "Excess calorie intake"},
+            {"question": "Height in exogenous obesity is usually:", "options": ["Short", "Normal or above average", "Below normal", "Very tall"], "answer": "Normal or above average"},
+            {"question": "Endocrine obesity is associated with short stature.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Health hazard of obesity includes all EXCEPT:", "options": ["Type II diabetes", "Hypercholesterolemia", "Osteoporosis", "Hypertension"], "answer": "Osteoporosis"},
+            {"question": "Obesity increases risk of cardiovascular disease.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Management of obesity should include:", "options": ["Crash diets", "Promotion of healthy nutrition", "Skipping meals", "Total fasting"], "answer": "Promotion of healthy nutrition"},
+            {"question": "Children should be motivated to:", "options": ["Eat quickly", "Eat meals with family at fixed times", "Skip breakfast", "Avoid physical activity"], "answer": "Eat meals with family at fixed times"},
+            {"question": "Television during meals should be encouraged to distract the child.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Recommended duration of school physical education is:", "options": ["10–15 min daily", "20 min once a week", "30–45 min of strenuous exercise 2–3 times weekly", "1 hour per month"], "answer": "30–45 min of strenuous exercise 2–3 times weekly"},
+            {"question": "Teachers should be educated about nutrition and physical activity.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Exogenous obesity is mostly caused by:", "options": ["Hormonal imbalance", "Increased calorie intake and decreased activity", "Cushing syndrome", "GH deficiency"], "answer": "Increased calorie intake and decreased activity"},
+            {"question": "In managing obesity, it’s important to:", "options": ["Use small plates", "Skip meals", "Eliminate breakfast", "Avoid all fats completely"], "answer": "Use small plates"},
+            {"question": "Schools should eliminate candy and cookie fundraisers to help prevent obesity.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Psychological support is an important part of obesity management.", "options": ["True", "False"], "answer": "True"}
+
+        ],
+        "L6 GASTRO INTESTINAL SYSTEM": [
+            {"question": "Which part of the brain contains the hunger and satiety centers?", "options": ["Cerebellum", "Medulla", "Hypothalamus", "Cerebrum"], "answer": "Hypothalamus"},
+            {"question": "Dysphagia refers to:", "options": ["Difficulty in breathing", "Difficulty in swallowing", "Difficulty in speaking", "Difficulty in digestion"], "answer": "Difficulty in swallowing"},
+            {"question": "Structural causes of dysphagia include:", "options": ["Vascular ring", "Web or tumor", "Esophageal stricture", "All of the above"], "answer": "All of the above"},
+            {"question": "Regurgitation is best defined as:", "options": ["Effortless return of stomach contents into the mouth", "Active expulsion of gastric contents with force", "Inability to swallow", "Air swallowing"], "answer": "Effortless return of stomach contents into the mouth"},
+            {"question": "The process of vomiting is coordinated in:", "options": ["Cerebral cortex", "Hypothalamus", "Medullary vomiting center", "Brainstem reticular formation"], "answer": "Medullary vomiting center"},
+            {"question": "Acute watery diarrhea is defined as:", "options": ["Three or more liquid stools in 12 hours", "One stool in 24 hours", "Blood and mucus in stool for 2 days", "Persistent stool for 14 days"], "answer": "Three or more liquid stools in 12 hours"},
+            {"question": "Dysentery is characterized by:", "options": ["Watery stools", "Small-volume, bloody stools with mucus", "Painless diarrhea", "Constipation"], "answer": "Small-volume, bloody stools with mucus"},
+            {"question": "Persistent diarrhea lasts for at least:", "options": ["3 days", "7 days", "10 days", "14 days"], "answer": "14 days"},
+            {"question": "The most common cause of regurgitation in infants is:", "options": ["Gastroesophageal reflux", "Constipation", "Ulcer disease", "Lactose intolerance"], "answer": "Gastroesophageal reflux"},
+            {"question": "The main danger of diarrhea in children is:", "options": ["Vomiting", "Dehydration and electrolyte imbalance", "Fever", "Weight gain"], "answer": "Dehydration and electrolyte imbalance"},
+            {"question": "Which of the following is NOT a complication of diarrhea?", "options": ["Dehydration", "Hypocalcemia", "Hypertension", "Electrolyte imbalance"], "answer": "Hypertension"},
+            {"question": "What is the first line of management in acute diarrhea?", "options": ["Antibiotics", "Antimotility drugs", "Oral rehydration therapy (ORS)", "Intravenous glucose"], "answer": "Oral rehydration therapy (ORS)"},
+            {"question": "Which vaccine helps in the prevention of diarrhea in children?", "options": ["Measles", "Rotavirus", "Diphtheria", "Hepatitis A"], "answer": "Rotavirus"},
+            {"question": "Antimicrobials are indicated in diarrhea when:", "options": ["There is blood in stool", "It is cholera", "There are associated bacterial infections", "All of the above"], "answer": "All of the above"},
+            {"question": "Which of the following drugs is NOT effective for diarrhea treatment?", "options": ["Antidiarrheals", "Antimicrobials", "Oral rehydration solution", "Zinc supplementation"], "answer": "Antidiarrheals"},
+            {"question": "A child with severe dehydration should be treated with:", "options": ["Oral rehydration solution", "Intravenous fluids", "Antibiotics only", "Antiemetics"], "answer": "Intravenous fluids"},
+            {"question": "What is the most common cause of vomiting in diarrhea?", "options": ["Acidosis and hypokalemia", "Hypernatremia", "Hypertension", "Hypercalcemia"], "answer": "Acidosis and hypokalemia"},
+            {"question": "Persistent diarrhea is more common in children who are:", "options": ["Breastfed", "Artificially fed", "Older than 3 years", "Physically active"], "answer": "Artificially fed"},
+            {"question": "One of the indications for hospitalization in persistent diarrhea is:", "options": ["Mild dehydration", "Child older than 5 years", "Age less than 6 months", "Eating normally"], "answer": "Age less than 6 months"},
+            {"question": "During persistent diarrhea, which type of formula should be used?", "options": ["Full lactose", "High protein", "Low or lactose-free formula", "Fat-free formula"], "answer": "Low or lactose-free formula"},
+            
+            {"question": "Hunger and satiety centers are located in the medulla.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Dysphagia may be caused by both structural and motility disorders.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Regurgitation and vomiting are the same condition.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Dysentery is associated with small-volume bloody stools.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Persistent diarrhea is defined as diarrhea lasting for more than 7 days.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Chronic diarrhea usually begins acutely.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Dehydration is one of the major complications of diarrhea.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Antibiotics should be given to all children with diarrhea.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Antimotility drugs are safe and effective for children with diarrhea.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Vomiting during diarrhea can result from metabolic acidosis.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Intravenous fluids are indicated when there is severe dehydration or persistent vomiting.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Artificial feeding is a risk factor for persistent diarrhea.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Zinc supplementation helps in the recovery from diarrhea.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Breastfeeding should be stopped during diarrhea.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Malnutrition can result from persistent diarrhea.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The main cause of dehydration is:", "options": ["Increased protein intake", "Loss of body fluids and electrolytes", "Decreased fat absorption", "Hormonal imbalance"], "answer": "Loss of body fluids and electrolytes"},
+            {"question": "Minimal or no dehydration in infants corresponds to fluid loss of:", "options": ["< 3%", "< 5%", "5–10%", "> 10%"], "answer": "< 5%"},
+            {"question": "The type of dehydration with serum sodium concentration between 130–150 mEq/L is:", "options": ["Hypotonic", "Hypertonic", "Isotonic", "Acidotic"], "answer": "Isotonic"},
+            {"question": "Hypertonic dehydration occurs when serum sodium is:", "options": ["< 130 mEq/L", "> 150 mEq/L", "Between 130–150 mEq/L", "Normal"], "answer": "> 150 mEq/L"},
+            {"question": "In severe dehydration, the skin fold recoil takes:", "options": ["Instant", "< 2 seconds", "> 2 seconds", "1 second"], "answer": "> 2 seconds"},
+            {"question": "Which of the following is a sign of severe dehydration?", "options": ["Moist mouth", "Present tears", "Sunken eyes", "Normal urine output"], "answer": "Sunken eyes"},
+            {"question": "Functional constipation is defined as:", "options": ["No stool for 3 days", "Delay or difficulty in defecation for 2 weeks or longer", "Painful defecation for 1 day", "Diarrhea alternating with constipation"], "answer": "Delay or difficulty in defecation for 2 weeks or longer"},
+            {"question": "Functional constipation usually starts:", "options": ["In neonatal period", "After 2 years of age", "At birth", "During weaning"], "answer": "After 2 years of age"},
+            {"question": "Daytime fecal soiling (encopresis) is commonly associated with:", "options": ["Functional constipation", "Gastroenteritis", "Celiac disease", "Ulcerative colitis"], "answer": "Functional constipation"},
+            {"question": "A sign suggesting spinal pathology in constipation is:", "options": ["Rectal pain", "Hair tuft or spinal dimple", "Abdominal distention", "Soft stool"], "answer": "Hair tuft or spinal dimple"},
+            {"question": "Rectal biopsy in functional constipation shows:", "options": ["Absent ganglion cells", "Normal findings", "Inflammation", "Fibrosis"], "answer": "Normal findings"},
+            {"question": "The most important cause of 'acute abdomen' requiring surgery in children is:", "options": ["Fecal impaction", "Appendicitis", "Pancreatitis", "Hepatitis"], "answer": "Appendicitis"},
+            {"question": "Hematemesis refers to:", "options": ["Black tarry stools", "Bright red vomiting of blood", "Hidden blood in stool", "Fresh rectal bleeding"], "answer": "Bright red vomiting of blood"},
+            {"question": "Melaena is defined as:", "options": ["Passage of bright red blood", "Black tar-like stools", "Vomiting of blood", "Occult bleeding"], "answer": "Black tar-like stools"},
+            {"question": "Hematochezia refers to:", "options": ["Black stool", "Fresh red blood per rectum", "Hidden blood in stool", "None of the above"], "answer": "Fresh red blood per rectum"},
+            {"question": "Esophageal atresia with distal tracheoesophageal fistula presents with:", "options": ["Frothing, coughing, and cyanosis", "Projectile vomiting", "Bloody stool", "Diarrhea"], "answer": "Frothing, coughing, and cyanosis"},
+            {"question": "Prenatal indicator of esophageal atresia is:", "options": ["Oligohydramnios", "Polyhydramnios", "Normal amniotic fluid", "Jaundice"], "answer": "Polyhydramnios"},
+            {"question": "Diagnosis of TEF is confirmed by:", "options": ["Chest X-ray showing coiled nasogastric tube", "Ultrasound", "Blood test", "CT scan"], "answer": "Chest X-ray showing coiled nasogastric tube"},
+            {"question": "The best position for a newborn with TEF before surgery is:", "options": ["Supine", "Prone", "Trendelenburg", "Sitting"], "answer": "Prone"},
+            {"question": "In achalasia, which feature is seen on barium swallow?", "options": ["Double bubble sign", "Bird’s beak appearance", "Airless abdomen", "Dilated duodenum"], "answer": "Bird’s beak appearance"},
+            {"question": "The definitive treatment of achalasia is:", "options": ["Antibiotics", "Surgical Heller myotomy", "Proton pump inhibitors", "Feeding through NG tube"], "answer": "Surgical Heller myotomy"},
+            {"question": "Pneumatic dilatation is used in the treatment of:", "options": ["TEF", "Achalasia", "Esophageal atresia", "GERD"], "answer": "Achalasia"},
+
+            {"question": "Severe dehydration corresponds to >10% fluid loss in infants.", "options": ["True", "False"], "answer": "True"},
+            {"question": "In hypertonic dehydration, serum sodium is below 130 mEq/L.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Thirst and irritability are early signs of mild to moderate dehydration.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Functional constipation usually starts during the neonatal period.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Encopresis is a sign of chronic constipation.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Rectal biopsy is abnormal in functional constipation.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Appendicitis is a common cause of acute abdominal pain requiring surgery.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Fecal impaction is a surgical emergency.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Hematemesis indicates bleeding from above the ligament of Treitz.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Melaena represents fresh blood in stool.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Esophageal atresia is often associated with VACTERL anomalies.", "options": ["True", "False"], "answer": "True"},
+            {"question": "In esophageal atresia, feeding increases respiratory distress.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Polyhydramnios during pregnancy suggests possible esophageal atresia.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Achalasia is due to loss of lower esophageal sphincter relaxation.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Bird’s beak appearance is seen in achalasia on barium study.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Heller myotomy is the main surgical treatment for TEF.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Prone positioning helps prevent aspiration in TEF.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Weak, thready pulses indicate mild dehydration.", "options": ["True", "False"], "answer": "False"},
+            {"question": "In severe dehydration, urine output is minimal.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Calcium channel blockers like nifedipine can be used in achalasia.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Hiatal hernia is defined as:", "options": ["Herniation of intestine through the diaphragm", "Herniation of stomach through esophageal hiatus", "Herniation of colon through abdominal wall", "Protrusion of liver through the diaphragm"], "answer": "Herniation of stomach through esophageal hiatus"},
+            {"question": "The most common type of hiatal hernia is:", "options": ["Paraesophageal hernia", "Mixed type", "Sliding hernia", "Congenital hernia"], "answer": "Sliding hernia"},
+            {"question": "In paraesophageal hernia, which part of the stomach moves into the thorax?", "options": ["Cardia", "Fundus", "Pylorus", "Body"], "answer": "Fundus"},
+            {"question": "GERD is defined as:", "options": ["Inflammation of the esophagus", "Retrograde movement of gastric contents into the esophagus", "Excessive secretion of gastric acid", "Blockage at the lower esophageal sphincter"], "answer": "Retrograde movement of gastric contents into the esophagus"},
+            {"question": "The main mechanism that allows reflux in GERD is:", "options": ["Esophageal stricture", "Delayed gastric emptying", "Transient LES relaxation", "Increased gastric acid secretion"], "answer": "Transient LES relaxation"},
+            {"question": "Regurgitation after feeding, irritability, and failure to thrive in an infant suggest:", "options": ["GERD", "Pyloric stenosis", "Hirschsprung disease", "Duodenal atresia"], "answer": "GERD"},
+            {"question": "A typical extra-esophageal manifestation of GERD is:", "options": ["Constipation", "Stridor", "Diarrhea", "Cyanosis"], "answer": "Stridor"},
+            {"question": "The best test to confirm erosive esophagitis in GERD is:", "options": ["Ultrasound", "Endoscopy", "Barium meal", "pH monitoring"], "answer": "Endoscopy"},
+            {"question": "The first-line pharmacological treatment for mild to moderate GERD is:", "options": ["Proton pump inhibitors", "H2 receptor antagonists", "Antacids long term", "Steroids"], "answer": "H2 receptor antagonists"},
+            {"question": "Fundoplication is a surgical treatment used for:", "options": ["Hiatal hernia", "GERD", "Both A and B", "Hirschsprung disease"], "answer": "Both A and B"},
+            {"question": "A serious esophageal complication of GERD is:", "options": ["Achalasia", "Adenocarcinoma", "Crohn’s disease", "Peptic ulcer"], "answer": "Adenocarcinoma"},
+            {"question": "Hypertrophic pyloric stenosis commonly affects:", "options": ["Females more than males", "Males more than females", "Both equally", "Only premature infants"], "answer": "Males more than females"},
+            {"question": "The classic symptom of pyloric stenosis is:", "options": ["Bilious vomiting", "Non-bilious projectile vomiting", "Diarrhea", "Regurgitation with bile"], "answer": "Non-bilious projectile vomiting"},
+            {"question": "Which of the following laboratory findings is most typical in pyloric stenosis?", "options": ["Acidosis and hyperkalemia", "Alkalosis and hypokalemia", "Normal electrolytes", "Hypernatremia and acidosis"], "answer": "Alkalosis and hypokalemia"},
+            {"question": "The diagnostic imaging test that confirms pyloric stenosis is:", "options": ["CT scan", "Ultrasound", "MRI", "X-ray"], "answer": "Ultrasound"},
+            {"question": "The definitive surgical treatment for hypertrophic pyloric stenosis is:", "options": ["Fundoplication", "Ramsted pyloromyotomy", "Endoscopic stenting", "Esophageal dilation"], "answer": "Ramsted pyloromyotomy"},
+            {"question": "Hirschsprung disease results from:", "options": ["Overgrowth of smooth muscle in intestine", "Abnormal innervation of the bowel", "Mechanical obstruction", "Deficiency of digestive enzymes"], "answer": "Abnormal innervation of the bowel"},
+            {"question": "The aganglionic segment in Hirschsprung disease is most commonly limited to:", "options": ["Rectosigmoid", "Entire colon", "Small intestine", "Cecum"], "answer": "Rectosigmoid"},
+            {"question": "The earliest symptom of Hirschsprung disease in newborns is:", "options": ["Projectile vomiting", "Delayed passage of meconium", "Bilious vomiting", "Jaundice"], "answer": "Delayed passage of meconium"},
+            {"question": "The confirmatory diagnostic test for Hirschsprung disease is:", "options": ["Ultrasound", "Rectal biopsy", "Colonoscopy", "Barium enema"], "answer": "Rectal biopsy"},
+            {"question": "Sliding hiatal hernia accounts for about 80% of cases.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Transient relaxation of the LES is the main cause of GERD.", "options": ["True", "False"], "answer": "True"},
+            {"question": "GERD in infants usually presents with bilious vomiting.", "options": ["True", "False"], "answer": "False"},
+            {"question": "In GERD, barium radiography is the best test to diagnose erosive esophagitis.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Proton pump inhibitors are used in severe cases of GERD.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Fundoplication is performed for severe, refractory GERD.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Hypertrophic pyloric stenosis usually occurs more in females.", "options": ["True", "False"], "answer": "False"},
+            {"question": "In pyloric stenosis, vomiting is bilious.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Hypokalemic metabolic alkalosis is seen in hypertrophic pyloric stenosis.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The first sign of Hirschsprung disease in newborns is delayed passage of meconium.", "options": ["True", "False"], "answer": "True"},
+            {"question": "In Hirschsprung disease, rectal biopsy shows normal ganglion cells.", "options": ["True", "False"], "answer": "False"},
+            {"question": "In Hirschsprung disease, the rectum is usually full of stool on digital examination.", "options": ["True", "False"], "answer": "False"},
+
+
+        ],
+        "L7 Nervous system": [
+            {"question": "The nervous system is divided into:", "options": ["CNS and PNS", "Brain and spinal cord only", "Cerebrum and cerebellum", "Autonomic and somatic"], "answer": "CNS and PNS"},
+            {"question": "The cerebral hemisphere is divided by sulci into how many main lobes?", "options": ["2", "3", "4", "5"], "answer": "4"},
+            {"question": "The two cerebral hemispheres are connected by:", "options": ["Brainstem", "Corpus callosum", "Medulla oblongata", "Cerebellum"], "answer": "Corpus callosum"},
+            {"question": "The spinal cord ends at the level of:", "options": ["C7 vertebra", "T12 vertebra", "L1 vertebra", "L5 vertebra"], "answer": "L1 vertebra"},
+            {"question": "Which of the following belongs to the peripheral nervous system (PNS)?", "options": ["Brainstem", "Spinal cord", "Anterior horn cell and peripheral nerve", "Ventricles"], "answer": "Anterior horn cell and peripheral nerve"},
+            {"question": "How many ventricles are present in the brain?", "options": ["2", "3", "4", "5"], "answer": "4"},
+            {"question": "Anencephaly is characterized by:", "options": ["Complete skull with small brain", "No cortex or cranium", "Excessive cerebrospinal fluid", "Enlargement of ventricles"], "answer": "No cortex or cranium"},
+            {"question": "Macrocephaly means:", "options": ["Head circumference below 3rd percentile", "Head circumference above 97th percentile", "Normal head size", "Flattened skull bones"], "answer": "Head circumference above 97th percentile"},
+            {"question": "Hydrocephalus means:", "options": ["Enlargement of ventricles", "Reduction of brain size", "Thickening of skull bones", "Increased CSF absorption"], "answer": "Enlargement of ventricles"},
+            {"question": "Spina bifida occulta may present with:", "options": ["Open spinal canal", "Intact skin with bone defects underneath", "Complete paralysis", "No physical signs"], "answer": "Intact skin with bone defects underneath"},
+            {"question": "A small dimple or tuft of hair over the back may indicate:", "options": ["Hydrocephalus", "Spina bifida occulta", "Meningocele", "Macrocephaly"], "answer": "Spina bifida occulta"},
+            {"question": "Meningomyelocele often results in:", "options": ["Normal lower limb function", "Total paralysis and incontinence", "Increased head size only", "No neurological deficit"], "answer": "Total paralysis and incontinence"},
+            {"question": "Hydrocephalus is defined as:", "options": ["Decrease in brain volume", "Dilatation of the ventricular system due to CSF obstruction", "Increased brain tissue thickness", "Atrophy of ventricles"], "answer": "Dilatation of the ventricular system due to CSF obstruction"},
+            {"question": "The most important diagnostic tool for hydrocephalus is:", "options": ["X-ray skull", "Fundus examination", "CT scan", "CSF analysis"], "answer": "CT scan"},
+            {"question": "The most common surgery for obstructive hydrocephalus is:", "options": ["Craniotomy", "Ventriculoperitoneal shunt", "Brain biopsy", "Spinal fusion"], "answer": "Ventriculoperitoneal shunt"},
+            {"question": "The central nervous system includes the brain and spinal cord.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The two hemispheres are connected by the medulla oblongata.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The cauda equina is part of the spinal cord.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Microcephaly represents head circumference above the 97th percentile.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Spina bifida occulta always causes open wounds on the back.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Hydrocephalus can be congenital, traumatic, inflammatory, or neoplastic.", "options": ["True", "False"], "answer": "True"},
+            {"question": "In infants, hydrocephalus causes increased head size, bulging fontanel, and prominent veins.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The “sunset sign” refers to downward displacement of the eyes in hydrocephalus.", "options": ["True", "False"], "answer": "True"},
+            {"question": "CT scan is less useful than skull X-ray for hydrocephalus diagnosis.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Treatment of hydrocephalus usually involves diuretics only.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Microcephaly is defined as:", "options": ["Head circumference above 97th percentile", "Head circumference below 3rd percentile", "Skull circumference equal to 50th percentile", "Increased CSF volume"], "answer": "Head circumference below 3rd percentile"},
+            {"question": "Seizures result from:", "options": ["Decreased brain size", "Abnormal excessive neuronal activity", "Low CSF production", "Cerebral atrophy"], "answer": "Abnormal excessive neuronal activity"},
+            {"question": "Seizures are common in:", "options": ["Adults", "Neonates only", "Pediatric age group", "Elderly"], "answer": "Pediatric age group"},
+            {"question": "Epilepsy is defined as:", "options": ["A single febrile seizure", "Two or more unprovoked seizures separated by at least 24 hours", "Any seizure with fever", "Seizures due to infection"], "answer": "Two or more unprovoked seizures separated by at least 24 hours"},
+            {"question": "Acute non-recurrent convulsions occur:", "options": ["During an acute illness and do not recur after recovery", "Every day", "After trauma only", "In genetic epilepsy"], "answer": "During an acute illness and do not recur after recovery"},
+            {"question": "Febrile convulsions are classified under:", "options": ["Chronic recurrent convulsions", "Acute non-recurrent convulsions", "Congenital anomalies", "Metabolic disorders"], "answer": "Acute non-recurrent convulsions"},
+            {"question": "The commonest type of childhood epilepsy is:", "options": ["Myoclonic", "Absence", "Generalized tonic-clonic (Grand Mal)", "Focal"], "answer": "Generalized tonic-clonic (Grand Mal)"},
+            {"question": "The tonic phase of a grand mal seizure is characterized by:", "options": ["Relaxation of muscles", "Powerful sustained contraction", "Tremor of limbs", "Sleepiness"], "answer": "Powerful sustained contraction"},
+            {"question": "The clonic phase of a grand mal seizure is characterized by:", "options": ["Rhythmic contraction and relaxation of muscles", "Muscle paralysis", "Loss of reflexes", "Quietness"], "answer": "Rhythmic contraction and relaxation of muscles"},
+            {"question": "Status epilepticus is considered when the seizure lasts more than:", "options": ["5 minutes", "10 minutes", "15 minutes", "20 minutes"], "answer": "20 minutes"},
+            {"question": "The prognosis of grand mal epilepsy is good if:", "options": ["It starts before age 1 year", "It starts after age 3 years with normal mental development", "It starts in infancy", "It’s associated with retardation"], "answer": "It starts after age 3 years with normal mental development"},
+            {"question": "Myoclonic epilepsy is usually associated with:", "options": ["Normal mental function", "Mental retardation", "Febrile episodes", "Infection"], "answer": "Mental retardation"},
+            {"question": "Febrile seizures are most common between ages:", "options": ["1–6 months", "9 months – 5 years", "6–10 years", "10–15 years"], "answer": "9 months – 5 years"},
+            {"question": "The peak age for febrile seizures is:", "options": ["6–9 months", "14–18 months", "2–3 years", "4–5 years"], "answer": "14–18 months"},
+            {"question": "Incidence of febrile seizures among young children is approximately:", "options": ["1%", "2%", "3–4%", "10%"], "answer": "3–4%"},
+            {"question": "The first step in management of coma is:", "options": ["MRI scan", "Airway, breathing, circulation (ABC)", "Administer sedatives", "Check liver function"], "answer": "Airway, breathing, circulation (ABC)"},
+            {"question": "Which of the following may cause coma?", "options": ["Hypoglycemia", "Meningitis", "Head injury", "All of the above"], "answer": "All of the above"},
+            {"question": "The normal Glasgow Coma Scale (GCS) score is:", "options": ["3", "8", "12", "15"], "answer": "15"},
+            {"question": "A GCS score less than 8 indicates:", "options": ["Full consciousness", "Mild confusion", "Coma", "Sleep"], "answer": "Coma"},
+            {"question": "The GCS evaluates:", "options": ["Eye, verbal, and motor responses", "Only verbal response", "Only reflexes", "Only muscle tone"], "answer": "Eye, verbal, and motor responses"},
+            {"question": "Microcephaly is defined as head circumference below the 3rd percentile.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Less than one-third of seizures in children are caused by epilepsy.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Epilepsy requires only one seizure to diagnose.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Febrile seizures can occur after 10 years of age.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The tonic phase involves relaxation of all muscles.", "options": ["True", "False"], "answer": "False"},
+            {"question": "In the clonic phase, rhythmic contractions and relaxations occur.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Myoclonic epilepsy is usually seen in older adults.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Coma requires urgent airway and breathing assessment.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Pupil constriction can indicate pontine hemorrhage or morphine toxicity.", "options": ["True", "False"], "answer": "True"},
+            {"question": "GCS score of 3 indicates full consciousness.", "options": ["True", "False"], "answer": "False"},
+
+        ],
+        "L8 Choanal Atresia": [
+            {"question": "Choanal atresia is a congenital disorder where the back of the nasal passage is blocked by:", "options": ["Normal cartilage", "Abnormal bony or membranous tissue", "Enlarged tonsils", "Nasal polyps"], "answer": "Abnormal bony or membranous tissue"},
+            {"question": "Choanal atresia occurs due to failure of which developmental process?", "options": ["Closure of nasal cavity", "Hole development of the nasal fossae", "Growth of nasal septum", "Fusion of maxillary bones"], "answer": "Hole development of the nasal fossae"},
+            {"question": "Which of the following is a life-threatening condition in newborns?", "options": ["Unilateral choanal atresia", "Bilateral choanal atresia", "Deviated nasal septum", "Nasal polyp"], "answer": "Bilateral choanal atresia"},
+            {"question": "Babies with bilateral choanal atresia experience cyanosis that improves when they:", "options": ["Sleep", "Feed", "Cry", "Stop breathing"], "answer": "Cry"},
+            {"question": "Babies are obligate nasal breathers, meaning they breathe mainly through their:", "options": ["Mouth", "Nose", "Ears", "Lungs only"], "answer": "Nose"},
+            {"question": "Which of the following is a symptom of unilateral choanal atresia?", "options": ["Severe cyanosis at birth", "Persistent rhinorrhea and chronic sinusitis", "Respiratory failure", "Frequent choking"], "answer": "Persistent rhinorrhea and chronic sinusitis"},
+            {"question": "Unilateral choanal atresia is usually detected immediately after birth.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Bilateral choanal atresia can cause hypoxia and requires immediate airway management.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Which of the following airway abnormalities can be associated with choanal atresia?", "options": ["Tracheomalacia", "Bronchiectasis", "Pulmonary fibrosis", "Lobar emphysema"], "answer": "Tracheomalacia"},
+            {"question": "Laryngomalacia and subglottic stenosis are associated with:", "options": ["Otitis media", "Choanal atresia", "Sinus infection", "Asthma"], "answer": "Choanal atresia"},
+            {"question": "Which syndrome is most commonly associated with choanal atresia?", "options": ["Down syndrome", "CHARGE syndrome", "Klinefelter syndrome", "Turner syndrome"], "answer": "CHARGE syndrome"},
+            {"question": "Choanal atresia can be linked with heart defects and growth impairment.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Conditions with significant nasal bridge depression or midface retraction, such as Crouzon or Treacher Collins syndrome, are associated with:", "options": ["Choanal atresia", "Sinusitis", "Allergic rhinitis", "Otitis media"], "answer": "Choanal atresia"},
+            {"question": "Which diagnostic test is most useful for confirming choanal atresia?", "options": ["MRI", "X-ray of the chest", "CT scan", "Ultrasound"], "answer": "CT scan"},
+            {"question": "The inability to pass a nasal catheter suggests:", "options": ["Septal deviation", "Choanal atresia", "Nasal polyp", "Sinus infection"], "answer": "Choanal atresia"},
+            {"question": "Treatment of choanal atresia may require surgical reopening of the airway and the use of a stent.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Choanal atresia often presents with persistent rhinorrhea, which mainly contains:", "options": ["Blood", "Normal mucus", "Pus", "Saliva"], "answer": "Normal mucus"},
+            {"question": "Which of the following syndromes are craniosynostosis syndromes that can be linked to choanal atresia?", "options": ["Apert syndrome", "Pfeiffer syndrome", "Treacher Collins syndrome", "All of the above"], "answer": "All of the above"},
+            {"question": "Choanal atresia only affects the nasal soft tissue and never involves bone.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The main goal of choanal atresia treatment is to:", "options": ["Prevent infection", "Maintain an open airway", "Reduce nasal mucus", "Treat sinus pressure"], "answer": "Maintain an open airway"}
+
+        ],
+        "L9 Abdomen": [
+            {"question": "A neonate with an acute abdomen usually presents with:", "options": ["Fever and cough", "Vomiting, constipation, and abdominal distention", "Rash and cyanosis", "Diarrhea and jaundice"], "answer": "Vomiting, constipation, and abdominal distention"},
+            {"question": "When symptoms of acute abdomen are present immediately after birth, the most common cause is:", "options": ["Infection", "Gastrointestinal obstruction", "Liver disease", "Appendicitis"], "answer": "Gastrointestinal obstruction"},
+            {"question": "The first imaging step in suspected neonatal obstruction is:", "options": ["Ultrasound", "CT scan", "Abdominal radiograph", "MRI"], "answer": "Abdominal radiograph"},
+            {"question": "Normal progression of air in the newborn begins with the stomach at:", "options": ["Birth", "1 hour", "3 hours", "12 hours"], "answer": "Birth"},
+            {"question": "Air normally reaches the rectum after approximately:", "options": ["3 hours", "6 hours", "12 hours", "24 hours"], "answer": "24 hours"},
+            {"question": "On an abdominal radiograph, obstruction can be diagnosed immediately after birth without waiting for bowel air filling.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The bowel is considered dilated when its width exceeds the:", "options": ["Height of L2 vertebra", "Interpedicular width of L2", "Width of L1", "Diameter of the stomach"], "answer": "Interpedicular width of L2"},
+            {"question": "Massive bowel dilatation with fluid levels suggests:", "options": ["Partial obstruction", "Complete obstruction", "Normal gas pattern", "Gastritis"], "answer": "Complete obstruction"},
+            {"question": "Fluid levels on X-ray always indicate bowel dilatation.", "options": ["True", "False"], "answer": "False"},
+            {"question": "An unchanging bowel gas pattern over time indicates:", "options": ["Normal peristalsis", "Absence of peristalsis", "Increased motility", "None of the above"], "answer": "Absence of peristalsis"},
+            {"question": "Congenital high obstructions include all the following EXCEPT:", "options": ["Duodenal atresia", "Jejunal atresia", "Esophageal atresia", "Ileal atresia"], "answer": "Ileal atresia"},
+            {"question": "Which of the following is a congenital low obstruction?", "options": ["Duodenal web", "Hirschsprung disease", "Esophageal atresia", "Malrotation"], "answer": "Hirschsprung disease"},
+            {"question": "Necrotizing enterocolitis is a congenital cause of neonatal obstruction.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Which of the following is an acquired cause of acute abdomen in neonates?", "options": ["Hypertrophic pyloric stenosis", "Meconium ileus", "Hirschsprung disease", "Anal atresia"], "answer": "Hypertrophic pyloric stenosis"},
+            {"question": "Most high obstructions occur at the level of the:", "options": ["Ileum", "Colon", "Duodenum", "Rectum"], "answer": "Duodenum"},
+            {"question": "Vomiting will be non-bilious if the obstruction is:", "options": ["Proximal to the Vater ampulla", "Distal to the Vater ampulla", "In the ileum", "In the colon"], "answer": "Proximal to the Vater ampulla"},
+            {"question": "Vomiting will be bilious (green color) if the obstruction is:", "options": ["Proximal to the Vater ampulla", "Distal to the Vater ampulla", "In the esophagus", "None of the above"], "answer": "Distal to the Vater ampulla"},
+            {"question": "Bilious vomiting in a neonate is an emergency sign suggesting possible volvulus.", "options": ["True", "False"], "answer": "True"},
+            {"question": "In esophageal atresia, a feeding tube:", "options": ["Passes easily into the stomach", "Stops in a dilated proximal esophagus", "Passes into the trachea", "Causes immediate vomiting"], "answer": "Stops in a dilated proximal esophagus"},
+            {"question": "Presence of normal air in the abdomen with inability to pass a feeding tube suggests:", "options": ["Pure esophageal atresia", "Esophageal atresia with distal tracheoesophageal fistula", "Duodenal atresia", "Hirschsprung disease"], "answer": "Esophageal atresia with distal tracheoesophageal fistula"},
+            {"question": "Double fistula type of esophageal atresia means two abnormal openings between trachea and esophagus.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The radiological sign of duodenal atresia is known as:", "options": ["Triple bubble sign", "Double bubble sign", "Air-fluid level sign", "Ring sign"], "answer": "Double bubble sign"},
+            {"question": "In duodenal atresia, there is:", "options": ["Distal bowel gas", "No distal bowel gas", "Air throughout the colon", "Air-fluid level in the rectum"], "answer": "No distal bowel gas"},
+            {"question": "Further imaging is usually required to confirm duodenal atresia after the double bubble sign.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Approximately 30% of patients with duodenal atresia also have:", "options": ["Turner syndrome", "Down syndrome", "Klinefelter syndrome", "No genetic association"], "answer": "Down syndrome"},
+            {"question": "Duodenal atresia is associated with which congenital abnormalities?", "options": ["VACTERL malformations", "Malrotation", "Biliary tree abnormalities", "All of the above"], "answer": "All of the above"},
+            {"question": "Bilious vomiting should be ignored if the baby looks healthy.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Jejunal atresia and meconium ileus are examples of congenital low obstruction.", "options": ["True", "False"], "answer": "True"},
+            {"question": "In massive bowel dilatation, fluid levels appear especially in which X-ray position?", "options": ["Supine", "Dorsal decubitus", "Prone", "Erect"], "answer": "Dorsal decubitus"},
+            {"question": "Lack of air in the distal bowel on X-ray suggests:", "options": ["Intestinal perforation", "Complete obstruction", "Diarrhea", "Peristalsis"], "answer": "Complete obstruction"},
+            {"question": "In duodenal web, the radiograph shows:", "options": ["No distal gas", "Distal bowel gas present", "Absence of stomach gas", "Gas only in the rectum"], "answer": "Distal bowel gas present"},
+            {"question": "Duodenal web causes complete duodenal obstruction.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Duodenal web is caused by:", "options": ["Postnatal infection", "Ischemic injury", "Same embryologic defect as duodenal atresia", "Premature birth"], "answer": "Same embryologic defect as duodenal atresia"},
+            {"question": "Duodenal web obstruction is:", "options": ["Always complete", "Always partial (incomplete)", "Due to bile stones", "Due to volvulus"], "answer": "Always partial (incomplete)"},
+            {"question": "Patients with duodenal web can present in the neonatal period or later in life depending on the stenosis severity.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Radiologically, both duodenal web and annular pancreas may show:", "options": ["Air-fluid levels", "Double bubble sign with distal gas", "Absence of bowel gas", "Multiple air levels in rectum"], "answer": "Double bubble sign with distal gas"},
+            {"question": "Radiographs and upper GI series can always differentiate duodenal web from annular pancreas.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Annular pancreas is:", "options": ["Common", "Less common", "Seen only in adults", "Caused by infection"], "answer": "Less common"},
+            {"question": "Annular pancreas may cause which complication in adults?", "options": ["Peritonitis", "Pancreatitis due to abnormal biliary drainage", "Hepatic cirrhosis", "Splenomegaly"], "answer": "Pancreatitis due to abnormal biliary drainage"},
+            {"question": "Malrotation becomes symptomatic mainly when:", "options": ["Meconium plug forms", "Volvulus or Ladd’s bands occur", "Intestinal infection develops", "Air enters the rectum"], "answer": "Volvulus or Ladd’s bands occur"},
+            {"question": "Malrotation always presents immediately after birth.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Ladd’s bands cause obstruction of:", "options": ["Jejunum", "Colon", "Duodenum", "Esophagus"], "answer": "Duodenum"},
+            {"question": "Acute volvulus is considered a:", "options": ["Mild condition", "Life-threatening emergency", "Functional disorder", "Self-limited disease"], "answer": "Life-threatening emergency"},
+            {"question": "Volvulus requires urgent surgical intervention.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The typical presentation of malrotation with volvulus includes:", "options": ["Non-bilious vomiting", "Bilious vomiting in a sick neonate", "Constipation only", "Cyanosis without vomiting"], "answer": "Bilious vomiting in a sick neonate"},
+            {"question": "The ultrasound finding characteristic of volvulus is the:", "options": ["Double bubble sign", "Whirlpool sign", "Corkscrew sign", "Microcolon"], "answer": "Whirlpool sign"},
+            {"question": "The upper GI series in volvulus shows:", "options": ["Double bubble sign", "Corkscrew sign", "Triple bubble sign", "Multiple air-fluid levels"], "answer": "Corkscrew sign"},
+            {"question": "If volvulus is diagnosed by ultrasound, further imaging should be done before surgery.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Jejunal atresia is the most frequent cause of:", "options": ["Lower intestinal obstruction", "Upper intestinal obstruction", "Midgut volvulus", "Functional constipation"], "answer": "Upper intestinal obstruction"},
+            {"question": "The cause of jejunal atresia is:", "options": ["Failure of recanalization", "Ischemic event in utero", "Maternal diabetes", "Cystic fibrosis"], "answer": "Ischemic event in utero"},
+            {"question": "Polyhydramnios is commonly seen antenatally in jejunal atresia.", "options": ["True", "False"], "answer": "True"},
+            {"question": "More than one atretic focus may be found in:", "options": ["Duodenal atresia", "Jejunal atresia", "Meconium plug syndrome", "Hirschsprung disease"], "answer": "Jejunal atresia"},
+            {"question": "Ileal atresia results from:", "options": ["Postnatal volvulus", "Intrauterine ischemic event", "Genetic mutation", "Viral infection"], "answer": "Intrauterine ischemic event"},
+            {"question": "The most common site for ileal atresia is:", "options": ["Proximal jejunum", "Distal ileum", "Duodenum", "Colon"], "answer": "Distal ileum"},
+            {"question": "Multiple atretic sites can occur in ileal atresia.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Radiographic findings in ileal atresia show:", "options": ["Air in rectum", "Multiple dilated small bowel loops and no air in colon", "Gas in colon and stomach only", "Microcolon with normal gas distribution"], "answer": "Multiple dilated small bowel loops and no air in colon"},
+            {"question": "A contrast enema in ileal atresia shows:", "options": ["Normal colon", "Microcolon ending blindly in ileum", "Enlarged colon", "Multiple air bubbles in rectum"], "answer": "Microcolon ending blindly in ileum"},
+            {"question": "Meconium ileus occurs almost exclusively in:", "options": ["Hirschsprung disease", "Cystic fibrosis", "Premature infants without disease", "Diabetes mellitus"], "answer": "Cystic fibrosis"},
+            {"question": "It is the first presentation of cystic fibrosis in approximately:", "options": ["1%", "5%", "10%", "25%"], "answer": "10%"},
+            {"question": "The abnormal meconium in this condition is:", "options": ["Watery and loose", "Abnormally thick and sticky", "Absent", "Mixed with blood"], "answer": "Abnormally thick and sticky"},
+            {"question": "Meconium ileus is due to pancreatic exocrine dysfunction and abnormal intestinal secretions.", "options": ["True", "False"], "answer": "True"},
+            {"question": "In meconium ileus, a contrast enema shows:", "options": ["Normal colon", "Large colon with air-fluid levels", "Small colon with radiolucent filling defects (meconium pellets)", "Dilated stomach only"], "answer": "Small colon with radiolucent filling defects (meconium pellets)"},
+            {"question": "Radiolucent filling defects on contrast enema represent inspissated meconium.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Meconium plug syndrome is also known as:", "options": ["Small left colon syndrome", "Cystic fibrosis colitis", "Neonatal enterocolitis", "Hirschsprung variant"], "answer": "Small left colon syndrome"},
+            {"question": "The primary cause is:", "options": ["Mechanical atresia", "Functional immaturity of the colon", "Infection", "Cystic fibrosis"], "answer": "Functional immaturity of the colon"},
+            {"question": "Meconium plug syndrome is associated with cystic fibrosis.", "options": ["True", "False"], "answer": "False"},
+            {"question": "It is often linked to:", "options": ["Maternal diabetes and drug use in pregnancy", "Fetal infection", "Genetic mutation", "Premature rupture of membranes"], "answer": "Maternal diabetes and drug use in pregnancy"},
+            {"question": "The condition is usually:", "options": ["Permanent", "Temporary and resolves spontaneously", "Requires surgery", "Associated with obstruction of esophagus"], "answer": "Temporary and resolves spontaneously"},
+            {"question": "After the meconium plugs resolve, the colon:", "options": ["Remains constricted", "Returns to normal size and function", "Becomes atretic", "Develops microcolon"], "answer": "Returns to normal size and function"},
+            {"question": "The neonate with meconium plug syndrome is usually healthy.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Hirschsprung disease is characterized by the absence of:", "options": ["Goblet cells", "Ganglion cells", "Smooth muscle cells", "Enterocytes"], "answer": "Ganglion cells"},
+            {"question": "In Hirschsprung disease, ganglion cell absence always involves the:", "options": ["Jejunum", "Ileum", "Rectum", "Cecum"], "answer": "Rectum"},
+            {"question": "Which percentage of Hirschsprung disease cases involve only the rectum or rectosigmoid region?", "options": ["5%", "20%", "50%", "75%"], "answer": "75%"},
+            {"question": "Anal atresia diagnosis is usually made by:", "options": ["Ultrasound", "Clinical inspection and digital palpation", "MRI", "CT scan"], "answer": "Clinical inspection and digital palpation"},
+            {"question": "Which of the following is NOT an acquired cause of acute abdomen in neonates?", "options": ["Hypertrophic pyloric stenosis", "Hirschsprung disease", "Necrotizing enterocolitis", "Incarcerated hernia"], "answer": "Hirschsprung disease"},
+            {"question": "Necrotizing enterocolitis is characterized by:", "options": ["Bowel inflammation and risk of perforation", "Complete bowel obstruction", "Esophageal narrowing", "Pancreatic hypertrophy"], "answer": "Bowel inflammation and risk of perforation"},
+            {"question": "Projectile vomiting in infants aged 4–8 weeks is typical of:", "options": ["Hirschsprung disease", "Anal atresia", "Hypertrophic pyloric stenosis", "Necrotizing enterocolitis"], "answer": "Hypertrophic pyloric stenosis"},
+            {"question": "Hypertrophic pyloric stenosis is more common in:", "options": ["Girls", "Boys", "Premature babies", "Infants with Down syndrome"], "answer": "Boys"},
+            {"question": "Incarcerated hernia in neonates is most common in:", "options": ["Girls", "Boys", "Elderly", "None of the above"], "answer": "Boys"},
+            {"question": "The key radiological finding in incarcerated hernia is:", "options": ["Absence of bowel loops", "Multiple dilated bowel loops with one loop in the groin", "Single air bubble in the stomach", "Distended bladder"], "answer": "Multiple dilated bowel loops with one loop in the groin"},
+            {"question": "Which of the following abdominal wall defects has a sac covering the herniated intestines?", "options": ["Gastroschisis", "Omphalocele", "Hernia", "Atresia"], "answer": "Omphalocele"},
+            {"question": "Omphalocele occurs due to a defect in the:", "options": ["Right side of the abdomen", "Middle of the abdominal wall at the umbilicus", "Left hypogastric region", "Epigastric region"], "answer": "Middle of the abdominal wall at the umbilicus"},
+            {"question": "The umbilical cord in omphalocele is located:", "options": ["To the left of the defect", "To the right of the defect", "In the center of the defect", "Away from the defect"], "answer": "In the center of the defect"},
+            {"question": "Omphalocele is commonly associated with:", "options": ["No other defects", "Heart and kidney defects", "Lung fibrosis", "Pancreatic disorders"], "answer": "Heart and kidney defects"},
+            {"question": "Which of the following syndromes is associated with omphalocele?", "options": ["Beckwith-Wiedemann syndrome", "Turner syndrome", "Marfan syndrome", "Klinefelter syndrome"], "answer": "Beckwith-Wiedemann syndrome"},
+            {"question": "In Hirschsprung disease, ganglion cells migrate in a caudocranial direction.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Anal atresia requires immediate imaging and management in specialized centers.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Necrotizing enterocolitis is usually caused by bacterial infection alone.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Hypertrophic pyloric stenosis usually appears right after birth.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Incarcerated hernia can cause distal bowel obstruction.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Omphalocele and gastroschisis are both types of abdominal wall defects.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Omphalocele has no covering sac around the herniated intestines.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Omphalocele is usually an isolated defect without other anomalies.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Gastroschisis usually occurs:", "options": ["Directly over the umbilicus", "Near the umbilicus, usually to the right", "Anywhere along the abdominal wall", "Only on the left side"], "answer": "Near the umbilicus, usually to the right"},
+            {"question": "Unlike omphalocele, gastroschisis intestines are:", "options": ["Covered by a thin sac", "Not covered by a sac", "Inside the abdominal cavity", "Partially covered"], "answer": "Not covered by a sac"},
+            {"question": "Why may gastroschisis intestines be damaged before birth?", "options": ["Exposure to amniotic fluid causing inflammation", "Lack of oxygen", "Infection from placenta", "Maternal diet"], "answer": "Exposure to amniotic fluid causing inflammation"},
+            {"question": "Gastroschisis inflammation may cause:", "options": ["Problems with digestive system movement", "Scar tissue formation", "Intestinal obstruction", "All of the above"], "answer": "All of the above"},
+            {"question": "Gastroschisis intestines are covered by a sac like omphalocele.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Gastroschisis opening is usually lateral to the umbilicus.", "options": ["True", "False"], "answer": "True"},
+            {"question": "In neonates, the liver is usually palpable:", "options": ["Only during illness", "Sometimes up to 2 cm below the rib margin", "Never palpable", "Always abnormal if palpable"], "answer": "Sometimes up to 2 cm below the rib margin"},
+            {"question": "The tip of the spleen can sometimes be palpated in neonates.", "options": ["True", "False"], "answer": "True"},
+            {"question": "At birth, the intestinal tract is:", "options": ["Gasless", "Full of gas", "Always obstructed", "Inflamed"], "answer": "Gasless"},
+            {"question": "Gas should normally appear in the rectum by:", "options": ["12 hours of age", "24 hours of age", "48 hours of age", "72 hours of age"], "answer": "24 hours of age"},
+            {"question": "Which of the following is common in neonates, especially premature infants?", "options": ["Diastasis recti", "Umbilical hernia", "Both A and B", "Neither A nor B"], "answer": "Both A and B"},
+            {"question": "Unusual neonatal abdominal masses should be investigated immediately with ultrasonography.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Most common cause of neonatal abdominal masses:", "options": ["Gastrointestinal cyst", "Renal pathology", "Liver tumor", "Adrenal cyst"], "answer": "Renal pathology"},
+            {"question": "Which of the following are cystic abdominal masses?", "options": ["Hydronephrosis, multicystic dysplastic kidney, adrenal hemorrhage", "Intestinal duplication, ovarian cyst, choledochal cyst", "Both A and B", "None of the above"], "answer": "Both A and B"},
+            {"question": "Solid neonatal abdominal masses include:", "options": ["Neuroblastoma", "Mesoblastic nephroma", "Hepatoblastoma", "All of the above"], "answer": "All of the above"},
+            {"question": "Renal vein thrombosis may present with:", "options": ["Hematuria", "Hypertension", "Thrombocytopenia", "All of the above"], "answer": "All of the above"},
+            {"question": "Which are associated with renal vein thrombosis?", "options": ["Polycythemia", "Dehydration", "Maternal diabetes and asphyxia", "All of the above"], "answer": "All of the above"},
+            {"question": "Abdominal distention at birth suggests:", "options": ["Obstruction or perforation of the gastrointestinal tract", "Healthy intestine", "Only meconium ileus", "Liver disease"], "answer": "Obstruction or perforation of the gastrointestinal tract"},
+            {"question": "A scaphoid abdomen suggests diaphragmatic hernia.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Omphalocele occurs through the umbilicus, whereas gastroschisis occurs:", "options": ["Lateral to the midline", "Directly through the umbilicus", "Anywhere in the abdomen", "Only in the left upper quadrant"], "answer": "Lateral to the midline"},
+            {"question": "Omphalocele is associated with which anomalies/syndromes?", "options": ["Beckwith-Wiedemann syndrome", "Trisomy 18", "Conjoined twins, meningomyelocele, imperforate anus", "All of the above"], "answer": "All of the above"},
+            {"question": "Gastroschisis is usually associated with other syndromes.", "options": ["True", "False"], "answer": "False"},
+
+        ],
     },
 }
