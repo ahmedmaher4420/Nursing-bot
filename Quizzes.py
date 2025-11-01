@@ -22,7 +22,7 @@ quizzes = {
                 {"question": "Which of the following organisms is responsible for the development of acute glomerulonephritis?","options": ["Streptococcal pneumonia", "Haemophilus influenza", "Group A β-hemolytic streptococcus", "Staphylococcus aureus"],"answer": "Group A β-hemolytic streptococcus"},
                 {"question": "A child with acute glomerulonephritis is at risk for:","options": ["Hypoxia", "Kernicterus", "Hypertensive encephalopathy", "Infection"],"answer": "Hypertensive encephalopathy"}
         ],
-        "L1 Introduction ":[
+        "L1 Introduction":[
                 {
                     "question": "Which of the following is NOT a primary goal of pediatric nursing?",
                     "options": ["To promote growth and development toward an optimum state of health", "To perform complex surgical procedures on children", "To interpret basic needs of children to their family members", "To prevent disease and alleviate suffering in children"],
@@ -349,7 +349,7 @@ quizzes = {
                     "answer": "True"
                 }
         ],
-        "L2 Mental Retardation ":[
+        "L2 Mental Retardation":[
                 {
                     "question": "Pediatrics is defined as the branch of medical science that deals with the care of children from conception to:",
                     "options": ["School age", "Young adulthood", "Adolescence", "Puberty"],
@@ -592,7 +592,7 @@ quizzes = {
                 {"question": "Sleep problems and convulsions are common features in early childhood mental retardation.", "options": ["True", "False"], "answer": "True"}
 
         ],
-        "L3 Cerebral Palsy ":[
+        "L3 Cerebral Palsy":[
                 {"question": "Cerebral palsy is defined as a non-progressive disorder of cerebral function involving posture and movement, dating to events in all of the following periods EXCEPT:", "options": ["Prenatal period", "Natal period", "Neonatal period", "Adolescence period"], "answer": "Adolescence period"},
                 {"question": "Cerebral palsy is often associated with all of the following EXCEPT:", "options": ["Epilepsy", "Abnormalities of speech", "Abnormalities of vision", "Normal intellectual function"], "answer": "Normal intellectual function"},
                 {"question": "Which of the following is considered an Antenatal cause of Cerebral Palsy?", "options": ["Kernicterus", "Maternal irradiations of the pelvis", "Birth injury", "Meningitis"], "answer": "Maternal irradiations of the pelvis"},
@@ -650,7 +650,7 @@ quizzes = {
                 {"question": "Early diagnosis of cerebral palsy is necessary to prevent secondary positional deformities.", "options": ["True", "False"], "answer": "True"}
 
         ],
-        "L4 Nephrotic Syndrome ":[
+        "L4 Nephrotic Syndrome":[
             {"question": "Nephrotic Syndrome is characterized by alterations of the glomerular capillary wall resulting in all of the following EXCEPT:", "options": ["Albuminuria", "Hypoalbuminemia", "Hyperlipidemia", "Hypertension"], "answer": "Hypertension"},
             {"question": "In the pathophysiology of Nephrotic Syndrome, the loss of plasma protein (albumin) leads directly to:", "options": ["Increased oncotic pressure", "Stimulation of renin-angiotensin system", "Decreased oncotic pressure", "Acute kidney failure"], "answer": "Decreased oncotic pressure"},
             {"question": "Decreased oncotic pressure in Nephrotic Syndrome causes fluid to move from the vascular space to the:", "options": ["Renal tubules", "Blood plasma", "Extracellular fluid", "Intracellular fluid"], "answer": "Extracellular fluid"},
@@ -713,7 +713,7 @@ quizzes = {
             {"question": "Restriction of physical activity is never recommended for nephrotic children.", "options": ["True", "False"], "answer": "False"}
 
         ],
-        "L5 Nephritis ":[
+        "L5 Nephritis":[
             {"question": "APSAGN is defined as a non-bacterial inflammation of the glomeruli secondary to infection by which organism?", "options": ["Staphylococcus aureus of the skin.", "Group A β-hemolytic streptococcal of pharynx or skin.", "Pneumococcal infection of the respiratory tract.", "Viral infection of the gastrointestinal tract."], "answer": "Group A β-hemolytic streptococcal of pharynx or skin."},
             {"question": "The typical time frame for the onset of APSAGN symptoms after a streptococcal pharyngitis infection is:", "options": ["Immediately after the infection.", "3-4 weeks after the infection.", "10-14 days after the infection.", "3-5 days after the infection."], "answer": "10-14 days after the infection."},
             {"question": "Which clinical manifestation is described as the initial sign of APSAGN and is characteristically found around the eyes in the morning?", "options": ["Hypertension", "Hematuria", "Edema", "Headache"], "answer": "Edema"},
@@ -771,7 +771,7 @@ quizzes = {
             {"question": "The onset of APSGN symptoms after streptococcal pharyngitis is usually:", "options": ["Immediately", "10–14 days", "1–2 months", "6 months"], "answer": "10–14 days"}
 
         ],
-        "L6 Congestive Heart Failure ":[
+        "L6 Congestive Heart Failure":[
             {"question": "Congestive Heart Failure (CHF) is a condition in which the heart cannot adequately perform which primary function?", "options": ["Receiving oxygen-rich blood from the tissues.", "Pumping blood to meet the body's metabolic needs.", "Maintaining normal blood pressure in the arteries.", "Ensuring coagulation factors are balanced."], "answer": "Pumping blood to meet the body's metabolic needs."},
             {"question": "The backing up of blood into certain body tissues, causing fluid buildup, is the reason for the term:", "options": ["Myocardial Infarction", "Congestion", "Ischemia", "Hypoxia"], "answer": "Congestion"},
             {"question": "The most common cause of Congestive Heart Failure in children is:", "options": ["Acquired infections like myocarditis.", "Obesity and poor diet.", "Severe hypertension.", "Congenital Heart Disease (CHD)."], "answer": "Congenital Heart Disease (CHD)."},
@@ -829,7 +829,7 @@ quizzes = {
             {"question": "Continuous observation of the child is important in CHF management.", "options": ["True", "False"], "answer": "True"}
 
         ],
-        "L7 Rheumatic Fever ":[
+        "L7 Rheumatic Fever":[
             {"question": "Acute rheumatic fever is a systemic disease of childhood that follows infection by which organism?", "options": ["Staphylococcus aureus", "Pneumococcal pneumonia", "Group A beta hemolytic streptococci", "Haemophilus influenza"], "answer": "Group A beta hemolytic streptococci"},
             {"question": "Rheumatic fever is primarily an inflammatory disease of:", "options": ["Skeletal muscle tissue", "Nervous system tissue only", "Connective tissue", "Renal epithelial tissue"], "answer": "Connective tissue"},
             {"question": "The most susceptible age group for Rheumatic Fever is typically:", "options": ["Infants and toddlers (1-4 years)", "School-age children (5-15 years)", "Adolescents (16-18 years)", "Young adults (18-25 years)"], "answer": "School-age children (5-15 years)"},
@@ -3615,3 +3615,4 @@ quizzes = {
         ],
     },
 }
+
