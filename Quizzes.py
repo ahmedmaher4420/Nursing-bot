@@ -22,7 +22,7 @@ quizzes = {
                 {"question": "Which of the following organisms is responsible for the development of acute glomerulonephritis?","options": ["Streptococcal pneumonia", "Haemophilus influenza", "Group A β-hemolytic streptococcus", "Staphylococcus aureus"],"answer": "Group A β-hemolytic streptococcus"},
                 {"question": "A child with acute glomerulonephritis is at risk for:","options": ["Hypoxia", "Kernicterus", "Hypertensive encephalopathy", "Infection"],"answer": "Hypertensive encephalopathy"}
         ],
-        "L1 Introduction":[
+        "L1 Introduction ":[
                 {
                     "question": "Which of the following is NOT a primary goal of pediatric nursing?",
                     "options": ["To promote growth and development toward an optimum state of health", "To perform complex surgical procedures on children", "To interpret basic needs of children to their family members", "To prevent disease and alleviate suffering in children"],
@@ -349,7 +349,7 @@ quizzes = {
                     "answer": "True"
                 }
         ],
-        "L2 Mental Retardation":[
+        "L2 Mental Retardation ":[
                 {
                     "question": "Pediatrics is defined as the branch of medical science that deals with the care of children from conception to:",
                     "options": ["School age", "Young adulthood", "Adolescence", "Puberty"],
@@ -592,7 +592,7 @@ quizzes = {
                 {"question": "Sleep problems and convulsions are common features in early childhood mental retardation.", "options": ["True", "False"], "answer": "True"}
 
         ],
-        "L3 Cerebral Palsy":[
+        "L3 Cerebral Palsy ":[
                 {"question": "Cerebral palsy is defined as a non-progressive disorder of cerebral function involving posture and movement, dating to events in all of the following periods EXCEPT:", "options": ["Prenatal period", "Natal period", "Neonatal period", "Adolescence period"], "answer": "Adolescence period"},
                 {"question": "Cerebral palsy is often associated with all of the following EXCEPT:", "options": ["Epilepsy", "Abnormalities of speech", "Abnormalities of vision", "Normal intellectual function"], "answer": "Normal intellectual function"},
                 {"question": "Which of the following is considered an Antenatal cause of Cerebral Palsy?", "options": ["Kernicterus", "Maternal irradiations of the pelvis", "Birth injury", "Meningitis"], "answer": "Maternal irradiations of the pelvis"},
@@ -650,7 +650,7 @@ quizzes = {
                 {"question": "Early diagnosis of cerebral palsy is necessary to prevent secondary positional deformities.", "options": ["True", "False"], "answer": "True"}
 
         ],
-        "L4 Nephrotic Syndrome":[
+        "L4 Nephrotic Syndrome ":[
             {"question": "Nephrotic Syndrome is characterized by alterations of the glomerular capillary wall resulting in all of the following EXCEPT:", "options": ["Albuminuria", "Hypoalbuminemia", "Hyperlipidemia", "Hypertension"], "answer": "Hypertension"},
             {"question": "In the pathophysiology of Nephrotic Syndrome, the loss of plasma protein (albumin) leads directly to:", "options": ["Increased oncotic pressure", "Stimulation of renin-angiotensin system", "Decreased oncotic pressure", "Acute kidney failure"], "answer": "Decreased oncotic pressure"},
             {"question": "Decreased oncotic pressure in Nephrotic Syndrome causes fluid to move from the vascular space to the:", "options": ["Renal tubules", "Blood plasma", "Extracellular fluid", "Intracellular fluid"], "answer": "Extracellular fluid"},
@@ -713,7 +713,7 @@ quizzes = {
             {"question": "Restriction of physical activity is never recommended for nephrotic children.", "options": ["True", "False"], "answer": "False"}
 
         ],
-        "L5 Nephritis":[
+        "L5 Nephritis ":[
             {"question": "APSAGN is defined as a non-bacterial inflammation of the glomeruli secondary to infection by which organism?", "options": ["Staphylococcus aureus of the skin.", "Group A β-hemolytic streptococcal of pharynx or skin.", "Pneumococcal infection of the respiratory tract.", "Viral infection of the gastrointestinal tract."], "answer": "Group A β-hemolytic streptococcal of pharynx or skin."},
             {"question": "The typical time frame for the onset of APSAGN symptoms after a streptococcal pharyngitis infection is:", "options": ["Immediately after the infection.", "3-4 weeks after the infection.", "10-14 days after the infection.", "3-5 days after the infection."], "answer": "10-14 days after the infection."},
             {"question": "Which clinical manifestation is described as the initial sign of APSAGN and is characteristically found around the eyes in the morning?", "options": ["Hypertension", "Hematuria", "Edema", "Headache"], "answer": "Edema"},
@@ -771,7 +771,7 @@ quizzes = {
             {"question": "The onset of APSGN symptoms after streptococcal pharyngitis is usually:", "options": ["Immediately", "10–14 days", "1–2 months", "6 months"], "answer": "10–14 days"}
 
         ],
-        "L6 Congestive Heart Failure":[
+        "L6 Congestive Heart Failure ":[
             {"question": "Congestive Heart Failure (CHF) is a condition in which the heart cannot adequately perform which primary function?", "options": ["Receiving oxygen-rich blood from the tissues.", "Pumping blood to meet the body's metabolic needs.", "Maintaining normal blood pressure in the arteries.", "Ensuring coagulation factors are balanced."], "answer": "Pumping blood to meet the body's metabolic needs."},
             {"question": "The backing up of blood into certain body tissues, causing fluid buildup, is the reason for the term:", "options": ["Myocardial Infarction", "Congestion", "Ischemia", "Hypoxia"], "answer": "Congestion"},
             {"question": "The most common cause of Congestive Heart Failure in children is:", "options": ["Acquired infections like myocarditis.", "Obesity and poor diet.", "Severe hypertension.", "Congenital Heart Disease (CHD)."], "answer": "Congenital Heart Disease (CHD)."},
@@ -829,7 +829,7 @@ quizzes = {
             {"question": "Continuous observation of the child is important in CHF management.", "options": ["True", "False"], "answer": "True"}
 
         ],
-        "L7 Rheumatic Fever":[
+        "L7 Rheumatic Fever ":[
             {"question": "Acute rheumatic fever is a systemic disease of childhood that follows infection by which organism?", "options": ["Staphylococcus aureus", "Pneumococcal pneumonia", "Group A beta hemolytic streptococci", "Haemophilus influenza"], "answer": "Group A beta hemolytic streptococci"},
             {"question": "Rheumatic fever is primarily an inflammatory disease of:", "options": ["Skeletal muscle tissue", "Nervous system tissue only", "Connective tissue", "Renal epithelial tissue"], "answer": "Connective tissue"},
             {"question": "The most susceptible age group for Rheumatic Fever is typically:", "options": ["Infants and toddlers (1-4 years)", "School-age children (5-15 years)", "Adolescents (16-18 years)", "Young adults (18-25 years)"], "answer": "School-age children (5-15 years)"},
@@ -2086,7 +2086,67 @@ quizzes = {
                 {"question": "Goals of treatment of hypertension:", "options": ["Acute hypertension aim is to reduce BP gradually and prevent complications", "Keep BP above 90th percentile for age", "Reduce blood quickly", "All statements are not correct"], "answer": "Acute hypertension aim is to reduce BP gradually and prevent complications"},
                 {"question": "Laboratory investigation in cases of iron deficiency anemia include:", "options": ["Complete blood picture", "Iron binding capacity, ferritin, transferrin", "Occult blood in stool", "All statements are correct"], "answer": "All statements are correct"},
                 {"question": "Cardiogenic shock is caused by failure of heart to pump the blood effectively; the patient shows except:", "options": ["Irregular heart rate", "Shortness of breath", "Decreased jugular venous pressure", "Increased blood pressure"], "answer": "Increased blood pressure"},
-                {"question": "Febrile seizure includes all except:", "options": ["Strong family history", "Age from 6 months to 6 years", "Neurologically and metabolically not free", "Male more than female"], "answer": "Neurologically and metabolically not free"}
+                {"question": "Febrile seizure includes all except:", "options": ["Strong family history", "Age from 6 months to 6 years", "Neurologically and metabolically not free", "Male more than female"], "answer": "Neurologically and metabolically not free"},
+                {"question": "Weight is the most sensitive measurement that is early affected by malnutrition.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Any child with a single measurement below the 3rd percentile or above the 97th percentile should be investigated for abnormal growth.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Development refers to maturation of systems and organs as well as acquisition of skills and abilities: mental, emotional, social, motor.", "options": ["True", "False"], "answer": "True"},
+                {"question": "An initial weight loss of 5-10% during the last 15 days of the first month of life is normal.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Developmental Regression means the child starts to lose previously acquired new learnt skills, usually indicating degenerative brain disease.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Assessment of the development should be during routine visits from history and child activity observation.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Inborn error of metabolism is a relative contraindication of breast milk.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Working ala nasi and increased respiratory rate are signs of respiratory distress.", "options": ["True", "False"], "answer": "True"},
+                {"question": "ABC and reassessment are major steps in cardiopulmonary resuscitation.", "options": ["True", "False"], "answer": "True"},
+                {"question": "If vascular access is failed, interosseous access is indicated.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Appropriate for gestational age (AGA): a birth weight lies between the 10th and 90th percentile for the gestational age.", "options": ["True", "False"], "answer": "True"},
+                {"question": "First step in neonatal resuscitation is to start by rapid assessment of color of the baby, breathing, and heart rate.", "options": ["True", "False"], "answer": "True"},
+                {"question": "If heart rate is less than 60/min or absent, start intubation, ventilation, and cardiac massage. Consider giving IV adrenaline.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Caput Succedaneum consists of edema of the scalp of the presenting part, occurs in obstructed or prolonged labor, and appears as a soft swelling in the head of the baby.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Cephalhematoma is a subperiosteal bleeding, occurs in obstructed labor, and takes days to reach full size.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Treatment of facial nerve palsy includes care of the eye with artificial tears, physiotherapy, and possibly surgery.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Impairment of oxygen and carbon dioxide exchange and inadequate perfusion of tissues leading to persistence of Apgar score of less than 5 for more than 5 minutes.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Twitching, rolling of the eyes, apnea or generalized tonic stiffness is not convulsions.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Subtle signs such as chewing, excessive salivation, apnea, blinking, nystagmus, bicycling, pedaling, changes in color, and tongue thrusting are characteristic of convulsions especially in premature infants.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Serum electrolyte (blood glucose and calcium level) is an important measure if convulsions are observed.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Causes of respiratory distress include airway obstruction such as bilateral choanal atresia, macroglossia, and micrognathia.", "options": ["True", "False"], "answer": "True"},
+                {"question": "The risk of respiratory distress syndrome decreases with prematurity, cesarean section, and male sex.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Blood gases, chest X-ray, oxygen support, and surfactant administration are the main lines of management in respiratory distress syndrome.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Transient tachypnea of the newborn is a benign disease of term or near-term infants due to delayed absorption of lung fluids, causing transient pulmonary edema.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Meconium aspiration is a severe disorder secondary to meconium aspiration by the newborn either in utero or with the first breath.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Congenital pneumonia results from ingestion and/or aspiration of bacteria in amniotic fluid, leading to congenital pneumonia or septicemia with manifestations apparent prior to delivery.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Cessation of breathing for less than 20 seconds, usually not accompanied by cyanosis and bradycardia (HR < 100/min), is considered apnea.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Microcephaly represents a head circumference above the 97th percentile.", "options": ["True", "False"], "answer": "False"},
+                {"question": "In spina bifida occulta, the skin of the back is apparently intact, but defects of the underlying bone or spinal canal are present.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Hydrocephalus is the dilatation of the ventricular system due to either obstruction of CSF flow within the ventricular system or interference with its absorption in the subarachnoid space.", "options": ["True", "False"], "answer": "True"},
+                {"question": "After closure of sutures in older children, head enlargement is more marked due to closure of the anterior fontanel.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Generalized Tonic-Clonic (Grand Mal) Epilepsy is the commonest form of childhood convulsions, accounting for 60%.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Febrile seizures commonly occur before 6 months of age and mostly there is no family predisposition.", "options": ["True", "False"], "answer": "False"},
+                {"question": "CSF is indicated in febrile seizures even if there is no evidence of CNS infection.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Mouth odor, pupil, skin examination and vital signs is mandatory examination in comatosed child.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Shock is inadequate oxygen & nutrient delivery to meet tissue demand. It may be compensated (body maintain vital organs perfusion) or decompensated (poor perfusion & hypotension).", "options": ["True", "False"], "answer": "True"},
+                {"question": "Early shock is difficult to detect but there is alarm signs to be considered as tachycardia, tachypnea, pallor, slow capillary refill & restlessness (early).", "options": ["True", "False"], "answer": "True"},
+                {"question": "Cause of death in drowning is water entering the lungs can lead to respiratory failure and cardiac arrest and if the water is polluted the child can die later by pulmonary edema or pneumonia.", "options": ["True", "False"], "answer": "True"},
+                {"question": "According to the rule of (9) the body surface area (BSA) is divided as follows in children more than 10 years: Head = 9%, arm = 9%, anterior trunk = 18%, posterior trunk = 18%, legs = 18%, genitalia = 1%.", "options": ["True", "False"], "answer": "True"},
+                {"question": "I.V. fluids, monitor urine output, use sterile towels for exposed burn, antibiotics if secondary infection occurred & analgesia/narcotic are not the first line of treatment of burn.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Gastritis is the most common cause of vomiting in infant.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Acute watery diarrhea: Passage of liquid (or watery stools) three or more times in 12 hours or single soft or watery stool containing blood, mucus or pus.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Irritable bowel syndrome is most common cause in infant.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Indications for intravenous fluids in the episode of acute diarrhea include severe dehydration, paralytic ileus, glucose intolerance and protracted vomiting.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Occult gastrointestinal bleeding: Stools containing blood but not detected by naked eye as the color and texture of the stools are not changed.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Primitive neonatal reflexes are present since birth mostly disappear at 4 to 6 months.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Postnatal causes is the only causes of hypoxic ischemic encephalopathy.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Transient tachypnea of newborn risk factors include vaginal delivery.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Apnea causes may be pathological cause or apnea of prematurity.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Neonatal hyperbilirubinemia treatment include phototherapy and exchange transfusion.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Regurgitation is effortless movement of the stomach contents into esophagus.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Age, onset and duration, diet and dehydration is major question in assessment of child with diarrhea.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Cerebral palsy used to describe motor syndromes resulting from early brain development insult.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Team physicians is needed of various specialist is not needed to treat cerebral palsy.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Endoscopic removal of foreign body is the gold standard line of treatment.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Arterial blood gases gives an idea about kidney and liver function.", "options": ["True", "False"], "answer": "False"},
+                {"question": "Allen test is important test before withdraw arterial sample.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Coagulopathy, infection is contraindication to withdraw arterial sample.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Fainting is one of complication of arterial sample withdrawal.", "options": ["True", "False"], "answer": "True"},
+                {"question": "Normal blood gases PH = 7.35-7.45.", "options": ["True", "False"], "answer": "True"}
 
         ],
         "L1 PEDIATRIC EMERGENCIES" : [
@@ -3615,4 +3675,3 @@ quizzes = {
         ],
     },
 }
-
