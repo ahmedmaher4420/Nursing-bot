@@ -9,7 +9,7 @@ from Quizzes import quizzes  # ملف الكويز القديم
 
 TOKEN = "8419066396:AAEgaf63xX_GKQSCTBQf5cy9Q9I91CnDJdo"
 BASE_PATH = os.path.join(os.getcwd(), "Lectures")
-GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbz0hyWz3UYnpQzqzKglN2qJEPEm8HjCpPK2Ml5eRL2IRGqBFM4RuTU5qhCAxuWOqf_W/exec"
+GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbz-LzHFCVna0tZYRIwn9n2uuGGEc39WN8dlhb6EHgIAzY2fA2knQ-UsY6wUZHCYfZEK/exec"
 
 app = Flask(__name__)
 telegram_app = Application.builder().token(TOKEN).build()
