@@ -1,5 +1,6 @@
 import os
 import random
+import requests
 from flask import Flask, request
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, ContextTypes, filters
@@ -8,6 +9,7 @@ from Quizzes import quizzes  # ملف الكويز القديم
 
 TOKEN = "8419066396:AAEgaf63xX_GKQSCTBQf5cy9Q9I91CnDJdo"
 BASE_PATH = os.path.join(os.getcwd(), "Lectures")
+GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbz0hyWz3UYnpQzqzKglN2qJEPEm8HjCpPK2Ml5eRL2IRGqBFM4RuTU5qhCAxuWOqf_W/exec"
 
 app = Flask(__name__)
 telegram_app = Application.builder().token(TOKEN).build()
@@ -21,6 +23,18 @@ class UserSession:
         self.lecture = None
         self.quiz = None
         self.review_list = []
+
+# 📤 دالة تسجيل الأحداث في Google Sheet
+def log_to_sheet(user_id, action, notes=""):
+    try:
+        data = {
+            "userId": user_id,
+            "action": action,
+            "notes": notes
+        }
+        requests.post(GOOGLE_SHEET_URL, data=data)
+    except Exception as e:
+        print(f"⚠️ خطأ في تسجيل الحدث في Google Sheet: {str(e)}")
 
 # 🧩 لوحة الأزرار
 def base_keyboard(extra_buttons=None, in_quiz=False):
@@ -61,6 +75,8 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "Welcome to Nursing Hub\nاختر المادة:",
         reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True)
     )
+    # تسجيل الدخول في Google Sheet
+    log_to_sheet(update.message.chat_id, "login", "بدأ المستخدم الجلسة")
 
 # 🧩 عرض خيارات المادة
 async def show_subject_options(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -78,6 +94,7 @@ async def show_subject_options(update: Update, context: ContextTypes.DEFAULT_TYP
         reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True),
         parse_mode="Markdown"
     )
+    log_to_sheet(update.message.chat_id, "select_subject", session.subject)
 
 # 🧩 عرض المحاضرات
 async def show_lectures(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -121,6 +138,8 @@ async def show_pdf(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 filename=session.lecture,
                 caption=f"📘 {session.lecture}"
             )
+        # تسجيل فتح المحاضرة في Google Sheet
+        log_to_sheet(update.message.chat_id, "open_lecture", session.lecture)
     except Forbidden:
         print(f"⚠️ لا يمكن إرسال الملف للمستخدم {update.message.chat_id}, البوت محظور.")
     except Exception as e:
@@ -160,6 +179,7 @@ async def start_quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     session.quiz = {"name": quiz_name, "questions": quiz_data, "current_q": 0, "score": 0}
     session.stage_stack.append("quiz")
+    log_to_sheet(update.message.chat_id, "start_quiz", quiz_name)
     await send_next_question(update, context)
 
 # 🔸 إرسال السؤال التالي
@@ -176,6 +196,7 @@ async def send_next_question(update: Update, context: ContextTypes.DEFAULT_TYPE)
             update.message.chat_id,
             f"✅ انتهى الكويز!\nنتيجتك: {quiz_state['score']}/{len(questions)}"
         )
+        log_to_sheet(update.message.chat_id, "end_quiz", f"نتيجة: {quiz_state['score']}/{len(questions)}")
         session.quiz = None
         await go_home(update, context)
         return
@@ -201,6 +222,7 @@ async def handle_quiz_answer(update: Update, context: ContextTypes.DEFAULT_TYPE)
             update.message.chat_id,
             f"⏹️ تم إنهاء الكويز.\nنتيجتك: {quiz_state['score']}/{len(quiz_state['questions'])}"
         )
+        log_to_sheet(update.message.chat_id, "end_quiz", f"تم إنهاء الكويز يدويًا")
         session.quiz = None
         await go_home(update, context)
         return
@@ -210,6 +232,7 @@ async def handle_quiz_answer(update: Update, context: ContextTypes.DEFAULT_TYPE)
     if answer == q.get("answer"):
         quiz_state["score"] += 1
         await safe_send_message(context.bot, update.message.chat_id, "✅ إجابة صحيحة!")
+        log_to_sheet(update.message.chat_id, "quiz_answer", f"سؤال {q_index+1}, إجابة صحيحة")
     else:
         await safe_send_message(
             context.bot,
@@ -217,6 +240,7 @@ async def handle_quiz_answer(update: Update, context: ContextTypes.DEFAULT_TYPE)
             f"❌ خطأ! الإجابة الصحيحة: {q.get('answer')}"
         )
         session.review_list.append(q)
+        log_to_sheet(update.message.chat_id, "quiz_answer", f"سؤال {q_index+1}, إجابة خاطئة: {answer}")
 
     quiz_state["current_q"] += 1
     await send_next_question(update, context)
