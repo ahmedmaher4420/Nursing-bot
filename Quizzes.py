@@ -1,5 +1,1306 @@
 quizzes = {
     "Pediatric": {
+        "أسئلة ملخصات سامي":[
+            {
+            "question": "Acute rheumatic fever is a systemic disease that usually follows group B beta hemolytic streptococcal infection.",
+            "options": ["True", "False"],
+            "answer": "False"
+            },
+            {
+            "question": "Ages 5-15 years are most susceptible to rheumatic fever.",
+            "options": ["True", "False"],
+            "answer": "True"
+            },
+            {
+            "question": "Boys are more affected than girls.",
+            "options": ["True", "False"],
+            "answer": "False"
+            },
+            {
+            "question": "Overcrowding, poor sanitation, and poverty increase the risk of rheumatic fever.",
+            "options": ["True", "False"],
+            "answer": "True"
+            },
+            {
+            "question": "Incidence of rheumatic fever is higher during summer.",
+            "options": ["True", "False"],
+            "answer": "False"
+            },
+            {
+            "question": "Rheumatic fever is caused by a direct bacterial invasion of the heart.",
+            "options": ["True", "False"],
+            "answer": "False"
+            },
+            {
+            "question": "Antibody-mediated immune response damages heart valves, joints, subcutaneous tissue, and basal ganglia.",
+            "options": ["True", "False"],
+            "answer": "True"
+            },
+            {
+            "question": "Latent period between streptococcal infection and symptom onset is 1-3 days.",
+            "options": ["True", "False"],
+            "answer": "False"
+            },
+            {
+            "question": "Rheumatic fever can be recurrent.",
+            "options": ["True", "False"],
+            "answer": "True"
+            },
+            {
+            "question": "Joint inflammation in rheumatic fever usually affects small joints first.",
+            "options": ["True", "False"],
+            "answer": "False"
+            },
+            {
+            "question": "Erythema marginatum is a non-itchy rash.",
+            "options": ["True", "False"],
+            "answer": "True"
+            },
+            {
+            "question": "Chorea can manifest as deterioration of handwriting.",
+            "options": ["True", "False"],
+            "answer": "True"
+            },
+            {
+            "question": "Subcutaneous nodules are painful.",
+            "options": ["True", "False"],
+            "answer": "False"
+            },
+            {
+            "question": "Fever, fatigue, and stomach pains can be symptoms of rheumatic fever.",
+            "options": ["True", "False"],
+            "answer": "True"
+            },
+            {
+            "question": "Carditis is the only major manifestation that can cause permanent damage.",
+            "options": ["True", "False"],
+            "answer": "True"
+            },
+            {
+            "question": "Arthritis progresses to chronic joint disease in most cases.",
+            "options": ["True", "False"],
+            "answer": "False"
+            },
+            {
+            "question": "Chorea occurs in 5-10% of cases.",
+            "options": ["True", "False"],
+            "answer": "True"
+            },
+            {
+            "question": "Erythema marginatum occurs in more than 50% of cases.",
+            "options": ["True", "False"],
+            "answer": "False"
+            },
+            {
+            "question": "Minor criteria include arthralgia and fever.",
+            "options": ["True", "False"],
+            "answer": "True"
+            },
+            {
+            "question": "ECG can detect arrhythmias and heart muscle damage.",
+            "options": ["True", "False"],
+            "answer": "True"
+            },
+            {
+            "question": "Throat culture is always positive during the initial phase of rheumatic fever.",
+            "options": ["True", "False"],
+            "answer": "False"
+            },
+            {
+            "question": "2D Echo can show valve edema, mitral regurgitation, and pericardial effusion.",
+            "options": ["True", "False"],
+            "answer": "True"
+            },
+            {
+            "question": "Blood tests such as ESR and CRP help in diagnosis.",
+            "options": ["True", "False"],
+            "answer": "True"
+            },
+            {
+            "question": "Antibiotics are given even if the throat culture is negative.",
+            "options": ["True", "False"],
+            "answer": "True"
+            },
+            {
+            "question": "Anti-inflammatory medications help relieve joint pain and heart swelling.",
+            "options": ["True", "False"],
+            "answer": "True"
+            },
+            {
+            "question": "Bed rest duration depends on the severity of heart and joint involvement.",
+            "options": ["True", "False"],
+            "answer": "True"
+            },
+            {
+            "question": "Surgery is first-line treatment for all cases.",
+            "options": ["True", "False"],
+            "answer": "False"
+            },
+            {
+            "question": "History taking should include recent sore throat and treatment received.",
+            "options": ["True", "False"],
+            "answer": "True"
+            },
+            {
+            "question": "Physical exam should ignore signs of chorea.",
+            "options": ["True", "False"],
+            "answer": "False"
+            },
+            {
+            "question": "Pain reduction includes positioning, warm baths, and gentle exercises.",
+            "options": ["True", "False"],
+            "answer": "True"
+            },
+            {
+            "question": "Bed rest may cause distress; diversional activities should be provided.",
+            "options": ["True", "False"],
+            "answer": "True"
+            },
+            {
+            "question": "Safety measures are not needed for children with chorea.",
+            "options": ["True", "False"],
+            "answer": "False"
+            },
+            {
+            "question": "Which of the following is a major criterion of rheumatic fever?",
+            "options": ["Fever", "Arthritis", "Arthralgia", "High ESR"],
+            "answer": "Arthritis"
+            },
+            {
+            "question": "Which joint is most commonly affected in rheumatic fever?",
+            "options": ["Fingers", "Knees", "Spine", "Toes"],
+            "answer": "Knees"
+            },
+            {
+            "question": "The rash erythema marginatum typically appears:",
+            "options": ["On the face only", "On trunks and limbs, non-itchy", "On scalp, itchy", "On palms and soles only"],
+            "answer": "On trunks and limbs, non-itchy"
+            },
+            {
+            "question": "Chorea in rheumatic fever can manifest as:",
+            "options": ["Rash", "Joint swelling", "Emotional lability and abnormal movements", "Fever only"],
+            "answer": "Emotional lability and abnormal movements"
+            },
+            {"question": "Congestive heart failure means the heart cannot pump blood effectively.", "options": ["True", "False"], "answer": "True"},
+            {"question": "In CHF, blood and fluid can back up into the lungs and body tissues.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The left side of the heart pumps oxygen-rich blood to the body.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The right side of the heart pumps oxygen-rich blood to the lungs.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Congenital heart disease is the most common cause of CHF in children.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Septal defects (holes in the heart walls) can lead to CHF.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Anemia can be one of the causes of CHF in children.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Symptoms of CHF in children include shortness of breath, rapid heartbeat, and poor feeding.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Sweating during feeding is a common sign of CHF in infants.", "options": ["True", "False"], "answer": "True"},
+            {"question": "In CHF, the child usually gains weight rapidly.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Chest X-ray may show an enlarged heart in CHF.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Echocardiography uses sound waves to assess the heart’s function.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Cardiac catheterization is used to observe blood flow in the heart.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Maintaining a healthy weight can help prevent CHF.", "options": ["True", "False"], "answer": "True"},
+            {"question": "If untreated, CHF can cause permanent organ damage.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Which of the following is NOT a cause of CHF in children?", "options": ["Tetralogy of Fallot", "Septal defects", "Hypertension in adults", "Patent ductus arteriosus"], "answer": "Hypertension in adults"},
+            {"question": "Which side of the heart pumps oxygenated blood to the body?", "options": ["Left heart", "Right heart", "Both sides equally", "None"], "answer": "Left heart"},
+            {"question": "A child with CHF may present with:", "options": ["Shortness of breath", "Poor weight gain", "Sweating", "All of the above"], "answer": "All of the above"},
+            {"question": "The diagnostic test that uses ultrasound to examine the heart is:", "options": ["ECG", "Chest X-ray", "Echocardiogram", "Cardiac catheterization"], "answer": "Echocardiogram"},
+            {"question": "Which medication helps the heart pump more efficiently in CHF?", "options": ["Digitalis", "Insulin", "Antibiotics", "Paracetamol"], "answer": "Digitalis"},
+            {"question": "Which nursing intervention is important in CHF management?", "options": ["Monitor respiratory rate and lung sounds", "Encourage excessive fluid intake", "Avoid measuring daily weight", "Stop oxygen therapy"], "answer": "Monitor respiratory rate and lung sounds"},
+            {"question": "What is the normal target oxygen saturation for a child with CHF?", "options": ["70%", "85%", ">95%", "50%"], "answer": ">95%"},
+            {"question": "Which of the following is a complication of untreated CHF?", "options": ["Brain damage", "Kidney damage", "Liver damage", "All of the above"], "answer": "All of the above"},
+            {"question": "Nephrotic Syndrome in children is a common chronic disorder.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The main symptom of Nephrotic Syndrome is weight loss.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Minimal Change Nephrotic Syndrome (MCNS) is the most common type in children.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Congenital Nephrotic Syndrome usually responds to standard therapy.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Blood pressure is usually very high in children with Nephrotic Syndrome.", "options": ["True", "False"], "answer": "False"},
+            {"question": "What is the hallmark of nephrotic syndrome?", "options": ["Edema", "Hypertension", "Fever", "Hematuria"], "answer": "Edema"},
+            {"question": "Most common type of Nephrotic Syndrome in children?", "options": ["FSGS", "Membranous GN", "Minimal Change Nephrotic Syndrome (MCNS)", "Congenital NS"], "answer": "Minimal Change Nephrotic Syndrome (MCNS)"},
+            {"question": "Key lab findings in Nephrotic Syndrome?", "options": ["Proteinuria, hypoalbuminemia, hyperlipidemia", "Leukocytosis only", "Hypoglycemia", "Hyperkalemia"], "answer": "Proteinuria, hypoalbuminemia, hyperlipidemia"},
+            {"question": "Age group commonly affected by Nephrotic Syndrome?", "options": ["<1 year", "2–7 years", "10–15 years", ">15 years"], "answer": "2–7 years"},
+            {"question": "Congenital Nephrotic Syndrome responds to usual therapy?", "options": ["Yes", "No"], "answer": "No"},
+            {"question": "Which of the following is not a feature of Nephrotic Syndrome?", "options": ["Edema", "Hyperlipidemia", "Polycythemia", "Hypoalbuminemia"], "answer": "Polycythemia"},
+            {"question": "Which type of Nephrotic Syndrome is hereditary and appears in infants?", "options": ["Primary NS", "Secondary NS", "Congenital NS", "Minimal Change NS"], "answer": "Congenital NS"},
+            {"question": "Most common age group for Nephrotic Syndrome in children?", "options": ["<1 year", "2–7 years", "10–15 years", ">15 years"], "answer": "2–7 years"},
+            {"question": "Which of the following is a cause of Secondary Nephrotic Syndrome?", "options": ["Minimal Change", "Lupus", "Autosomal recessive mutation", "Idiopathic GN"], "answer": "Lupus"},
+            {"question": "What is the first symptom usually noticed in a child with Nephrotic Syndrome?", "options": ["Vomiting", "Edema around eyes and ankles", "Fever", "High blood pressure"], "answer": "Edema around eyes and ankles"},
+            {"question": "Nephrotic Syndrome in children is a common chronic disorder.", "options": ["True", "False"], "answer": "True"},
+            {"question": "The main symptom of Nephrotic Syndrome is weight loss.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Minimal Change Nephrotic Syndrome (MCNS) is the most common type in children.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Congenital Nephrotic Syndrome usually responds to standard therapy.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Blood pressure is usually very high in children with Nephrotic Syndrome.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Prednisone is used to treat edema in Nephrotic Syndrome.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Children with Nephrotic Syndrome should have unrestricted salt intake.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Daily weighing of the child is important.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Infection risk is lower in children with Nephrotic Syndrome.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Emotional support is part of nursing care for Nephrotic Syndrome.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Which of the following is not a feature of Nephrotic Syndrome?", "options": ["Edema", "Hyperlipidemia", "Polycythemia", "Hypoalbuminemia"], "answer": "Polycythemia"},
+            {"question": "Which type of Nephrotic Syndrome is usually seen in infants and is hereditary?", "options": ["Primary NS", "Secondary NS", "Congenital NS", "Minimal Change NS"], "answer": "Congenital NS"},
+            {"question": "What is the most common age group for Nephrotic Syndrome in children?", "options": ["<1 year", "2–7 years", "10–15 years", ">15 years"], "answer": "2–7 years"},
+            {"question": "Which of the following is a cause of Secondary Nephrotic Syndrome?", "options": ["Minimal Change", "Lupus", "Autosomal recessive mutation", "Idiopathic glomerulonephritis"], "answer": "Lupus"},
+            {"question": "What is the main symptom noticed first in a child with Nephrotic Syndrome?", "options": ["Vomiting", "Edema around eyes and ankles", "Fever", "High blood pressure"], "answer": "Edema around eyes and ankles"},
+            {"question": "Which of the following is not a complication of Nephrotic Syndrome?", "options": ["High cholesterol", "Malnutrition", "Increased immunity", "Thrombosis"], "answer": "Increased immunity"},
+            {"question": "What is the main drug used for specific therapy in Nephrotic Syndrome?", "options": ["Diuretics", "Prednisone", "Antibiotics", "ACE inhibitors"], "answer": "Prednisone"},
+            {"question": "How should a child with severe edema be positioned?", "options": ["Lying flat", "Semi-sitting", "Standing", "Head down"], "answer": "Semi-sitting"},
+            {"question": "Which is the most common site of infection in Nephrotic Syndrome?", "options": ["Lungs", "Skin", "Peritoneum", "Urinary tract"], "answer": "Peritoneum"},
+            {"question": "Which nursing care is important for ascites management in Nephrotic Syndrome?", "options": ["Limit activity", "Chart intake & output", "Prepare for paracentesis", "All of the above"], "answer": "All of the above"},
+            {
+                "question": "APSGN occurs 1–3 weeks after a streptococcal infection.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Hematuria in APSGN is usually clear and normal-colored.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Both sexes are equally affected by APSGN.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Bed rest is necessary during the acute phase.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Complete recovery occurs in more than 95% of cases.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "APSGN is caused by bacterial infection of the kidney directly.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "High blood pressure can be a symptom of APSGN.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Heart failure and pulmonary edema can occur as complications.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Infection prevention is not needed in APSGN.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Children with APSGN should avoid all physical activity permanently.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "APSGN occurs 1–3 weeks after a streptococcal infection.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Hematuria in APSGN is usually clear and normal-colored.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Both sexes are equally affected by APSGN.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Bed rest is necessary during the acute phase.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Complete recovery occurs in more than 95% of cases.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "APSGN is caused by bacterial infection of the kidney directly.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "High blood pressure can be a symptom of APSGN.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Heart failure and pulmonary edema can occur as complications.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Infection prevention is not needed in APSGN.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Children with APSGN should avoid all physical activity permanently.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {"question": "Mental retardation means limitations in physical growth.", "options": ["True", "False"], "answer": "False"},
+            {"question": "IQ below 70 indicates some degree of mental retardation.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Most cases of mental retardation are severe.", "options": ["True", "False"], "answer": "False"},
+            {"question": "Down syndrome is a genetic cause of mental retardation.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Hypoglycemia after birth can lead to mental retardation.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Radiation exposure during pregnancy may cause mental retardation.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Delayed developmental milestones are the main symptom of mental retardation.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Profound retardation cases can be trained for full independence.", "options": ["True", "False"], "answer": "False"},
+            {"question": "The normal IQ range is between 90 – 110.", "options": ["True", "False"], "answer": "True"},
+            {"question": "Encephalitis in childhood can be a cause of mental retardation.", "options": ["True", "False"], "answer": "True"},
+            {
+                "question": "Mental retardation prevalence in children is:",
+                "options": ["10-15%", "2-3%", "0.5%", "20%"],
+                "answer": "2-3%"
+            },
+            {
+                "question": "Which IQ range is considered mild retardation?",
+                "options": ["68-83", "51-70", "36-50", "≤20"],
+                "answer": "51-70"
+            },
+            {
+                "question": "The main symptom of mental retardation is:",
+                "options": ["Seizures", "Delayed developmental milestones", "Weight loss", "Vision problems"],
+                "answer": "Delayed developmental milestones"
+            },
+            {
+                "question": "Which of the following is NOT an intrauterine cause?",
+                "options": ["Rubella infection", "Alcohol intake", "Radiation", "Road traffic accident"],
+                "answer": "Road traffic accident"
+            },
+            {
+                "question": "Profound mental retardation requires:",
+                "options": ["Minimal supervision", "Total supervision", "No supervision", "Only school training"],
+                "answer": "Total supervision"
+            },
+            {
+                "question": "Pediatric nursing only cares for children when they are sick.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "A pediatric nurse provides direct bedside care to sick children.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Pediatric nursing includes preventive, promotive, curative, and rehabilitative care.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "One of the goals of pediatric nursing is to promote the growth and development of children.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "A good pediatric nurse should always be patient and cheerful.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Pediatric nursing deals with adults and elderly people.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Parents are guided by pediatric nurses to understand the needs of their children.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Preventing disease and reducing suffering are goals of pediatric nursing.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Pediatric nursing is a general branch that focuses on all patients, not only children.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Honesty and truthfulness are essential qualities of a pediatric nurse.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Pediatric nursing mainly focuses on:",
+                "options": ["Elderly people", "Adults only", "Children from conception to adolescence", "Pregnant women"],
+                "answer": "Children from conception to adolescence"
+            },
+            {
+                "question": "One important role of a pediatric nurse is:",
+                "options": ["Cooking meals for the family", "Giving bedside care to sick children", "Teaching adults new skills", "Running the hospital"],
+                "answer": "Giving bedside care to sick children"
+            },
+            {
+                "question": "Which of the following is NOT included in pediatric nursing care?",
+                "options": ["Preventive care", "Curative care", "Promotive care", "Agricultural care"],
+                "answer": "Agricultural care"
+            },
+            {
+                "question": "Pediatric nursing emphasizes development of:",
+                "options": ["Body, mind, and spirit", "Body only", "Mind only", "Spirit only"],
+                "answer": "Body, mind, and spirit"
+            },
+            {
+                "question": "Qualities of a good pediatric nurse include:",
+                "options": ["Angry and impatient", "Honest and truthful", "Kind, patient, and cheerful", "Both b and c"],
+                "answer": "Both b and c"
+            },
+            {
+                "question": "A major goal of pediatric nursing is:",
+                "options": ["To increase suffering in children", "To promote growth and optimum health", "To focus only on medicine and drugs", "To ignore family guidance"],
+                "answer": "To promote growth and optimum health"
+            },
+            {
+                "question": "Pediatric nurses help parents by:",
+                "options": ["Interpreting the basic needs of their children", "Teaching them how to take care of elderly patients", "Ignoring them", "Sending children away"],
+                "answer": "Interpreting the basic needs of their children"
+            },
+            {
+                "question": "Cerebral palsy is:",
+                "options": ["Progressive disorder", "Non-progressive disorder", "Infectious disease", "Nutritional disorder"],
+                "answer": "Non-progressive disorder"
+            },
+            {
+                "question": "The most common type of cerebral palsy is:",
+                "options": ["Ataxic", "Spastic", "Extrapyramidal", "Mixed"],
+                "answer": "Spastic"
+            },
+            {
+                "question": "Kernicterus is a postnatal cause of cerebral palsy.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Cerebral palsy incidence is 40/1000 population.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Spastic quadriplegia is the mildest form of cerebral palsy.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "TORCH infections are antenatal causes of cerebral palsy.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Seizures may be associated with cerebral palsy.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Ataxic cerebral palsy is due to cerebellar damage.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Congenital anomalies are always life-threatening.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Some anomalies may be compatible with life and require delayed treatment.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Radiation is a known factor causing fetal malformations.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Genetic traits cannot cause congenital anomalies.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Rubella virus during pregnancy may lead to fetal malformations.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Which of the following can cause congenital anomalies?",
+                "options": ["Drugs", "Radiation", "Viruses", "Genetic factors", "All of the above"],
+                "answer": "All of the above"
+            },
+            {
+                "question": "Hirschsprung’s disease affects which system?",
+                "options": ["Heart", "Intestine", "Lungs", "Kidneys"],
+                "answer": "Intestine"
+            },
+            {
+                "question": "Intussusception is a congenital defect.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Blood supply may be cut off in intussusception, leading to gangrene.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Red currant jelly stool is a common sign of intussusception.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Hydrostatic reduction is used in late cases.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Intussusception is most common in children of which age?",
+                "options": ["0–3 months", "3–5 years", "6–10 years", "Teenagers"],
+                "answer": "3–5 years"
+            },
+            {
+                "question": "First-line treatment for early intussusception includes:",
+                "options": ["Surgery immediately", "Hydrostatic reduction", "No treatment needed", "Oral antibiotics"],
+                "answer": "Hydrostatic reduction"
+            },
+            {
+                "question": "All congenital heart diseases have cyanosis.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Coarctation of the aorta is a congenital heart disease with no shunt.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "PDA stands for Patent Ductus Arteriosus.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Ventricular septal defect always causes cyanosis.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Which congenital heart disease has cyanosis?",
+                "options": ["ASD", "VSD", "Tetralogy of Fallot", "PDA"],
+                "answer": "Tetralogy of Fallot"
+            },
+            {
+                "question": "Treatment for small heart defects may include:",
+                "options": ["Medications", "Surgery", "Both a and b", "No treatment"],
+                "answer": "Both a and b"
+            },
+            {
+                "question": "Newborns can be transported without a heated incubator.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Preoperative care includes psychological preparation of the child.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "NPO means the child must not have anything by mouth before surgery.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Oral fluids are started immediately after surgery regardless of bowel sounds.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "During transportation, which equipment is needed?",
+                "options": ["Heated incubator", "Oxygen supply", "Suction equipment", "All of the above"],
+                "answer": "All of the above"
+            },
+            {
+                "question": "Post-operative care includes:",
+                "options": ["Monitoring vital signs", "Observing dressings and IV fluids", "Gradually starting oral feeding", "Early ambulation if possible", "All of the above"],
+                "answer": "All of the above"
+            },
+{
+    "question": "Diphtheria is caused by a virus.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "Pertussis is also known as whooping cough.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Scarlet fever is transmitted through droplets.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Chickenpox has an incubation period of 2–5 days.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "Measles can cause Koplik’s spots in the mouth.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "German measles (Rubella) is dangerous for pregnant women.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Mumps primarily affects salivary glands.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Poliomyelitis can cause paralysis.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Meningitis can present with a stiff neck.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "All communicable diseases have vaccines available.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "The incubation period of diphtheria is:",
+    "options": ["2–6 days", "5–21 days", "10–14 days", "14–28 days"],
+    "answer": "2–6 days"
+},
+{
+    "question": "The causative agent of pertussis is:",
+    "options": ["Gram-positive cocci", "Gram-negative bacilli", "Virus", "Fungi"],
+    "answer": "Gram-negative bacilli"
+},
+{
+    "question": "Scarlet fever rash usually spares the:",
+    "options": ["Body", "Face", "Limbs", "Hands"],
+    "answer": "Face"
+},
+{
+    "question": "Chickenpox transmission occurs via:",
+    "options": ["Food", "Droplets and contact", "Vector", "Water"],
+    "answer": "Droplets and contact"
+},
+{
+    "question": "Measles complications include:",
+    "options": ["Otitis media", "Pneumonia", "Encephalitis", "All of the above"],
+    "answer": "All of the above"
+},
+{
+    "question": "German measles (Rubella) can cause congenital anomalies if:",
+    "options": ["Child is infected", "Pregnant mother is infected", "Elderly infected", "Teenagers infected"],
+    "answer": "Pregnant mother is infected"
+},
+{
+    "question": "Mumps prevention is mainly via:",
+    "options": ["Hygiene", "Isolation", "Vaccination", "Antibiotics"],
+    "answer": "Vaccination"
+},
+{
+    "question": "Poliomyelitis spreads mainly through:",
+    "options": ["Droplets", "Oral-fecal contamination", "Skin contact", "Blood"],
+    "answer": "Oral-fecal contamination"
+},
+{
+    "question": "Meningitis causative agent:",
+    "options": ["Streptococcus", "Staphylococcus", "Meningococcus", "Varicella zoster"],
+    "answer": "Meningococcus"
+},
+{
+    "question": "Communicability period is:",
+    "options": ["Time of exposure", "Time infection can be transmitted", "Time of recovery", "Time of vaccination"],
+    "answer": "Time infection can be transmitted"
+},
+{
+    "question": "Impetigo is caused by viruses that invade the deep layer of the skin.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "Impetigo usually lasts from one to two weeks.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Sepsis is a possible complication of Impetigo.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Umbilical infection is mostly caused by E. coli and Staphylococci.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Bathing the infant helps the umbilical cord to fall faster.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "Foul odor from the umbilical stump indicates a mild infection.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "Tetanus neonatorum affects the central nervous system.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "The incubation period of neonatal tetanus is about 5 days or more.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "The prognosis of tetanus neonatorum is usually good.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "The DPT vaccine is used to prevent tetanus in infants.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "The main causative organisms of Impetigo are:",
+    "options": ["Streptococcus and Staphylococcus", "E. coli and Clostridium", "Pseudomonas and Klebsiella", "None of the above"],
+    "answer": "Streptococcus and Staphylococcus"
+},
+{
+    "question": "The best local treatment for Impetigo is:",
+    "options": ["Cold compresses", "Washing with alcohol and exposure to sunlight", "Keeping the area covered", "Ice application"],
+    "answer": "Washing with alcohol and exposure to sunlight"
+},
+{
+    "question": "Which of the following may occur as a complication of Umbilical infection?",
+    "options": ["Pneumonia", "Tetanus", "Otitis media", "Dehydration"],
+    "answer": "Tetanus"
+},
+{
+    "question": "A baby with umbilical infection should:",
+    "options": ["Be bathed daily", "Be isolated", "Have talcum powder on the cord", "Use oil on the cord"],
+    "answer": "Be isolated"
+},
+{
+    "question": "The causative organism of neonatal tetanus is:",
+    "options": ["Streptococcus pneumoniae", "Clostridium tetani", "Staphylococcus aureus", "Neisseria meningitidis"],
+    "answer": "Clostridium tetani"
+},
+{
+    "question": "A common early sign of neonatal tetanus is:",
+    "options": ["Diarrhea", "Difficulty in sucking", "Skin rash", "Vomiting"],
+    "answer": "Difficulty in sucking"
+},
+{
+    "question": "The mortality rate of neonatal tetanus is up to:",
+    "options": ["10%", "25%", "50%", "90%"],
+    "answer": "90%"
+},
+{
+    "question": "Nursing care for a baby with tetanus includes all EXCEPT:",
+    "options": ["Oxygen therapy", "Suction of secretions", "Gavage feeding", "Frequent bathing"],
+    "answer": "Frequent bathing"
+},
+{
+    "question": "To prevent umbilical infection, the cord should be:",
+    "options": ["Covered tightly", "Cleaned frequently with alcohol", "Dressed with oil", "Left wet"],
+    "answer": "Cleaned frequently with alcohol"
+},
+{
+    "question": "The main goal of nursing care in neonatal infection is to:",
+    "options": ["Promote isolation and prevention", "Reduce temperature", "Increase body weight", "Delay antibiotic use"],
+    "answer": "Promote isolation and prevention"
+},
+{
+    "question": "Impetigo is caused by viruses that invade the deep layer of the skin.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "Impetigo usually lasts from one to two weeks.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Sepsis is a possible complication of Impetigo.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Umbilical infection is mostly caused by E. coli and Staphylococci.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Bathing the infant helps the umbilical cord to fall faster.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "Foul odor from the umbilical stump indicates a mild infection.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "Tetanus neonatorum affects the central nervous system.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "The incubation period of neonatal tetanus is about 5 days or more.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "The prognosis of tetanus neonatorum is usually good.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "The DPT vaccine is used to prevent tetanus in infants.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "The main causative organisms of Impetigo are:",
+    "options": ["Streptococcus and Staphylococcus", "E. coli and Clostridium", "Pseudomonas and Klebsiella", "None of the above"],
+    "answer": "Streptococcus and Staphylococcus"
+},
+{
+    "question": "The best local treatment for Impetigo is:",
+    "options": ["Cold compresses", "Washing with alcohol and exposure to sunlight", "Keeping the area covered", "Ice application"],
+    "answer": "Washing with alcohol and exposure to sunlight"
+},
+{
+    "question": "Which of the following may occur as a complication of Umbilical infection?",
+    "options": ["Pneumonia", "Tetanus", "Otitis media", "Dehydration"],
+    "answer": "Tetanus"
+},
+{
+    "question": "A baby with umbilical infection should:",
+    "options": ["Be bathed daily", "Be isolated", "Have talcum powder on the cord", "Use oil on the cord"],
+    "answer": "Be isolated"
+},
+{
+    "question": "The causative organism of neonatal tetanus is:",
+    "options": ["Streptococcus pneumoniae", "Clostridium tetani", "Staphylococcus aureus", "Neisseria meningitidis"],
+    "answer": "Clostridium tetani"
+},
+{
+    "question": "A common early sign of neonatal tetanus is:",
+    "options": ["Diarrhea", "Difficulty in sucking", "Skin rash", "Vomiting"],
+    "answer": "Difficulty in sucking"
+},
+{
+    "question": "The mortality rate of neonatal tetanus is up to:",
+    "options": ["10%", "25%", "50%", "90%"],
+    "answer": "50%"
+},
+{
+    "question": "Nursing care for a baby with tetanus includes all EXCEPT:",
+    "options": ["Oxygen therapy", "Suction of secretions", "Gavage feeding", "Frequent bathing"],
+    "answer": "Frequent bathing"
+},
+{
+    "question": "To prevent umbilical infection, the cord should be:",
+    "options": ["Covered tightly", "Cleaned frequently with alcohol", "Dressed with oil", "Left wet"],
+    "answer": "Cleaned frequently with alcohol"
+},
+{
+    "question": "The main goal of nursing care in neonatal infection is to:",
+    "options": ["Promote isolation and prevention", "Reduce temperature", "Increase body weight", "Delay antibiotic use"],
+    "answer": "Promote isolation and prevention"
+},
+{
+    "question": "High-risk neonates are babies who were exposed to high-risk factors only after birth.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "Advances in medicine have reduced the mortality rate of high-risk neonates.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "The high-risk period ends at 28 days after birth.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "The high-risk period includes prenatal, intranatal, and postnatal stages.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "A high-risk newborn always has low birth weight.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "Family problems can make an infant high-risk.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Infants who need respiratory assistance are considered high-risk.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Low birth weight is less than 2500 grams.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "A premature infant is born after 42 completed weeks of gestation.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "Perinatal mortality includes fetal and early neonatal deaths.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Neonatal death occurs in the first 27 days of life.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Postnatal death refers to deaths that occur from 28 days to 1 year.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "A live birth is defined as any newborn showing signs of life.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "A fetus that dies after 20 weeks of gestation and before delivery is a fetal death.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "SGA means large for gestational age.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "The term 'high-risk neonate' refers to:",
+    "options": ["Any newborn born after 37 weeks", "A newborn with increased risk of illness or death", "A baby born by cesarean section only", "A healthy full-term baby"],
+    "answer": "A newborn with increased risk of illness or death"
+},
+{
+    "question": "The high-risk period extends up to:",
+    "options": ["14 days after birth", "21 days after birth", "28 days after birth", "2 months after birth"],
+    "answer": "28 days after birth"
+},
+{
+    "question": "Classification of high-risk neonates can be based on:",
+    "options": ["Age only", "Weight only", "Etiology, care requirements, size, and gestational age", "Color of skin"],
+    "answer": "Etiology, care requirements, size, and gestational age"
+},
+{
+    "question": "LBW stands for:",
+    "options": ["Low Blood Weight", "Low Birth Weight", "Light Body Weight", "Late Birth Week"],
+    "answer": "Low Birth Weight"
+},
+{
+    "question": "A baby weighing less than 1500 gm is:",
+    "options": ["MLBW", "VLBW", "ELBW", "LGA"],
+    "answer": "VLBW"
+},
+{
+    "question": "A baby born before 37 completed weeks is:",
+    "options": ["Full-term", "Post-term", "Preterm", "Mature"],
+    "answer": "Preterm"
+},
+{
+    "question": "A baby born after 42 weeks is called:",
+    "options": ["Preterm", "Full-term", "Post-term", "Small for date"],
+    "answer": "Post-term"
+},
+{
+    "question": "Perinatal mortality includes:",
+    "options": ["Fetal and early neonatal deaths", "Postnatal deaths only", "Maternal deaths", "All newborn deaths"],
+    "answer": "Fetal and early neonatal deaths"
+},
+{
+    "question": "AGA stands for:",
+    "options": ["Appropriate for Gestational Age", "Abnormal Growth Assessment", "Average Gestational Ability", "Accelerated Growth Age"],
+    "answer": "Appropriate for Gestational Age"
+},
+{
+    "question": "SGA refers to:",
+    "options": ["Small for Gestational Age", "Short Gestational Activity", "Standard Growth Average", "Slow Growth Adaptation"],
+    "answer": "Small for Gestational Age"
+},
+{
+    "question": "A baby born before 37 weeks of pregnancy is considered premature.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Multiple births increase the risk of prematurity.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Premature babies usually have thick, dry skin.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "Premature infants often have little body fat.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Weak cry and body tone are common in premature babies.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Premature infants have well-developed genitals.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "Corticosteroids are given to mothers before delivery to help the baby’s lungs mature.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Kangaroo care means keeping the baby in an incubator only.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "Breast milk is not suitable for premature babies.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "Premature babies are more likely to get infections.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Prevention of prematurity includes identifying mothers at risk early.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Standing for long periods may increase the risk of preterm labor.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "The more premature the baby, the fewer health problems they face.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "Premature babies are always born with normal organ function.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "Early identification and treatment of preterm labor help prevent prematurity.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "A premature baby is born:",
+    "options": ["Before 37 weeks of gestation", "Between 38–42 weeks", "After 42 weeks", "At exactly 40 weeks"],
+    "answer": "Before 37 weeks of gestation"
+},
+{
+    "question": "One major maternal factor causing prematurity is:",
+    "options": ["Diabetes mellitus", "Obesity", "Long hair", "High blood pressure"],
+    "answer": "High blood pressure"
+},
+{
+    "question": "Premature infants may have:",
+    "options": ["Thick skin", "Thin, shiny, pink or red skin", "Blue-gray skin", "Scaly skin"],
+    "answer": "Thin, shiny, pink or red skin"
+},
+{
+    "question": "Which of the following is a respiratory problem in premature babies?",
+    "options": ["Hyaline membrane disease", "Pneumonia only", "Asthma", "Allergic cough"],
+    "answer": "Hyaline membrane disease"
+},
+{
+    "question": "Apnea means:",
+    "options": ["Rapid breathing", "Stopping breathing", "Irregular heartbeat", "Difficulty feeding"],
+    "answer": "Stopping breathing"
+},
+{
+    "question": "Patent ductus arteriosus (PDA) affects the:",
+    "options": ["Brain", "Heart", "Kidneys", "Lungs only"],
+    "answer": "Heart"
+},
+{
+    "question": "Jaundice in prematurity is due to:",
+    "options": ["Immature liver function", "Poor feeding", "Lack of sleep", "Infection only"],
+    "answer": "Immature liver function"
+},
+{
+    "question": "Feeding difficulty in premature infants is due to:",
+    "options": ["Overeating", "Lack of coordination of sucking and swallowing", "Tooth eruption", "Blocked nose"],
+    "answer": "Lack of coordination of sucking and swallowing"
+},
+{
+    "question": "The term NEC refers to:",
+    "options": ["Newborn Ear Condition", "Necrotizing Enterocolitis", "Neonatal Edema Condition", "Nerve End Cell disease"],
+    "answer": "Necrotizing Enterocolitis"
+},
+{
+    "question": "Intraventricular hemorrhage occurs in the:",
+    "options": ["Heart", "Liver", "Brain", "Kidneys"],
+    "answer": "Brain"
+},
+{
+    "question": "Retinopathy of prematurity affects the:",
+    "options": ["Ears", "Eyes", "Skin", "Lungs"],
+    "answer": "Eyes"
+},
+{
+    "question": "Kangaroo care involves:",
+    "options": ["Skin-to-skin contact with the parent", "Wrapping baby in multiple blankets", "Keeping baby in a cold room", "Continuous use of oxygen"],
+    "answer": "Skin-to-skin contact with the parent"
+},
+{
+    "question": "Prenatal corticosteroid therapy is given to:",
+    "options": ["Strengthen baby’s muscles", "Improve lung maturity", "Increase baby’s weight", "Reduce skin redness"],
+    "answer": "Improve lung maturity"
+},
+{
+    "question": "Temperature-controlled beds help to:",
+    "options": ["Keep baby warm and stable", "Provide medication", "Monitor blood pressure", "Deliver oxygen"],
+    "answer": "Keep baby warm and stable"
+},
+{
+    "question": "Prevention of preterm labor includes:",
+    "options": ["Identifying at-risk mothers early", "Avoiding long standing", "Prenatal education", "All of the above"],
+    "answer": "All of the above"
+},
+{
+    "question": "The main purpose of play during infancy is to:",
+    "options": ["Learn social skills", "Gain pleasure and satisfy sensor-motor needs", "Compete with others", "Develop problem-solving abilities"],
+    "answer": "Gain pleasure and satisfy sensor-motor needs"
+},
+{
+    "question": "During the toddler years, children usually engage in:",
+    "options": ["Solitary play", "Parallel play", "Cooperative play", "Dramatic play"],
+    "answer": "Parallel play"
+},
+{
+    "question": "Dramatic play is common during:",
+    "options": ["Infancy", "Toddlerhood", "Preschool years", "Adolescence"],
+    "answer": "Preschool years"
+},
+{
+    "question": "Cooperative play helps children learn:",
+    "options": ["Independence", "Teamwork and sharing", "Fantasy imagination", "Sensor-motor control"],
+    "answer": "Teamwork and sharing"
+},
+{
+    "question": "Daydreaming play is common in:",
+    "options": ["Infancy", "Preschool years", "Adolescence", "Toddlerhood"],
+    "answer": "Adolescence"
+},
+{
+    "question": "One of the most important physical benefits of play is:",
+    "options": ["Developing fine and gross motor skills", "Increasing vocabulary", "Learning social roles", "Reducing appetite"],
+    "answer": "Developing fine and gross motor skills"
+},
+{
+    "question": "Through play, children develop emotionally because:",
+    "options": ["They escape from studying", "They cope with emotional conflict through role play", "They imitate parents", "They sleep better"],
+    "answer": "They cope with emotional conflict through role play"
+},
+{
+    "question": "Cognitive development through play includes:",
+    "options": ["Increasing understanding of size and shape", "Learning to cook", "Avoiding teamwork", "Forgetting emotions"],
+    "answer": "Increasing understanding of size and shape"
+},
+{
+    "question": "Social and moral development during play helps the child:",
+    "options": ["To be selfish", "To learn acceptable behavior", "To avoid competition", "To reject teamwork"],
+    "answer": "To learn acceptable behavior"
+},
+{
+    "question": "Good play materials should be:",
+    "options": ["Complicated and expensive", "Simple, safe, and durable", "Small and fragile", "Made of cold hard materials"],
+    "answer": "Simple, safe, and durable"
+},
+{
+    "question": "Play is only for fun and has no learning value.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "Children’s play helps them develop physically, emotionally, and socially.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Parallel play means children play together in one activity.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "Dramatic play allows children to imitate adults and learn roles.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Cooperative play is usually seen before the preschool stage.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "Play can reduce tension and stress in hospitalized children.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Good toys should be unsafe to make children more careful.",
+    "options": ["True", "False"],
+    "answer": "False"
+},
+{
+    "question": "Language development is one of the cognitive benefits of play.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Play in hospitals helps children accept treatment better.",
+    "options": ["True", "False"],
+    "answer": "True"
+},
+{
+    "question": "Self-awareness and creativity are values developed through play.",
+    "options": ["True", "False"],
+    "answer": "True"
+}
+
+        ],
         "Mid Term" : [
                 {"question": "Cerebral palsy is often associated with epilepsy and abnormalities of speech and vision.", "options": ["True", "False"], "answer": "True"},
                 {"question": "Diet of a child with acute glomerulonephritis contains salts and protein.", "options": ["True", "False"], "answer": "False"},
@@ -22,7 +1323,7 @@ quizzes = {
                 {"question": "Which of the following organisms is responsible for the development of acute glomerulonephritis?","options": ["Streptococcal pneumonia", "Haemophilus influenza", "Group A β-hemolytic streptococcus", "Staphylococcus aureus"],"answer": "Group A β-hemolytic streptococcus"},
                 {"question": "A child with acute glomerulonephritis is at risk for:","options": ["Hypoxia", "Kernicterus", "Hypertensive encephalopathy", "Infection"],"answer": "Hypertensive encephalopathy"}
         ],
-        "L1 Introduction":[
+        "L1 Introduction ":[
                 {
                     "question": "Which of the following is NOT a primary goal of pediatric nursing?",
                     "options": ["To promote growth and development toward an optimum state of health", "To perform complex surgical procedures on children", "To interpret basic needs of children to their family members", "To prevent disease and alleviate suffering in children"],
@@ -349,7 +1650,7 @@ quizzes = {
                     "answer": "True"
                 }
         ],
-        "L2 Mental Retardation":[
+        "L2 Mental Retardation ":[
                 {
                     "question": "Pediatrics is defined as the branch of medical science that deals with the care of children from conception to:",
                     "options": ["School age", "Young adulthood", "Adolescence", "Puberty"],
@@ -592,7 +1893,7 @@ quizzes = {
                 {"question": "Sleep problems and convulsions are common features in early childhood mental retardation.", "options": ["True", "False"], "answer": "True"}
 
         ],
-        "L3 Cerebral Palsy":[
+        "L3 Cerebral Palsy ":[
                 {"question": "Cerebral palsy is defined as a non-progressive disorder of cerebral function involving posture and movement, dating to events in all of the following periods EXCEPT:", "options": ["Prenatal period", "Natal period", "Neonatal period", "Adolescence period"], "answer": "Adolescence period"},
                 {"question": "Cerebral palsy is often associated with all of the following EXCEPT:", "options": ["Epilepsy", "Abnormalities of speech", "Abnormalities of vision", "Normal intellectual function"], "answer": "Normal intellectual function"},
                 {"question": "Which of the following is considered an Antenatal cause of Cerebral Palsy?", "options": ["Kernicterus", "Maternal irradiations of the pelvis", "Birth injury", "Meningitis"], "answer": "Maternal irradiations of the pelvis"},
@@ -650,7 +1951,7 @@ quizzes = {
                 {"question": "Early diagnosis of cerebral palsy is necessary to prevent secondary positional deformities.", "options": ["True", "False"], "answer": "True"}
 
         ],
-        "L4 Nephrotic Syndrome":[
+        "L4 Nephrotic Syndrome ":[
             {"question": "Nephrotic Syndrome is characterized by alterations of the glomerular capillary wall resulting in all of the following EXCEPT:", "options": ["Albuminuria", "Hypoalbuminemia", "Hyperlipidemia", "Hypertension"], "answer": "Hypertension"},
             {"question": "In the pathophysiology of Nephrotic Syndrome, the loss of plasma protein (albumin) leads directly to:", "options": ["Increased oncotic pressure", "Stimulation of renin-angiotensin system", "Decreased oncotic pressure", "Acute kidney failure"], "answer": "Decreased oncotic pressure"},
             {"question": "Decreased oncotic pressure in Nephrotic Syndrome causes fluid to move from the vascular space to the:", "options": ["Renal tubules", "Blood plasma", "Extracellular fluid", "Intracellular fluid"], "answer": "Extracellular fluid"},
@@ -713,7 +2014,7 @@ quizzes = {
             {"question": "Restriction of physical activity is never recommended for nephrotic children.", "options": ["True", "False"], "answer": "False"}
 
         ],
-        "L5 Nephritis":[
+        "L5 Nephritis ":[
             {"question": "APSAGN is defined as a non-bacterial inflammation of the glomeruli secondary to infection by which organism?", "options": ["Staphylococcus aureus of the skin.", "Group A β-hemolytic streptococcal of pharynx or skin.", "Pneumococcal infection of the respiratory tract.", "Viral infection of the gastrointestinal tract."], "answer": "Group A β-hemolytic streptococcal of pharynx or skin."},
             {"question": "The typical time frame for the onset of APSAGN symptoms after a streptococcal pharyngitis infection is:", "options": ["Immediately after the infection.", "3-4 weeks after the infection.", "10-14 days after the infection.", "3-5 days after the infection."], "answer": "10-14 days after the infection."},
             {"question": "Which clinical manifestation is described as the initial sign of APSAGN and is characteristically found around the eyes in the morning?", "options": ["Hypertension", "Hematuria", "Edema", "Headache"], "answer": "Edema"},
@@ -771,7 +2072,7 @@ quizzes = {
             {"question": "The onset of APSGN symptoms after streptococcal pharyngitis is usually:", "options": ["Immediately", "10–14 days", "1–2 months", "6 months"], "answer": "10–14 days"}
 
         ],
-        "L6 Congestive Heart Failure":[
+        "L6 Congestive Heart Failure ":[
             {"question": "Congestive Heart Failure (CHF) is a condition in which the heart cannot adequately perform which primary function?", "options": ["Receiving oxygen-rich blood from the tissues.", "Pumping blood to meet the body's metabolic needs.", "Maintaining normal blood pressure in the arteries.", "Ensuring coagulation factors are balanced."], "answer": "Pumping blood to meet the body's metabolic needs."},
             {"question": "The backing up of blood into certain body tissues, causing fluid buildup, is the reason for the term:", "options": ["Myocardial Infarction", "Congestion", "Ischemia", "Hypoxia"], "answer": "Congestion"},
             {"question": "The most common cause of Congestive Heart Failure in children is:", "options": ["Acquired infections like myocarditis.", "Obesity and poor diet.", "Severe hypertension.", "Congenital Heart Disease (CHD)."], "answer": "Congenital Heart Disease (CHD)."},
@@ -829,7 +2130,7 @@ quizzes = {
             {"question": "Continuous observation of the child is important in CHF management.", "options": ["True", "False"], "answer": "True"}
 
         ],
-        "L7 Rheumatic Fever":[
+        "L7 Rheumatic Fever ":[
             {"question": "Acute rheumatic fever is a systemic disease of childhood that follows infection by which organism?", "options": ["Staphylococcus aureus", "Pneumococcal pneumonia", "Group A beta hemolytic streptococci", "Haemophilus influenza"], "answer": "Group A beta hemolytic streptococci"},
             {"question": "Rheumatic fever is primarily an inflammatory disease of:", "options": ["Skeletal muscle tissue", "Nervous system tissue only", "Connective tissue", "Renal epithelial tissue"], "answer": "Connective tissue"},
             {"question": "The most susceptible age group for Rheumatic Fever is typically:", "options": ["Infants and toddlers (1-4 years)", "School-age children (5-15 years)", "Adolescents (16-18 years)", "Young adults (18-25 years)"], "answer": "School-age children (5-15 years)"},
@@ -1246,10 +2547,6 @@ quizzes = {
             {"question": "Early mobilization post-surgery is only necessary for adult patients.", "options": ["True", "False"], "answer": "False"}
 
         ],
-   
-    },
-
+    }
 
 }
-
-
