@@ -2130,7 +2130,7 @@ quizzes = {
             {"question": "Continuous observation of the child is important in CHF management.", "options": ["True", "False"], "answer": "True"}
 
         ],
-        "L7 Rheumatic Fever ":[
+        "L7 Rheumatic Fever":[
             {"question": "Acute rheumatic fever is a systemic disease of childhood that follows infection by which organism?", "options": ["Staphylococcus aureus", "Pneumococcal pneumonia", "Group A beta hemolytic streptococci", "Haemophilus influenza"], "answer": "Group A beta hemolytic streptococci"},
             {"question": "Rheumatic fever is primarily an inflammatory disease of:", "options": ["Skeletal muscle tissue", "Nervous system tissue only", "Connective tissue", "Renal epithelial tissue"], "answer": "Connective tissue"},
             {"question": "The most susceptible age group for Rheumatic Fever is typically:", "options": ["Infants and toddlers (1-4 years)", "School-age children (5-15 years)", "Adolescents (16-18 years)", "Young adults (18-25 years)"], "answer": "School-age children (5-15 years)"},
@@ -2550,3 +2550,4 @@ quizzes = {
     }
 
 }
+
