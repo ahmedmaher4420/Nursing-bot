@@ -11741,7 +11741,7 @@ quizzes = {
                 "explanation": "Hemorrhage is life-threatening."
             }
         ],
-        "L10 Ante partum Hemorrhage ": [
+        "L10 Ante partum Hemorrhage": [
             {
                 "question": "Antepartum hemorrhage is defined as bleeding after:",
                 "options": ["12 weeks", "20 weeks", "28 weeks", "36 weeks"],
