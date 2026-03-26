@@ -13062,32 +13062,1265 @@ quizzes = {
         ],
     },
     "نسا عملي": {
-        "L1 Antenatal Assess P.Ex during pregnancy": [
-            {
-                "question": "What is the largest bone in the body?",
-                "options": ["Femur", "Tibia", "Humerus", "Skull"],
-                "answer": "Femur"
-            },
-            {
-                "question": "How many bones in adult body?",
-                "options": ["206", "210", "180", "150"],
-                "answer": "206"
-            }
-        ]
+
     },
     "التمريض القائم ع الأدلة": {
-        "L1 Intro": [
+        "L1 Critical Thinking": [
             {
-                "question": "What is the largest bone in the body?",
-                "options": ["Femur", "Tibia", "Humerus", "Skull"],
-                "answer": "Femur"
+                "question": "What is the best definition of thinking?",
+                "options": [
+                "Emotional response to situations",
+                "Cognitive activity used to process information and solve problems",
+                "Habitual reaction to stimuli",
+                "Passive observation"
+                ],
+                "answer": "Cognitive activity used to process information and solve problems"
             },
             {
-                "question": "How many bones in adult body?",
-                "options": ["206", "210", "180", "150"],
-                "answer": "206"
+                "question": "Critical thinking primarily involves:",
+                "options": [
+                "Memorization",
+                "Guessing outcomes",
+                "Evaluating and analyzing information",
+                "Following routines"
+                ],
+                "answer": "Evaluating and analyzing information"
+            },
+            {
+                "question": "Which skill involves understanding meaning of information?",
+                "options": ["Analysis", "Evaluation", "Interpretation", "Explanation"],
+                "answer": "Interpretation"
+            },
+            {
+                "question": "A nurse checks if data is reliable and relevant. This is:",
+                "options": ["Analysis", "Evaluation", "Explanation", "Interpretation"],
+                "answer": "Evaluation"
+            },
+            {
+                "question": "Self-regulation refers to:",
+                "options": [
+                "Following protocols",
+                "Monitoring one's own thinking",
+                "Ignoring bias",
+                "Memorizing facts"
+                ],
+                "answer": "Monitoring one's own thinking"
+            },
+            {
+                "question": "Which is NOT a critical thinking skill?",
+                "options": ["Interpretation", "Evaluation", "Memorization", "Analysis"],
+                "answer": "Memorization"
+            },
+            {
+                "question": "A critical thinker is characterized by:",
+                "options": [
+                "Emotional decisions",
+                "Closed mindset",
+                "Open-mindedness",
+                "Ignoring others"
+                ],
+                "answer": "Open-mindedness"
+            },
+            {
+                "question": "Which behavior shows a critical thinker?",
+                "options": [
+                "Acts without thinking",
+                "Uses evidence for decisions",
+                "Rejects new ideas",
+                "Avoids communication"
+                ],
+                "answer": "Uses evidence for decisions"
+            },
+            {
+                "question": "Benefit of critical thinking in daily life:",
+                "options": [
+                "Faster guessing",
+                "Avoiding poor decisions",
+                "Less responsibility",
+                "Emotional thinking"
+                ],
+                "answer": "Avoiding poor decisions"
+            },
+            {
+                "question": "Which principle is correct?",
+                "options": [
+                "Accept conclusions without questioning",
+                "Gather complete information",
+                "Ignore biases",
+                "Focus on one cause"
+                ],
+                "answer": "Gather complete information"
+            },
+            {
+                "question": "First step in critical thinking process:",
+                "options": [
+                "Analyze data",
+                "Identify problem",
+                "Make decision",
+                "Evaluate results"
+                ],
+                "answer": "Identify problem"
+            },
+            {
+                "question": "Asking \"Is this source reliable?\" is:",
+                "options": ["Interpretation", "Evaluation", "Explanation", "Self-regulation"],
+                "answer": "Evaluation"
+            },
+            {
+                "question": "Which is a barrier to critical thinking?",
+                "options": [
+                "Open-mindedness",
+                "Egocentric thinking",
+                "Flexibility",
+                "Communication"
+                ],
+                "answer": "Egocentric thinking"
+            },
+            {
+                "question": "Egocentric thinking means:",
+                "options": [
+                "Thinking logically",
+                "Thinking about others",
+                "Focusing only on oneself",
+                "Using evidence"
+                ],
+                "answer": "Focusing only on oneself"
+            },
+            {
+                "question": "Working under time pressure leads to:",
+                "options": [
+                "Better thinking",
+                "Poor decisions",
+                "Strong analysis",
+                "Better judgment"
+                ],
+                "answer": "Poor decisions"
+            },
+            {
+                "question": "\"Drone mentality\" refers to:",
+                "options": [
+                "Critical analysis",
+                "Automatic behavior without thinking",
+                "Logical reasoning",
+                "Creative thinking"
+                ],
+                "answer": "Automatic behavior without thinking"
+            },
+            {
+                "question": "Social conditioning can:",
+                "options": [
+                "Improve logic",
+                "Create bias",
+                "Increase flexibility",
+                "Improve reasoning"
+                ],
+                "answer": "Create bias"
+            },
+            {
+                "question": "A nurse considers multiple viewpoints. This is:",
+                "options": ["Bias", "Critical thinking", "Emotion", "Guessing"],
+                "answer": "Critical thinking"
+            },
+            {
+                "question": "Which step comes after data collection?",
+                "options": ["Decision", "Analysis", "Communication", "Assumption"],
+                "answer": "Analysis"
+            },
+            {
+                "question": "Identifying hidden assumptions occurs in:",
+                "options": ["First step", "Mid process", "Final step", "Not included"],
+                "answer": "Mid process"
+            },
+            {
+                "question": "Which is a principle of critical thinking?",
+                "options": [
+                "Accept all data",
+                "Question sources",
+                "Avoid questions",
+                "Ignore evidence"
+                ],
+                "answer": "Question sources"
+            },
+            {
+                "question": "A nurse explains her reasoning clearly. This is:",
+                "options": ["Evaluation", "Explanation", "Interpretation", "Analysis"],
+                "answer": "Explanation"
+            },
+            {
+                "question": "Which improves critical thinking?",
+                "options": [
+                "Avoid learning",
+                "Continuous learning",
+                "Ignoring others",
+                "Routine work"
+                ],
+                "answer": "Continuous learning"
+            },
+            {
+                "question": "Ethical decision-making involves:",
+                "options": [
+                "Self-interest",
+                "Majority benefit",
+                "Quick judgment",
+                "Bias"
+                ],
+                "answer": "Majority benefit"
+            },
+            {
+                "question": "Listening to new opinions helps:",
+                "options": ["Bias", "Critical thinking", "Emotional thinking", "Confusion"],
+                "answer": "Critical thinking"
+            },
+            {
+                "question": "Avoiding analysis paralysis means:",
+                "options": [
+                "Ignore data",
+                "Balance thinking and action",
+                "Stop thinking",
+                "Guess"
+                ],
+                "answer": "Balance thinking and action"
+            },
+            {
+                "question": "A nurse reflects on her decisions. This is:",
+                "options": ["Analysis", "Self-regulation", "Evaluation", "Explanation"],
+                "answer": "Self-regulation"
+            },
+            {
+                "question": "Which is NOT a benefit?",
+                "options": [
+                "Better decisions",
+                "Open-mindedness",
+                "Increased bias",
+                "Problem solving"
+                ],
+                "answer": "Increased bias"
+            },
+            {
+                "question": "Critical thinking helps nurses:",
+                "options": [
+                "Memorize only",
+                "Make safe decisions",
+                "Avoid patients",
+                "Work blindly"
+                ],
+                "answer": "Make safe decisions"
+            },
+            {
+                "question": "Which is part of process?",
+                "options": [
+                "Ignore data",
+                "Gather information",
+                "Avoid decisions",
+                "Skip analysis"
+                ],
+                "answer": "Gather information"
+            },
+            {
+                "question": "Bias affects:",
+                "options": ["Objectivity", "Accuracy", "Judgment", "All of the above"],
+                "answer": "All of the above"
+            },
+            {
+                "question": "Which shows flexibility?",
+                "options": [
+                "Reject ideas",
+                "Accept change",
+                "Ignore data",
+                "Stick to habits"
+                ],
+                "answer": "Accept change"
+            },
+            {
+                "question": "A nurse checks big picture. This is:",
+                "options": [
+                "Narrow thinking",
+                "Critical thinking",
+                "Emotional thinking",
+                "Guessing"
+                ],
+                "answer": "Critical thinking"
+            },
+            {
+                "question": "Which step includes choosing best solution?",
+                "options": ["Analysis", "Decision", "Data collection", "Interpretation"],
+                "answer": "Decision"
+            },
+            {
+                "question": "Which is NOT a barrier?",
+                "options": ["Bias", "Arrogance", "Open mind", "Time pressure"],
+                "answer": "Open mind"
+            },
+            {
+                "question": "Critical thinkers avoid:",
+                "options": ["Bias", "Evidence", "Logic", "Learning"],
+                "answer": "Bias"
+            },
+            {
+                "question": "Which skill checks outcomes?",
+                "options": ["Evaluation", "Interpretation", "Analysis", "Explanation"],
+                "answer": "Evaluation"
+            },
+            {
+                "question": "Good communication helps:",
+                "options": ["Bias", "Thinking", "Errors", "Confusion"],
+                "answer": "Thinking"
+            },
+            {
+                "question": "Critical thinking requires:",
+                "options": [
+                "Ignoring others",
+                "Considering evidence",
+                "Emotional decisions",
+                "Guessing"
+                ],
+                "answer": "Considering evidence"
+            },
+            {
+                "question": "Final step is:",
+                "options": ["Analysis", "Decision", "Communication", "Evaluation"],
+                "answer": "Communication"
+            },
+            {
+                "question": "Thinking is a static process.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Critical thinking includes evaluation of data.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Interpretation means judging credibility.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Self-regulation involves reflecting on thinking.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Critical thinkers ignore other opinions.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Open-mindedness is a key trait.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Bias improves decision-making.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Time pressure can reduce thinking quality.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Critical thinking avoids questioning.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Gathering data is the first step.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Evaluation checks reliability.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Egocentric thinking focuses on others.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Critical thinking helps avoid mistakes.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Drone mentality improves awareness.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Communication is part of final step.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Bias can come from experience.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Critical thinking requires no evidence.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Flexibility is important for thinkers.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Analysis comes before data collection.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Critical thinking helps in clinical decisions.",
+                "options": ["True", "False"],
+                "answer": "True"
             }
-        ]
+        ],
+        "L2 Introduction to EBP": [
+            {
+                "question": "Evidence-Based Practice (EBP) is best described as:",
+                "options": [
+                "Using only clinical experience",
+                "Using research evidence only",
+                "Integrating evidence, expertise, and patient preferences",
+                "Following hospital protocol only"
+                ],
+                "answer": "Integrating evidence, expertise, and patient preferences"
+            },
+            {
+                "question": "Which is NOT a component of EBP?",
+                "options": [
+                "Best evidence",
+                "Clinical expertise",
+                "Patient preferences",
+                "Personal opinion only"
+                ],
+                "answer": "Personal opinion only"
+            },
+            {
+                "question": "First step in EBP:",
+                "options": ["Apply", "Ask", "Assess", "Appraise"],
+                "answer": "Ask"
+            },
+            {
+                "question": "PICOT “P” refers to:",
+                "options": ["Procedure", "Patient/Population", "Plan", "Problem"],
+                "answer": "Patient/Population"
+            },
+            {
+                "question": "PICOT “I” stands for:",
+                "options": ["Issue", "Intervention", "Impact", "Idea"],
+                "answer": "Intervention"
+            },
+            {
+                "question": "PICOT “C” means:",
+                "options": ["Control/Comparison", "Condition", "Care", "Case"],
+                "answer": "Control/Comparison"
+            },
+            {
+                "question": "PICOT “O” refers to:",
+                "options": ["Objective", "Outcome", "Observation", "Order"],
+                "answer": "Outcome"
+            },
+            {
+                "question": "PICOT “T” indicates:",
+                "options": ["Treatment", "Time or study type", "Trend", "Test"],
+                "answer": "Time or study type"
+            },
+            {
+                "question": "Which step involves searching for evidence?",
+                "options": ["Ask", "Acquire", "Apply", "Assess"],
+                "answer": "Acquire"
+            },
+            {
+                "question": "Appraisal step focuses on:",
+                "options": [
+                "Collecting data",
+                "Judging validity and relevance",
+                "Implementing care",
+                "Asking question"
+                ],
+                "answer": "Judging validity and relevance"
+            },
+            {
+                "question": "Applying EBP means:",
+                "options": [
+                "Ignoring patient preference",
+                "Using evidence in decision-making",
+                "Reading research only",
+                "Writing reports"
+                ],
+                "answer": "Using evidence in decision-making"
+            },
+            {
+                "question": "Assess step means:",
+                "options": [
+                "Implement intervention",
+                "Evaluate outcomes",
+                "Search literature",
+                "Identify problem"
+                ],
+                "answer": "Evaluate outcomes"
+            },
+            {
+                "question": "Final step (Allow) refers to:",
+                "options": [
+                "Ignoring results",
+                "Sharing outcomes",
+                "Collecting data",
+                "Asking questions"
+                ],
+                "answer": "Sharing outcomes"
+            },
+            {
+                "question": "Which resource type summarizes evidence?",
+                "options": ["Unfiltered", "Filtered", "Background", "Primary"],
+                "answer": "Filtered"
+            },
+            {
+                "question": "Which is a primary source?",
+                "options": [
+                "Guidelines",
+                "Systematic reviews",
+                "Original research",
+                "Textbooks"
+                ],
+                "answer": "Original research"
+            },
+            {
+                "question": "Background resources provide:",
+                "options": [
+                "Raw data",
+                "Summary of research",
+                "General information",
+                "Clinical trials"
+                ],
+                "answer": "General information"
+            },
+            {
+                "question": "Highest level of evidence:",
+                "options": [
+                "Expert opinion",
+                "Case study",
+                "Systematic review",
+                "Observation"
+                ],
+                "answer": "Systematic review"
+            },
+            {
+                "question": "A major aim of EBP:",
+                "options": [
+                "Increase habits",
+                "Improve quality of care",
+                "Reduce knowledge",
+                "Avoid research"
+                ],
+                "answer": "Improve quality of care"
+            },
+            {
+                "question": "Which is a benefit of EBP?",
+                "options": [
+                "Increased errors",
+                "Better outcomes",
+                "Less confidence",
+                "More variation"
+                ],
+                "answer": "Better outcomes"
+            },
+            {
+                "question": "EBP reduces:",
+                "options": ["Knowledge", "Costs", "Skills", "Evidence"],
+                "answer": "Costs"
+            },
+            {
+                "question": "Barrier to EBP:",
+                "options": ["Knowledge", "Lack of time", "Training", "Resources"],
+                "answer": "Lack of time"
+            },
+            {
+                "question": "Organizational barrier:",
+                "options": [
+                "Open culture",
+                "Supportive system",
+                "Heavy workload",
+                "Research access"
+                ],
+                "answer": "Heavy workload"
+            },
+            {
+                "question": "Nurse-related barrier:",
+                "options": [
+                "Lack of knowledge",
+                "Evidence availability",
+                "Systematic reviews",
+                "Guidelines"
+                ],
+                "answer": "Lack of knowledge"
+            },
+            {
+                "question": "Critical thinking helps in EBP by:",
+                "options": [
+                "Ignoring data",
+                "Evaluating evidence",
+                "Guessing",
+                "Memorizing"
+                ],
+                "answer": "Evaluating evidence"
+            },
+            {
+                "question": "Which is a critical thinking skill?",
+                "options": ["Bias", "Evaluation", "Emotion", "Guess"],
+                "answer": "Evaluation"
+            },
+            {
+                "question": "A nurse compares interventions → which PICOT?",
+                "options": ["P", "I", "C", "O"],
+                "answer": "C"
+            },
+            {
+                "question": "Validity means:",
+                "options": [
+                "Speed of study",
+                "Accuracy of measurement",
+                "Sample size",
+                "Cost"
+                ],
+                "answer": "Accuracy of measurement"
+            },
+            {
+                "question": "Relevance refers to:",
+                "options": [
+                "Study design",
+                "Patient usefulness",
+                "Research cost",
+                "Sample"
+                ],
+                "answer": "Patient usefulness"
+            },
+            {
+                "question": "Which improves EBP?",
+                "options": [
+                "Ignoring research",
+                "Education and training",
+                "Bias",
+                "Routine"
+                ],
+                "answer": "Education and training"
+            },
+            {
+                "question": "Clinical reasoning requires:",
+                "options": [
+                "Emotion",
+                "Evidence + thinking",
+                "Guessing",
+                "Habit"
+                ],
+                "answer": "Evidence + thinking"
+            },
+            {
+                "question": "A nurse uses PubMed → type:",
+                "options": ["Filtered", "Background", "Unfiltered", "Secondary"],
+                "answer": "Unfiltered"
+            },
+            {
+                "question": "Guidelines are:",
+                "options": ["Primary", "Filtered", "Background", "Raw data"],
+                "answer": "Filtered"
+            },
+            {
+                "question": "Which is NOT benefit?",
+                "options": [
+                "Better outcomes",
+                "Reduced cost",
+                "Increased variation",
+                "Improved care"
+                ],
+                "answer": "Increased variation"
+            },
+            {
+                "question": "Asking PICOT question improves:",
+                "options": ["Confusion", "Focus", "Bias", "Guessing"],
+                "answer": "Focus"
+            },
+            {
+                "question": "Best decision combines:",
+                "options": [
+                "Opinion",
+                "Evidence + expertise + patient",
+                "Habit",
+                "Emotion"
+                ],
+                "answer": "Evidence + expertise + patient"
+            },
+            {
+                "question": "Research generates:",
+                "options": ["Opinions", "Knowledge", "Bias", "Assumptions"],
+                "answer": "Knowledge"
+            },
+            {
+                "question": "Critical appraisal checks:",
+                "options": ["Validity", "Relevance", "Results", "All"],
+                "answer": "All"
+            },
+            {
+                "question": "EBP begins with:",
+                "options": ["Treatment", "Question", "Evidence", "Decision"],
+                "answer": "Question"
+            },
+            {
+                "question": "Which is correct sequence؟",
+                "options": [
+                "Ask → Acquire → Appraise → Apply → Assess → Allow",
+                "Acquire → Ask → Apply",
+                "Ask → Apply → Acquire",
+                "Appraise → Ask"
+                ],
+                "answer": "Ask → Acquire → Appraise → Apply → Assess → Allow"
+            },
+            {
+                "question": "Patient preference affects:",
+                "options": [
+                "Research only",
+                "Decision-making",
+                "Data collection",
+                "Analysis"
+                ],
+                "answer": "Decision-making"
+            },
+            {
+                "question": "EBP relies only on scientific research.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "PICOT helps in formulating a clear question.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Acquire means evaluating the evidence.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Appraise focuses on validity.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Apply means implementing the decision.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Assess means collecting data.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Allow means sharing the results.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Filtered resources are primary sources.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "PubMed is an unfiltered resource.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Systematic reviews provide the highest level of evidence.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "EBP reduces costs.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "EBP increases variation in practice.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Lack of time is a barrier to EBP.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Background resources provide general information.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Validity is the same as relevance.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Patient preference is part of decision-making.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Critical thinking is not important in EBP.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "EBP begins with a question.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Research generates new knowledge.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Appraise comes before Acquire.",
+                "options": ["True", "False"],
+                "answer": "False"
+            }
+        ],
+        "L3 Steps of Evidence Based Resources": [
+            {
+                "question": "Which best defines Evidence-Based Practice?",
+                "options": [
+                "Following clinical habits",
+                "Using research only",
+                "Integrating evidence, expertise, and patient values",
+                "Using guidelines only"
+                ],
+                "answer": "Integrating evidence, expertise, and patient values"
+            },
+            {
+                "question": "Which is NOT one of EBP components?",
+                "options": [
+                "Best evidence",
+                "Clinical expertise",
+                "Patient values",
+                "Personal bias"
+                ],
+                "answer": "Personal bias"
+            },
+            {
+                "question": "First step in EBP process:",
+                "options": ["Acquire", "Ask", "Apply", "Assess"],
+                "answer": "Ask"
+            },
+            {
+                "question": "Which PICOT element identifies patient group?",
+                "options": ["I", "C", "P", "O"],
+                "answer": "P"
+            },
+            {
+                "question": "A nurse compares two treatments → which PICOT?",
+                "options": ["P", "I", "C", "T"],
+                "answer": "C"
+            },
+            {
+                "question": "Outcome in PICOT refers to:",
+                "options": ["Intervention", "Result", "Patient", "Time"],
+                "answer": "Result"
+            },
+            {
+                "question": "Acquire step includes:",
+                "options": [
+                "Evaluating evidence",
+                "Searching for evidence",
+                "Applying evidence",
+                "Sharing results"
+                ],
+                "answer": "Searching for evidence"
+            },
+            {
+                "question": "Appraisal step evaluates:",
+                "options": ["Quantity", "Validity and relevance", "Cost", "Time"],
+                "answer": "Validity and relevance"
+            },
+            {
+                "question": "Validity means:",
+                "options": [
+                "Study speed",
+                "Accuracy of measurement",
+                "Sample size",
+                "Cost"
+                ],
+                "answer": "Accuracy of measurement"
+            },
+            {
+                "question": "Relevance means:",
+                "options": [
+                "Research design",
+                "Applicability to patient",
+                "Sample size",
+                "Time"
+                ],
+                "answer": "Applicability to patient"
+            },
+            {
+                "question": "Apply step focuses on:",
+                "options": [
+                "Searching",
+                "Decision-making",
+                "Questioning",
+                "Publishing"
+                ],
+                "answer": "Decision-making"
+            },
+            {
+                "question": "Assess step refers to:",
+                "options": [
+                "Data collection",
+                "Outcome evaluation",
+                "Research design",
+                "Question formation"
+                ],
+                "answer": "Outcome evaluation"
+            },
+            {
+                "question": "Allow step involves:",
+                "options": [
+                "Ignoring results",
+                "Disseminating findings",
+                "Collecting data",
+                "Analyzing"
+                ],
+                "answer": "Disseminating findings"
+            },
+            {
+                "question": "Background resources provide:",
+                "options": [
+                "Primary research",
+                "General knowledge",
+                "Summarized evidence",
+                "Clinical trials"
+                ],
+                "answer": "General knowledge"
+            },
+            {
+                "question": "Filtered resources:",
+                "options": [
+                "Raw data",
+                "Secondary summaries",
+                "Opinions",
+                "Personal notes"
+                ],
+                "answer": "Secondary summaries"
+            },
+            {
+                "question": "Unfiltered resources:",
+                "options": [
+                "Guidelines",
+                "Systematic reviews",
+                "Original studies",
+                "Textbooks"
+                ],
+                "answer": "Original studies"
+            },
+            {
+                "question": "Which is example of unfiltered resource?",
+                "options": ["Cochrane", "Guidelines", "PubMed", "Textbook"],
+                "answer": "PubMed"
+            },
+            {
+                "question": "Highest level of evidence:",
+                "options": [
+                "Case reports",
+                "Expert opinion",
+                "Systematic reviews",
+                "Cohort studies"
+                ],
+                "answer": "Systematic reviews"
+            },
+            {
+                "question": "EBP aims to:",
+                "options": [
+                "Increase variation",
+                "Improve care quality",
+                "Reduce knowledge",
+                "Ignore research"
+                ],
+                "answer": "Improve care quality"
+            },
+            {
+                "question": "Which is benefit of EBP?",
+                "options": [
+                "Increased cost",
+                "Better outcomes",
+                "More errors",
+                "Less confidence"
+                ],
+                "answer": "Better outcomes"
+            },
+            {
+                "question": "Which is NOT benefit?",
+                "options": [
+                "Cost reduction",
+                "Improved outcomes",
+                "Increased variation",
+                "Better decisions"
+                ],
+                "answer": "Increased variation"
+            },
+            {
+                "question": "Barrier to EBP:",
+                "options": ["Knowledge", "Time limitation", "Evidence", "Training"],
+                "answer": "Time limitation"
+            },
+            {
+                "question": "Nurse lacks research skills → barrier type:",
+                "options": [
+                "Organizational",
+                "Nurse-related",
+                "Research",
+                "Patient"
+                ],
+                "answer": "Nurse-related"
+            },
+            {
+                "question": "Heavy workload is:",
+                "options": [
+                "Personal barrier",
+                "Organizational barrier",
+                "Research barrier",
+                "Patient factor"
+                ],
+                "answer": "Organizational barrier"
+            },
+            {
+                "question": "Critical thinking helps EBP by:",
+                "options": [
+                "Guessing",
+                "Evaluating evidence",
+                "Ignoring data",
+                "Memorizing"
+                ],
+                "answer": "Evaluating evidence"
+            },
+            {
+                "question": "Which is critical thinking skill?",
+                "options": ["Bias", "Interpretation", "Emotion", "Habit"],
+                "answer": "Interpretation"
+            },
+            {
+                "question": "A nurse reflects on own thinking → skill:",
+                "options": [
+                "Analysis",
+                "Self-regulation",
+                "Evaluation",
+                "Explanation"
+                ],
+                "answer": "Self-regulation"
+            },
+            {
+                "question": "Which is characteristic of critical thinker?",
+                "options": [
+                "Closed mind",
+                "Emotional decisions",
+                "Open-mindedness",
+                "Bias"
+                ],
+                "answer": "Open-mindedness"
+            },
+            {
+                "question": "Egocentric thinking leads to:",
+                "options": [
+                "Better reasoning",
+                "Bias",
+                "Objectivity",
+                "Accuracy"
+                ],
+                "answer": "Bias"
+            },
+            {
+                "question": "Principle of critical thinking:",
+                "options": [
+                "Accept facts blindly",
+                "Question sources",
+                "Ignore bias",
+                "Avoid questions"
+                ],
+                "answer": "Question sources"
+            },
+            {
+                "question": "Clinical reasoning requires:",
+                "options": ["Habit", "Evidence + thinking", "Emotion", "Guess"],
+                "answer": "Evidence + thinking"
+            },
+            {
+                "question": "Research differs from EBP because:",
+                "options": [
+                "Research applies evidence",
+                "EBP generates knowledge",
+                "Research generates knowledge",
+                "No difference"
+                ],
+                "answer": "Research generates knowledge"
+            },
+            {
+                "question": "Which skill is required for EBP?",
+                "options": ["Guessing", "Communication", "Bias", "Routine"],
+                "answer": "Communication"
+            },
+            {
+                "question": "Identifying knowledge gaps is:",
+                "options": ["Weakness", "Required skill", "Barrier", "Outcome"],
+                "answer": "Required skill"
+            },
+            {
+                "question": "Which improves EBP?",
+                "options": ["Ignoring research", "Training", "Bias", "Routine"],
+                "answer": "Training"
+            },
+            {
+                "question": "Decision-making in EBP depends on:",
+                "options": [
+                "Opinion",
+                "Evidence + patient + expertise",
+                "Guess",
+                "Habit"
+                ],
+                "answer": "Evidence + patient + expertise"
+            },
+            {
+                "question": "Which step uses PICOT?",
+                "options": ["Ask", "Acquire", "Apply", "Assess"],
+                "answer": "Ask"
+            },
+            {
+                "question": "Critical appraisal includes:",
+                "options": ["Validity", "Relevance", "Results", "All"],
+                "answer": "All"
+            },
+            {
+                "question": "Which resource is fastest for overview?",
+                "options": ["Unfiltered", "Background", "Primary", "Trials"],
+                "answer": "Background"
+            },
+            {
+                "question": "Final outcome of EBP:",
+                "options": [
+                "Decision only",
+                "Improved patient care",
+                "Research only",
+                "Data collection"
+                ],
+                "answer": "Improved patient care"
+            },
+            {
+                "question": "EBP relies only on evidence.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "PICOT helps organize the clinical question.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Acquire means evaluating the evidence.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Appraise focuses on validity.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Apply means using the evidence.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Assess means disseminating the results.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Allow means disseminating the results.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Background resources provide general information.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Filtered resources are primary sources.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "PubMed is a primary source.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Systematic reviews represent the highest level of evidence.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "EBP increases variation in practice.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Time constraint is a barrier to EBP.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Validity is the same as relevance.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "Critical thinking is not important in EBP.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "EBP begins with a question.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Research applies evidence.",
+                "options": ["True", "False"],
+                "answer": "False"
+            },
+            {
+                "question": "EBP improves quality of care.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Patient values are an essential component.",
+                "options": ["True", "False"],
+                "answer": "True"
+            },
+            {
+                "question": "Appraise comes before Acquire.",
+                "options": ["True", "False"],
+                "answer": "False"
+            }
+        ],
     },
 
 }
