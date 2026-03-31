@@ -10838,7 +10838,7 @@ quizzes = {
             }
         ],
         "L9 Normal Labor": [
-             {
+            {
                 "question": "Normal labor is defined as:",
                 "options": ["Delivery before 28 weeks", "Spontaneous delivery after 28 weeks without complications", "Surgical delivery", "Induced labor"],
                 "answer": "Spontaneous delivery after 28 weeks without complications",
@@ -13058,11 +13058,598 @@ quizzes = {
                 "question": "Pelvic ultrasonograms most frequently used diagnostic tool to assess endometrial cavity",
                 "options": ["True", "False"],
                 "answer": "False"
+            },
+            {
+                "question": "Which bones form the innominate bone?",
+                "options": [
+                "Ilium, Ischium, Pubis",
+                "Femur, Tibia, Fibula",
+                "Sacrum, Coccyx, Femur",
+                "Sacrum, Ilium, Pubis"
+                ],
+                "answer": "Ilium, Ischium, Pubis"
+            },
+            {
+                "question": "The false pelvis is located:",
+                "options": [
+                "Above the pelvic brim",
+                "Below the pelvic brim",
+                "Forms the birth canal",
+                "Narrow and heart-shaped"
+                ],
+                "answer": "Above the pelvic brim"
+            },
+            {
+                "question": "The true pelvis is mainly important for:",
+                "options": [
+                "Digestion",
+                "Childbirth",
+                "Breathing",
+                "Posture"
+                ],
+                "answer": "Childbirth"
+            },
+            {
+                "question": "Which pelvic type is most favorable for normal vaginal delivery?",
+                "options": [
+                "Gynaecoid",
+                "Anthropoid",
+                "Android",
+                "Platypelloid"
+                ],
+                "answer": "Gynaecoid"
+            },
+            {
+                "question": "Which pelvic type resembles a male pelvis?",
+                "options": [
+                "Gynaecoid",
+                "Anthropoid",
+                "Android",
+                "Platypelloid"
+                ],
+                "answer": "Android"
+            },
+            {
+                "question": "The subpubic angle in a female pelvis is generally:",
+                "options": [
+                "Narrow",
+                "Wide",
+                "Heart-shaped",
+                "Flat"
+                ],
+                "answer": "Wide"
+            },
+            {
+                "question": "The ischial spines in females are:",
+                "options": [
+                "Larger",
+                "Smaller",
+                "Curved",
+                "Not present"
+                ],
+                "answer": "Smaller"
+            },
+            {
+                "question": "Which structure forms the posterior boundary of the pelvic inlet?",
+                "options": [
+                "Symphysis pubis",
+                "Sacral promontory",
+                "Ischial tuberosity",
+                "Coccyx"
+                ],
+                "answer": "Sacral promontory"
+            },
+            {
+                "question": "The pelvic outlet is bounded posteriorly by:",
+                "options": [
+                "Symphysis pubis",
+                "Coccyx",
+                "Iliac crest",
+                "Sacroiliac joint"
+                ],
+                "answer": "Coccyx"
+            },
+            {
+                "question": "Bi-spinous diameter relates to:",
+                "options": [
+                "Distance between sacrum and symphysis",
+                "Distance between ischial spines",
+                "Width of the pubic arch",
+                "Length of sacrum"
+                ],
+                "answer": "Distance between ischial spines"
+            },
+            {
+                "question": "Which muscle is part of the levator ani?",
+                "options": [
+                "Pubococcygeus",
+                "Gluteus maximus",
+                "Sartorius",
+                "Rectus femoris"
+                ],
+                "answer": "Pubococcygeus"
+            },
+            {
+                "question": "Damage to the pelvic floor can cause:",
+                "options": [
+                "Urinary incontinence",
+                "Asthma",
+                "Diabetes",
+                "Heart disease"
+                ],
+                "answer": "Urinary incontinence"
+            },
+            {
+                "question": "The blood supply of the pelvis comes mainly from:",
+                "options": [
+                "Internal iliac arteries",
+                "Femoral artery",
+                "External carotid",
+                "Pulmonary artery"
+                ],
+                "answer": "Internal iliac arteries"
+            },
+            {
+                "question": "Lymph from the pelvis drains mainly into:",
+                "options": [
+                "Cervical nodes",
+                "Aortic and iliac nodes",
+                "Axillary nodes",
+                "Inguinal nodes only"
+                ],
+                "answer": "Aortic and iliac nodes"
+            },
+            {
+                "question": "The male pelvis compared to female pelvis has:",
+                "options": [
+                "Narrower pelvic inlet",
+                "Wider subpubic arch",
+                "Movable coccyx",
+                "Straight side walls"
+                ],
+                "answer": "Narrower pelvic inlet"
+            },
+            {
+                "question": "The pelvic cavity roof is formed by:",
+                "options": [
+                "Pelvic diaphragm",
+                "Pelvic brim",
+                "Symphysis pubis",
+                "Coccyx"
+                ],
+                "answer": "Pelvic brim"
+            },
+            {
+                "question": "The pelvic cavity floor is formed by:",
+                "options": [
+                "Pelvic floor muscles",
+                "Sacral promontory",
+                "Ischial spines",
+                "Iliac crest"
+                ],
+                "answer": "Pelvic floor muscles"
+            },
+            {
+                "question": "The sacro-sciatic notch in gynaecoid pelvis is:",
+                "options": [
+                "Narrow",
+                "Wide",
+                "Triangular",
+                "Flat"
+                ],
+                "answer": "Wide"
+            },
+            {
+                "question": "The true pelvis includes:",
+                "options": [
+                "Inlet, cavity, outlet",
+                "Only inlet and outlet",
+                "Only cavity",
+                "False pelvis only"
+                ],
+                "answer": "Inlet, cavity, outlet"
+            },
+            {
+                "question": "The pelvic floor muscles help mainly in:",
+                "options": [
+                "Supporting pelvic organs",
+                "Breathing",
+                "Digestion",
+                "Arm movement"
+                ],
+                "answer": "Supporting pelvic organs"
+            },
+            {
+                "question": "The fetal skull is divided into:",
+                "options": [
+                "Face, vault, base",
+                "Cranial, facial, spinal",
+                "Vault, brain, spine",
+                "Base, neck, limbs"
+                ],
+                "answer": "Face, vault, base"
+            },
+            {
+                "question": "Which bones of the fetal skull are heavy and fused?",
+                "options": [
+                "Face and base",
+                "Vault",
+                "Parietal",
+                "Frontal"
+                ],
+                "answer": "Face and base"
+            },
+            {
+                "question": "Which bones of the fetal skull form the vault?",
+                "options": [
+                "Two frontal, two parietal, occipital",
+                "Maxilla, mandible, nasal",
+                "Temporal and sphenoid",
+                "Zygomatic and lacrimal"
+                ],
+                "answer": "Two frontal, two parietal, occipital"
+            },
+            {
+                "question": "The anterior fontanel is also called:",
+                "options": ["Bregma", "Lambda", "Coronal", "Sagittal"],
+                "answer": "Bregma"
+            },
+            {
+                "question": "The posterior fontanel is also called:",
+                "options": ["Lambda", "Bregma", "Coronal", "Sagittal"],
+                "answer": "Lambda"
+            },
+            {
+                "question": "Sutures are:",
+                "options": [
+                "Membranous spaces between fetal skull bones",
+                "Muscles of the head",
+                "Cartilage of the spine",
+                "Ligaments of the pelvis"
+                ],
+                "answer": "Membranous spaces between fetal skull bones"
+            },
+            {
+                "question": "The sagittal suture lies between:",
+                "options": [
+                "Two parietal bones",
+                "Frontal and parietal",
+                "Parietal and occipital",
+                "Frontal bones only"
+                ],
+                "answer": "Two parietal bones"
+            },
+            {
+                "question": "Molding occurs to:",
+                "options": [
+                "Reduce fetal head diameter to pass through the birth canal",
+                "Increase fetal head size",
+                "Strengthen fetal bones",
+                "Protect maternal pelvis"
+                ],
+                "answer": "Reduce fetal head diameter to pass through the birth canal"
+            },
+            {
+                "question": "Station refers to:",
+                "options": [
+                "Relationship of fetal presenting part to maternal ischial spines",
+                "Fetal heart rate",
+                "Maternal blood pressure",
+                "Length of labor"
+                ],
+                "answer": "Relationship of fetal presenting part to maternal ischial spines"
+            },
+            {
+                "question": "Fetal lie is:",
+                "options": [
+                "Relationship between long axis of fetus and mother",
+                "Part of fetal skull",
+                "Uterine contraction pattern",
+                "Umbilical cord length"
+                ],
+                "answer": "Relationship between long axis of fetus and mother"
+            },
+            {
+                "question": "Fetal attitude describes:",
+                "options": [
+                "Relationship between fetal parts to each other",
+                "Position of placenta",
+                "Amniotic fluid amount",
+                "Maternal posture"
+                ],
+                "answer": "Relationship between fetal parts to each other"
+            },
+            {
+                "question": "Cephalic presentation means:",
+                "options": [
+                "Head first",
+                "Buttocks first",
+                "Shoulder first",
+                "Feet first"
+                ],
+                "answer": "Head first"
+            },
+            {
+                "question": "Breech presentation means:",
+                "options": [
+                "Buttocks first",
+                "Head first",
+                "Shoulder first",
+                "Face first"
+                ],
+                "answer": "Buttocks first"
+            },
+            {
+                "question": "Occiput anterior (OA) is:",
+                "options": [
+                "Easiest fetal head position for vaginal delivery",
+                "Hardest position",
+                "Breech",
+                "Transverse"
+                ],
+                "answer": "Easiest fetal head position for vaginal delivery"
+            },
+            {
+                "question": "LOA fetal position means:",
+                "options": [
+                "Left occiput anterior",
+                "Right occiput anterior",
+                "Left occiput posterior",
+                "Right shoulder first"
+                ],
+                "answer": "Left occiput anterior"
+            },
+            {
+                "question": "ROA fetal position means:",
+                "options": [
+                "Right occiput anterior",
+                "Left occiput anterior",
+                "Breech",
+                "Face presentation"
+                ],
+                "answer": "Right occiput anterior"
+            },
+            {
+                "question": "Leopold’s maneuvers are used to:",
+                "options": [
+                "Assess fetal position and presentation",
+                "Measure maternal blood pressure",
+                "Check uterine contractions",
+                "Evaluate pelvic floor strength"
+                ],
+                "answer": "Assess fetal position and presentation"
+            },
+            {
+                "question": "Which suture is between the two frontal bones?",
+                "options": [
+                "Frontal suture",
+                "Sagittal suture",
+                "Coronal suture",
+                "Lambdoid suture"
+                ],
+                "answer": "Frontal suture"
+            },
+            {
+                "question": "Which suture is located between parietal bones and occipital bone?",
+                "options": [
+                "Lambdoid suture",
+                "Sagittal suture",
+                "Coronal suture",
+                "Frontal suture"
+                ],
+                "answer": "Lambdoid suture"
+            },
+            {
+                "question": "The fontanelles allow the fetal skull to:",
+                "options": [
+                "Overlap and mold during birth",
+                "Harden before delivery",
+                "Increase in thickness",
+                "Protect from infection"
+                ],
+                "answer": "Overlap and mold during birth"
+            },
+            {
+                "question": "Oogenesis is the process of:",
+                "options": [
+                "Formation of female gametes (ova)",
+                "Formation of male gametes (sperm)",
+                "Fertilization of ovum",
+                "Menstrual bleeding"
+                ],
+                "answer": "Formation of female gametes (ova)"
+            },
+            {
+                "question": "Gametes are:",
+                "options": [
+                "Reproductive cells",
+                "Muscle cells",
+                "Nerve cells",
+                "Bone cells"
+                ],
+                "answer": "Reproductive cells"
+            },
+            {
+                "question": "Ovulation is:",
+                "options": [
+                "Release of a mature ovum from the ovary",
+                "Shedding of the endometrium",
+                "Formation of corpus luteum",
+                "Fertilization of ovum"
+                ],
+                "answer": "Release of a mature ovum from the ovary"
+            },
+            {
+                "question": "The corpus luteum secretes:",
+                "options": [
+                "Progesterone and some estrogen",
+                "Only estrogen",
+                "Only FSH",
+                "Only LH"
+                ],
+                "answer": "Progesterone and some estrogen"
+            },
+            {
+                "question": "Graafian follicles are:",
+                "options": [
+                "Small sacs in the ovary containing a maturing ovum",
+                "Part of the uterus lining",
+                "Sections of the fallopian tube",
+                "Placental structures"
+                ],
+                "answer": "Small sacs in the ovary containing a maturing ovum"
+            },
+            {
+                "question": "The endometrium is:",
+                "options": [
+                "Lining of the uterus",
+                "Muscles of the ovary",
+                "Fetal membrane",
+                "Part of the cervix"
+                ],
+                "answer": "Lining of the uterus"
+            },
+            {
+                "question": "Follicle-Stimulating Hormone (FSH) stimulates:",
+                "options": [
+                "Follicle growth and estrogen secretion",
+                "Ovulation directly",
+                "Progesterone release only",
+                "Menstrual bleeding"
+                ],
+                "answer": "Follicle growth and estrogen secretion"
+            },
+            {
+                "question": "Luteinizing Hormone (LH) triggers:",
+                "options": [
+                "Ovulation",
+                "Follicle growth",
+                "Endometrial shedding",
+                "Fertilization"
+                ],
+                "answer": "Ovulation"
+            },
+            {
+                "question": "Estrogen function includes:",
+                "options": [
+                "Repair and thickening of endometrium",
+                "Maintaining endometrium after ovulation",
+                "Inhibiting FSH only",
+                "Initiating labor"
+                ],
+                "answer": "Repair and thickening of endometrium"
+            },
+            {
+                "question": "Progesterone function includes:",
+                "options": [
+                "Maintaining the endometrium for implantation",
+                "Stimulating follicle growth",
+                "Causing ovulation",
+                "Triggering menstruation"
+                ],
+                "answer": "Maintaining the endometrium for implantation"
+            },
+            {
+                "question": "The follicular phase of the ovarian cycle occurs:",
+                "options": [
+                "Before ovulation",
+                "After ovulation",
+                "During fertilization",
+                "During menstruation only"
+                ],
+                "answer": "Before ovulation"
+            },
+            {
+                "question": "The luteal phase occurs:",
+                "options": [
+                "After ovulation",
+                "Before ovulation",
+                "During menstruation only",
+                "During implantation only"
+                ],
+                "answer": "After ovulation"
+            },
+            {
+                "question": "Menstruation occurs due to:",
+                "options": [
+                "Falling estrogen and progesterone levels",
+                "Rising estrogen only",
+                "High progesterone",
+                "FSH surge"
+                ],
+                "answer": "Falling estrogen and progesterone levels"
+            },
+            {
+                "question": "Fertilization normally occurs in:",
+                "options": [
+                "Fallopian tube (ampulla)",
+                "Ovary",
+                "Uterus",
+                "Cervix"
+                ],
+                "answer": "Fallopian tube (ampulla)"
+            },
+            {
+                "question": "Sex of the baby is determined by:",
+                "options": [
+                "Sperm (X or Y chromosome)",
+                "Ovum",
+                "Maternal hormones",
+                "Placenta"
+                ],
+                "answer": "Sperm (X or Y chromosome)"
+            },
+            {
+                "question": "Zygote develops into a blastocyst which contains:",
+                "options": [
+                "Trophoblast and inner cell mass",
+                "Only trophoblast",
+                "Only inner cell mass",
+                "Amniotic fluid only"
+                ],
+                "answer": "Trophoblast and inner cell mass"
+            },
+            {
+                "question": "The trophoblast forms:",
+                "options": [
+                "Placenta and chorion",
+                "Fetus",
+                "Umbilical cord only",
+                "Amniotic fluid"
+                ],
+                "answer": "Placenta and chorion"
+            },
+            {
+                "question": "The inner cell mass forms:",
+                "options": [
+                "Fetus, amnion, umbilical cord",
+                "Placenta",
+                "Chorion only",
+                "Maternal endometrium"
+                ],
+                "answer": "Fetus, amnion, umbilical cord"
+            },
+            {
+                "question": "Amniotic fluid functions to:",
+                "options": [
+                "Protect the fetus, allow movement, regulate temperature",
+                "Cause ovulation",
+                "Stimulate menstruation",
+                "Develop corpus luteum"
+                ],
+                "answer": "Protect the fetus, allow movement, regulate temperature"
+            },
+            {
+                "question": "The umbilical cord contains:",
+                "options": [
+                "Two arteries and one vein",
+                "Two veins and one artery",
+                "Only arteries",
+                "Only vein"
+                ],
+                "answer": "Two arteries and one vein"
             }
         ],
-    },
-    "نسا عملي": {
-
     },
     "التمريض القائم ع الأدلة": {
         "L1 Critical Thinking": [
@@ -14322,5 +14909,13 @@ quizzes = {
             }
         ],
     },
+    "علوم الحاسب":{
 
+    },
+    "طب نفسية":{
+
+    },
+    "طب نسا":{
+
+    },
 }
