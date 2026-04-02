@@ -82,21 +82,12 @@ async def handle_all(update: Update, context: ContextTypes.DEFAULT_TYPE):
         # رجوع
         # ======================
         if text == "⬅️ رجوع":
-            if state == "main_menu":
-                await start(update, context)
-                return
-
-            elif state in ["lectures", "quizzes"]:
-                user_data[user_id]["state"] = "main_menu"
-                await update.message.reply_text(
-                    "رجعنا للقائمة",
-                    reply_markup=main_menu_keyboard()
-                )
-                return
-
-            elif state == "quiz_running":
+            if state == "quiz_running":
                 await update.message.reply_text("كمل الكويز الأول 😄")
                 return
+
+            await start(update, context)
+            return
 
         # ======================
         # اختيار مادة
@@ -217,13 +208,19 @@ async def handle_all(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
             question = q_data["quiz"][q_data["index"]]
             correct = question["answer"]
-            explanation = question.get("explanation", "No explanation available")
+            explanation = question.get("explanation")
 
             if text == correct:
                 q_data["score"] += 1
-                feedback = f"✅ صح\n\n💡Explanation:\n {explanation}"
+                if explanation:
+                    feedback = f"✅ صح\n\n💡 {explanation}"
+                else:
+                    feedback = "✅ صح"
             else:
-                feedback = f"❌ غلط\n✔️ الإجابة: {correct}\n\n💡Explanation:\n {explanation}"
+                if explanation:
+                    feedback = f"❌ غلط\n✔️ الإجابة: {correct}\n\n💡 {explanation}"
+                else:
+                    feedback = f"❌ غلط\n✔️ الإجابة: {correct}"
 
             q_data["index"] += 1
 
