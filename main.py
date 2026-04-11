@@ -269,19 +269,14 @@ async def send_question(update, user_id):
 # Run
 # ======================
 
-from telegram.request import HTTPXRequest
-
 def main():
-    request = HTTPXRequest(
-        proxy=None,              # ❌ يمنع proxy
-        connect_timeout=30,
-        read_timeout=30
-    )
-
-    app = ApplicationBuilder().token(TOKEN).request(request).build()
+    app = ApplicationBuilder().token(TOKEN).build()
 
     app.add_handler(CommandHandler("start", start))
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_all))
 
     print("Bot running...")
     app.run_polling()
+
+if __name__ == "__main__":
+    main()
