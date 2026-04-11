@@ -43,7 +43,7 @@ def get_lectures(subject):
     path = os.path.join(LECTURES_PATH, subject)
     if not os.path.exists(path):
         return []
-    return [f for f in os.listdir(path) if f.endswith(".pdf")]
+    return sorted([f for f in os.listdir(path) if f.endswith(".pdf")])
 
 # ======================
 # Start
@@ -135,10 +135,11 @@ async def handle_all(update: Update, context: ContextTypes.DEFAULT_TYPE):
             if text in lectures:
                 file_path = os.path.join(LECTURES_PATH, subject, text)
 
-                await context.bot.send_document(
-                    chat_id=user_id,
-                    document=open(file_path, "rb")
-                )
+                with open(file_path, "rb") as f:
+                    await context.bot.send_document(
+                        chat_id=user_id,
+                        document=f
+                    )
                 return
 
         # ======================
