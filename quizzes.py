@@ -5155,2909 +5155,358 @@ quizzes = {
         },
     "نفسية نظري": {
         "L1 Mental Health & Illness": [
-            {
-                "question": "According to WHO, health is:",
-                "options": [
-                "Absence of disease",
-                "Physical well-being only",
-                "Complete physical, mental, and social well-being",
-                "Psychological stability only"
-                ],
-                "answer": "Complete physical, mental, and social well-being",
-                "explanation": "Health includes physical, mental, and social aspects, not just absence of disease."
-            },
-            {
-                "question": "Mental health includes:",
-                "options": [
-                "Physical strength",
-                "Emotional, psychological, and social wellness",
-                "Only behavior",
-                "Only mood"
-                ],
-                "answer": "Emotional, psychological, and social wellness",
-                "explanation": "Mental health is multidimensional."
-            },
-            {
-                "question": "Which reflects good mental health?",
-                "options": [
-                "Poor relationships",
-                "Effective coping",
-                "Isolation",
-                "Dependency"
-                ],
-                "answer": "Effective coping",
-                "explanation": "Healthy coping indicates good mental health."
-            },
-            {
-                "question": "Self-governance means:",
-                "options": [
-                "Dependency",
-                "Autonomy",
-                "Isolation",
-                "Weakness"
-                ],
-                "answer": "Autonomy",
-                "explanation": "Ability to make independent decisions."
-            },
-            {
-                "question": "Growth orientation refers to:",
-                "options": [
-                "Staying same",
-                "Self-realization",
-                "Isolation",
-                "Dependency"
-                ],
-                "answer": "Self-realization",
-                "explanation": "Focus on personal growth."
-            },
-            {
-                "question": "Tolerance of uncertainty means:",
-                "options": [
-                "Avoiding problems",
-                "Facing life uncertainty",
-                "Ignoring stress",
-                "Denial"
-                ],
-                "answer": "Facing life uncertainty",
-                "explanation": "Ability to cope with unknown situations."
-            },
-            {
-                "question": "Self-esteem is based on:",
-                "options": [
-                "Others opinions",
-                "Self-knowledge",
-                "Money",
-                "Society"
-                ],
-                "answer": "Self-knowledge",
-                "explanation": "Understanding oneself builds self-esteem."
-            },
-            {
-                "question": "Reality orientation means:",
-                "options": [
-                "Fantasy thinking",
-                "Distinguishing real from unreal",
-                "Avoiding reality",
-                "Hallucination"
-                ],
-                "answer": "Distinguishing real from unreal",
-                "explanation": "Awareness of reality."
-            },
-            {
-                "question": "Which factor affects mental health?",
-                "options": [
-                "Genetics",
-                "Childhood",
-                "Life circumstances",
-                "All of the above"
-                ],
-                "answer": "All of the above",
-                "explanation": "Multiple factors influence mental health."
-            },
-            {
-                "question": "Mentally healthy person:",
-                "options": [
-                "Avoids responsibility",
-                "Accepts responsibility",
-                "Is dependent",
-                "Is pessimistic"
-                ],
-                "answer": "Accepts responsibility",
-                "explanation": "Responsibility reflects maturity."
-            },
-            {
-                "question": "Which is not mentally healthy behavior?",
-                "options": [
-                "Expressing feelings",
-                "Problem solving",
-                "Poor judgment",
-                "Good relationships"
-                ],
-                "answer": "Poor judgment",
-                "explanation": "Indicates dysfunction."
-            },
-            {
-                "question": "Which indicates mental illness?",
-                "options": [
-                "Good coping",
-                "Distorted self-image",
-                "Positive thinking",
-                "Responsibility"
-                ],
-                "answer": "Distorted self-image",
-                "explanation": "Sign of psychological disturbance."
-            },
-            {
-                "question": "Maladaptive behavior means:",
-                "options": [
-                "Healthy adaptation",
-                "Poor coping",
-                "Strength",
-                "Stability"
-                ],
-                "answer": "Poor coping",
-                "explanation": "Ineffective adaptation."
-            },
-            {
-                "question": "Poor judgment is sign of:",
-                "options": [
-                "Mental health",
-                "Mental illness",
-                "Physical illness",
-                "Growth"
-                ],
-                "answer": "Mental illness",
-                "explanation": "Impaired decision-making."
-            },
-            {
-                "question": "Which is sign of mental illness?",
-                "options": [
-                "Optimism",
-                "Withdrawal",
-                "Good sleep",
-                "Exercise"
-                ],
-                "answer": "Withdrawal",
-                "explanation": "Social isolation is a warning sign."
-            },
-            {
-                "question": "Hallucination is:",
-                "options": [
-                "Real perception",
-                "False perception",
-                "Memory",
-                "Thought"
-                ],
-                "answer": "False perception",
-                "explanation": "Perception without stimulus."
-            },
-            {
-                "question": "Delusion is:",
-                "options": [
-                "True belief",
-                "False fixed belief",
-                "Idea",
-                "Feeling"
-                ],
-                "answer": "False fixed belief",
-                "explanation": "Firm but incorrect belief."
-            },
-            {
-                "question": "Which is emotional symptom?",
-                "options": [
-                "Fever",
-                "Depression",
-                "Pain",
-                "Fracture"
-                ],
-                "answer": "Depression",
-                "explanation": "Emotional disturbance."
-            },
-            {
-                "question": "Which is behavioral sign?",
-                "options": [
-                "Withdrawal",
-                "Oxygen level",
-                "Blood pressure",
-                "Temperature"
-                ],
-                "answer": "Withdrawal",
-                "explanation": "Behavioral change."
-            },
-            {
-                "question": "Chemical imbalance leads to:",
-                "options": [
-                "Physical illness",
-                "Mental illness",
-                "Injury",
-                "Infection"
-                ],
-                "answer": "Mental illness",
-                "explanation": "Neurochemical role."
-            },
-            {
-                "question": "Which decreases mental health?",
-                "options": [
-                "Exercise",
-                "Sleep",
-                "Overeating",
-                "Sunlight"
-                ],
-                "answer": "Overeating",
-                "explanation": "Unhealthy habits affect mental health."
-            },
-            {
-                "question": "Vitamin deficiency causes:",
-                "options": [
-                "Strength",
-                "Mental illness",
-                "Growth",
-                "Recovery"
-                ],
-                "answer": "Mental illness",
-                "explanation": "Nutritional imbalance affects brain."
-            },
-            {
-                "question": "Which improves mental health?",
-                "options": [
-                "Stress",
-                "Sleep",
-                "Drugs",
-                "Isolation"
-                ],
-                "answer": "Sleep",
-                "explanation": "Rest supports mental function."
-            },
-            {
-                "question": "Self-control is:",
-                "options": [
-                "Unimportant",
-                "Law of mental health",
-                "Weakness",
-                "Disease"
-                ],
-                "answer": "Law of mental health",
-                "explanation": "Essential for stability."
-            },
-            {
-                "question": "Axis I includes:",
-                "options": [
-                "Personality",
-                "Major psychiatric disorders",
-                "Medical diseases",
-                "Social problems"
-                ],
-                "answer": "Major psychiatric disorders",
-                "explanation": "Clinical disorders."
-            },
-            {
-                "question": "Axis II includes:",
-                "options": [
-                "Depression",
-                "Personality disorders",
-                "Diabetes",
-                "Stress"
-                ],
-                "answer": "Personality disorders",
-                "explanation": "Long-term traits."
-            },
-            {
-                "question": "Axis III includes:",
-                "options": [
-                "Mental illness",
-                "Medical conditions",
-                "Personality",
-                "Social issues"
-                ],
-                "answer": "Medical conditions",
-                "explanation": "Physical health."
-            },
-            {
-                "question": "Axis IV includes:",
-                "options": [
-                "Physical disease",
-                "Social problems",
-                "Personality",
-                "GAF"
-                ],
-                "answer": "Social problems",
-                "explanation": "Psychosocial stressors."
-            },
-            {
-                "question": "Axis V measures:",
-                "options": [
-                "Stress",
-                "Functioning level",
-                "Personality",
-                "Disease"
-                ],
-                "answer": "Functioning level",
-                "explanation": "Global assessment of functioning."
-            },
-            {
-                "question": "First step in nursing process:",
-                "options": [
-                "Diagnosis",
-                "Planning",
-                "Assessment",
-                "Evaluation"
-                ],
-                "answer": "Assessment",
-                "explanation": "Initial step in care."
-            }
+            { "question": "According to WHO, health is:", "options": ["Absence of disease", "Physical well-being only", "Complete physical, mental, and social well-being", "Psychological stability only"], "answer": "Complete physical, mental, and social well-being", "explanation": "Health includes physical, mental, and social aspects, not just absence of disease." },
+            { "question": "Mental health includes:", "options": ["Physical strength", "Emotional, psychological, and social wellness", "Only behavior", "Only mood"], "answer": "Emotional, psychological, and social wellness", "explanation": "Mental health is multidimensional." },
+            { "question": "Which reflects good mental health?", "options": ["Poor relationships", "Effective coping", "Isolation", "Dependency"], "answer": "Effective coping", "explanation": "Healthy coping indicates good mental health." },
+            { "question": "Self-governance means:", "options": ["Dependency", "Autonomy", "Isolation", "Weakness"], "answer": "Autonomy", "explanation": "Ability to make independent decisions." },
+            { "question": "Growth orientation refers to:", "options": ["Staying same", "Self-realization", "Isolation", "Dependency"], "answer": "Self-realization", "explanation": "Focus on personal growth." },
+            { "question": "Tolerance of uncertainty means:", "options": ["Avoiding problems", "Facing life uncertainty", "Ignoring stress", "Denial"], "answer": "Facing life uncertainty", "explanation": "Ability to cope with unknown situations." },
+            { "question": "Self-esteem is based on:", "options": ["Others opinions", "Self-knowledge", "Money", "Society"], "answer": "Self-knowledge", "explanation": "Understanding oneself builds self-esteem." },
+            { "question": "Reality orientation means:", "options": ["Fantasy thinking", "Distinguishing real from unreal", "Avoiding reality", "Hallucination"], "answer": "Distinguishing real from unreal", "explanation": "Awareness of reality." },
+            { "question": "Which factor affects mental health?", "options": ["Genetics", "Childhood", "Life circumstances", "All of the above"], "answer": "All of the above", "explanation": "Multiple factors influence mental health." },
+            { "question": "Mentally healthy person:", "options": ["Avoids responsibility", "Accepts responsibility", "Is dependent", "Is pessimistic"], "answer": "Accepts responsibility", "explanation": "Responsibility reflects maturity." },
+            { "question": "Which is not mentally healthy behavior?", "options": ["Expressing feelings", "Problem solving", "Poor judgment", "Good relationships"], "answer": "Poor judgment", "explanation": "Indicates dysfunction." },
+            { "question": "Which indicates mental illness?", "options": ["Good coping", "Distorted self-image", "Positive thinking", "Responsibility"], "answer": "Distorted self-image", "explanation": "Sign of psychological disturbance." },
+            { "question": "Maladaptive behavior means:", "options": ["Healthy adaptation", "Poor coping", "Strength", "Stability"], "answer": "Poor coping", "explanation": "Ineffective adaptation." },
+            { "question": "Poor judgment is sign of:", "options": ["Mental health", "Mental illness", "Physical illness", "Growth"], "answer": "Mental illness", "explanation": "Impaired decision-making." },
+            { "question": "Which is sign of mental illness?", "options": ["Optimism", "Withdrawal", "Good sleep", "Exercise"], "answer": "Withdrawal", "explanation": "Social isolation is a warning sign." },
+            { "question": "Hallucination is:", "options": ["Real perception", "False perception", "Memory", "Thought"], "answer": "False perception", "explanation": "Perception without stimulus." },
+            { "question": "Delusion is:", "options": ["True belief", "False fixed belief", "Idea", "Feeling"], "answer": "False fixed belief", "explanation": "Firm but incorrect belief." },
+            { "question": "Which is emotional symptom?", "options": ["Fever", "Depression", "Pain", "Fracture"], "answer": "Depression", "explanation": "Emotional disturbance." },
+            { "question": "Which is behavioral sign?", "options": ["Withdrawal", "Oxygen level", "Blood pressure", "Temperature"], "answer": "Withdrawal", "explanation": "Behavioral change." },
+            { "question": "Chemical imbalance leads to:", "options": ["Physical illness", "Mental illness", "Injury", "Infection"], "answer": "Mental illness", "explanation": "Neurochemical role." },
+            { "question": "Which decreases mental health?", "options": ["Exercise", "Sleep", "Overeating", "Sunlight"], "answer": "Overeating", "explanation": "Unhealthy habits affect mental health." },
+            { "question": "Vitamin deficiency causes:", "options": ["Strength", "Mental illness", "Growth", "Recovery"], "answer": "Mental illness", "explanation": "Nutritional imbalance affects brain." },
+            { "question": "Which improves mental health?", "options": ["Stress", "Sleep", "Drugs", "Isolation"], "answer": "Sleep", "explanation": "Rest supports mental function." },
+            { "question": "Self-control is:", "options": ["Unimportant", "Law of mental health", "Weakness", "Disease"], "answer": "Law of mental health", "explanation": "Essential for stability." },
+            { "question": "Axis I includes:", "options": ["Personality", "Major psychiatric disorders", "Medical diseases", "Social problems"], "answer": "Major psychiatric disorders", "explanation": "Clinical disorders." },
+            { "question": "Axis II includes:", "options": ["Depression", "Personality disorders", "Diabetes", "Stress"], "answer": "Personality disorders", "explanation": "Long-term traits." },
+            { "question": "Axis III includes:", "options": ["Mental illness", "Medical conditions", "Personality", "Social issues"], "answer": "Medical conditions", "explanation": "Physical health." },
+            { "question": "Axis IV includes:", "options": ["Physical disease", "Social problems", "Personality", "GAF"], "answer": "Social problems", "explanation": "Psychosocial stressors." },
+            { "question": "Axis V measures:", "options": ["Stress", "Functioning level", "Personality", "Disease"], "answer": "Functioning level", "explanation": "Global assessment of functioning." },
+            { "question": "First step in nursing process:", "options": ["Diagnosis", "Planning", "Assessment", "Evaluation"], "answer": "Assessment", "explanation": "Initial step in care." }
+
         ],
         "L2 Aasigns & Symptoms true": [
-            {
-                "question": "Signs are:",
-                "options": [
-                "Patient complaints",
-                "Objective findings observed by clinician",
-                "Emotional feelings",
-                "Thoughts"
-                ],
-                "answer": "Objective findings observed by clinician",
-                "explanation": "Signs are objective and observable by the clinician. :contentReference[oaicite:0]{index=0}"
-            },
-            {
-                "question": "Symptoms are:",
-                "options": [
-                "Objective findings",
-                "Lab results",
-                "Subjective experiences",
-                "Diagnosis"
-                ],
-                "answer": "Subjective experiences",
-                "explanation": "Symptoms are reported by the patient."
-            },
-            {
-                "question": "Syndrome is:",
-                "options": [
-                "One symptom",
-                "One sign",
-                "Group of signs and symptoms",
-                "Disease"
-                ],
-                "answer": "Group of signs and symptoms",
-                "explanation": "Combination of clinical features."
-            },
-            {
-                "question": "Mind consists of:",
-                "options": [
-                "Brain only",
-                "Intellect, emotion, behavior",
-                "Memory only",
-                "Mood only"
-                ],
-                "answer": "Intellect, emotion, behavior",
-                "explanation": "Three main components."
-            },
-            {
-                "question": "Which is part of intellect?",
-                "options": [
-                "Mood",
-                "Memory",
-                "Behavior",
-                "Emotion"
-                ],
-                "answer": "Memory",
-                "explanation": "Cognitive function."
-            },
-            {
-                "question": "Emotion refers to:",
-                "options": [
-                "Thinking",
-                "Feeling",
-                "Action",
-                "Memory"
-                ],
-                "answer": "Feeling",
-                "explanation": "Emotional response."
-            },
-            {
-                "question": "Behavior means:",
-                "options": [
-                "Thinking",
-                "Feeling",
-                "Conduct",
-                "Memory"
-                ],
-                "answer": "Conduct",
-                "explanation": "Observable actions."
-            },
-            {
-                "question": "Concrete thinking means:",
-                "options": [
-                "Abstract thinking",
-                "Literal thinking",
-                "Creative thinking",
-                "Logical thinking"
-                ],
-                "answer": "Literal thinking",
-                "explanation": "Understanding things as they are."
-            },
-            {
-                "question": "Abstract thinking means:",
-                "options": [
-                "Literal thinking",
-                "Understanding metaphors",
-                "Memory loss",
-                "Confusion"
-                ],
-                "answer": "Understanding metaphors",
-                "explanation": "Ability to interpret abstract ideas."
-            },
-            {
-                "question": "Autistic thinking is:",
-                "options": [
-                "Logical",
-                "Self-centered",
-                "Social",
-                "Organized"
-                ],
-                "answer": "Self-centered",
-                "explanation": "Detached from reality."
-            },
-            {
-                "question": "Pressure of speech occurs in:",
-                "options": [
-                "Depression",
-                "Mania",
-                "Dementia",
-                "Anxiety only"
-                ],
-                "answer": "Mania",
-                "explanation": "Rapid and excessive speech."
-            },
-            {
-                "question": "Poverty of speech occurs in:",
-                "options": [
-                "Mania",
-                "Anxiety",
-                "Depression",
-                "Excitement"
-                ],
-                "answer": "Depression",
-                "explanation": "Reduced speech output."
-            },
-            {
-                "question": "Blocking is common in:",
-                "options": [
-                "Depression",
-                "Mania",
-                "Schizophrenia",
-                "Anxiety"
-                ],
-                "answer": "Schizophrenia",
-                "explanation": "Sudden interruption of thought."
-            },
-            {
-                "question": "Neologism means:",
-                "options": [
-                "Repeating words",
-                "New invented words",
-                "Silence",
-                "Slow speech"
-                ],
-                "answer": "New invented words",
-                "explanation": "Creation of new words."
-            },
-            {
-                "question": "Word salad is:",
-                "options": [
-                "Logical speech",
-                "Organized speech",
-                "Incoherent words",
-                "Slow speech"
-                ],
-                "answer": "Incoherent words",
-                "explanation": "Disorganized speech."
-            },
-            {
-                "question": "Circumstantiality means:",
-                "options": [
-                "Direct speech",
-                "Delayed but reaches point",
-                "No goal",
-                "Silence"
-                ],
-                "answer": "Delayed but reaches point",
-                "explanation": "Indirect but eventually answers."
-            },
-            {
-                "question": "Tangentiality means:",
-                "options": [
-                "Direct answer",
-                "Never reaches goal",
-                "Logical speech",
-                "Silence"
-                ],
-                "answer": "Never reaches goal",
-                "explanation": "Irrelevant response."
-            },
-            {
-                "question": "Loss of association means:",
-                "options": [
-                "Clear thinking",
-                "Organized thought",
-                "Incoherent thinking",
-                "Logical"
-                ],
-                "answer": "Incoherent thinking",
-                "explanation": "Disconnected ideas."
-            },
-            {
-                "question": "Perseveration means:",
-                "options": [
-                "Changing answers",
-                "Repeating same response",
-                "Silence",
-                "Fast speech"
-                ],
-                "answer": "Repeating same response",
-                "explanation": "Persistent repetition."
-            },
-            {
-                "question": "Echolalia means:",
-                "options": [
-                "Repeating own words",
-                "Repeating others words",
-                "Silence",
-                "Slow speech"
-                ],
-                "answer": "Repeating others words",
-                "explanation": "Echoing speech."
-            },
-            {
-                "question": "Flight of ideas occurs in:",
-                "options": [
-                "Depression",
-                "Mania",
-                "Dementia",
-                "Schizophrenia only"
-                ],
-                "answer": "Mania",
-                "explanation": "Rapid shifting thoughts."
-            },
-            {
-                "question": "Clang association is based on:",
-                "options": [
-                "Meaning",
-                "Sound",
-                "Logic",
-                "Memory"
-                ],
-                "answer": "Sound",
-                "explanation": "Word choice based on rhyme."
-            },
-            {
-                "question": "Irrelevant answer means:",
-                "options": [
-                "Correct answer",
-                "Related answer",
-                "Unrelated answer",
-                "Silence"
-                ],
-                "answer": "Unrelated answer",
-                "explanation": "Does not match question."
-            },
-            {
-                "question": "Delusion is:",
-                "options": [
-                "True belief",
-                "False fixed belief",
-                "Idea",
-                "Emotion"
-                ],
-                "answer": "False fixed belief",
-                "explanation": "Firmly held false belief."
-            },
-            {
-                "question": "Delusion of persecution means:",
-                "options": [
-                "Feeling loved",
-                "Being harmed",
-                "Being rich",
-                "Being sick"
-                ],
-                "answer": "Being harmed",
-                "explanation": "Belief of being targeted."
-            },
-            {
-                "question": "Delusion of grandeur means:",
-                "options": [
-                "Low self-esteem",
-                "Exaggerated importance",
-                "Fear",
-                "Guilt"
-                ],
-                "answer": "Exaggerated importance",
-                "explanation": "Inflated self-importance."
-            },
-            {
-                "question": "Delusion of reference means:",
-                "options": [
-                "No relation",
-                "Events refer to patient",
-                "Silence",
-                "Memory loss"
-                ],
-                "answer": "Events refer to patient",
-                "explanation": "Belief events relate to self."
-            },
-            {
-                "question": "Thought insertion means:",
-                "options": [
-                "Losing thoughts",
-                "Thoughts placed in mind",
-                "No thinking",
-                "Forgetting"
-                ],
-                "answer": "Thoughts placed in mind",
-                "explanation": "External control belief."
-            },
-            {
-                "question": "Obsession is:",
-                "options": [
-                "Normal thought",
-                "Persistent unwanted thought",
-                "Action",
-                "Emotion"
-                ],
-                "answer": "Persistent unwanted thought",
-                "explanation": "Intrusive thinking."
-            },
-            {
-                "question": "Compulsion is:",
-                "options": [
-                "Thought",
-                "Repetitive behavior",
-                "Feeling",
-                "Memory"
-                ],
-                "answer": "Repetitive behavior",
-                "explanation": "Behavior driven by anxiety."
-            },
-            {
-                "question": "Phobia is:",
-                "options": [
-                "Normal fear",
-                "Irrational fear",
-                "Memory loss",
-                "Hallucination"
-                ],
-                "answer": "Irrational fear",
-                "explanation": "Excessive fear."
-            },
-            {
-                "question": "Hallucination is:",
-                "options": [
-                "Real perception",
-                "False perception without stimulus",
-                "Thought",
-                "Memory"
-                ],
-                "answer": "False perception without stimulus",
-                "explanation": "No external stimulus."
-            },
-            {
-                "question": "Illusion is:",
-                "options": [
-                "False perception without stimulus",
-                "Misinterpretation of real stimulus",
-                "Memory loss",
-                "Thought"
-                ],
-                "answer": "Misinterpretation of real stimulus",
-                "explanation": "Distorted real input."
-            },
-            {
-                "question": "Amnesia means:",
-                "options": [
-                "Good memory",
-                "Loss of memory",
-                "Strong memory",
-                "Thinking"
-                ],
-                "answer": "Loss of memory",
-                "explanation": "Memory impairment."
-            },
-            {
-                "question": "Confabulation is:",
-                "options": [
-                "True memory",
-                "Filling gaps with false memories",
-                "Forgetting",
-                "Silence"
-                ],
-                "answer": "Filling gaps with false memories",
-                "explanation": "Fabricated memories."
-            },
-            {
-                "question": "Insight means:",
-                "options": [
-                "Ignorance",
-                "Understanding situation",
-                "Memory",
-                "Feeling"
-                ],
-                "answer": "Understanding situation",
-                "explanation": "Awareness of illness."
-            },
-            {
-                "question": "Judgment means:",
-                "options": [
-                "Feeling",
-                "Thinking",
-                "Decision making ability",
-                "Memory"
-                ],
-                "answer": "Decision making ability",
-                "explanation": "Ability to choose appropriately."
-            },
-            {
-                "question": "Flat affect means:",
-                "options": [
-                "Strong emotion",
-                "No emotion",
-                "Normal",
-                "Mood swing"
-                ],
-                "answer": "No emotion",
-                "explanation": "Reduced emotional expression."
-            },
-            {
-                "question": "Anhedonia means:",
-                "options": [
-                "Happiness",
-                "Loss of pleasure",
-                "Fear",
-                "Anger"
-                ],
-                "answer": "Loss of pleasure",
-                "explanation": "Inability to feel pleasure."
-            },
-            {
-                "question": "Agitation is:",
-                "options": [
-                "Calmness",
-                "Severe anxiety with restlessness",
-                "Sleep",
-                "Relaxation"
-                ],
-                "answer": "Severe anxiety with restlessness",
-                "explanation": "Increased motor activity."
-            }
+            { "question": "Signs are:", "options": ["Patient complaints", "Objective findings observed by clinician", "Emotional feelings", "Thoughts"], "answer": "Objective findings observed by clinician", "explanation": "Signs are objective and observable by the clinician." },
+            { "question": "Symptoms are:", "options": ["Objective findings", "Lab results", "Subjective experiences", "Diagnosis"], "answer": "Subjective experiences", "explanation": "Symptoms are reported by the patient." },
+            { "question": "Syndrome is:", "options": ["One symptom", "One sign", "Group of signs and symptoms", "Disease"], "answer": "Group of signs and symptoms", "explanation": "Combination of clinical features." },
+            { "question": "Mind consists of:", "options": ["Brain only", "Intellect, emotion, behavior", "Memory only", "Mood only"], "answer": "Intellect, emotion, behavior", "explanation": "Three main components." },
+            { "question": "Which is part of intellect?", "options": ["Mood", "Memory", "Behavior", "Emotion"], "answer": "Memory", "explanation": "Cognitive function." },
+            { "question": "Emotion refers to:", "options": ["Thinking", "Feeling", "Action", "Memory"], "answer": "Feeling", "explanation": "Emotional response." },
+            { "question": "Behavior means:", "options": ["Thinking", "Feeling", "Conduct", "Memory"], "answer": "Conduct", "explanation": "Observable actions." },
+            { "question": "Concrete thinking means:", "options": ["Abstract thinking", "Literal thinking", "Creative thinking", "Logical thinking"], "answer": "Literal thinking", "explanation": "Understanding things as they are." },
+            { "question": "Abstract thinking means:", "options": ["Literal thinking", "Understanding metaphors", "Memory loss", "Confusion"], "answer": "Understanding metaphors", "explanation": "Ability to interpret abstract ideas." },
+            { "question": "Autistic thinking is:", "options": ["Logical", "Self-centered", "Social", "Organized"], "answer": "Self-centered", "explanation": "Detached from reality." },
+            { "question": "Pressure of speech occurs in:", "options": ["Depression", "Mania", "Dementia", "Anxiety only"], "answer": "Mania", "explanation": "Rapid and excessive speech." },
+            { "question": "Poverty of speech occurs in:", "options": ["Mania", "Anxiety", "Depression", "Excitement"], "answer": "Depression", "explanation": "Reduced speech output." },
+            { "question": "Blocking is common in:", "options": ["Depression", "Mania", "Schizophrenia", "Anxiety"], "answer": "Schizophrenia", "explanation": "Sudden interruption of thought." },
+            { "question": "Neologism means:", "options": ["Repeating words", "New invented words", "Silence", "Slow speech"], "answer": "New invented words", "explanation": "Creation of new words." },
+            { "question": "Word salad is:", "options": ["Logical speech", "Organized speech", "Incoherent words", "Slow speech"], "answer": "Incoherent words", "explanation": "Disorganized speech." },
+            { "question": "Circumstantiality means:", "options": ["Direct speech", "Delayed but reaches point", "No goal", "Silence"], "answer": "Delayed but reaches point", "explanation": "Indirect but eventually answers." },
+            { "question": "Tangentiality means:", "options": ["Direct answer", "Never reaches goal", "Logical speech", "Silence"], "answer": "Never reaches goal", "explanation": "Irrelevant response." },
+            { "question": "Loss of association means:", "options": ["Clear thinking", "Organized thought", "Incoherent thinking", "Logical"], "answer": "Incoherent thinking", "explanation": "Disconnected ideas." },
+            { "question": "Perseveration means:", "options": ["Changing answers", "Repeating same response", "Silence", "Fast speech"], "answer": "Repeating same response", "explanation": "Persistent repetition." },
+            { "question": "Echolalia means:", "options": ["Repeating own words", "Repeating others words", "Silence", "Slow speech"], "answer": "Repeating others words", "explanation": "Echoing speech." },
+            { "question": "Flight of ideas occurs in:", "options": ["Depression", "Mania", "Dementia", "Schizophrenia only"], "answer": "Mania", "explanation": "Rapid shifting thoughts." },
+            { "question": "Clang association is based on:", "options": ["Meaning", "Sound", "Logic", "Memory"], "answer": "Sound", "explanation": "Word choice based on rhyme." },
+            { "question": "Irrelevant answer means:", "options": ["Correct answer", "Related answer", "Unrelated answer", "Silence"], "answer": "Unrelated answer", "explanation": "Does not match question." },
+            { "question": "Delusion is:", "options": ["True belief", "False fixed belief", "Idea", "Emotion"], "answer": "False fixed belief", "explanation": "Firmly held false belief." },
+            { "question": "Delusion of persecution means:", "options": ["Feeling loved", "Being harmed", "Being rich", "Being sick"], "answer": "Being harmed", "explanation": "Belief of being targeted." },
+            { "question": "Delusion of grandeur means:", "options": ["Low self-esteem", "Exaggerated importance", "Fear", "Guilt"], "answer": "Exaggerated importance", "explanation": "Inflated self-importance." },
+            { "question": "Delusion of reference means:", "options": ["No relation", "Events refer to patient", "Silence", "Memory loss"], "answer": "Events refer to patient", "explanation": "Belief events relate to self." },
+            { "question": "Thought insertion means:", "options": ["Losing thoughts", "Thoughts placed in mind", "No thinking", "Forgetting"], "answer": "Thoughts placed in mind", "explanation": "External control belief." },
+            { "question": "Obsession is:", "options": ["Normal thought", "Persistent unwanted thought", "Action", "Emotion"], "answer": "Persistent unwanted thought", "explanation": "Intrusive thinking." },
+            { "question": "Compulsion is:", "options": ["Thought", "Repetitive behavior", "Feeling", "Memory"], "answer": "Repetitive behavior", "explanation": "Behavior driven by anxiety." },
+            { "question": "Phobia is:", "options": ["Normal fear", "Irrational fear", "Memory loss", "Hallucination"], "answer": "Irrational fear", "explanation": "Excessive fear." },
+            { "question": "Hallucination is:", "options": ["Real perception", "False perception without stimulus", "Thought", "Memory"], "answer": "False perception without stimulus", "explanation": "No external stimulus." },
+            { "question": "Illusion is:", "options": ["False perception without stimulus", "Misinterpretation of real stimulus", "Memory loss", "Thought"], "answer": "Misinterpretation of real stimulus", "explanation": "Distorted real input." },
+            { "question": "Amnesia means:", "options": ["Good memory", "Loss of memory", "Strong memory", "Thinking"], "answer": "Loss of memory", "explanation": "Memory impairment." },
+            { "question": "Confabulation is:", "options": ["True memory", "Filling gaps with false memories", "Forgetting", "Silence"], "answer": "Filling gaps with false memories", "explanation": "Fabricated memories." },
+            { "question": "Insight means:", "options": ["Ignorance", "Understanding situation", "Memory", "Feeling"], "answer": "Understanding situation", "explanation": "Awareness of illness." },
+            { "question": "Judgment means:", "options": ["Feeling", "Thinking", "Decision making ability", "Memory"], "answer": "Decision making ability", "explanation": "Ability to choose appropriately." },
+            { "question": "Flat affect means:", "options": ["Strong emotion", "No emotion", "Normal", "Mood swing"], "answer": "No emotion", "explanation": "Reduced emotional expression." },
+            { "question": "Anhedonia means:", "options": ["Happiness", "Loss of pleasure", "Fear", "Anger"], "answer": "Loss of pleasure", "explanation": "Inability to feel pleasure." },
+            { "question": "Agitation is:", "options": ["Calmness", "Severe anxiety with restlessness", "Sleep", "Relaxation"], "answer": "Severe anxiety with restlessness", "explanation": "Increased motor activity." }
+
         ],
         "L3 General Principl": [
-            {
-                "question": "Acceptance in psychiatric nursing means:",
-                "options": [
-                "Ignoring patient",
-                "Respecting patient as individual",
-                "Punishing behavior",
-                "Controlling patient"
-                ],
-                "answer": "Respecting patient as individual",
-                "explanation": "Acceptance involves respecting the patient’s dignity and individuality. :contentReference[oaicite:0]{index=0}"
-            },
-            {
-                "question": "Acceptance is expressed by:",
-                "options": [
-                "Judgment",
-                "Punishment",
-                "Non-judgmental approach",
-                "Ignoring patient"
-                ],
-                "answer": "Non-judgmental approach",
-                "explanation": "Avoid judging the patient."
-            },
-            {
-                "question": "Non-judgmental approach means:",
-                "options": [
-                "Evaluate behavior morally",
-                "Avoid judging behavior",
-                "Punish patient",
-                "Ignore behavior"
-                ],
-                "answer": "Avoid judging behavior",
-                "explanation": "Maintain objectivity."
-            },
-            {
-                "question": "Non-punitive approach means:",
-                "options": [
-                "Punish patient",
-                "Encourage expression without punishment",
-                "Ignore patient",
-                "Stop communication"
-                ],
-                "answer": "Encourage expression without punishment",
-                "explanation": "Promotes safe communication."
-            },
-            {
-                "question": "Showing interest in patient means:",
-                "options": [
-                "Treat as case",
-                "Treat as person",
-                "Ignore feelings",
-                "Focus on disease"
-                ],
-                "answer": "Treat as person",
-                "explanation": "Holistic care."
-            },
-            {
-                "question": "Talking with understanding focuses on:",
-                "options": [
-                "Nurse",
-                "Patient needs",
-                "Disease",
-                "Family"
-                ],
-                "answer": "Patient needs",
-                "explanation": "Patient-centered care."
-            },
-            {
-                "question": "Listening means:",
-                "options": [
-                "Silence only",
-                "Understanding meaning",
-                "Ignoring",
-                "Talking"
-                ],
-                "answer": "Understanding meaning",
-                "explanation": "Active listening."
-            },
-            {
-                "question": "Maintaining reality means:",
-                "options": [
-                "Agree with delusion",
-                "Support unrealistic ideas",
-                "Do not support false ideas",
-                "Punish patient"
-                ],
-                "answer": "Do not support false ideas",
-                "explanation": "Promotes reality."
-            },
-            {
-                "question": "Nurse should with delusion:",
-                "options": [
-                "Agree",
-                "Argue",
-                "Neither agree nor argue",
-                "Ignore"
-                ],
-                "answer": "Neither agree nor argue",
-                "explanation": "Maintain neutrality."
-            },
-            {
-                "question": "Reality orientation includes:",
-                "options": [
-                "Ignoring patient",
-                "Time, place, person",
-                "Punishment",
-                "Isolation"
-                ],
-                "answer": "Time, place, person",
-                "explanation": "Basic orientation."
-            },
-            {
-                "question": "Validation means:",
-                "options": [
-                "Assume interpretation",
-                "Check with patient",
-                "Ignore patient",
-                "Judge patient"
-                ],
-                "answer": "Check with patient",
-                "explanation": "Clarify understanding."
-            },
-            {
-                "question": "Self-understanding helps nurse to:",
-                "options": [
-                "Ignore patient",
-                "Understand self and patient",
-                "Punish",
-                "Avoid care"
-                ],
-                "answer": "Understand self and patient",
-                "explanation": "Improves interaction."
-            },
-            {
-                "question": "Consistency promotes:",
-                "options": [
-                "Fear",
-                "Anxiety",
-                "Security",
-                "Confusion"
-                ],
-                "answer": "Security",
-                "explanation": "Stable environment."
-            },
-            {
-                "question": "Consistency means:",
-                "options": [
-                "Change behavior",
-                "Stable routine",
-                "Ignore patient",
-                "Punish"
-                ],
-                "answer": "Stable routine",
-                "explanation": "Predictability reduces anxiety."
-            },
-            {
-                "question": "Reassurance helps to:",
-                "options": [
-                "Increase fear",
-                "Build confidence",
-                "Punish",
-                "Confuse"
-                ],
-                "answer": "Build confidence",
-                "explanation": "Supports patient emotionally."
-            },
-            {
-                "question": "False reassurance includes:",
-                "options": [
-                "Listening",
-                "Saying you will be fine",
-                "Understanding",
-                "Accepting"
-                ],
-                "answer": "Saying you will be fine",
-                "explanation": "Unrealistic statements."
-            },
-            {
-                "question": "True reassurance includes:",
-                "options": [
-                "Ignoring patient",
-                "Understanding feelings",
-                "Saying dont worry",
-                "Judgment"
-                ],
-                "answer": "Understanding feelings",
-                "explanation": "Empathy-based reassurance."
-            },
-            {
-                "question": "Avoiding anxiety includes:",
-                "options": [
-                "Asking difficult questions",
-                "Avoid stressful topics",
-                "Ignoring patient",
-                "Punishing"
-                ],
-                "answer": "Avoid stressful topics",
-                "explanation": "Reduce triggers."
-            },
-            {
-                "question": "Which increases anxiety?",
-                "options": [
-                "Support",
-                "Failure",
-                "Listening",
-                "Care"
-                ],
-                "answer": "Failure",
-                "explanation": "Negative experience."
-            },
-            {
-                "question": "Medical terms in front of patient:",
-                "options": [
-                "Good",
-                "Increase anxiety",
-                "Useful",
-                "Necessary"
-                ],
-                "answer": "Increase anxiety",
-                "explanation": "Can confuse patient."
-            },
-            {
-                "question": "Motor stimulation means:",
-                "options": [
-                "Sleep",
-                "Activity",
-                "Isolation",
-                "Rest"
-                ],
-                "answer": "Activity",
-                "explanation": "Encouraging movement."
-            },
-            {
-                "question": "Sensory stimulation includes:",
-                "options": [
-                "Isolation",
-                "Using senses",
-                "Sleep",
-                "Ignoring"
-                ],
-                "answer": "Using senses",
-                "explanation": "Engaging senses."
-            },
-            {
-                "question": "Expectation affects:",
-                "options": [
-                "Nothing",
-                "Patient behavior",
-                "Nurse only",
-                "Disease"
-                ],
-                "answer": "Patient behavior",
-                "explanation": "Influences outcomes."
-            },
-            {
-                "question": "Nurse should focus on:",
-                "options": [
-                "Weakness",
-                "Strengths",
-                "Problems only",
-                "Disease"
-                ],
-                "answer": "Strengths",
-                "explanation": "Promotes recovery."
-            },
-            {
-                "question": "Behavior change occurs through:",
-                "options": [
-                "Logic",
-                "Emotion",
-                "Punishment",
-                "Isolation"
-                ],
-                "answer": "Emotion",
-                "explanation": "Emotional experience drives change."
-            },
-            {
-                "question": "Reason is:",
-                "options": [
-                "Most effective",
-                "Not effective alone",
-                "Only solution",
-                "Therapy"
-                ],
-                "answer": "Not effective alone",
-                "explanation": "Needs emotional component."
-            },
-            {
-                "question": "Patient behavior should be:",
-                "options": [
-                "Ignored",
-                "Observed",
-                "Punished",
-                "Avoided"
-                ],
-                "answer": "Observed",
-                "explanation": "Assessment tool."
-            },
-            {
-                "question": "Understanding behavior requires:",
-                "options": [
-                "Judgment",
-                "Motivation analysis",
-                "Punishment",
-                "Ignoring"
-                ],
-                "answer": "Motivation analysis",
-                "explanation": "Understand cause."
-            },
-            {
-                "question": "Nurse patient relationship is based on:",
-                "options": [
-                "Control",
-                "Trust",
-                "Punishment",
-                "Fear"
-                ],
-                "answer": "Trust",
-                "explanation": "Foundation of care."
-            },
-            {
-                "question": "Relationship helps patient:",
-                "options": [
-                "Worsen",
-                "Recover",
-                "Isolate",
-                "Ignore"
-                ],
-                "answer": "Recover",
-                "explanation": "Therapeutic effect."
-            },
-            {
-                "question": "Acceptance means:",
-                "options": [
-                "Reject behavior",
-                "Respect dignity",
-                "Punish",
-                "Ignore"
-                ],
-                "answer": "Respect dignity",
-                "explanation": "Core principle."
-            },
-            {
-                "question": "Listening requires:",
-                "options": [
-                "Talking",
-                "Focus",
-                "Ignoring",
-                "Judgment"
-                ],
-                "answer": "Focus",
-                "explanation": "Active engagement."
-            },
-            {
-                "question": "Reality orientation is used in:",
-                "options": [
-                "Physical illness",
-                "Psychiatric care",
-                "Surgery",
-                "Infection"
-                ],
-                "answer": "Psychiatric care",
-                "explanation": "Mental health intervention."
-            },
-            {
-                "question": "Validation prevents:",
-                "options": [
-                "Communication",
-                "Misinterpretation",
-                "Care",
-                "Trust"
-                ],
-                "answer": "Misinterpretation",
-                "explanation": "Ensures accuracy."
-            },
-            {
-                "question": "Consistency reduces:",
-                "options": [
-                "Comfort",
-                "Anxiety",
-                "Trust",
-                "Care"
-                ],
-                "answer": "Anxiety",
-                "explanation": "Predictability lowers stress."
-            },
-            {
-                "question": "False reassurance leads to:",
-                "options": [
-                "Trust",
-                "Anxiety",
-                "Confidence",
-                "Recovery"
-                ],
-                "answer": "Anxiety",
-                "explanation": "Unrealistic reassurance harms trust."
-            },
-            {
-                "question": "Patient anxiety increases with:",
-                "options": [
-                "Support",
-                "Pressure",
-                "Listening",
-                "Understanding"
-                ],
-                "answer": "Pressure",
-                "explanation": "Stress increases anxiety."
-            },
-            {
-                "question": "Motor activity helps:",
-                "options": [
-                "Isolation",
-                "Recovery",
-                "Fear",
-                "Anxiety"
-                ],
-                "answer": "Recovery",
-                "explanation": "Encourages improvement."
-            },
-            {
-                "question": "Emotional experience is important for:",
-                "options": [
-                "Behavior change",
-                "Memory",
-                "Thinking",
-                "Speech"
-                ],
-                "answer": "Behavior change",
-                "explanation": "Emotion drives behavior."
-            },
-            {
-                "question": "Therapeutic relationship should be:",
-                "options": [
-                "Cold",
-                "Professional",
-                "Punitive",
-                "Judgmental"
-                ],
-                "answer": "Professional",
-                "explanation": "Maintains boundaries."
-            }
+            { "question": "Acceptance in psychiatric nursing means:", "options": ["Ignoring patient", "Respecting patient as individual", "Punishing behavior", "Controlling patient"], "answer": "Respecting patient as individual", "explanation": "Acceptance involves respecting the patient’s dignity and individuality." },
+            { "question": "Acceptance is expressed by:", "options": ["Judgment", "Punishment", "Non-judgmental approach", "Ignoring patient"], "answer": "Non-judgmental approach", "explanation": "Avoid judging the patient." },
+            { "question": "Non-judgmental approach means:", "options": ["Evaluate behavior morally", "Avoid judging behavior", "Punish patient", "Ignore behavior"], "answer": "Avoid judging behavior", "explanation": "Maintain objectivity." },
+            { "question": "Non-punitive approach means:", "options": ["Punish patient", "Encourage expression without punishment", "Ignore patient", "Stop communication"], "answer": "Encourage expression without punishment", "explanation": "Promotes safe communication." },
+            { "question": "Showing interest in patient means:", "options": ["Treat as case", "Treat as person", "Ignore feelings", "Focus on disease"], "answer": "Treat as person", "explanation": "Holistic care." },
+            { "question": "Talking with understanding focuses on:", "options": ["Nurse", "Patient needs", "Disease", "Family"], "answer": "Patient needs", "explanation": "Patient-centered care." },
+            { "question": "Listening means:", "options": ["Silence only", "Understanding meaning", "Ignoring", "Talking"], "answer": "Understanding meaning", "explanation": "Active listening." },
+            { "question": "Maintaining reality means:", "options": ["Agree with delusion", "Support unrealistic ideas", "Do not support false ideas", "Punish patient"], "answer": "Do not support false ideas", "explanation": "Promotes reality." },
+            { "question": "Nurse should with delusion:", "options": ["Agree", "Argue", "Neither agree nor argue", "Ignore"], "answer": "Neither agree nor argue", "explanation": "Maintain neutrality." },
+            { "question": "Reality orientation includes:", "options": ["Ignoring patient", "Time, place, person", "Punishment", "Isolation"], "answer": "Time, place, person", "explanation": "Basic orientation." },
+            { "question": "Validation means:", "options": ["Assume interpretation", "Check with patient", "Ignore patient", "Judge patient"], "answer": "Check with patient", "explanation": "Clarify understanding." },
+            { "question": "Self-understanding helps nurse to:", "options": ["Ignore patient", "Understand self and patient", "Punish", "Avoid care"], "answer": "Understand self and patient", "explanation": "Improves interaction." },
+            { "question": "Consistency promotes:", "options": ["Fear", "Anxiety", "Security", "Confusion"], "answer": "Security", "explanation": "Stable environment." },
+            { "question": "Consistency means:", "options": ["Change behavior", "Stable routine", "Ignore patient", "Punish"], "answer": "Stable routine", "explanation": "Predictability reduces anxiety." },
+            { "question": "Reassurance helps to:", "options": ["Increase fear", "Build confidence", "Punish", "Confuse"], "answer": "Build confidence", "explanation": "Supports patient emotionally." },
+            { "question": "False reassurance includes:", "options": ["Listening", "Saying you will be fine", "Understanding", "Accepting"], "answer": "Saying you will be fine", "explanation": "Unrealistic statements." },
+            { "question": "True reassurance includes:", "options": ["Ignoring patient", "Understanding feelings", "Saying dont worry", "Judgment"], "answer": "Understanding feelings", "explanation": "Empathy-based reassurance." },
+            { "question": "Avoiding anxiety includes:", "options": ["Asking difficult questions", "Avoid stressful topics", "Ignoring patient", "Punishing"], "answer": "Avoid stressful topics", "explanation": "Reduce triggers." },
+            { "question": "Which increases anxiety?", "options": ["Support", "Failure", "Listening", "Care"], "answer": "Failure", "explanation": "Negative experience." },
+            { "question": "Medical terms in front of patient:", "options": ["Good", "Increase anxiety", "Useful", "Necessary"], "answer": "Increase anxiety", "explanation": "Can confuse patient." },
+            { "question": "Motor stimulation means:", "options": ["Sleep", "Activity", "Isolation", "Rest"], "answer": "Activity", "explanation": "Encouraging movement." },
+            { "question": "Sensory stimulation includes:", "options": ["Isolation", "Using senses", "Sleep", "Ignoring"], "answer": "Using senses", "explanation": "Engaging senses." },
+            { "question": "Expectation affects:", "options": ["Nothing", "Patient behavior", "Nurse only", "Disease"], "answer": "Patient behavior", "explanation": "Influences outcomes." },
+            { "question": "Nurse should focus on:", "options": ["Weakness", "Strengths", "Problems only", "Disease"], "answer": "Strengths", "explanation": "Promotes recovery." },
+            { "question": "Behavior change occurs through:", "options": ["Logic", "Emotion", "Punishment", "Isolation"], "answer": "Emotion", "explanation": "Emotional experience drives change." },
+            { "question": "Reason is:", "options": ["Most effective", "Not effective alone", "Only solution", "Therapy"], "answer": "Not effective alone", "explanation": "Needs emotional component." },
+            { "question": "Patient behavior should be:", "options": ["Ignored", "Observed", "Punished", "Avoided"], "answer": "Observed", "explanation": "Assessment tool." },
+            { "question": "Understanding behavior requires:", "options": ["Judgment", "Motivation analysis", "Punishment", "Ignoring"], "answer": "Motivation analysis", "explanation": "Understand cause." },
+            { "question": "Nurse patient relationship is based on:", "options": ["Control", "Trust", "Punishment", "Fear"], "answer": "Trust", "explanation": "Foundation of care." },
+            { "question": "Relationship helps patient:", "options": ["Worsen", "Recover", "Isolate", "Ignore"], "answer": "Recover", "explanation": "Therapeutic effect." },
+            { "question": "Acceptance means:", "options": ["Reject behavior", "Respect dignity", "Punish", "Ignore"], "answer": "Respect dignity", "explanation": "Core principle." },
+            { "question": "Listening requires:", "options": ["Talking", "Focus", "Ignoring", "Judgment"], "answer": "Focus", "explanation": "Active engagement." },
+            { "question": "Reality orientation is used in:", "options": ["Physical illness", "Psychiatric care", "Surgery", "Infection"], "answer": "Psychiatric care", "explanation": "Mental health intervention." },
+            { "question": "Validation prevents:", "options": ["Communication", "Misinterpretation", "Care", "Trust"], "answer": "Misinterpretation", "explanation": "Ensures accuracy." },
+            { "question": "Consistency reduces:", "options": ["Comfort", "Anxiety", "Trust", "Care"], "answer": "Anxiety", "explanation": "Predictability lowers stress." },
+            { "question": "False reassurance leads to:", "options": ["Trust", "Anxiety", "Confidence", "Recovery"], "answer": "Anxiety", "explanation": "Unrealistic reassurance harms trust." },
+            { "question": "Patient anxiety increases with:", "options": ["Support", "Pressure", "Listening", "Understanding"], "answer": "Pressure", "explanation": "Stress increases anxiety." },
+            { "question": "Motor activity helps:", "options": ["Isolation", "Recovery", "Fear", "Anxiety"], "answer": "Recovery", "explanation": "Encourages improvement." },
+            { "question": "Emotional experience is important for:", "options": ["Behavior change", "Memory", "Thinking", "Speech"], "answer": "Behavior change", "explanation": "Emotion drives behavior." },
+            { "question": "Therapeutic relationship should be:", "options": ["Cold", "Professional", "Punitive", "Judgmental"], "answer": "Professional", "explanation": "Maintains boundaries." }
+
         ],
         "L4 THERAPEUTIC NURSE PATIENT RELATIONSHIP": [
-            {
-                "question": "Therapeutic relationship is:",
-                "options": [
-                "Social interaction",
-                "Relationship to modify patient behavior",
-                "Friendship",
-                "Temporary contact"
-                ],
-                "answer": "Relationship to modify patient behavior",
-                "explanation": "It is a professional relationship aimed at helping the patient change behavior. :contentReference[oaicite:0]{index=0}"
-            },
-            {
-                "question": "Therapeutic relationship is considered:",
-                "options": [
-                "Social tool",
-                "Psychotherapy tool",
-                "Physical treatment",
-                "Surgery"
-                ],
-                "answer": "Psychotherapy tool",
-                "explanation": "It is a core psychiatric intervention."
-            },
-            {
-                "question": "Main focus of therapeutic relationship:",
-                "options": [
-                "Nurse needs",
-                "Patient needs",
-                "Family needs",
-                "Society"
-                ],
-                "answer": "Patient needs",
-                "explanation": "Patient-centered care."
-            },
-            {
-                "question": "Which is not a benefit of therapeutic relationship?",
-                "options": [
-                "Growth",
-                "Self-acceptance",
-                "Isolation",
-                "Self-respect"
-                ],
-                "answer": "Isolation",
-                "explanation": "Therapeutic relationship reduces isolation."
-            },
-            {
-                "question": "Therapeutic relationship is:",
-                "options": [
-                "Not goal-directed",
-                "Goal-directed",
-                "Random",
-                "Unplanned"
-                ],
-                "answer": "Goal-directed",
-                "explanation": "It has clear objectives."
-            },
-            {
-                "question": "Time in therapeutic relationship is:",
-                "options": [
-                "Unlimited",
-                "Limited",
-                "Optional",
-                "Not defined"
-                ],
-                "answer": "Limited",
-                "explanation": "It has boundaries."
-            },
-            {
-                "question": "Social relationship is:",
-                "options": [
-                "Goal-directed",
-                "No clear goal",
-                "Limited",
-                "Professional"
-                ],
-                "answer": "No clear goal",
-                "explanation": "Unlike therapeutic relationships."
-            },
-            {
-                "question": "Which element builds trust?",
-                "options": [
-                "Punishment",
-                "Consistency",
-                "Ignoring",
-                "Isolation"
-                ],
-                "answer": "Consistency",
-                "explanation": "Predictability builds trust."
-            },
-            {
-                "question": "Empathy means:",
-                "options": [
-                "Sympathy",
-                "Feeling with patient",
-                "Ignoring",
-                "Judgment"
-                ],
-                "answer": "Feeling with patient",
-                "explanation": "Understanding patient feelings."
-            },
-            {
-                "question": "Rapport is:",
-                "options": [
-                "Distance",
-                "Special connection",
-                "Isolation",
-                "Conflict"
-                ],
-                "answer": "Special connection",
-                "explanation": "Trusting relationship."
-            },
-            {
-                "question": "Respect means:",
-                "options": [
-                "Judgment",
-                "Accept dignity",
-                "Punish",
-                "Ignore"
-                ],
-                "answer": "Accept dignity",
-                "explanation": "Respect patient worth."
-            },
-            {
-                "question": "Genuineness means:",
-                "options": [
-                "Acting",
-                "Being real and honest",
-                "Ignoring",
-                "Lying"
-                ],
-                "answer": "Being real and honest",
-                "explanation": "Authenticity."
-            },
-            {
-                "question": "Acceptance helps:",
-                "options": [
-                "Anxiety",
-                "Build relationship",
-                "Isolation",
-                "Punishment"
-                ],
-                "answer": "Build relationship",
-                "explanation": "Enhances trust."
-            },
-            {
-                "question": "Pre-interaction phase occurs:",
-                "options": [
-                "After meeting",
-                "Before meeting",
-                "During treatment",
-                "At discharge"
-                ],
-                "answer": "Before meeting",
-                "explanation": "Preparation phase."
-            },
-            {
-                "question": "In pre-interaction phase nurse should:",
-                "options": [
-                "Ignore patient",
-                "Self-exploration",
-                "Punish",
-                "Avoid planning"
-                ],
-                "answer": "Self-exploration",
-                "explanation": "Understand own feelings."
-            },
-            {
-                "question": "First step in interaction phase:",
-                "options": [
-                "Termination",
-                "Orientation",
-                "Evaluation",
-                "Discharge"
-                ],
-                "answer": "Orientation",
-                "explanation": "Initial meeting."
-            },
-            {
-                "question": "Orientation includes:",
-                "options": [
-                "Ignoring patient",
-                "Introduce nurse",
-                "Punishment",
-                "Isolation"
-                ],
-                "answer": "Introduce nurse",
-                "explanation": "Build rapport."
-            },
-            {
-                "question": "Contract means:",
-                "options": [
-                "Punishment",
-                "Agreement on goals",
-                "Isolation",
-                "Ignoring"
-                ],
-                "answer": "Agreement on goals",
-                "explanation": "Clarifies expectations."
-            },
-            {
-                "question": "Mutual expectation means:",
-                "options": [
-                "Nurse only",
-                "Patient only",
-                "Both know each other",
-                "No interaction"
-                ],
-                "answer": "Both know each other",
-                "explanation": "Shared understanding."
-            },
-            {
-                "question": "Testing behavior occurs when:",
-                "options": [
-                "Patient trusts",
-                "Patient tests nurse",
-                "Patient stable",
-                "Patient leaves"
-                ],
-                "answer": "Patient tests nurse",
-                "explanation": "Testing limits."
-            },
-            {
-                "question": "Working phase focuses on:",
-                "options": [
-                "Ending relationship",
-                "Problem solving",
-                "Avoiding patient",
-                "Isolation"
-                ],
-                "answer": "Problem solving",
-                "explanation": "Core therapeutic work."
-            },
-            {
-                "question": "In working phase nurse:",
-                "options": [
-                "Ignores feelings",
-                "Enhances self-awareness",
-                "Punishes",
-                "Ends relation"
-                ],
-                "answer": "Enhances self-awareness",
-                "explanation": "Promotes insight."
-            },
-            {
-                "question": "Which occurs in working phase?",
-                "options": [
-                "Trust",
-                "Insight",
-                "Avoidance",
-                "Punishment"
-                ],
-                "answer": "Insight",
-                "explanation": "Understanding develops."
-            },
-            {
-                "question": "Resistance means:",
-                "options": [
-                "Cooperation",
-                "Avoiding problems",
-                "Trust",
-                "Acceptance"
-                ],
-                "answer": "Avoiding problems",
-                "explanation": "Defense mechanism."
-            },
-            {
-                "question": "Transference means:",
-                "options": [
-                "Ignoring",
-                "Patient transfers feelings",
-                "Nurse leaves",
-                "Isolation"
-                ],
-                "answer": "Patient transfers feelings",
-                "explanation": "Past emotions redirected."
-            },
-            {
-                "question": "Termination phase means:",
-                "options": [
-                "Start",
-                "End of relationship",
-                "Middle",
-                "Isolation"
-                ],
-                "answer": "End of relationship",
-                "explanation": "Closure phase."
-            },
-            {
-                "question": "Goal of termination phase:",
-                "options": [
-                "Dependence",
-                "Independence",
-                "Isolation",
-                "Punishment"
-                ],
-                "answer": "Independence",
-                "explanation": "Promote autonomy."
-            },
-            {
-                "question": "Problem in termination phase:",
-                "options": [
-                "Trust",
-                "Regression",
-                "Growth",
-                "Insight"
-                ],
-                "answer": "Regression",
-                "explanation": "Patient may revert."
-            },
-            {
-                "question": "Nurse should in termination:",
-                "options": [
-                "Increase visits",
-                "Gradually decrease visits",
-                "Ignore",
-                "Punish"
-                ],
-                "answer": "Gradually decrease visits",
-                "explanation": "Smooth transition."
-            },
-            {
-                "question": "Offering support includes:",
-                "options": [
-                "Ignoring",
-                "Staying with patient",
-                "Punishing",
-                "Avoiding"
-                ],
-                "answer": "Staying with patient",
-                "explanation": "Presence is supportive."
-            },
-            {
-                "question": "Setting limits is used when:",
-                "options": [
-                "Normal behavior",
-                "Destructive behavior",
-                "Calm patient",
-                "Stable"
-                ],
-                "answer": "Destructive behavior",
-                "explanation": "Protect safety."
-            },
-            {
-                "question": "Limits help:",
-                "options": [
-                "Increase harm",
-                "Control behavior",
-                "Isolation",
-                "Punishment"
-                ],
-                "answer": "Control behavior",
-                "explanation": "Maintain safety."
-            },
-            {
-                "question": "Expressing feelings means:",
-                "options": [
-                "Ignoring",
-                "Encouraging expression",
-                "Punishment",
-                "Silence"
-                ],
-                "answer": "Encouraging expression",
-                "explanation": "Supports emotional release."
-            },
-            {
-                "question": "Which improves communication?",
-                "options": [
-                "Judgment",
-                "Feedback",
-                "Punishment",
-                "Silence"
-                ],
-                "answer": "Feedback",
-                "explanation": "Clarifies understanding."
-            },
-            {
-                "question": "Trust is built by:",
-                "options": [
-                "Inconsistency",
-                "Competence",
-                "Ignoring",
-                "Punishment"
-                ],
-                "answer": "Competence",
-                "explanation": "Skill builds confidence."
-            },
-            {
-                "question": "Empathy requires:",
-                "options": [
-                "Judgment",
-                "Understanding patient view",
-                "Ignoring",
-                "Punishment"
-                ],
-                "answer": "Understanding patient view",
-                "explanation": "See from patient perspective."
-            },
-            {
-                "question": "Therapeutic relationship requires:",
-                "options": [
-                "Skill",
-                "Luck",
-                "Random",
-                "Isolation"
-                ],
-                "answer": "Skill",
-                "explanation": "Professional competence."
-            },
-            {
-                "question": "Therapeutic relationship is:",
-                "options": [
-                "Casual",
-                "Professional",
-                "Social",
-                "Random"
-                ],
-                "answer": "Professional",
-                "explanation": "Maintains boundaries."
-            },
-            {
-                "question": "Which phase includes data collection?",
-                "options": [
-                "Termination",
-                "Initiating",
-                "Discharge",
-                "Isolation"
-                ],
-                "answer": "Initiating",
-                "explanation": "Assessment begins early."
-            },
-            {
-                "question": "Final goal of therapeutic relationship:",
-                "options": [
-                "Dependence",
-                "Independence",
-                "Isolation",
-                "Fear"
-                ],
-                "answer": "Independence",
-                "explanation": "Patient autonomy."
-            }
+            { "question": "Therapeutic relationship is:", "options": ["Social interaction", "Relationship to modify patient behavior", "Friendship", "Temporary contact"], "answer": "Relationship to modify patient behavior", "explanation": "It is a professional relationship aimed at helping the patient change behavior." },
+            { "question": "Therapeutic relationship is considered:", "options": ["Social tool", "Psychotherapy tool", "Physical treatment", "Surgery"], "answer": "Psychotherapy tool", "explanation": "It is a core psychiatric intervention." },
+            { "question": "Main focus of therapeutic relationship:", "options": ["Nurse needs", "Patient needs", "Family needs", "Society"], "answer": "Patient needs", "explanation": "Patient-centered care." },
+            { "question": "Which is not a benefit of therapeutic relationship?", "options": ["Growth", "Self-acceptance", "Isolation", "Self-respect"], "answer": "Isolation", "explanation": "Therapeutic relationship reduces isolation." },
+            { "question": "Therapeutic relationship is:", "options": ["Not goal-directed", "Goal-directed", "Random", "Unplanned"], "answer": "Goal-directed", "explanation": "It has clear objectives." },
+            { "question": "Time in therapeutic relationship is:", "options": ["Unlimited", "Limited", "Optional", "Not defined"], "answer": "Limited", "explanation": "It has boundaries." },
+            { "question": "Social relationship is:", "options": ["Goal-directed", "No clear goal", "Limited", "Professional"], "answer": "No clear goal", "explanation": "Unlike therapeutic relationships." },
+            { "question": "Which element builds trust?", "options": ["Punishment", "Consistency", "Ignoring", "Isolation"], "answer": "Consistency", "explanation": "Predictability builds trust." },
+            { "question": "Empathy means:", "options": ["Sympathy", "Feeling with patient", "Ignoring", "Judgment"], "answer": "Feeling with patient", "explanation": "Understanding patient feelings." },
+            { "question": "Rapport is:", "options": ["Distance", "Special connection", "Isolation", "Conflict"], "answer": "Special connection", "explanation": "Trusting relationship." },
+            { "question": "Respect means:", "options": ["Judgment", "Accept dignity", "Punish", "Ignore"], "answer": "Accept dignity", "explanation": "Respect patient worth." },
+            { "question": "Genuineness means:", "options": ["Acting", "Being real and honest", "Ignoring", "Lying"], "answer": "Being real and honest", "explanation": "Authenticity." },
+            { "question": "Acceptance helps:", "options": ["Anxiety", "Build relationship", "Isolation", "Punishment"], "answer": "Build relationship", "explanation": "Enhances trust." },
+            { "question": "Pre-interaction phase occurs:", "options": ["After meeting", "Before meeting", "During treatment", "At discharge"], "answer": "Before meeting", "explanation": "Preparation phase." },
+            { "question": "In pre-interaction phase nurse should:", "options": ["Ignore patient", "Self-exploration", "Punish", "Avoid planning"], "answer": "Self-exploration", "explanation": "Understand own feelings." },
+            { "question": "First step in interaction phase:", "options": ["Termination", "Orientation", "Evaluation", "Discharge"], "answer": "Orientation", "explanation": "Initial meeting." },
+            { "question": "Orientation includes:", "options": ["Ignoring patient", "Introduce nurse", "Punishment", "Isolation"], "answer": "Introduce nurse", "explanation": "Build rapport." },
+            { "question": "Contract means:", "options": ["Punishment", "Agreement on goals", "Isolation", "Ignoring"], "answer": "Agreement on goals", "explanation": "Clarifies expectations." },
+            { "question": "Mutual expectation means:", "options": ["Nurse only", "Patient only", "Both know each other", "No interaction"], "answer": "Both know each other", "explanation": "Shared understanding." },
+            { "question": "Testing behavior occurs when:", "options": ["Patient trusts", "Patient tests nurse", "Patient stable", "Patient leaves"], "answer": "Patient tests nurse", "explanation": "Testing limits." },
+            { "question": "Working phase focuses on:", "options": ["Ending relationship", "Problem solving", "Avoiding patient", "Isolation"], "answer": "Problem solving", "explanation": "Core therapeutic work." },
+            { "question": "In working phase nurse:", "options": ["Ignores feelings", "Enhances self-awareness", "Punishes", "Ends relation"], "answer": "Enhances self-awareness", "explanation": "Promotes insight." },
+            { "question": "Which occurs in working phase?", "options": ["Trust", "Insight", "Avoidance", "Punishment"], "answer": "Insight", "explanation": "Understanding develops." },
+            { "question": "Resistance means:", "options": ["Cooperation", "Avoiding problems", "Trust", "Acceptance"], "answer": "Avoiding problems", "explanation": "Defense mechanism." },
+            { "question": "Transference means:", "options": ["Ignoring", "Patient transfers feelings", "Nurse leaves", "Isolation"], "answer": "Patient transfers feelings", "explanation": "Past emotions redirected." },
+            { "question": "Termination phase means:", "options": ["Start", "End of relationship", "Middle", "Isolation"], "answer": "End of relationship", "explanation": "Closure phase." },
+            { "question": "Goal of termination phase:", "options": ["Dependence", "Independence", "Isolation", "Punishment"], "answer": "Independence", "explanation": "Promote autonomy." },
+            { "question": "Problem in termination phase:", "options": ["Trust", "Regression", "Growth", "Insight"], "answer": "Regression", "explanation": "Patient may revert." },
+            { "question": "Nurse should in termination:", "options": ["Increase visits", "Gradually decrease visits", "Ignore", "Punish"], "answer": "Gradually decrease visits", "explanation": "Smooth transition." },
+            { "question": "Offering support includes:", "options": ["Ignoring", "Staying with patient", "Punishing", "Avoiding"], "answer": "Staying with patient", "explanation": "Presence is supportive." },
+            { "question": "Setting limits is used when:", "options": ["Normal behavior", "Destructive behavior", "Calm patient", "Stable"], "answer": "Destructive behavior", "explanation": "Protect safety." },
+            { "question": "Limits help:", "options": ["Increase harm", "Control behavior", "Isolation", "Punishment"], "answer": "Control behavior", "explanation": "Maintain safety." },
+            { "question": "Expressing feelings means:", "options": ["Ignoring", "Encouraging expression", "Punishment", "Silence"], "answer": "Encouraging expression", "explanation": "Supports emotional release." },
+            { "question": "Which improves communication?", "options": ["Judgment", "Feedback", "Punishment", "Silence"], "answer": "Feedback", "explanation": "Clarifies understanding." },
+            { "question": "Trust is built by:", "options": ["Inconsistency", "Competence", "Ignoring", "Punishment"], "answer": "Competence", "explanation": "Skill builds confidence." },
+            { "question": "Empathy requires:", "options": ["Judgment", "Understanding patient view", "Ignoring", "Punishment"], "answer": "Understanding patient view", "explanation": "See from patient perspective." },
+            { "question": "Therapeutic relationship requires:", "options": ["Skill", "Luck", "Random", "Isolation"], "answer": "Skill", "explanation": "Professional competence." },
+            { "question": "Therapeutic relationship is:", "options": ["Casual", "Professional", "Social", "Random"], "answer": "Professional", "explanation": "Maintains boundaries." },
+            { "question": "Which phase includes data collection?", "options": ["Termination", "Initiating", "Discharge", "Isolation"], "answer": "Initiating", "explanation": "Assessment begins early." },
+            { "question": "Final goal of therapeutic relationship:", "options": ["Dependence", "Independence", "Isolation", "Fear"], "answer": "Independence", "explanation": "Patient autonomy." }
+
         ],
         "L5 Defense Mechanisms": [
-            {
-                "question": "Defense mechanisms are:",
-                "options": [
-                "Conscious behaviors",
-                "Psychological strategies to reduce anxiety",
-                "Physical actions",
-                "Medical treatments"
-                ],
-                "answer": "Psychological strategies to reduce anxiety",
-                "explanation": "They are unconscious psychological processes that reduce anxiety. :contentReference[oaicite:0]{index=0}"
-            },
-            {
-                "question": "Defense mechanisms operate mainly at:",
-                "options": [
-                "Conscious level",
-                "Unconscious level",
-                "Physical level",
-                "Social level"
-                ],
-                "answer": "Unconscious level",
-                "explanation": "They function outside awareness."
-            },
-            {
-                "question": "Main purpose of defense mechanisms:",
-                "options": [
-                "Increase anxiety",
-                "Reduce anxiety",
-                "Cause stress",
-                "Create conflict"
-                ],
-                "answer": "Reduce anxiety",
-                "explanation": "Primary role is protection from anxiety."
-            },
-            {
-                "question": "Defense mechanisms protect:",
-                "options": [
-                "Id",
-                "Ego",
-                "Superego",
-                "Body"
-                ],
-                "answer": "Ego",
-                "explanation": "They protect the ego from anxiety."
-            },
-            {
-                "question": "Id works on:",
-                "options": [
-                "Reality principle",
-                "Pleasure principle",
-                "Moral principle",
-                "Logic"
-                ],
-                "answer": "Pleasure principle",
-                "explanation": "Seeks immediate gratification."
-            },
-            {
-                "question": "Ego works on:",
-                "options": [
-                "Pleasure",
-                "Reality",
-                "Fantasy",
-                "Emotion"
-                ],
-                "answer": "Reality",
-                "explanation": "Balances demands."
-            },
-            {
-                "question": "Superego works on:",
-                "options": [
-                "Pleasure",
-                "Reality",
-                "Perfection",
-                "Logic"
-                ],
-                "answer": "Perfection",
-                "explanation": "Represents moral standards."
-            },
-            {
-                "question": "Conscious mind includes:",
-                "options": [
-                "Hidden thoughts",
-                "Current awareness",
-                "Repressed feelings",
-                "Dreams"
-                ],
-                "answer": "Current awareness",
-                "explanation": "What we are aware of."
-            },
-            {
-                "question": "Preconscious includes:",
-                "options": [
-                "Unavailable memories",
-                "Easily recalled memories",
-                "Dreams only",
-                "Instincts"
-                ],
-                "answer": "Easily recalled memories",
-                "explanation": "Accessible information."
-            },
-            {
-                "question": "Unconscious includes:",
-                "options": [
-                "Active thoughts",
-                "Hidden painful thoughts",
-                "Logical thinking",
-                "Memory only"
-                ],
-                "answer": "Hidden painful thoughts",
-                "explanation": "Repressed content."
-            },
-            {
-                "question": "Compensation means:",
-                "options": [
-                "Ignoring weakness",
-                "Overachieving in another area",
-                "Denial",
-                "Isolation"
-                ],
-                "answer": "Overachieving in another area",
-                "explanation": "Offset weakness."
-            },
-            {
-                "question": "Conversion means:",
-                "options": [
-                "Mental to physical symptom",
-                "Physical to mental",
-                "Denial",
-                "Projection"
-                ],
-                "answer": "Mental to physical symptom",
-                "explanation": "Psychological conflict expressed physically."
-            },
-            {
-                "question": "Denial means:",
-                "options": [
-                "Accept reality",
-                "Refuse to accept reality",
-                "Explain behavior",
-                "Transfer feelings"
-                ],
-                "answer": "Refuse to accept reality",
-                "explanation": "Rejects truth."
-            },
-            {
-                "question": "Displacement means:",
-                "options": [
-                "Ignore emotion",
-                "Transfer emotion to safer target",
-                "Denial",
-                "Rationalization"
-                ],
-                "answer": "Transfer emotion to safer target",
-                "explanation": "Redirect feelings."
-            },
-            {
-                "question": "Fixation means:",
-                "options": [
-                "Growth",
-                "Stuck at developmental stage",
-                "Progress",
-                "Adaptation"
-                ],
-                "answer": "Stuck at developmental stage",
-                "explanation": "Failure to progress."
-            },
-            {
-                "question": "Identification means:",
-                "options": [
-                "Ignore others",
-                "Copy admired person",
-                "Denial",
-                "Punishment"
-                ],
-                "answer": "Copy admired person",
-                "explanation": "Adopt traits."
-            },
-            {
-                "question": "Projection means:",
-                "options": [
-                "Accept self",
-                "Blame others",
-                "Ignore",
-                "Adapt"
-                ],
-                "answer": "Blame others",
-                "explanation": "Attribute feelings to others."
-            },
-            {
-                "question": "Rationalization means:",
-                "options": [
-                "Admit mistake",
-                "Make excuses",
-                "Denial",
-                "Isolation"
-                ],
-                "answer": "Make excuses",
-                "explanation": "Justify behavior."
-            },
-            {
-                "question": "Reaction formation means:",
-                "options": [
-                "Same behavior",
-                "Opposite behavior",
-                "Ignore",
-                "Accept"
-                ],
-                "answer": "Opposite behavior",
-                "explanation": "Act opposite to feelings."
-            },
-            {
-                "question": "Regression means:",
-                "options": [
-                "Progress",
-                "Return to earlier stage",
-                "Growth",
-                "Development"
-                ],
-                "answer": "Return to earlier stage",
-                "explanation": "Revert behavior."
-            },
-            {
-                "question": "Repression means:",
-                "options": [
-                "Conscious forgetting",
-                "Unconscious forgetting",
-                "Remembering",
-                "Expressing"
-                ],
-                "answer": "Unconscious forgetting",
-                "explanation": "Block painful memory."
-            },
-            {
-                "question": "Sublimation means:",
-                "options": [
-                "Accept behavior",
-                "Channel into acceptable activity",
-                "Denial",
-                "Avoidance"
-                ],
-                "answer": "Channel into acceptable activity",
-                "explanation": "Healthy outlet."
-            },
-            {
-                "question": "Suppression means:",
-                "options": [
-                "Unconscious",
-                "Conscious forgetting",
-                "Denial",
-                "Projection"
-                ],
-                "answer": "Conscious forgetting",
-                "explanation": "Intentional avoidance."
-            },
-            {
-                "question": "Undoing means:",
-                "options": [
-                "Ignore",
-                "Make up for behavior",
-                "Denial",
-                "Avoidance"
-                ],
-                "answer": "Make up for behavior",
-                "explanation": "Reverse action."
-            },
-            {
-                "question": "Isolation means:",
-                "options": [
-                "Mixing emotions",
-                "Separate emotion from thought",
-                "Denial",
-                "Projection"
-                ],
-                "answer": "Separate emotion from thought",
-                "explanation": "Detach feeling."
-            },
-            {
-                "question": "Symbolization means:",
-                "options": [
-                "Reality",
-                "Represent idea by object",
-                "Denial",
-                "Projection"
-                ],
-                "answer": "Represent idea by object",
-                "explanation": "Symbolic meaning."
-            },
-            {
-                "question": "Introjection means:",
-                "options": [
-                "Reject values",
-                "Internalize others values",
-                "Ignore",
-                "Denial"
-                ],
-                "answer": "Internalize others values",
-                "explanation": "Adopt beliefs."
-            },
-            {
-                "question": "Humor is:",
-                "options": [
-                "Negative",
-                "Healthy expression",
-                "Denial",
-                "Projection"
-                ],
-                "answer": "Healthy expression",
-                "explanation": "Adaptive defense."
-            },
-            {
-                "question": "Which is healthy defense?",
-                "options": [
-                "Denial",
-                "Sublimation",
-                "Projection",
-                "Regression"
-                ],
-                "answer": "Sublimation",
-                "explanation": "Constructive coping."
-            },
-            {
-                "question": "Which is unhealthy defense?",
-                "options": [
-                "Sublimation",
-                "Humor",
-                "Denial",
-                "Acceptance"
-                ],
-                "answer": "Denial",
-                "explanation": "Distorts reality."
-            },
-            {
-                "question": "Most important concept about defense mechanisms:",
-                "options": [
-                "Always abnormal",
-                "Normal adaptation",
-                "Disease",
-                "Weakness"
-                ],
-                "answer": "Normal adaptation",
-                "explanation": "They are normal unless excessive."
-            }
+            { "question": "Defense mechanisms are:", "options": ["Conscious behaviors", "Psychological strategies to reduce anxiety", "Physical actions", "Medical treatments"], "answer": "Psychological strategies to reduce anxiety", "explanation": "They are unconscious psychological processes that reduce anxiety." },
+            { "question": "Defense mechanisms operate mainly at:", "options": ["Conscious level", "Unconscious level", "Physical level", "Social level"], "answer": "Unconscious level", "explanation": "They function outside awareness." },
+            { "question": "Main purpose of defense mechanisms:", "options": ["Increase anxiety", "Reduce anxiety", "Cause stress", "Create conflict"], "answer": "Reduce anxiety", "explanation": "Primary role is protection from anxiety." },
+            { "question": "Defense mechanisms protect:", "options": ["Id", "Ego", "Superego", "Body"], "answer": "Ego", "explanation": "They protect the ego from anxiety." },
+            { "question": "Id works on:", "options": ["Reality principle", "Pleasure principle", "Moral principle", "Logic"], "answer": "Pleasure principle", "explanation": "Seeks immediate gratification." },
+            { "question": "Ego works on:", "options": ["Pleasure", "Reality", "Fantasy", "Emotion"], "answer": "Reality", "explanation": "Balances demands." },
+            { "question": "Superego works on:", "options": ["Pleasure", "Reality", "Perfection", "Logic"], "answer": "Perfection", "explanation": "Represents moral standards." },
+            { "question": "Conscious mind includes:", "options": ["Hidden thoughts", "Current awareness", "Repressed feelings", "Dreams"], "answer": "Current awareness", "explanation": "What we are aware of." },
+            { "question": "Preconscious includes:", "options": ["Unavailable memories", "Easily recalled memories", "Dreams only", "Instincts"], "answer": "Easily recalled memories", "explanation": "Accessible information." },
+            { "question": "Unconscious includes:", "options": ["Active thoughts", "Hidden painful thoughts", "Logical thinking", "Memory only"], "answer": "Hidden painful thoughts", "explanation": "Repressed content." },
+            { "question": "Compensation means:", "options": ["Ignoring weakness", "Overachieving in another area", "Denial", "Isolation"], "answer": "Overachieving in another area", "explanation": "Offset weakness." },
+            { "question": "Conversion means:", "options": ["Mental to physical symptom", "Physical to mental", "Denial", "Projection"], "answer": "Mental to physical symptom", "explanation": "Psychological conflict expressed physically." },
+            { "question": "Denial means:", "options": ["Accept reality", "Refuse to accept reality", "Explain behavior", "Transfer feelings"], "answer": "Refuse to accept reality", "explanation": "Rejects truth." },
+            { "question": "Displacement means:", "options": ["Ignore emotion", "Transfer emotion to safer target", "Denial", "Rationalization"], "answer": "Transfer emotion to safer target", "explanation": "Redirect feelings." },
+            { "question": "Fixation means:", "options": ["Growth", "Stuck at developmental stage", "Progress", "Adaptation"], "answer": "Stuck at developmental stage", "explanation": "Failure to progress." },
+            { "question": "Identification means:", "options": ["Ignore others", "Copy admired person", "Denial", "Punishment"], "answer": "Copy admired person", "explanation": "Adopt traits." },
+            { "question": "Projection means:", "options": ["Accept self", "Blame others", "Ignore", "Adapt"], "answer": "Blame others", "explanation": "Attribute feelings to others." },
+            { "question": "Rationalization means:", "options": ["Admit mistake", "Make excuses", "Denial", "Isolation"], "answer": "Make excuses", "explanation": "Justify behavior." },
+            { "question": "Reaction formation means:", "options": ["Same behavior", "Opposite behavior", "Ignore", "Accept"], "answer": "Opposite behavior", "explanation": "Act opposite to feelings." },
+            { "question": "Regression means:", "options": ["Progress", "Return to earlier stage", "Growth", "Development"], "answer": "Return to earlier stage", "explanation": "Revert behavior." },
+            { "question": "Repression means:", "options": ["Conscious forgetting", "Unconscious forgetting", "Remembering", "Expressing"], "answer": "Unconscious forgetting", "explanation": "Block painful memory." },
+            { "question": "Sublimation means:", "options": ["Accept behavior", "Channel into acceptable activity", "Denial", "Avoidance"], "answer": "Channel into acceptable activity", "explanation": "Healthy outlet." },
+            { "question": "Suppression means:", "options": ["Unconscious", "Conscious forgetting", "Denial", "Projection"], "answer": "Conscious forgetting", "explanation": "Intentional avoidance." },
+            { "question": "Undoing means:", "options": ["Ignore", "Make up for behavior", "Denial", "Avoidance"], "answer": "Make up for behavior", "explanation": "Reverse action." },
+            { "question": "Isolation means:", "options": ["Mixing emotions", "Separate emotion from thought", "Denial", "Projection"], "answer": "Separate emotion from thought", "explanation": "Detach feeling." },
+            { "question": "Symbolization means:", "options": ["Reality", "Represent idea by object", "Denial", "Projection"], "answer": "Represent idea by object", "explanation": "Symbolic meaning." },
+            { "question": "Introjection means:", "options": ["Reject values", "Internalize others values", "Ignore", "Denial"], "answer": "Internalize others values", "explanation": "Adopt beliefs." },
+            { "question": "Humor is:", "options": ["Negative", "Healthy expression", "Denial", "Projection"], "answer": "Healthy expression", "explanation": "Adaptive defense." },
+            { "question": "Which is healthy defense?", "options": ["Denial", "Sublimation", "Projection", "Regression"], "answer": "Sublimation", "explanation": "Constructive coping." },
+            { "question": "Which is unhealthy defense?", "options": ["Sublimation", "Humor", "Denial", "Acceptance"], "answer": "Denial", "explanation": "Distorts reality." },
+            { "question": "Most important concept about defense mechanisms:", "options": ["Always abnormal", "Normal adaptation", "Disease", "Weakness"], "answer": "Normal adaptation", "explanation": "They are normal unless excessive." }
+
         ],
         "L6 Substance-Related Disorders": [
-            {
-                "question": "Anxiety is best defined as:",
-                "options": ["Happiness", "Feeling of uneasiness or fear", "Physical illness", "Memory loss"],
-                "answer": "Feeling of uneasiness or fear",
-                "explanation": "القلق هو شعور بالخوف والتوتر."
-            },
-            {
-                "question": "Mild anxiety leads to:",
-                "options": ["Panic", "Increased awareness", "Loss of control", "Confusion"],
-                "answer": "Increased awareness",
-                "explanation": "يزود التركيز."
-            },
-            {
-                "question": "Moderate anxiety causes:",
-                "options": ["Narrowed perception", "Relaxation", "Sleep", "Happiness"],
-                "answer": "Narrowed perception",
-                "explanation": "التركيز بيبقى محدود."
-            },
-            {
-                "question": "Severe anxiety causes:",
-                "options": ["Focus", "Confusion", "Learning", "Calmness"],
-                "answer": "Confusion",
-                "explanation": "يؤثر على التفكير."
-            },
-            {
-                "question": "Panic level leads to:",
-                "options": ["Organized thinking", "Loss of control", "Growth", "Focus"],
-                "answer": "Loss of control",
-                "explanation": "أعلى مستوى من القلق."
-            },
-            {
-                "question": "Which drug is used for anxiety?",
-                "options": ["Antibiotic", "Benzodiazepine", "Insulin", "NSAID"],
-                "answer": "Benzodiazepine",
-                "explanation": "أشهر anxiolytic."
-            },
-            {
-                "question": "Benzodiazepines act on:",
-                "options": ["Liver", "CNS", "Kidney", "Heart"],
-                "answer": "CNS",
-                "explanation": "CNS depressant."
-            },
-            {
-                "question": "Main effect of benzodiazepines:",
-                "options": ["Excitation", "Sedation", "Pain", "Fever"],
-                "answer": "Sedation",
-                "explanation": "تهدئة."
-            },
-            {
-                "question": "Long-term use leads to:",
-                "options": ["Cure", "Dependence", "Growth", "Strength"],
-                "answer": "Dependence",
-                "explanation": "خطر الإدمان."
-            },
-            {
-                "question": "SSRIs are used for:",
-                "options": ["Infection", "Anxiety and depression", "Pain", "Diabetes"],
-                "answer": "Anxiety and depression",
-                "explanation": "first-line."
-            },
-            {
-                "question": "Which is NOT symptom of anxiety?",
-                "options": ["Tachycardia", "Sweating", "Calmness", "Fear"],
-                "answer": "Calmness",
-                "explanation": "مش عرض."
-            },
-            {
-                "question": "Which hormone increases in anxiety?",
-                "options": ["Insulin", "Cortisol", "Calcium", "Sodium"],
-                "answer": "Cortisol",
-                "explanation": "stress hormone."
-            },
-            {
-                "question": "Anxiety affects:",
-                "options": ["Body only", "Mind only", "Both", "None"],
-                "answer": "Both",
-                "explanation": "جسدي ونفسي."
-            },
-            {
-                "question": "Best therapy:",
-                "options": ["Isolation", "CBT", "Surgery", "Punishment"],
-                "answer": "CBT",
-                "explanation": "أفضل علاج نفسي."
-            },
-            {
-                "question": "Which is psychological symptom?",
-                "options": ["Fever", "Fear", "Fracture", "Pain"],
-                "answer": "Fear",
-                "explanation": "عرض نفسي."
-            },
-            {
-                "question": "Physical symptom:",
-                "options": ["Anxiety", "Sweating", "Fear", "Thought"],
-                "answer": "Sweating",
-                "explanation": "عرض جسدي."
-            },
-            {
-                "question": "Behavioral symptom:",
-                "options": ["Withdrawal", "Pain", "Fever", "Sugar"],
-                "answer": "Withdrawal",
-                "explanation": "سلوك."
-            },
-            {
-                "question": "Which increases anxiety?",
-                "options": ["Support", "Stress", "Sleep", "Exercise"],
-                "answer": "Stress",
-                "explanation": "يزود القلق."
-            },
-            {
-                "question": "Best nursing action:",
-                "options": ["Ignore", "Reassure", "Punish", "Isolate"],
-                "answer": "Reassure",
-                "explanation": "دعم المريض."
-            },
-            {
-                "question": "Which is priority?",
-                "options": ["Sleep", "Safety", "Food", "Hygiene"],
-                "answer": "Safety",
-                "explanation": "الأهم دائمًا."
-            },
-            {
-                "question": "Severe anxiety affects:",
-                "options": ["Memory", "Thinking", "Sleep", "Food"],
-                "answer": "Thinking",
-                "explanation": "يضعف التفكير."
-            },
-            {
-                "question": "Which is coping mechanism?",
-                "options": ["Denial", "Eating", "Sleeping", "Exercise"],
-                "answer": "Denial",
-                "explanation": "defense mechanism."
-            },
-            {
-                "question": "Which reduces anxiety?",
-                "options": ["Stress", "Relaxation", "Noise", "Conflict"],
-                "answer": "Relaxation",
-                "explanation": "يقلل القلق."
-            },
-            {
-                "question": "Which increases anxiety?",
-                "options": ["Calm", "Conflict", "Rest", "Support"],
-                "answer": "Conflict",
-                "explanation": "يزود القلق."
-            },
-            {
-                "question": "Patient with anxiety needs:",
-                "options": ["Isolation", "Support", "Punishment", "Ignore"],
-                "answer": "Support",
-                "explanation": "الدعم مهم."
-            },
-            {
-                "question": "Which is emotional symptom?",
-                "options": ["Fear", "Pain", "Fever", "Sugar"],
-                "answer": "Fear",
-                "explanation": "عرض نفسي."
-            },
-            {
-                "question": "Which is cognitive symptom?",
-                "options": ["Confusion", "Pain", "Fever", "BP"],
-                "answer": "Confusion",
-                "explanation": "عرض معرفي."
-            },
-            {
-                "question": "Which is most severe level?",
-                "options": ["Mild", "Moderate", "Severe", "Panic"],
-                "answer": "Panic",
-                "explanation": "أعلى مستوى."
-            },
-            {
-                "question": "Which improves anxiety?",
-                "options": ["Sleep", "Stress", "Fear", "Conflict"],
-                "answer": "Sleep",
-                "explanation": "يحسن الحالة."
-            },
-            {
-                "question": "Which worsens anxiety?",
-                "options": ["Support", "Isolation", "Relaxation", "Sleep"],
-                "answer": "Isolation",
-                "explanation": "يزود القلق."
-            },
-            {
-                "question": "Which is first step?",
-                "options": ["Treatment", "Assessment", "Diagnosis", "Evaluation"],
-                "answer": "Assessment",
-                "explanation": "أول خطوة."
-            },
-            {
-                "question": "Which is nursing diagnosis?",
-                "options": ["Infection", "Anxiety", "Pain", "Fever"],
-                "answer": "Anxiety",
-                "explanation": "تشخيص تمريضي."
-            },
-            {
-                "question": "Which is goal?",
-                "options": ["Increase anxiety", "Reduce anxiety", "Ignore", "Punish"],
-                "answer": "Reduce anxiety",
-                "explanation": "الهدف."
-            },
-            {
-                "question": "Which is best environment?",
-                "options": ["Noisy", "Calm", "Dark", "Hot"],
-                "answer": "Calm",
-                "explanation": "بيهدّي المريض."
-            },
-            {
-                "question": "Which is bad response?",
-                "options": ["Listening", "Ignoring", "Support", "Care"],
-                "answer": "Ignoring",
-                "explanation": "غير علاجي."
-            },
-            {
-                "question": "Which helps patient?",
-                "options": ["Isolation", "Communication", "Punishment", "Ignore"],
-                "answer": "Communication",
-                "explanation": "أساس العلاج."
-            },
-            {
-                "question": "Which is therapy?",
-                "options": ["CBT", "Surgery", "Isolation", "None"],
-                "answer": "CBT",
-                "explanation": "علاج نفسي."
-            },
-            {
-                "question": "Which is drug group?",
-                "options": ["SSRI", "Antibiotic", "Insulin", "Vitamin"],
-                "answer": "SSRI",
-                "explanation": "دواء نفسي."
-            },
-            {
-                "question": "Which is complication?",
-                "options": ["Growth", "Panic", "Calm", "Sleep"],
-                "answer": "Panic",
-                "explanation": "مضاعفة."
-            },
-            {
-                "question": "MOST important concept:",
-                "options": ["Ignore", "Safety", "Punish", "Stress"],
-                "answer": "Safety",
-                "explanation": "أولوية."
-            },
-            {
-                "question": "Anxiety always harmful",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "mild مفيد."
-            },
-            {
-                "question": "Mild anxiety increases focus",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "يحسن الأداء."
-            },
-            {
-                "question": "Severe anxiety improves thinking",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "يضعف التفكير."
-            },
-            {
-                "question": "Panic causes loss of control",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "صحيح."
-            },
-            {
-                "question": "Benzodiazepines cause sedation",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "CNS depressant."
-            },
-            {
-                "question": "Benzodiazepines safe long-term",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "إدمان."
-            },
-            {
-                "question": "SSRIs used in anxiety",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "first-line."
-            },
-            {
-                "question": "Anxiety affects body only",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "جسم وعقل."
-            },
-            {
-                "question": "Anxiety affects mind only",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "كلاهما."
-            },
-            {
-                "question": "Anxiety affects both",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "صحيح."
-            },
-            {
-                "question": "Stress increases anxiety",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "صحيح."
-            },
-            {
-                "question": "Relaxation reduces anxiety",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "صحيح."
-            },
-            {
-                "question": "Isolation helps anxiety",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "يزوده."
-            },
-            {
-                "question": "Support helps anxiety",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "مهم."
-            },
-            {
-                "question": "CBT useful",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "فعال."
-            },
-            {
-                "question": "Safety is priority",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "أساسي."
-            },
-            {
-                "question": "Anxiety has physical symptoms",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "صحيح."
-            },
-            {
-                "question": "Anxiety has emotional symptoms",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "صحيح."
-            },
-            {
-                "question": "Anxiety has behavioral symptoms",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "صحيح."
-            },
-            {
-                "question": "Anxiety has cognitive symptoms",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "صحيح."
-            },
-            {
-                "question": "A patient says I am afraid all the time. What is the condition?",
-                "options": ["Depression", "Anxiety", "Psychosis", "Mania"],
-                "answer": "Anxiety",
-                "explanation": "خوف مستمر."
-            },
-            {
-                "question": "A patient has tachycardia and sweating. What type of symptom is this?",
-                "options": ["Emotional", "Physical", "Cognitive", "Social"],
-                "answer": "Physical",
-                "explanation": "أعراض جسدية."
-            },
-            {
-                "question": "A patient cannot concentrate. What level of anxiety?",
-                "options": ["Mild", "Moderate", "Severe", "Normal"],
-                "answer": "Severe",
-                "explanation": "تأثير على التفكير."
-            },
-            {
-                "question": "A patient lost control. What is the level?",
-                "options": ["Mild", "Moderate", "Severe", "Panic"],
-                "answer": "Panic",
-                "explanation": "أعلى مستوى."
-            },
-            {
-                "question": "A patient needs long-term treatment. What is best option?",
-                "options": ["Benzodiazepine", "SSRI", "Antibiotic", "Sedative"],
-                "answer": "SSRI",
-                "explanation": "أفضل طويل المدى."
-            },
-            {
-                "question": "A patient took benzodiazepine and slept. What is the cause?",
-                "options": ["Infection", "CNS stimulation", "CNS depression", "Pain"],
-                "answer": "CNS depression",
-                "explanation": "سبب النعاس."
-            },
-            {
-                "question": "A patient uses denial. What type is this?",
-                "options": ["Coping mechanism", "Disease", "Infection", "Pain"],
-                "answer": "Coping mechanism",
-                "explanation": "defense mechanism."
-            },
-            {
-                "question": "A patient is isolated. What type of symptom?",
-                "options": ["Physical", "Behavioral", "Emotional", "Cognitive"],
-                "answer": "Behavioral",
-                "explanation": "سلوك."
-            },
-            {
-                "question": "A patient is stressed. What happens to anxiety?",
-                "options": ["Decrease", "Increase", "Normal", "Stop"],
-                "answer": "Increase",
-                "explanation": "يزود القلق."
-            },
-            {
-                "question": "A patient needs calming. What is best intervention?",
-                "options": ["Noisy environment", "Calm environment", "Punishment", "Isolation"],
-                "answer": "Calm environment",
-                "explanation": "يهدئ المريض."
-            },
-            {
-                "question": "A patient is shouting. What level?",
-                "options": ["Mild", "Moderate", "Severe", "Panic"],
-                "answer": "Panic",
-                "explanation": "فقد السيطرة."
-            },
-            {
-                "question": "A patient needs support. What is best action?",
-                "options": ["Ignore", "Reassurance", "Punish", "Isolate"],
-                "answer": "Reassurance",
-                "explanation": "دعم نفسي."
-            },
-            {
-                "question": "A patient is aggressive. What is priority?",
-                "options": ["Food", "Sleep", "Safety", "Exercise"],
-                "answer": "Safety",
-                "explanation": "أولوية."
-            },
-            {
-                "question": "A patient fears without reason. What is diagnosis?",
-                "options": ["Depression", "Anxiety", "Psychosis", "Infection"],
-                "answer": "Anxiety",
-                "explanation": "خوف غير مبرر."
-            },
-            {
-                "question": "A patient needs psychological therapy. What is best?",
-                "options": ["Surgery", "CBT", "Isolation", "Drugs only"],
-                "answer": "CBT",
-                "explanation": "أفضل علاج نفسي."
-            }
+            { "question": "Anxiety is best defined as:", "options": ["Happiness", "Feeling of uneasiness or fear", "Physical illness", "Memory loss"], "answer": "Feeling of uneasiness or fear", "explanation": "Anxiety is a feeling of fear and tension." },
+            { "question": "Mild anxiety leads to:", "options": ["Panic", "Increased awareness", "Loss of control", "Confusion"], "answer": "Increased awareness", "explanation": "It improves focus and alertness." },
+            { "question": "Moderate anxiety causes:", "options": ["Narrowed perception", "Relaxation", "Sleep", "Happiness"], "answer": "Narrowed perception", "explanation": "Attention becomes limited." },
+            { "question": "Severe anxiety causes:", "options": ["Focus", "Confusion", "Learning", "Calmness"], "answer": "Confusion", "explanation": "It impairs thinking." },
+            { "question": "Panic level leads to:", "options": ["Organized thinking", "Loss of control", "Growth", "Focus"], "answer": "Loss of control", "explanation": "Highest level of anxiety." },
+            { "question": "Which drug is used for anxiety?", "options": ["Antibiotic", "Benzodiazepine", "Insulin", "NSAID"], "answer": "Benzodiazepine", "explanation": "Common anxiolytic drug." },
+            { "question": "Benzodiazepines act on:", "options": ["Liver", "CNS", "Kidney", "Heart"], "answer": "CNS", "explanation": "They act as CNS depressants." },
+            { "question": "Main effect of benzodiazepines:", "options": ["Excitation", "Sedation", "Pain", "Fever"], "answer": "Sedation", "explanation": "They produce calming effect." },
+            { "question": "Long-term use leads to:", "options": ["Cure", "Dependence", "Growth", "Strength"], "answer": "Dependence", "explanation": "Risk of addiction." },
+            { "question": "SSRIs are used for:", "options": ["Infection", "Anxiety and depression", "Pain", "Diabetes"], "answer": "Anxiety and depression", "explanation": "First-line treatment." },
+            { "question": "Which is NOT symptom of anxiety?", "options": ["Tachycardia", "Sweating", "Calmness", "Fear"], "answer": "Calmness", "explanation": "Not a symptom." },
+            { "question": "Which hormone increases in anxiety?", "options": ["Insulin", "Cortisol", "Calcium", "Sodium"], "answer": "Cortisol", "explanation": "Stress hormone." },
+            { "question": "Anxiety affects:", "options": ["Body only", "Mind only", "Both", "None"], "answer": "Both", "explanation": "Affects both body and mind." },
+            { "question": "Best therapy:", "options": ["Isolation", "CBT", "Surgery", "Punishment"], "answer": "CBT", "explanation": "Most effective psychological therapy." },
+            { "question": "Which is psychological symptom?", "options": ["Fever", "Fear", "Fracture", "Pain"], "answer": "Fear", "explanation": "Emotional symptom." },
+            { "question": "Physical symptom:", "options": ["Anxiety", "Sweating", "Fear", "Thought"], "answer": "Sweating", "explanation": "Physical manifestation." },
+            { "question": "Behavioral symptom:", "options": ["Withdrawal", "Pain", "Fever", "Sugar"], "answer": "Withdrawal", "explanation": "Behavioral change." },
+            { "question": "Which increases anxiety?", "options": ["Support", "Stress", "Sleep", "Exercise"], "answer": "Stress", "explanation": "Stress increases anxiety." },
+            { "question": "Best nursing action:", "options": ["Ignore", "Reassure", "Punish", "Isolate"], "answer": "Reassure", "explanation": "Provide emotional support." },
+            { "question": "Which is priority?", "options": ["Sleep", "Safety", "Food", "Hygiene"], "answer": "Safety", "explanation": "Safety is always priority." },
+            { "question": "Severe anxiety affects:", "options": ["Memory", "Thinking", "Sleep", "Food"], "answer": "Thinking", "explanation": "Impairs cognitive function." },
+            { "question": "Which is coping mechanism?", "options": ["Denial", "Eating", "Sleeping", "Exercise"], "answer": "Denial", "explanation": "Defense mechanism." },
+            { "question": "Which reduces anxiety?", "options": ["Stress", "Relaxation", "Noise", "Conflict"], "answer": "Relaxation", "explanation": "Calms patient." },
+            { "question": "Which increases anxiety?", "options": ["Calm", "Conflict", "Rest", "Support"], "answer": "Conflict", "explanation": "Triggers anxiety." },
+            { "question": "Patient with anxiety needs:", "options": ["Isolation", "Support", "Punishment", "Ignore"], "answer": "Support", "explanation": "Support is essential." },
+            { "question": "Which is emotional symptom?", "options": ["Fear", "Pain", "Fever", "Sugar"], "answer": "Fear", "explanation": "Psychological symptom." },
+            { "question": "Which is cognitive symptom?", "options": ["Confusion", "Pain", "Fever", "BP"], "answer": "Confusion", "explanation": "Cognitive impairment." },
+            { "question": "Which is most severe level?", "options": ["Mild", "Moderate", "Severe", "Panic"], "answer": "Panic", "explanation": "Highest level." },
+            { "question": "Which improves anxiety?", "options": ["Sleep", "Stress", "Fear", "Conflict"], "answer": "Sleep", "explanation": "Improves condition." },
+            { "question": "Which worsens anxiety?", "options": ["Support", "Isolation", "Relaxation", "Sleep"], "answer": "Isolation", "explanation": "Increases anxiety." },
+            { "question": "Which is first step?", "options": ["Treatment", "Assessment", "Diagnosis", "Evaluation"], "answer": "Assessment", "explanation": "First step in care." },
+            { "question": "Which is nursing diagnosis?", "options": ["Infection", "Anxiety", "Pain", "Fever"], "answer": "Anxiety", "explanation": "Common diagnosis." },
+            { "question": "Which is goal?", "options": ["Increase anxiety", "Reduce anxiety", "Ignore", "Punish"], "answer": "Reduce anxiety", "explanation": "Main goal." },
+            { "question": "Which is best environment?", "options": ["Noisy", "Calm", "Dark", "Hot"], "answer": "Calm", "explanation": "Helps relaxation." },
+            { "question": "Which is bad response?", "options": ["Listening", "Ignoring", "Support", "Care"], "answer": "Ignoring", "explanation": "Non-therapeutic." },
+            { "question": "Which helps patient?", "options": ["Isolation", "Communication", "Punishment", "Ignore"], "answer": "Communication", "explanation": "Essential for care." },
+            { "question": "Which is therapy?", "options": ["CBT", "Surgery", "Isolation", "None"], "answer": "CBT", "explanation": "Effective therapy." },
+            { "question": "Which is drug group?", "options": ["SSRI", "Antibiotic", "Insulin", "Vitamin"], "answer": "SSRI", "explanation": "Used in anxiety." },
+            { "question": "Which is complication?", "options": ["Growth", "Panic", "Calm", "Sleep"], "answer": "Panic", "explanation": "Severe outcome." },
+            { "question": "MOST important concept:", "options": ["Ignore", "Safety", "Punish", "Stress"], "answer": "Safety", "explanation": "Priority." },
+            { "question": "Anxiety always harmful", "options": ["True", "False"], "answer": "False", "explanation": "Mild anxiety is beneficial." },
+            { "question": "Mild anxiety increases focus", "options": ["True", "False"], "answer": "True", "explanation": "Improves performance." },
+            { "question": "Severe anxiety improves thinking", "options": ["True", "False"], "answer": "False", "explanation": "Impairs thinking." },
+            { "question": "Panic causes loss of control", "options": ["True", "False"], "answer": "True"},
+            { "question": "Benzodiazepines cause sedation", "options": ["True", "False"], "answer": "True", "explanation": "CNS depressants." },
+            { "question": "Benzodiazepines safe long-term", "options": ["True", "False"], "answer": "False", "explanation": "Risk of dependence." },
+            { "question": "SSRIs used in anxiety", "options": ["True", "False"], "answer": "True", "explanation": "First-line drugs." },
+            { "question": "Anxiety affects body only", "options": ["True", "False"], "answer": "False", "explanation": "Affects both body and mind." },
+            { "question": "Anxiety affects mind only", "options": ["True", "False"], "answer": "False", "explanation": "Affects both." },
+            { "question": "Anxiety affects both", "options": ["True", "False"], "answer": "True"},
+            { "question": "Stress increases anxiety", "options": ["True", "False"], "answer": "True"},
+            { "question": "Relaxation reduces anxiety", "options": ["True", "False"], "answer": "True"},
+            { "question": "Isolation helps anxiety", "options": ["True", "False"], "answer": "False", "explanation": "Worsens anxiety." },
+            { "question": "Support helps anxiety", "options": ["True", "False"], "answer": "True", "explanation": "Important." },
+            { "question": "CBT useful", "options": ["True", "False"], "answer": "True", "explanation": "Effective therapy." },
+            { "question": "Safety is priority", "options": ["True", "False"], "answer": "True", "explanation": "Essential." },
+            { "question": "Anxiety has physical symptoms", "options": ["True", "False"], "answer": "True"},
+            { "question": "Anxiety has emotional symptoms", "options": ["True", "False"], "answer": "True"},
+            { "question": "Anxiety has behavioral symptoms", "options": ["True", "False"], "answer": "True"},
+            { "question": "Anxiety has cognitive symptoms", "options": ["True", "False"], "answer": "True"},
+            { "question": "A patient says I am afraid all the time. What is the condition?", "options": ["Depression", "Anxiety", "Psychosis", "Mania"], "answer": "Anxiety", "explanation": "Persistent fear indicates anxiety." },
+            { "question": "A patient has tachycardia and sweating. What type of symptom is this?", "options": ["Emotional", "Physical", "Cognitive", "Social"], "answer": "Physical", "explanation": "These are physical symptoms." },
+            { "question": "A patient cannot concentrate. What level of anxiety?", "options": ["Mild", "Moderate", "Severe", "Normal"], "answer": "Severe", "explanation": "Severe anxiety affects concentration." },
+            { "question": "A patient lost control. What is the level?", "options": ["Mild", "Moderate", "Severe", "Panic"], "answer": "Panic", "explanation": "Loss of control indicates panic." },
+            { "question": "A patient needs long-term treatment. What is best option?", "options": ["Benzodiazepine", "SSRI", "Antibiotic", "Sedative"], "answer": "SSRI", "explanation": "Best for long-term use." },
+            { "question": "A patient took benzodiazepine and slept. What is the cause?", "options": ["Infection", "CNS stimulation", "CNS depression", "Pain"], "answer": "CNS depression", "explanation": "Causes sedation." },
+            { "question": "A patient uses denial. What type is this?", "options": ["Coping mechanism", "Disease", "Infection", "Pain"], "answer": "Coping mechanism", "explanation": "It is a defense mechanism." },
+            { "question": "A patient is isolated. What type of symptom?", "options": ["Physical", "Behavioral", "Emotional", "Cognitive"], "answer": "Behavioral", "explanation": "Behavioral symptom." },
+            { "question": "A patient is stressed. What happens to anxiety?", "options": ["Decrease", "Increase", "Normal", "Stop"], "answer": "Increase", "explanation": "Stress increases anxiety." },
+            { "question": "A patient needs calming. What is best intervention?", "options": ["Noisy environment", "Calm environment", "Punishment", "Isolation"], "answer": "Calm environment", "explanation": "Promotes relaxation." },
+            { "question": "A patient is shouting. What level?", "options": ["Mild", "Moderate", "Severe", "Panic"], "answer": "Panic", "explanation": "Loss of control." },
+            { "question": "A patient needs support. What is best action?", "options": ["Ignore", "Reassurance", "Punish", "Isolate"], "answer": "Reassurance", "explanation": "Provide emotional support." },
+            { "question": "A patient is aggressive. What is priority?", "options": ["Food", "Sleep", "Safety", "Exercise"], "answer": "Safety", "explanation": "Ensure safety first." },
+            { "question": "A patient fears without reason. What is diagnosis?", "options": ["Depression", "Anxiety", "Psychosis", "Infection"], "answer": "Anxiety", "explanation": "Irrational fear indicates anxiety." },
+            { "question": "A patient needs psychological therapy. What is best?", "options": ["Surgery", "CBT", "Isolation", "Drugs only"], "answer": "CBT", "explanation": "Most effective therapy." }
+
         ],
         "L7 Communication": [
-            {
-                "question": "Communication is:",
-                "options": ["One-way process", "Two-way process", "Physical action", "Disease"],
-                "answer": "Two-way process",
-                "explanation": "communication تبادل بين طرفين (two-way)."
-            },
-            {
-                "question": "Communication includes:",
-                "options": ["Ideas only", "Feelings only", "Ideas, feelings, attitudes", "Behavior only"],
-                "answer": "Ideas, feelings, attitudes",
-                "explanation": "بيشمل أفكار + مشاعر + معتقدات."
-            },
-            {
-                "question": "Communication is:",
-                "options": ["Static", "Dynamic", "Fixed", "One-time"],
-                "answer": "Dynamic",
-                "explanation": "عملية مستمرة ومتغيرة."
-            },
-            {
-                "question": "Main goal of therapeutic communication:",
-                "options": ["Punish", "Help patient", "Ignore", "Control"],
-                "answer": "Help patient",
-                "explanation": "هدفها benefit للمريض."
-            },
-            {
-                "question": "Therapeutic communication is:",
-                "options": ["Random", "Goal-directed", "Useless", "Social"],
-                "answer": "Goal-directed",
-                "explanation": "موجهة بهدف."
-            },
-            {
-                "question": "Which is NOT a goal of therapeutic communication?",
-                "options": ["Build trust", "Explore feelings", "Punish patient", "Provide information"],
-                "answer": "Punish patient",
-                "explanation": "ليس هدف علاجي."
-            },
-            {
-                "question": "Which is a factor affecting communication?",
-                "options": ["Culture", "Value", "Perception", "All"],
-                "answer": "All",
-                "explanation": "كلها عوامل مؤثرة."
-            },
-            {
-                "question": "Perception means:",
-                "options": ["Ignoring", "Understanding world", "Talking", "Behavior"],
-                "answer": "Understanding world",
-                "explanation": "طريقة إدراك العالم."
-            },
-            {
-                "question": "Values affect:",
-                "options": ["Thinking", "Communication", "Memory", "Body"],
-                "answer": "Communication",
-                "explanation": "بتأثر على التواصل."
-            },
-            {
-                "question": "Culture affects:",
-                "options": ["Language", "Behavior", "Communication", "All"],
-                "answer": "All",
-                "explanation": "تأثير شامل."
-            },
-            {
-                "question": "Element of communication:",
-                "options": ["Sender", "Message", "Receiver", "All"],
-                "answer": "All",
-                "explanation": "كلها عناصر أساسية."
-            },
-            {
-                "question": "Feedback means:",
-                "options": ["Start", "Response", "Message", "Channel"],
-                "answer": "Response",
-                "explanation": "رد الفعل."
-            },
-            {
-                "question": "Channel means:",
-                "options": ["Person", "Method", "Idea", "Feeling"],
-                "answer": "Method",
-                "explanation": "وسيلة الاتصال."
-            },
-            {
-                "question": "Verbal communication uses:",
-                "options": ["Touch", "Language", "Space", "Eye"],
-                "answer": "Language",
-                "explanation": "الكلام."
-            },
-            {
-                "question": "Non-verbal communication includes:",
-                "options": ["Speech", "Body language", "Words", "Writing"],
-                "answer": "Body language",
-                "explanation": "لغة الجسد."
-            },
-            {
-                "question": "Most reliable communication:",
-                "options": ["Verbal", "Non-verbal", "Writing", "Talking"],
-                "answer": "Non-verbal",
-                "explanation": "تعبر عن المشاعر الحقيقية."
-            },
-            {
-                "question": "Eye contact is:",
-                "options": ["Verbal", "Non-verbal", "Writing", "None"],
-                "answer": "Non-verbal",
-                "explanation": "جزء من لغة الجسد."
-            },
-            {
-                "question": "Tone of voice is:",
-                "options": ["Verbal", "Non-verbal", "Writing", "Thinking"],
-                "answer": "Non-verbal",
-                "explanation": "يعبر عن المشاعر."
-            },
-            {
-                "question": "Touch is:",
-                "options": ["Verbal", "Non-verbal", "None", "Thinking"],
-                "answer": "Non-verbal",
-                "explanation": "تواصل غير لفظي."
-            },
-            {
-                "question": "Successful communication needs:",
-                "options": ["Feedback", "Appropriateness", "Flexibility", "All"],
-                "answer": "All",
-                "explanation": "كلها ضرورية."
-            },
-            {
-                "question": "Feedback shows:",
-                "options": ["Message sent", "Effect of message", "Person", "Noise"],
-                "answer": "Effect of message",
-                "explanation": "نتيجة التواصل."
-            },
-            {
-                "question": "Appropriateness means:",
-                "options": ["Random", "Relevant message", "Long message", "Silence"],
-                "answer": "Relevant message",
-                "explanation": "ملائم للموقف."
-            },
-            {
-                "question": "Flexibility means:",
-                "options": ["Rigid", "Balanced control", "Ignore", "Fixed"],
-                "answer": "Balanced control",
-                "explanation": "مرونة في التعامل."
-            },
-            {
-                "question": "Efficiency means:",
-                "options": ["Complex", "Clear simple message", "Long speech", "Noise"],
-                "answer": "Clear simple message",
-                "explanation": "وضوح."
-            },
-            {
-                "question": "Broad opening helps:",
-                "options": ["Close discussion", "Encourage talking", "Stop patient", "Ignore"],
-                "answer": "Encourage talking",
-                "explanation": "يشجع التعبير."
-            },
-            {
-                "question": "Open-ended question:",
-                "options": ["Yes or no", "Expand answer", "Closed", "None"],
-                "answer": "Expand answer",
-                "explanation": "إجابة مفتوحة."
-            },
-            {
-                "question": "Closed question:",
-                "options": ["Expand", "Yes or no", "Long", "Open"],
-                "answer": "Yes or no",
-                "explanation": "إجابة محدودة."
-            },
-            {
-                "question": "Restating means:",
-                "options": ["Ignore", "Repeat patient words", "Change topic", "Silence"],
-                "answer": "Repeat patient words",
-                "explanation": "تأكيد الفهم."
-            },
-            {
-                "question": "Clarification means:",
-                "options": ["Confuse", "Make meaning clear", "Ignore", "Stop"],
-                "answer": "Make meaning clear",
-                "explanation": "توضيح."
-            },
-            {
-                "question": "Focusing means:",
-                "options": ["Change topic", "Expand topic", "Ignore", "Stop"],
-                "answer": "Expand topic",
-                "explanation": "التركيز على نقطة."
-            },
-            {
-                "question": "Paraphrasing means:",
-                "options": ["Repeat same", "Reword meaning", "Ignore", "Stop"],
-                "answer": "Reword meaning",
-                "explanation": "إعادة صياغة."
-            },
-            {
-                "question": "Summarizing means:",
-                "options": ["Details", "Main ideas", "Ignore", "Stop"],
-                "answer": "Main ideas",
-                "explanation": "تلخيص."
-            },
-            {
-                "question": "Linking means:",
-                "options": ["Separate", "Connect ideas", "Ignore", "Stop"],
-                "answer": "Connect ideas",
-                "explanation": "ربط."
-            },
-            {
-                "question": "Listening is:",
-                "options": ["Passive", "Active", "Ignore", "Sleep"],
-                "answer": "Active",
-                "explanation": "استماع نشط."
-            },
-            {
-                "question": "Listening shows:",
-                "options": ["Respect", "Interest", "Care", "All"],
-                "answer": "All",
-                "explanation": "كلها صحيحة."
-            },
-            {
-                "question": "Silence helps:",
-                "options": ["Stop communication", "Thinking", "Confusion", "Fear"],
-                "answer": "Thinking",
-                "explanation": "يساعد على التفكير."
-            },
-            {
-                "question": "Which is a barrier?",
-                "options": ["Listening", "Judgment", "Respect", "Care"],
-                "answer": "Judgment",
-                "explanation": "يعوق التواصل."
-            },
-            {
-                "question": "Changing subject is:",
-                "options": ["Skill", "Barrier", "Therapy", "Support"],
-                "answer": "Barrier",
-                "explanation": "يعيق التواصل."
-            },
-            {
-                "question": "Closed questions are:",
-                "options": ["Good", "Barrier", "Therapy", "Support"],
-                "answer": "Barrier",
-                "explanation": "تقلل التعبير."
-            },
-            {
-                "question": "Best communication:",
-                "options": ["Judgment", "Respect", "Punishment", "Ignore"],
-                "answer": "Respect",
-                "explanation": "أساس التواصل."
-            },
-            {
-                "question": "Communication is one-way",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "هي two-way."
-            },
-            {
-                "question": "Communication is two-way",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "صحيح."
-            },
-            {
-                "question": "Communication includes feelings",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "جزء أساسي."
-            },
-            {
-                "question": "Communication is static",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "dynamic."
-            },
-            {
-                "question": "Therapeutic communication is goal-directed",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "موجه."
-            },
-            {
-                "question": "Culture affects communication",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "صحيح."
-            },
-            {
-                "question": "Feedback is important",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "ضروري."
-            },
-            {
-                "question": "Communication is only verbal",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "فيه non-verbal."
-            },
-            {
-                "question": "Non-verbal communication is reliable",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "صحيح."
-            },
-            {
-                "question": "Listening is passive",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "نشط."
-            },
-            {
-                "question": "Listening is active",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "صحيح."
-            },
-            {
-                "question": "Silence is useless",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "مفيد."
-            },
-            {
-                "question": "Silence helps",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "صحيح."
-            },
-            {
-                "question": "Closed questions are good",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Barrier."
-            },
-            {
-                "question": "Judgment is good",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "غير علاجي."
-            },
-            {
-                "question": "Respect is important",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "أساسي."
-            },
-            {
-                "question": "Flexibility is needed",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "مهم."
-            },
-            {
-                "question": "Efficiency means clear message",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "صحيح."
-            },
-            {
-                "question": "Feedback means response",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "صحيح."
-            },
-            {
-                "question": "Communication is not important",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "مهم جدًا."
-            },
-            {
-                "question": "A nurse says tell me more. What technique is this?",
-                "options": ["Closed question", "Broad opening", "Barrier", "Judgment"],
-                "answer": "Broad opening",
-                "explanation": "تشجيع المريض يتكلم."
-            },
-            {
-                "question": "A nurse asks are you okay. What type is this?",
-                "options": ["Open question", "Closed question", "Barrier", "Support"],
-                "answer": "Closed question",
-                "explanation": "إجابة نعم أو لا."
-            },
-            {
-                "question": "A nurse repeats patient words. What technique is this?",
-                "options": ["Restating", "Clarification", "Linking", "Barrier"],
-                "answer": "Restating",
-                "explanation": "إعادة الكلام."
-            },
-            {
-                "question": "A nurse explains patient meaning. What technique is this?",
-                "options": ["Clarification", "Restating", "Linking", "Barrier"],
-                "answer": "Clarification",
-                "explanation": "توضيح."
-            },
-            {
-                "question": "A nurse connects past and present. What technique is this?",
-                "options": ["Linking", "Restating", "Clarification", "Barrier"],
-                "answer": "Linking",
-                "explanation": "ربط الأفكار."
-            },
-            {
-                "question": "A nurse is silent and listening. What is this?",
-                "options": ["Listening", "Barrier", "Punishment", "Ignore"],
-                "answer": "Listening",
-                "explanation": "استماع."
-            },
-            {
-                "question": "A nurse remains silent for a while. What is this?",
-                "options": ["Silence", "Barrier", "Ignore", "Punish"],
-                "answer": "Silence",
-                "explanation": "أسلوب علاجي."
-            },
-            {
-                "question": "A nurse changes subject. What is this?",
-                "options": ["Skill", "Barrier", "Support", "Care"],
-                "answer": "Barrier",
-                "explanation": "يعيق التواصل."
-            },
-            {
-                "question": "A nurse judges patient. What is this?",
-                "options": ["Support", "Barrier", "Care", "Skill"],
-                "answer": "Barrier",
-                "explanation": "غير علاجي."
-            },
-            {
-                "question": "A nurse gives advice quickly. What is this?",
-                "options": ["Support", "Barrier", "Care", "Skill"],
-                "answer": "Barrier",
-                "explanation": "غير مناسب."
-            },
-            {
-                "question": "A nurse uses eye contact. What type is this?",
-                "options": ["Verbal", "Non-verbal", "Written", "None"],
-                "answer": "Non-verbal",
-                "explanation": "لغة جسد."
-            },
-            {
-                "question": "A nurse speaks loudly. What type is this?",
-                "options": ["Verbal", "Non-verbal", "Written", "None"],
-                "answer": "Non-verbal",
-                "explanation": "tone of voice."
-            },
-            {
-                "question": "Patient understands message. What is this?",
-                "options": ["Failure", "Successful communication", "Barrier", "Error"],
-                "answer": "Successful communication",
-                "explanation": "تم الفهم."
-            },
-            {
-                "question": "A nurse uses simple language. What is this?",
-                "options": ["Efficiency", "Barrier", "Failure", "Ignore"],
-                "answer": "Efficiency",
-                "explanation": "وضوح."
-            },
-            {
-                "question": "A nurse encourages patient to talk. What is this?",
-                "options": ["Good communication", "Barrier", "Punishment", "Ignore"],
-                "answer": "Good communication",
-                "explanation": "أسلوب علاجي."
-            }
+            { "question": "Communication is:", "options": ["One-way process", "Two-way process", "Physical action", "Disease"], "answer": "Two-way process", "explanation": "Communication is an exchange between two parties." },
+            { "question": "Communication includes:", "options": ["Ideas only", "Feelings only", "Ideas, feelings, attitudes", "Behavior only"], "answer": "Ideas, feelings, attitudes", "explanation": "It includes thoughts, emotions, and beliefs." },
+            { "question": "Communication is:", "options": ["Static", "Dynamic", "Fixed", "One-time"], "answer": "Dynamic", "explanation": "It is a continuous changing process." },
+            { "question": "Main goal of therapeutic communication:", "options": ["Punish", "Help patient", "Ignore", "Control"], "answer": "Help patient", "explanation": "Its goal is to benefit the patient." },
+            { "question": "Therapeutic communication is:", "options": ["Random", "Goal-directed", "Useless", "Social"], "answer": "Goal-directed", "explanation": "It is purposeful." },
+            { "question": "Which is NOT a goal of therapeutic communication?", "options": ["Build trust", "Explore feelings", "Punish patient", "Provide information"], "answer": "Punish patient", "explanation": "Punishment is not therapeutic." },
+            { "question": "Which is a factor affecting communication?", "options": ["Culture", "Value", "Perception", "All"], "answer": "All", "explanation": "All influence communication." },
+            { "question": "Perception means:", "options": ["Ignoring", "Understanding world", "Talking", "Behavior"], "answer": "Understanding world", "explanation": "How a person interprets the world." },
+            { "question": "Values affect:", "options": ["Thinking", "Communication", "Memory", "Body"], "answer": "Communication", "explanation": "Values influence communication." },
+            { "question": "Culture affects:", "options": ["Language", "Behavior", "Communication", "All"], "answer": "All", "explanation": "Affects all aspects." },
+            { "question": "Element of communication:", "options": ["Sender", "Message", "Receiver", "All"], "answer": "All", "explanation": "All are essential." },
+            { "question": "Feedback means:", "options": ["Start", "Response", "Message", "Channel"], "answer": "Response", "explanation": "It is the response to communication." },
+            { "question": "Channel means:", "options": ["Person", "Method", "Idea", "Feeling"], "answer": "Method", "explanation": "Means of communication." },
+            { "question": "Verbal communication uses:", "options": ["Touch", "Language", "Space", "Eye"], "answer": "Language", "explanation": "Uses words." },
+            { "question": "Non-verbal communication includes:", "options": ["Speech", "Body language", "Words", "Writing"], "answer": "Body language", "explanation": "Includes gestures and expressions." },
+            { "question": "Most reliable communication:", "options": ["Verbal", "Non-verbal", "Writing", "Talking"], "answer": "Non-verbal", "explanation": "Reflects true feelings." },
+            { "question": "Eye contact is:", "options": ["Verbal", "Non-verbal", "Writing", "None"], "answer": "Non-verbal", "explanation": "Part of body language." },
+            { "question": "Tone of voice is:", "options": ["Verbal", "Non-verbal", "Writing", "Thinking"], "answer": "Non-verbal", "explanation": "Expresses emotions." },
+            { "question": "Touch is:", "options": ["Verbal", "Non-verbal", "None", "Thinking"], "answer": "Non-verbal", "explanation": "Non-verbal communication." },
+            { "question": "Successful communication needs:", "options": ["Feedback", "Appropriateness", "Flexibility", "All"], "answer": "All", "explanation": "All are required." },
+            { "question": "Feedback shows:", "options": ["Message sent", "Effect of message", "Person", "Noise"], "answer": "Effect of message", "explanation": "Indicates understanding." },
+            { "question": "Appropriateness means:", "options": ["Random", "Relevant message", "Long message", "Silence"], "answer": "Relevant message", "explanation": "Suitable message." },
+            { "question": "Flexibility means:", "options": ["Rigid", "Balanced control", "Ignore", "Fixed"], "answer": "Balanced control", "explanation": "Adaptability." },
+            { "question": "Efficiency means:", "options": ["Complex", "Clear simple message", "Long speech", "Noise"], "answer": "Clear simple message", "explanation": "Clarity." },
+            { "question": "Broad opening helps:", "options": ["Close discussion", "Encourage talking", "Stop patient", "Ignore"], "answer": "Encourage talking", "explanation": "Encourages expression." },
+            { "question": "Open-ended question:", "options": ["Yes or no", "Expand answer", "Closed", "None"], "answer": "Expand answer", "explanation": "Allows detailed response." },
+            { "question": "Closed question:", "options": ["Expand", "Yes or no", "Long", "Open"], "answer": "Yes or no", "explanation": "Limited response." },
+            { "question": "Restating means:", "options": ["Ignore", "Repeat patient words", "Change topic", "Silence"], "answer": "Repeat patient words", "explanation": "Confirms understanding." },
+            { "question": "Clarification means:", "options": ["Confuse", "Make meaning clear", "Ignore", "Stop"], "answer": "Make meaning clear", "explanation": "Ensures understanding." },
+            { "question": "Focusing means:", "options": ["Change topic", "Expand topic", "Ignore", "Stop"], "answer": "Expand topic", "explanation": "Focuses discussion." },
+            { "question": "Paraphrasing means:", "options": ["Repeat same", "Reword meaning", "Ignore", "Stop"], "answer": "Reword meaning", "explanation": "Restates meaning." },
+            { "question": "Summarizing means:", "options": ["Details", "Main ideas", "Ignore", "Stop"], "answer": "Main ideas", "explanation": "Highlights key points." },
+            { "question": "Linking means:", "options": ["Separate", "Connect ideas", "Ignore", "Stop"], "answer": "Connect ideas", "explanation": "Connects thoughts." },
+            { "question": "Listening is:", "options": ["Passive", "Active", "Ignore", "Sleep"], "answer": "Active", "explanation": "Requires engagement." },
+            { "question": "Listening shows:", "options": ["Respect", "Interest", "Care", "All"], "answer": "All", "explanation": "Indicates attention." },
+            { "question": "Silence helps:", "options": ["Stop communication", "Thinking", "Confusion", "Fear"], "answer": "Thinking", "explanation": "Allows reflection." },
+            { "question": "Which is a barrier?", "options": ["Listening", "Judgment", "Respect", "Care"], "answer": "Judgment", "explanation": "Blocks communication." },
+            { "question": "Changing subject is:", "options": ["Skill", "Barrier", "Therapy", "Support"], "answer": "Barrier", "explanation": "Interrupts communication." },
+            { "question": "Closed questions are:", "options": ["Good", "Barrier", "Therapy", "Support"], "answer": "Barrier", "explanation": "Limit expression." },
+            { "question": "Best communication:", "options": ["Judgment", "Respect", "Punishment", "Ignore"], "answer": "Respect", "explanation": "Foundation of communication." },
+
+            { "question": "Communication is one-way", "options": ["True", "False"], "answer": "False", "explanation": "It is two-way." },
+            { "question": "Communication is two-way", "options": ["True", "False"], "answer": "True", "explanation": "Correct." },
+            { "question": "Communication includes feelings", "options": ["True", "False"], "answer": "True", "explanation": "Includes emotions." },
+            { "question": "Communication is static", "options": ["True", "False"], "answer": "False", "explanation": "It is dynamic." },
+            { "question": "Therapeutic communication is goal-directed", "options": ["True", "False"], "answer": "True", "explanation": "Correct." },
+            { "question": "Culture affects communication", "options": ["True", "False"], "answer": "True", "explanation": "Correct." },
+            { "question": "Feedback is important", "options": ["True", "False"], "answer": "True", "explanation": "Essential." },
+            { "question": "Communication is only verbal", "options": ["True", "False"], "answer": "False", "explanation": "Includes non-verbal." },
+            { "question": "Non-verbal communication is reliable", "options": ["True", "False"], "answer": "True", "explanation": "Reflects true feelings." },
+            { "question": "Listening is passive", "options": ["True", "False"], "answer": "False", "explanation": "It is active." },
+            { "question": "Listening is active", "options": ["True", "False"], "answer": "True", "explanation": "Correct." },
+            { "question": "Silence is useless", "options": ["True", "False"], "answer": "False", "explanation": "It is useful." },
+            { "question": "Silence helps", "options": ["True", "False"], "answer": "True", "explanation": "Correct." },
+            { "question": "Closed questions are good", "options": ["True", "False"], "answer": "False", "explanation": "They limit communication." },
+            { "question": "Judgment is good", "options": ["True", "False"], "answer": "False", "explanation": "It is a barrier." },
+            { "question": "Respect is important", "options": ["True", "False"], "answer": "True", "explanation": "Essential." },
+            { "question": "Flexibility is needed", "options": ["True", "False"], "answer": "True", "explanation": "Important." },
+            { "question": "Efficiency means clear message", "options": ["True", "False"], "answer": "True", "explanation": "Correct." },
+            { "question": "Feedback means response", "options": ["True", "False"], "answer": "True", "explanation": "Correct." },
+            { "question": "Communication is not important", "options": ["True", "False"], "answer": "False", "explanation": "Very important." },
+
+            { "question": "A nurse says tell me more. What technique is this?", "options": ["Closed question", "Broad opening", "Barrier", "Judgment"], "answer": "Broad opening", "explanation": "Encourages patient to talk." },
+            { "question": "A nurse asks are you okay. What type is this?", "options": ["Open question", "Closed question", "Barrier", "Support"], "answer": "Closed question", "explanation": "Yes/No answer." },
+            { "question": "A nurse repeats patient words. What technique is this?", "options": ["Restating", "Clarification", "Linking", "Barrier"], "answer": "Restating", "explanation": "Repeating patient words." },
+            { "question": "A nurse explains patient meaning. What technique is this?", "options": ["Clarification", "Restating", "Linking", "Barrier"], "answer": "Clarification", "explanation": "Clarifies meaning." },
+            { "question": "A nurse connects past and present. What technique is this?", "options": ["Linking", "Restating", "Clarification", "Barrier"], "answer": "Linking", "explanation": "Connects ideas." },
+            { "question": "A nurse is silent and listening. What is this?", "options": ["Listening", "Barrier", "Punishment", "Ignore"], "answer": "Listening", "explanation": "Active listening." },
+            { "question": "A nurse remains silent for a while. What is this?", "options": ["Silence", "Barrier", "Ignore", "Punish"], "answer": "Silence", "explanation": "Therapeutic silence." },
+            { "question": "A nurse changes subject. What is this?", "options": ["Skill", "Barrier", "Support", "Care"], "answer": "Barrier", "explanation": "Interrupts communication." },
+            { "question": "A nurse judges patient. What is this?", "options": ["Support", "Barrier", "Care", "Skill"], "answer": "Barrier", "explanation": "Non-therapeutic." },
+            { "question": "A nurse gives advice quickly. What is this?", "options": ["Support", "Barrier", "Care", "Skill"], "answer": "Barrier", "explanation": "Not appropriate." },
+            { "question": "A nurse uses eye contact. What type is this?", "options": ["Verbal", "Non-verbal", "Written", "None"], "answer": "Non-verbal", "explanation": "Body language." },
+            { "question": "A nurse speaks loudly. What type is this?", "options": ["Verbal", "Non-verbal", "Written", "None"], "answer": "Non-verbal", "explanation": "Tone of voice." },
+            { "question": "Patient understands message. What is this?", "options": ["Failure", "Successful communication", "Barrier", "Error"], "answer": "Successful communication", "explanation": "Message understood." },
+            { "question": "A nurse uses simple language. What is this?", "options": ["Efficiency", "Barrier", "Failure", "Ignore"], "answer": "Efficiency", "explanation": "Clear message." },
+            { "question": "A nurse encourages patient to talk. What is this?", "options": ["Good communication", "Barrier", "Punishment", "Ignore"], "answer": "Good communication", "explanation": "Therapeutic technique." }
+
         ],
         "L8 CRISIS & CRISIS INTERVENTIONS":[
             { "question": "Crisis is best defined as:", "options": ["A sudden event in one’s life that disturbs homeostasis", "A long-term stable condition", "A normal daily routine", "A physical injury only"], "answer": "A sudden event in one’s life that disturbs homeostasis" },
@@ -8330,608 +5779,112 @@ quizzes = {
     },
     "نسا نظري": {
         "L1 Anatomy of FRS": [
-            {
-                "question": "Which structure mainly protects the pubic symphysis?",
-                "options": ["Labia minora", "Mons pubis", "Clitoris", "Vestibule"],
-                "answer": "Mons pubis",
-                "explanation": "Mons pubis is fatty tissue that protects the pubic bone, while the other structures have different functions."
-            },
-            {
-                "question": "Which structure is homologous to the male scrotum?",
-                "options": ["Labia minora", "Labia majora", "Clitoris", "Vestibule"],
-                "answer": "Labia majora",
-                "explanation": "Labia majora are the female equivalent of the scrotum."
-            },
-            {
-                "question": "Which structure directly surrounds the urethral and vaginal openings?",
-                "options": ["Labia majora", "Vestibule", "Clitoris", "Perineum"],
-                "answer": "Vestibule",
-                "explanation": "The vestibule contains the urethral and vaginal openings."
-            },
-            {
-                "question": "Which gland is mainly responsible for lubrication during intercourse?",
-                "options": ["Ovarian gland", "Bartholin's gland", "Pituitary gland", "Thyroid gland"],
-                "answer": "Bartholin's gland",
-                "explanation": "Bartholin's glands secrete mucus to lubricate during intercourse."
-            },
-            {
-                "question": "A patient presents with severe dyspareunia due to decreased lubrication. Which structure is MOST likely affected?",
-                "options": ["Labia majora", "Bartholin’s glands", "Endometrium", "Myometrium"],
-                "answer": "Bartholin’s glands",
-                "explanation": "Bartholin’s glands are responsible for lubrication, so dysfunction leads to dyspareunia."
-            },
-            {
-                "question": "Which part of the vagina is the deepest?",
-                "options": ["Anterior fornix", "Posterior fornix", "Lateral wall", "Introitus"],
-                "answer": "Posterior fornix",
-                "explanation": "The posterior fornix is the deepest part of the vagina."
-            },
-            {
-                "question": "Fertilization MOST commonly occurs in:",
-                "options": ["Isthmus", "Infundibulum", "Ampulla", "Uterus"],
-                "answer": "Ampulla",
-                "explanation": "Fertilization most commonly occurs in the ampulla of the fallopian tube."
-            },
-            {
-                "question": "The vagina has which pH?",
-                "options": ["Neutral (7)", "Acidic (~4.5)", "Alkaline (8)", "Variable"],
-                "answer": "Acidic (~4.5)",
-                "explanation": "The acidic vaginal pH helps prevent infections."
-            },
-            {
-                "question": "Which layer of uterus sheds during menstruation?",
-                "options": ["Perimetrium", "Myometrium", "Endometrium", "Serosa"],
-                "answer": "Endometrium",
-                "explanation": "The endometrium is the layer that sheds during menstruation."
-            },
-            {
-                "question": "Which uterine layer contains blood vessels and nerves?",
-                "options": ["Endometrium", "Myometrium", "Perimetrium", "Cervix"],
-                "answer": "Myometrium",
-                "explanation": "The myometrium contains blood vessels and nerves and is responsible for contractions."
-            },
-            {
-                "question": "The uterus is normally:",
-                "options": ["Retroverted", "Anteverted and anteflexed", "Horizontal", "Vertical"],
-                "answer": "Anteverted and anteflexed",
-                "explanation": "The normal position of the uterus is anteverted and anteflexed."
-            },
-            {
-                "question": "Angle between cervix and vagina is:",
-                "options": ["Anteflexion", "Anteversion", "Retroversion", "Flexion"],
-                "answer": "Anteversion",
-                "explanation": "Anteversion refers to the angle between cervix and vagina."
-            },
-            {
-                "question": "Which part connects uterus to vagina?",
-                "options": ["Fundus", "Cervix", "Isthmus", "Cornua"],
-                "answer": "Cervix",
-                "explanation": "The cervix connects the uterus to the vagina."
-            },
-            {
-                "question": "Which ligament passes through inguinal canal?",
-                "options": ["Broad ligament", "Round ligament", "Uterosacral ligament", "Cardinal ligament"],
-                "answer": "Round ligament",
-                "explanation": "The round ligament passes through the inguinal canal."
-            },
-            {
-                "question": "Which structure is posterior to vagina?",
-                "options": ["Bladder", "Rectum", "Uterus", "Ovary"],
-                "answer": "Rectum",
-                "explanation": "The rectum lies posterior to the vagina."
-            },
-            {
-                "question": "A patient is at risk of infection due to vaginal flora imbalance. What is MOST important protective factor?",
-                "options": ["Hormones", "Vaginal pH", "Uterine position", "Blood supply"],
-                "answer": "Vaginal pH",
-                "explanation": "Acidic vaginal pH is the key protective factor against infection."
-            },
-            {
-                "question": "Which ovarian structure secretes progesterone after ovulation?",
-                "options": ["Follicle", "Corpus luteum", "Cortex", "Medulla"],
-                "answer": "Corpus luteum",
-                "explanation": "Corpus luteum secretes progesterone after ovulation."
-            },
-            {
-                "question": "Where are ovarian follicles located?",
-                "options": ["Medulla", "Cortex", "Tunica", "Ligament"],
-                "answer": "Cortex",
-                "explanation": "Ovarian follicles are located in the cortex."
-            },
-            {
-                "question": "Which part of fallopian tube is narrowest?",
-                "options": ["Ampulla", "Isthmus", "Interstitial", "Infundibulum"],
-                "answer": "Interstitial",
-                "explanation": "The interstitial part is the narrowest portion of the fallopian tube."
-            },
-            {
-                "question": "Fimbriae function is:",
-                "options": ["Hormone secretion", "Fertilization", "Catch oocyte", "Implantation"],
-                "answer": "Catch oocyte",
-                "explanation": "Fimbriae help capture the oocyte after ovulation."
-            },
-            {
-                "question": "The vulva only has reproductive function.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "The vulva has reproductive, excretory, and sexual functions."
-            },
-            {
-                "question": "Labia minora contain hair.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Labia minora do not contain hair."
-            },
-            {
-                "question": "Clitoris is highly vascular.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "The clitoris is highly vascular and sensitive."
-            },
-            {
-                "question": "Posterior vaginal wall is shorter than anterior.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "The posterior vaginal wall is longer than the anterior wall."
-            },
-            {
-                "question": "Vaginal pH helps prevent infection.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Acidic vaginal pH prevents microbial growth."
-            },
-            {
-                "question": "Myometrium decreases in pregnancy.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Myometrium increases in size during pregnancy."
-            },
-            {
-                "question": "Endometrium sheds during menstruation.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Endometrium is shed during menstruation."
-            },
-            {
-                "question": "Ampulla is the shortest part of tube.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Ampulla is the longest part of the fallopian tube."
-            },
-            {
-                "question": "Fimbriae help capture ovum.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Fimbriae guide the ovum into the fallopian tube."
-            },
-            {
-                "question": "Ovarian cortex contains follicles.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Follicles are located in the ovarian cortex."
-            },
-            {
-                "question": "Medulla is main functional ovarian part.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "The cortex is the main functional part of the ovary."
-            },
-            {
-                "question": "Corpus luteum secretes progesterone.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Corpus luteum produces progesterone."
-            },
-            {
-                "question": "Uterus is normally retroverted.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "The uterus is normally anteverted."
-            },
-            {
-                "question": "Perineum has no nerve endings.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "The perineum has rich nerve supply."
-            },
-            {
-                "question": "Broad ligament is peritoneal fold.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Broad ligament is a fold of peritoneum."
-            },
-            {
-                "question": "Vagina lies anterior to bladder.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "The bladder lies anterior to the vagina."
-            },
-            {
-                "question": "Cervix connects uterus to vagina.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Cervix is the connection between uterus and vagina."
-            },
-            {
-                "question": "Fallopian tubes transport sperm and ovum.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Fallopian tubes transport both sperm and ovum."
-            },
-            {
-                "question": "Breast size depends only on hormones.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Breast size depends on fat, genetics, and hormones."
-            },
-            {
-                "question": "Hymen always completely closes vagina.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "The hymen usually has an opening and does not completely close the vagina."
-            }
+            { "question": "Which structure mainly protects the pubic symphysis?", "options": ["Labia minora", "Mons pubis", "Clitoris", "Vestibule"], "answer": "Mons pubis", "explanation": "Mons pubis is fatty tissue that protects the pubic bone, while the other structures have different functions." },
+            { "question": "Which structure is homologous to the male scrotum?", "options": ["Labia minora", "Labia majora", "Clitoris", "Vestibule"], "answer": "Labia majora", "explanation": "Labia majora are the female equivalent of the scrotum." },
+            { "question": "Which structure directly surrounds the urethral and vaginal openings?", "options": ["Labia majora", "Vestibule", "Clitoris", "Perineum"], "answer": "Vestibule", "explanation": "The vestibule contains the urethral and vaginal openings." },
+            { "question": "Which gland is mainly responsible for lubrication during intercourse?", "options": ["Ovarian gland", "Bartholin's gland", "Pituitary gland", "Thyroid gland"], "answer": "Bartholin's gland", "explanation": "Bartholin's glands secrete mucus to lubricate during intercourse." },
+            { "question": "A patient presents with severe dyspareunia due to decreased lubrication. Which structure is MOST likely affected?", "options": ["Labia majora", "Bartholin’s glands", "Endometrium", "Myometrium"], "answer": "Bartholin’s glands", "explanation": "Bartholin’s glands are responsible for lubrication, so dysfunction leads to dyspareunia." },
+            { "question": "Which part of the vagina is the deepest?", "options": ["Anterior fornix", "Posterior fornix", "Lateral wall", "Introitus"], "answer": "Posterior fornix", "explanation": "The posterior fornix is the deepest part of the vagina." },
+            { "question": "Fertilization MOST commonly occurs in:", "options": ["Isthmus", "Infundibulum", "Ampulla", "Uterus"], "answer": "Ampulla", "explanation": "Fertilization most commonly occurs in the ampulla of the fallopian tube." },
+            { "question": "The vagina has which pH?", "options": ["Neutral (7)", "Acidic (~4.5)", "Alkaline (8)", "Variable"], "answer": "Acidic (~4.5)", "explanation": "The acidic vaginal pH helps prevent infections." },
+            { "question": "Which layer of uterus sheds during menstruation?", "options": ["Perimetrium", "Myometrium", "Endometrium", "Serosa"], "answer": "Endometrium", "explanation": "The endometrium is the layer that sheds during menstruation." },
+            { "question": "Which uterine layer contains blood vessels and nerves?", "options": ["Endometrium", "Myometrium", "Perimetrium", "Cervix"], "answer": "Myometrium", "explanation": "The myometrium contains blood vessels and nerves and is responsible for contractions." },
+            { "question": "The uterus is normally:", "options": ["Retroverted", "Anteverted and anteflexed", "Horizontal", "Vertical"], "answer": "Anteverted and anteflexed", "explanation": "The normal position of the uterus is anteverted and anteflexed." },
+            { "question": "Angle between cervix and vagina is:", "options": ["Anteflexion", "Anteversion", "Retroversion", "Flexion"], "answer": "Anteversion", "explanation": "Anteversion refers to the angle between cervix and vagina." },
+            { "question": "Which part connects uterus to vagina?", "options": ["Fundus", "Cervix", "Isthmus", "Cornua"], "answer": "Cervix", "explanation": "The cervix connects the uterus to the vagina." },
+            { "question": "Which ligament passes through inguinal canal?", "options": ["Broad ligament", "Round ligament", "Uterosacral ligament", "Cardinal ligament"], "answer": "Round ligament", "explanation": "The round ligament passes through the inguinal canal." },
+            { "question": "Which structure is posterior to vagina?", "options": ["Bladder", "Rectum", "Uterus", "Ovary"], "answer": "Rectum", "explanation": "The rectum lies posterior to the vagina." },
+            { "question": "A patient is at risk of infection due to vaginal flora imbalance. What is MOST important protective factor?", "options": ["Hormones", "Vaginal pH", "Uterine position", "Blood supply"], "answer": "Vaginal pH", "explanation": "Acidic vaginal pH is the key protective factor against infection." },
+            { "question": "Which ovarian structure secretes progesterone after ovulation?", "options": ["Follicle", "Corpus luteum", "Cortex", "Medulla"], "answer": "Corpus luteum", "explanation": "Corpus luteum secretes progesterone after ovulation." },
+            { "question": "Where are ovarian follicles located?", "options": ["Medulla", "Cortex", "Tunica", "Ligament"], "answer": "Cortex", "explanation": "Ovarian follicles are located in the cortex." },
+            { "question": "Which part of fallopian tube is narrowest?", "options": ["Ampulla", "Isthmus", "Interstitial", "Infundibulum"], "answer": "Interstitial", "explanation": "The interstitial part is the narrowest portion of the fallopian tube." },
+            { "question": "Fimbriae function is:", "options": ["Hormone secretion", "Fertilization", "Catch oocyte", "Implantation"], "answer": "Catch oocyte", "explanation": "Fimbriae help capture the oocyte after ovulation." },
+
+            { "question": "The vulva only has reproductive function.", "options": ["True", "False"], "answer": "False", "explanation": "The vulva has reproductive, excretory, and sexual functions." },
+            { "question": "Labia minora contain hair.", "options": ["True", "False"], "answer": "False", "explanation": "Labia minora do not contain hair." },
+            { "question": "Clitoris is highly vascular.", "options": ["True", "False"], "answer": "True", "explanation": "The clitoris is highly vascular and sensitive." },
+            { "question": "Posterior vaginal wall is shorter than anterior.", "options": ["True", "False"], "answer": "False", "explanation": "The posterior vaginal wall is longer than the anterior wall." },
+            { "question": "Vaginal pH helps prevent infection.", "options": ["True", "False"], "answer": "True", "explanation": "Acidic vaginal pH prevents microbial growth." },
+            { "question": "Myometrium decreases in pregnancy.", "options": ["True", "False"], "answer": "False", "explanation": "Myometrium increases in size during pregnancy." },
+            { "question": "Endometrium sheds during menstruation.", "options": ["True", "False"], "answer": "True", "explanation": "Endometrium is shed during menstruation." },
+            { "question": "Ampulla is the shortest part of tube.", "options": ["True", "False"], "answer": "False", "explanation": "Ampulla is the longest part of the fallopian tube." },
+            { "question": "Fimbriae help capture ovum.", "options": ["True", "False"], "answer": "True", "explanation": "Fimbriae guide the ovum into the fallopian tube." },
+            { "question": "Ovarian cortex contains follicles.", "options": ["True", "False"], "answer": "True", "explanation": "Follicles are located in the ovarian cortex." },
+            { "question": "Medulla is main functional ovarian part.", "options": ["True", "False"], "answer": "False", "explanation": "The cortex is the main functional part of the ovary." },
+            { "question": "Corpus luteum secretes progesterone.", "options": ["True", "False"], "answer": "True", "explanation": "Corpus luteum produces progesterone." },
+            { "question": "Uterus is normally retroverted.", "options": ["True", "False"], "answer": "False", "explanation": "The uterus is normally anteverted." },
+            { "question": "Perineum has no nerve endings.", "options": ["True", "False"], "answer": "False", "explanation": "The perineum has rich nerve supply." },
+            { "question": "Broad ligament is peritoneal fold.", "options": ["True", "False"], "answer": "True", "explanation": "Broad ligament is a fold of peritoneum." },
+            { "question": "Vagina lies anterior to bladder.", "options": ["True", "False"], "answer": "False", "explanation": "The bladder lies anterior to the vagina." },
+            { "question": "Cervix connects uterus to vagina.", "options": ["True", "False"], "answer": "True", "explanation": "Cervix is the connection between uterus and vagina." },
+            { "question": "Fallopian tubes transport sperm and ovum.", "options": ["True", "False"], "answer": "True", "explanation": "Fallopian tubes transport both sperm and ovum." },
+            { "question": "Breast size depends only on hormones.", "options": ["True", "False"], "answer": "False", "explanation": "Breast size depends on fat, genetics, and hormones." },
+            { "question": "Hymen always completely closes vagina.", "options": ["True", "False"], "answer": "False", "explanation": "The hymen usually has an opening and does not completely close the vagina." }
+
         ],
         "L2 The Bony Pelvis": [
-            {
-                "question": "The bony pelvis consists of:",
-                "options": ["1 bone", "2 bones only", "2 innominate bones + sacrum + coccyx", "Sacrum only"],
-                "answer": "2 innominate bones + sacrum + coccyx",
-                "explanation": "The bony pelvis is formed by two innominate bones along with the sacrum and coccyx."
-            },
-            {
-                "question": "Each innominate bone is formed by:",
-                "options": ["Sacrum + coccyx", "Ilium + ischium + pubis", "Femur + tibia", "Vertebrae"],
-                "answer": "Ilium + ischium + pubis",
-                "explanation": "Each innominate bone consists of the ilium, ischium, and pubis."
-            },
-            {
-                "question": "The false pelvis is:",
-                "options": ["Below pelvic brim", "Important for childbirth", "Above pelvic brim", "Same as true pelvis"],
-                "answer": "Above pelvic brim",
-                "explanation": "The false pelvis lies above the pelvic brim and has no obstetric importance."
-            },
-            {
-                "question": "Which pelvis part is MOST important in obstetrics?",
-                "options": ["False pelvis", "True pelvis", "Ilium", "Coccyx"],
-                "answer": "True pelvis",
-                "explanation": "The true pelvis is important for childbirth as it forms the birth canal."
-            },
-            {
-                "question": "The true pelvis consists of:",
-                "options": ["Inlet only", "Outlet only", "Inlet, cavity, outlet", "Sacrum only"],
-                "answer": "Inlet, cavity, outlet",
-                "explanation": "The true pelvis is divided into inlet, cavity, and outlet."
-            },
-            {
-                "question": "The sacral promontory forms which boundary?",
-                "options": ["Anterior inlet", "Posterior inlet", "Lateral inlet", "Outlet"],
-                "answer": "Posterior inlet",
-                "explanation": "The sacral promontory forms the posterior boundary of the pelvic inlet."
-            },
-            {
-                "question": "The obstetric conjugate is:",
-                "options": ["Longest diameter", "Shortest AP diameter", "Transverse diameter", "Oblique diameter"],
-                "answer": "Shortest AP diameter",
-                "explanation": "The obstetric conjugate is the shortest anteroposterior diameter of the pelvic inlet."
-            },
-            {
-                "question": "Obstetric conjugate equals:",
-                "options": ["11 cm", "10.5 cm", "12.5 cm", "13 cm"],
-                "answer": "10.5 cm",
-                "explanation": "The obstetric conjugate is approximately 10.5 cm."
-            },
-            {
-                "question": "Diagonal conjugate is longer than true conjugate by:",
-                "options": ["0.5 cm", "1 cm", "1.5 cm", "2 cm"],
-                "answer": "1.5 cm",
-                "explanation": "The diagonal conjugate exceeds the true conjugate by about 1.5 cm."
-            },
-            {
-                "question": "Oblique diameter is:",
-                "options": ["10 cm", "11 cm", "12 cm", "13 cm"],
-                "answer": "12 cm",
-                "explanation": "The oblique diameter of the pelvic inlet is approximately 12 cm."
-            },
-            {
-                "question": "The pelvic cavity roof is:",
-                "options": ["Outlet", "Pelvic brim", "Coccyx", "Pubis"],
-                "answer": "Pelvic brim",
-                "explanation": "The pelvic brim forms the roof of the pelvic cavity."
-            },
-            {
-                "question": "Which forms the floor of pelvic cavity?",
-                "options": ["Sacrum", "Plane of least dimension", "Pubis", "Ilium"],
-                "answer": "Plane of least dimension",
-                "explanation": "The plane of least dimension forms the pelvic floor in obstetrics."
-            },
-            {
-                "question": "Pelvic outlet anterior boundary:",
-                "options": ["Sacrum", "Coccyx", "Lower border of symphysis pubis", "Ischial spine"],
-                "answer": "Lower border of symphysis pubis",
-                "explanation": "The anterior boundary of the pelvic outlet is the lower border of the symphysis pubis."
-            },
-            {
-                "question": "Bi-spinous diameter is:",
-                "options": ["12 cm", "13 cm", "10.5 cm", "11 cm"],
-                "answer": "10.5 cm",
-                "explanation": "The bi-spinous diameter is approximately 10.5 cm and is clinically important."
-            },
-            {
-                "question": "If bi-spinous diameter < 9.5 cm, what is MOST likely?",
-                "options": ["Normal delivery", "Increased chance of surgery", "No effect", "Faster labor"],
-                "answer": "Increased chance of surgery",
-                "explanation": "A reduced bi-spinous diameter increases the likelihood of obstructed labor requiring intervention."
-            },
-            {
-                "question": "Transverse diameter of outlet is:",
-                "options": ["10 cm", "11 cm", "12 cm", "13 cm"],
-                "answer": "11 cm",
-                "explanation": "The transverse diameter of the pelvic outlet is about 11 cm."
-            },
-            {
-                "question": "AP diameter of outlet increases during labor due to:",
-                "options": ["Sacrum movement", "Coccyx movement", "Ilium expansion", "Pubis shift"],
-                "answer": "Coccyx movement",
-                "explanation": "The coccyx moves posteriorly during labor, increasing the AP diameter."
-            },
-            {
-                "question": "Best pelvis for normal delivery:",
-                "options": ["Android", "Anthropoid", "Gynaecoid", "Platypelloid"],
-                "answer": "Gynaecoid",
-                "explanation": "The gynaecoid pelvis is most favorable for vaginal delivery."
-            },
-            {
-                "question": "Anthropoid pelvis is characterized by:",
-                "options": ["Wide transverse", "Long AP diameter", "Flat shape", "Narrow inlet"],
-                "answer": "Long AP diameter",
-                "explanation": "Anthropoid pelvis has a long anteroposterior diameter."
-            },
-            {
-                "question": "Which pelvis resembles male pelvis?",
-                "options": ["Gynaecoid", "Anthropoid", "Android", "Platypelloid"],
-                "answer": "Android",
-                "explanation": "Android pelvis resembles the typical male pelvis."
-            },
-            {
-                "question": "Platypelloid pelvis is:",
-                "options": ["Narrow", "Flat", "Funnel-shaped", "Circular"],
-                "answer": "Flat",
-                "explanation": "Platypelloid pelvis is flat with a wide transverse diameter."
-            },
-            {
-                "question": "Which pelvis has long transverse but short AP diameter?",
-                "options": ["Android", "Anthropoid", "Platypelloid", "Gynaecoid"],
-                "answer": "Platypelloid",
-                "explanation": "Platypelloid pelvis has a wide transverse and short AP diameter."
-            },
-            {
-                "question": "Female pelvis bones are:",
-                "options": ["Heavy", "Thick", "Light and delicate", "Dense"],
-                "answer": "Light and delicate",
-                "explanation": "Female pelvis bones are lighter and more delicate than male."
-            },
-            {
-                "question": "Male pelvis is:",
-                "options": ["Wider", "Narrower", "Larger", "More delicate"],
-                "answer": "Narrower",
-                "explanation": "Male pelvis is narrower compared to female pelvis."
-            },
-            {
-                "question": "Which is TRUE about female sacrum?",
-                "options": ["More curved", "Less curved", "Straight", "Absent"],
-                "answer": "Less curved",
-                "explanation": "Female sacrum is less curved to facilitate childbirth."
-            },
-            {
-                "question": "Subpubic angle in females is:",
-                "options": ["Narrow", "Wide", "45°", "Absent"],
-                "answer": "Wide",
-                "explanation": "Females have a wider subpubic angle."
-            },
-            {
-                "question": "Pelvic inlet in males is:",
-                "options": ["Oval", "Circular", "Heart-shaped", "Square"],
-                "answer": "Heart-shaped",
-                "explanation": "Male pelvic inlet is heart-shaped."
-            },
-            {
-                "question": "Pelvic outlet in females is:",
-                "options": ["Smaller", "Larger", "Same", "Closed"],
-                "answer": "Larger",
-                "explanation": "Female pelvic outlet is larger to allow childbirth."
-            },
-            {
-                "question": "Coccyx in females is:",
-                "options": ["Fixed", "Less movable", "More movable", "Absent"],
-                "answer": "More movable",
-                "explanation": "Female coccyx is more movable to facilitate labor."
-            },
-            {
-                "question": "Pelvic floor supports:",
-                "options": ["Bones only", "Muscles only", "Pelvic organs", "Blood vessels only"],
-                "answer": "Pelvic organs",
-                "explanation": "Pelvic floor supports the pelvic organs."
-            },
-            {
-                "question": "Pelvic floor damage leads to:",
-                "options": ["Hypertension", "Prolapse", "Fracture", "Infection"],
-                "answer": "Prolapse",
-                "explanation": "Damage to pelvic floor muscles can lead to organ prolapse."
-            },
-            {
-                "question": "Levator ani includes:",
-                "options": ["Rectus muscle", "Pubococcygeus", "Diaphragm", "Deltoid"],
-                "answer": "Pubococcygeus",
-                "explanation": "Pubococcygeus is a component of levator ani muscle."
-            },
-            {
-                "question": "Pelvic floor resists descent causing:",
-                "options": ["Extension", "Rotation", "Flexion", "Separation"],
-                "answer": "Rotation",
-                "explanation": "Pelvic floor resistance contributes to fetal head rotation during labor."
-            },
-            {
-                "question": "Kegel exercises strengthen:",
-                "options": ["Bones", "Pelvic floor", "Ligaments", "Skin"],
-                "answer": "Pelvic floor",
-                "explanation": "Kegel exercises strengthen pelvic floor muscles."
-            },
-            {
-                "question": "Uterine artery originates from:",
-                "options": ["Aorta", "Internal iliac", "Femoral", "Renal"],
-                "answer": "Internal iliac",
-                "explanation": "Uterine artery is a branch of the internal iliac artery."
-            },
-            {
-                "question": "Lymph drainage goes to:",
-                "options": ["Brain", "Aortic nodes", "Heart", "Liver"],
-                "answer": "Aortic nodes",
-                "explanation": "Pelvic organs primarily drain to aortic lymph nodes."
-            },
-            {
-                "question": "Parasympathetic supply comes from:",
-                "options": ["Thoracic", "Lumbar", "Sacral", "Cervical"],
-                "answer": "Sacral",
-                "explanation": "Parasympathetic supply arises from sacral segments."
-            },
-            {
-                "question": "Sympathetic supply from:",
-                "options": ["Sacral", "Lumbar", "Cervical", "Thoracic only"],
-                "answer": "Lumbar",
-                "explanation": "Sympathetic supply originates from lumbar segments."
-            },
-            {
-                "question": "During labor, what is MOST important pelvic feature?",
-                "options": ["Bone weight", "Pelvic diameters", "Skin thickness", "Blood supply"],
-                "answer": "Pelvic diameters",
-                "explanation": "Pelvic diameters determine the ability for vaginal delivery."
-            },
-            {
-                "question": "MOST critical diameter for vaginal delivery:",
-                "options": ["Diagonal conjugate", "Obstetric conjugate", "Oblique diameter", "Transverse outlet"],
-                "answer": "Obstetric conjugate",
-                "explanation": "The obstetric conjugate is the most critical diameter for vaginal delivery."
-            },
-            {
-                "question": "True pelvis is above pelvic brim.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "The true pelvis lies below the pelvic brim."
-            },
-            {
-                "question": "False pelvis has obstetric importance.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "False pelvis has no role in childbirth."
-            },
-            {
-                "question": "Obstetric conjugate is shortest AP diameter.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It is the shortest anteroposterior diameter of the inlet."
-            },
-            {
-                "question": "Diagonal conjugate is shorter than true conjugate.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Diagonal conjugate is longer than true conjugate."
-            },
-            {
-                "question": "Pelvic outlet AP increases during labor.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Due to posterior movement of the coccyx."
-            },
-            {
-                "question": "Bi-spinous diameter is 10.5 cm.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "This is the standard measurement."
-            },
-            {
-                "question": "Gynaecoid pelvis is best for delivery.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It is the most favorable pelvic type."
-            },
-            {
-                "question": "Android pelvis is female type.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Android pelvis resembles male pelvis."
-            },
-            {
-                "question": "Anthropoid pelvis has long AP diameter.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It is characterized by long AP diameter."
-            },
-            {
-                "question": "Platypelloid pelvis is flat.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It has a wide transverse and short AP diameter."
-            },
-            {
-                "question": "Female pelvis is heavier than male.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Female pelvis is lighter."
-            },
-            {
-                "question": "Male pelvis has wide subpubic angle.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Male subpubic angle is narrow."
-            },
-            {
-                "question": "Female pelvis inlet is oval.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Female pelvic inlet is typically oval."
-            },
-            {
-                "question": "Pelvic floor supports pelvic organs.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It supports bladder, uterus, and rectum."
-            },
-            {
-                "question": "Pelvic floor damage may cause prolapse.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Weak pelvic floor can lead to organ prolapse."
-            },
-            {
-                "question": "Levator ani is part of pelvic floor.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It is a major component of pelvic floor muscles."
-            },
-            {
-                "question": "Uterine artery from internal iliac.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It arises from the internal iliac artery."
-            },
-            {
-                "question": "Parasympathetic supply is lumbar.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Parasympathetic supply is from sacral segments."
-            },
-            {
-                "question": "Coccyx movement affects labor.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Its movement increases outlet diameter."
-            },
-            {
-                "question": "Pelvic diameters have no role in delivery.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Pelvic diameters are crucial for delivery."
-            }
+            { "question": "The bony pelvis consists of:", "options": ["1 bone", "2 bones only", "2 innominate bones + sacrum + coccyx", "Sacrum only"], "answer": "2 innominate bones + sacrum + coccyx", "explanation": "The bony pelvis is formed by two innominate bones along with the sacrum and coccyx." },
+            { "question": "Each innominate bone is formed by:", "options": ["Sacrum + coccyx", "Ilium + ischium + pubis", "Femur + tibia", "Vertebrae"], "answer": "Ilium + ischium + pubis", "explanation": "Each innominate bone consists of the ilium, ischium, and pubis." },
+            { "question": "The false pelvis is:", "options": ["Below pelvic brim", "Important for childbirth", "Above pelvic brim", "Same as true pelvis"], "answer": "Above pelvic brim", "explanation": "The false pelvis lies above the pelvic brim and has no obstetric importance." },
+            { "question": "Which pelvis part is MOST important in obstetrics?", "options": ["False pelvis", "True pelvis", "Ilium", "Coccyx"], "answer": "True pelvis", "explanation": "The true pelvis is important for childbirth as it forms the birth canal." },
+            { "question": "The true pelvis consists of:", "options": ["Inlet only", "Outlet only", "Inlet, cavity, outlet", "Sacrum only"], "answer": "Inlet, cavity, outlet", "explanation": "The true pelvis is divided into inlet, cavity, and outlet." },
+            { "question": "The sacral promontory forms which boundary?", "options": ["Anterior inlet", "Posterior inlet", "Lateral inlet", "Outlet"], "answer": "Posterior inlet", "explanation": "The sacral promontory forms the posterior boundary of the pelvic inlet." },
+            { "question": "The obstetric conjugate is:", "options": ["Longest diameter", "Shortest AP diameter", "Transverse diameter", "Oblique diameter"], "answer": "Shortest AP diameter", "explanation": "The obstetric conjugate is the shortest anteroposterior diameter of the pelvic inlet." },
+            { "question": "Obstetric conjugate equals:", "options": ["11 cm", "10.5 cm", "12.5 cm", "13 cm"], "answer": "10.5 cm", "explanation": "The obstetric conjugate is approximately 10.5 cm." },
+            { "question": "Diagonal conjugate is longer than true conjugate by:", "options": ["0.5 cm", "1 cm", "1.5 cm", "2 cm"], "answer": "1.5 cm", "explanation": "The diagonal conjugate exceeds the true conjugate by about 1.5 cm." },
+            { "question": "Oblique diameter is:", "options": ["10 cm", "11 cm", "12 cm", "13 cm"], "answer": "12 cm", "explanation": "The oblique diameter of the pelvic inlet is approximately 12 cm." },
+            { "question": "The pelvic cavity roof is:", "options": ["Outlet", "Pelvic brim", "Coccyx", "Pubis"], "answer": "Pelvic brim", "explanation": "The pelvic brim forms the roof of the pelvic cavity." },
+            { "question": "Which forms the floor of pelvic cavity?", "options": ["Sacrum", "Plane of least dimension", "Pubis", "Ilium"], "answer": "Plane of least dimension", "explanation": "The plane of least dimension forms the pelvic floor in obstetrics." },
+            { "question": "Pelvic outlet anterior boundary:", "options": ["Sacrum", "Coccyx", "Lower border of symphysis pubis", "Ischial spine"], "answer": "Lower border of symphysis pubis", "explanation": "The anterior boundary of the pelvic outlet is the lower border of the symphysis pubis." },
+            { "question": "Bi-spinous diameter is:", "options": ["12 cm", "13 cm", "10.5 cm", "11 cm"], "answer": "10.5 cm", "explanation": "The bi-spinous diameter is approximately 10.5 cm and is clinically important." },
+            { "question": "If bi-spinous diameter < 9.5 cm, what is MOST likely?", "options": ["Normal delivery", "Increased chance of surgery", "No effect", "Faster labor"], "answer": "Increased chance of surgery", "explanation": "A reduced bi-spinous diameter increases the likelihood of obstructed labor requiring intervention." },
+            { "question": "Transverse diameter of outlet is:", "options": ["10 cm", "11 cm", "12 cm", "13 cm"], "answer": "11 cm", "explanation": "The transverse diameter of the pelvic outlet is about 11 cm." },
+            { "question": "AP diameter of outlet increases during labor due to:", "options": ["Sacrum movement", "Coccyx movement", "Ilium expansion", "Pubis shift"], "answer": "Coccyx movement", "explanation": "The coccyx moves posteriorly during labor, increasing the AP diameter." },
+            { "question": "Best pelvis for normal delivery:", "options": ["Android", "Anthropoid", "Gynaecoid", "Platypelloid"], "answer": "Gynaecoid", "explanation": "The gynaecoid pelvis is most favorable for vaginal delivery." },
+            { "question": "Anthropoid pelvis is characterized by:", "options": ["Wide transverse", "Long AP diameter", "Flat shape", "Narrow inlet"], "answer": "Long AP diameter", "explanation": "Anthropoid pelvis has a long anteroposterior diameter." },
+            { "question": "Which pelvis resembles male pelvis?", "options": ["Gynaecoid", "Anthropoid", "Android", "Platypelloid"], "answer": "Android", "explanation": "Android pelvis resembles the typical male pelvis." },
+            { "question": "Platypelloid pelvis is:", "options": ["Narrow", "Flat", "Funnel-shaped", "Circular"], "answer": "Flat", "explanation": "Platypelloid pelvis is flat with a wide transverse diameter." },
+            { "question": "Which pelvis has long transverse but short AP diameter?", "options": ["Android", "Anthropoid", "Platypelloid", "Gynaecoid"], "answer": "Platypelloid", "explanation": "Platypelloid pelvis has a wide transverse and short AP diameter." },
+            { "question": "Female pelvis bones are:", "options": ["Heavy", "Thick", "Light and delicate", "Dense"], "answer": "Light and delicate", "explanation": "Female pelvis bones are lighter and more delicate than male." },
+            { "question": "Male pelvis is:", "options": ["Wider", "Narrower", "Larger", "More delicate"], "answer": "Narrower", "explanation": "Male pelvis is narrower compared to female pelvis." },
+            { "question": "Which is TRUE about female sacrum?", "options": ["More curved", "Less curved", "Straight", "Absent"], "answer": "Less curved", "explanation": "Female sacrum is less curved to facilitate childbirth." },
+            { "question": "Subpubic angle in females is:", "options": ["Narrow", "Wide", "45°", "Absent"], "answer": "Wide", "explanation": "Females have a wider subpubic angle." },
+            { "question": "Pelvic inlet in males is:", "options": ["Oval", "Circular", "Heart-shaped", "Square"], "answer": "Heart-shaped", "explanation": "Male pelvic inlet is heart-shaped." },
+            { "question": "Pelvic outlet in females is:", "options": ["Smaller", "Larger", "Same", "Closed"], "answer": "Larger", "explanation": "Female pelvic outlet is larger to allow childbirth." },
+            { "question": "Coccyx in females is:", "options": ["Fixed", "Less movable", "More movable", "Absent"], "answer": "More movable", "explanation": "Female coccyx is more movable to facilitate labor." },
+            { "question": "Pelvic floor supports:", "options": ["Bones only", "Muscles only", "Pelvic organs", "Blood vessels only"], "answer": "Pelvic organs", "explanation": "Pelvic floor supports the pelvic organs." },
+            { "question": "Pelvic floor damage leads to:", "options": ["Hypertension", "Prolapse", "Fracture", "Infection"], "answer": "Prolapse", "explanation": "Damage to pelvic floor muscles can lead to organ prolapse." },
+            { "question": "Levator ani includes:", "options": ["Rectus muscle", "Pubococcygeus", "Diaphragm", "Deltoid"], "answer": "Pubococcygeus", "explanation": "Pubococcygeus is a component of levator ani muscle." },
+            { "question": "Pelvic floor resists descent causing:", "options": ["Extension", "Rotation", "Flexion", "Separation"], "answer": "Rotation", "explanation": "Pelvic floor resistance contributes to fetal head rotation during labor." },
+            { "question": "Kegel exercises strengthen:", "options": ["Bones", "Pelvic floor", "Ligaments", "Skin"], "answer": "Pelvic floor", "explanation": "Kegel exercises strengthen pelvic floor muscles." },
+            { "question": "Uterine artery originates from:", "options": ["Aorta", "Internal iliac", "Femoral", "Renal"], "answer": "Internal iliac", "explanation": "Uterine artery is a branch of the internal iliac artery." },
+            { "question": "Lymph drainage goes to:", "options": ["Brain", "Aortic nodes", "Heart", "Liver"], "answer": "Aortic nodes", "explanation": "Pelvic organs primarily drain to aortic lymph nodes." },
+            { "question": "Parasympathetic supply comes from:", "options": ["Thoracic", "Lumbar", "Sacral", "Cervical"], "answer": "Sacral", "explanation": "Parasympathetic supply arises from sacral segments." },
+            { "question": "Sympathetic supply from:", "options": ["Sacral", "Lumbar", "Cervical", "Thoracic only"], "answer": "Lumbar", "explanation": "Sympathetic supply originates from lumbar segments." },
+            { "question": "During labor, what is MOST important pelvic feature?", "options": ["Bone weight", "Pelvic diameters", "Skin thickness", "Blood supply"], "answer": "Pelvic diameters", "explanation": "Pelvic diameters determine the ability for vaginal delivery." },
+            { "question": "MOST critical diameter for vaginal delivery:", "options": ["Diagonal conjugate", "Obstetric conjugate", "Oblique diameter", "Transverse outlet"], "answer": "Obstetric conjugate", "explanation": "The obstetric conjugate is the most critical diameter for vaginal delivery." },
+
+            { "question": "True pelvis is above pelvic brim.", "options": ["True", "False"], "answer": "False", "explanation": "The true pelvis lies below the pelvic brim." },
+            { "question": "False pelvis has obstetric importance.", "options": ["True", "False"], "answer": "False", "explanation": "False pelvis has no role in childbirth." },
+            { "question": "Obstetric conjugate is shortest AP diameter.", "options": ["True", "False"], "answer": "True", "explanation": "It is the shortest anteroposterior diameter of the inlet." },
+            { "question": "Diagonal conjugate is shorter than true conjugate.", "options": ["True", "False"], "answer": "False", "explanation": "Diagonal conjugate is longer than true conjugate." },
+            { "question": "Pelvic outlet AP increases during labor.", "options": ["True", "False"], "answer": "True", "explanation": "Due to posterior movement of the coccyx." },
+            { "question": "Bi-spinous diameter is 10.5 cm.", "options": ["True", "False"], "answer": "True", "explanation": "This is the standard measurement." },
+            { "question": "Gynaecoid pelvis is best for delivery.", "options": ["True", "False"], "answer": "True", "explanation": "It is the most favorable pelvic type." },
+            { "question": "Android pelvis is female type.", "options": ["True", "False"], "answer": "False", "explanation": "Android pelvis resembles male pelvis." },
+            { "question": "Anthropoid pelvis has long AP diameter.", "options": ["True", "False"], "answer": "True", "explanation": "It is characterized by long AP diameter." },
+            { "question": "Platypelloid pelvis is flat.", "options": ["True", "False"], "answer": "True", "explanation": "It has a wide transverse and short AP diameter." },
+            { "question": "Female pelvis is heavier than male.", "options": ["True", "False"], "answer": "False", "explanation": "Female pelvis is lighter." },
+            { "question": "Male pelvis has wide subpubic angle.", "options": ["True", "False"], "answer": "False", "explanation": "Male subpubic angle is narrow." },
+            { "question": "Female pelvis inlet is oval.", "options": ["True", "False"], "answer": "True", "explanation": "Female pelvic inlet is typically oval." },
+            { "question": "Pelvic floor supports pelvic organs.", "options": ["True", "False"], "answer": "True", "explanation": "It supports bladder, uterus, and rectum." },
+            { "question": "Pelvic floor damage may cause prolapse.", "options": ["True", "False"], "answer": "True", "explanation": "Weak pelvic floor can lead to organ prolapse." },
+            { "question": "Levator ani is part of pelvic floor.", "options": ["True", "False"], "answer": "True", "explanation": "It is a major component of pelvic floor muscles." },
+            { "question": "Uterine artery from internal iliac.", "options": ["True", "False"], "answer": "True", "explanation": "It arises from the internal iliac artery." },
+            { "question": "Parasympathetic supply is lumbar.", "options": ["True", "False"], "answer": "False", "explanation": "Parasympathetic supply is from sacral segments." },
+            { "question": "Coccyx movement affects labor.", "options": ["True", "False"], "answer": "True", "explanation": "Its movement increases outlet diameter." },
+            { "question": "Pelvic diameters have no role in delivery.", "options": ["True", "False"], "answer": "False", "explanation": "Pelvic diameters are crucial for delivery." }
+
         ],
         "L3 Fetopelvic Relationships": [
             {
@@ -13082,2099 +10035,426 @@ quizzes = {
             }
         ],
         "أسئلة الدكتورة": [
-            {
-                "question": "Which of these external genitalia in the female is considered the most sensitive region?",
-                "options": ["The clitoris", "The labia majora", "The labia minora", "The vaginal opening"],
-                "answer": "The clitoris"
-            },
-            {
-                "question": "Which of these internal female reproductive organs produce a mucous secretion to help nourish the spermatozoa?",
-                "options": ["The vagina", "The cervix", "The uterus", "The ovaries"],
-                "answer": "The uterus"
-            },
-            {
-                "question": "The triangular mound of fatty tissue that covers the pubic bone",
-                "options": ["Mons Pubis", "Labia Majora", "The perineum.", "Labia Minora"],
-                "answer": "Mons Pubis"
-            },
-            {
-                "question": "............... are comparable to the scrotum in males",
-                "options": ["Labia Minora", "Labia Majora", "The ovaries", "The uterus"],
-                "answer": "Labia Majora"
-            },
-            {
-                "question": "Which of the following is incorrect statement about Labia Majora",
-                "options": [
-                "Fleshy folds of tissue that extended from the mons pubis to the perineum.",
-                "Protect the other external reproductive organs.",
-                "contain sweat and oil-secreting glands",
-                "Hairless folds."
-                ],
-                "answer": "Hairless folds."
-            },
-            {
-                "question": "Which of the following is a correct statement about uterine tubes?",
-                "options": [
-                "They are directly connected to the ovaries.",
-                "They are the site of implantation.",
-                "They have no role in fertilization.",
-                "They consist of the infundibulum, ampulla, and isthmus."
-                ],
-                "answer": "They consist of the infundibulum, ampulla, and isthmus."
-            },
-            {
-                "question": "............... glands are found on each side of the vestibule.",
-                "options": ["penile bulb.", "Vestibular bulb:", "Bartholin's glands.", "The lesser vestibular glands"],
-                "answer": "Bartholin's glands."
-            },
-            {
-                "question": "............... glands are homologous to the male prostate.",
-                "options": ["Vestibular bulb", "Bartholin's glands.", "The greater vestibular", "The lesser vestibular glands"],
-                "answer": "The lesser vestibular glands"
-            },
-            {
-                "question": "The vagina communicates superiorly with the ........",
-                "options": ["Rectum", "The uterus", "urinary bladder", "cervical canal and opens"],
-                "answer": "cervical canal and opens"
-            },
-            {
-                "question": "During which period does the puerperium refer to?",
-                "options": [
-                "The second trimester of pregnancy",
-                "The six week period after delivery",
-                "The first trimester of pregnancy",
-                "The third trimester of pregnancy"
-                ],
-                "answer": "The six week period after delivery"
-            },
-            {
-                "question": "How is uterine involution assessed?",
-                "options": [
-                "By counting the number of contractions",
-                "By measuring the fundus by fingerbreadths",
-                "By measuring the length of the umbilical cord",
-                "By estimating the weight of the baby"
-                ],
-                "answer": "By measuring the fundus by fingerbreadths"
-            },
-            {
-                "question": "Which type of lochia should the nurse expect to find in a client 2 days PP?",
-                "options": ["Lochia delta", "Lochia serosa", "Lochia alba", "Lochia rubra"],
-                "answer": "Lochia rubra"
-            },
-            {
-                "question": "The postpartum period is also referred to as ________ or the fourth stage of pregnancy.",
-                "options": ["Puerperium", "Menarche", "Lactation", "Gestation"],
-                "answer": "Puerperium"
-            },
-            {
-                "question": "What is the postpartum period?",
-                "options": [
-                "The first trimester",
-                "The time during pregnancy",
-                "The time before conception",
-                "The interval between birth and return of reproductive organs to their nonpregnant state"
-                ],
-                "answer": "The interval between birth and return of reproductive organs to their nonpregnant state"
-            },
-            {
-                "question": "How long does the postpartum period traditionally last?",
-                "options": ["2 weeks", "4 weeks", "6 weeks", "8 weeks"],
-                "answer": "6 weeks"
-            },
-            {
-                "question": "What is the involution process in the context of the uterus?",
-                "options": [
-                "The involution process is the onset of labor contractions.",
-                "The involution process is the expansion of the uterus during pregnancy.",
-                "The involution process is the formation of the placenta after conception.",
-                "The involution process is the return of the uterus to a nonpregnant state following birth."
-                ],
-                "answer": "The involution process is the return of the uterus to a nonpregnant state following birth."
-            },
-            {
-                "question": "How rapidly does the involution process of the uterus progress?",
-                "options": [
-                "Fundus descends 1 every 24 hours",
-                "Fundus does not descend after birth",
-                "Fundus descends 5 cm every 24 hours",
-                "Fundus descends 1 to 2 cm every week"
-                ],
-                "answer": "Fundus descends 1 every 24 hours"
-            },
-            {
-                "question": "How many weeks after childbirth is the uterus no longer palpable?",
-                "options": [
-                "2 weeks after childbirth the uterus is no longer palpable.",
-                "1 week after childbirth the uterus is no longer palpable.",
-                "4 weeks after childbirth the uterus is no longer palpable.",
-                "6 weeks after childbirth the uterus is no longer palpable."
-                ],
-                "answer": "6 weeks after childbirth the uterus is no longer palpable."
-            },
-            {
-                "question": "Critical period for monitoring complications such as, Postpartum hemorrhage (PPH), Uterine atony",
-                "options": ["Partum", "Late Postpartum", "Early Postpartum", "Immediate Postpartum"],
-                "answer": "Immediate Postpartum"
-            },
-            {
-                "question": "Late Postpartum",
-                "options": ["First 24 hours", "Day 2 to Day 7", "Week 2 to 6", "6 or up to 12 weeks"],
-                "answer": "Week 2 to 6"
-            },
-            {
-                "question": "Assisted reproductive technologies used to treat infertility include the following:",
-                "options": [
-                "Induction of ovulation",
-                "In vitro fertilization (IVF)",
-                "Zygote intrafallopian transfer ZIFT)",
-                "Gamete intrafallopian transfer (GIFT)"
-                ],
-                "answer": "Induction of ovulation"
-            },
-            {
-                "question": "To be considered a PPH, what would the estimated blood loss have to be for a C-section?",
-                "options": ["< 550 ML", "> 600 ML", "> 1000 ML", "< 900 ML"],
-                "answer": "> 1000 ML"
-            },
-            {
-                "question": "Fertility in women is impaired by",
-                "options": ["Hernia", "High blood pressure", "Obesity", "Gallstones"],
-                "answer": "Obesity"
-            },
-            {
-                "question": "Infertility is when a couple fails to conceive after",
-                "options": [
-                "4 years of unprotected sex",
-                "3years of unprotected sex",
-                "2 years of unprotected sex",
-                "1 year of unprotected sex"
-                ],
-                "answer": "1 year of unprotected sex"
-            },
-            {
-                "question": "In women, this sexually transmitted disease can result in infertility",
-                "options": [
-                "Human papillomavirus (HPV)",
-                "Pelvic inflammatory disease",
-                "Genital herpes",
-                "Hernia"
-                ],
-                "answer": "Pelvic inflammatory disease"
-            },
-            {
-                "question": "Sterility defines as failure of conception due to incurable cause.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Failure of conception after a period of previous fertility is secondary infertility.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "PPH is defined as blood loss of > 500 ml following caesarean delivery within 24 hours of childbirth.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "Late Postpartum start 2 to 6 or up to 12 weeks",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Lochia rubra bright red, lasts 4-10 days",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "Major obstetric hemorrhage is denied as blood loss in excess of 1,000 ml.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Most mothers resume menstruation within 7 to 9 weeks after childbirth.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "In lactating mothers, menstruation usually 3-4 months, and sometimes as late as 24 months.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Postpartum physiological bradycardia mean decreases to rate 60 to 70 b/m for 24-48 hrs",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "PPH is defined as blood loss of more than 24 hours after childbirth but within 6 weeks postpartum.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Failure to ovulate is the most common infertility problem.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "The main cause of male infertility is diseases of the hypothalamus",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "Pelvic ultrasonograms most frequently used diagnostic tool to assess endometrial cavity",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "Which bones form the innominate bone?",
-                "options": [
-                "Ilium, Ischium, Pubis",
-                "Femur, Tibia, Fibula",
-                "Sacrum, Coccyx, Femur",
-                "Sacrum, Ilium, Pubis"
-                ],
-                "answer": "Ilium, Ischium, Pubis"
-            },
-            {
-                "question": "The false pelvis is located:",
-                "options": [
-                "Above the pelvic brim",
-                "Below the pelvic brim",
-                "Forms the birth canal",
-                "Narrow and heart-shaped"
-                ],
-                "answer": "Above the pelvic brim"
-            },
-            {
-                "question": "The true pelvis is mainly important for:",
-                "options": [
-                "Digestion",
-                "Childbirth",
-                "Breathing",
-                "Posture"
-                ],
-                "answer": "Childbirth"
-            },
-            {
-                "question": "Which pelvic type is most favorable for normal vaginal delivery?",
-                "options": [
-                "Gynaecoid",
-                "Anthropoid",
-                "Android",
-                "Platypelloid"
-                ],
-                "answer": "Gynaecoid"
-            },
-            {
-                "question": "Which pelvic type resembles a male pelvis?",
-                "options": [
-                "Gynaecoid",
-                "Anthropoid",
-                "Android",
-                "Platypelloid"
-                ],
-                "answer": "Android"
-            },
-            {
-                "question": "The subpubic angle in a female pelvis is generally:",
-                "options": [
-                "Narrow",
-                "Wide",
-                "Heart-shaped",
-                "Flat"
-                ],
-                "answer": "Wide"
-            },
-            {
-                "question": "The ischial spines in females are:",
-                "options": [
-                "Larger",
-                "Smaller",
-                "Curved",
-                "Not present"
-                ],
-                "answer": "Smaller"
-            },
-            {
-                "question": "Which structure forms the posterior boundary of the pelvic inlet?",
-                "options": [
-                "Symphysis pubis",
-                "Sacral promontory",
-                "Ischial tuberosity",
-                "Coccyx"
-                ],
-                "answer": "Sacral promontory"
-            },
-            {
-                "question": "The pelvic outlet is bounded posteriorly by:",
-                "options": [
-                "Symphysis pubis",
-                "Coccyx",
-                "Iliac crest",
-                "Sacroiliac joint"
-                ],
-                "answer": "Coccyx"
-            },
-            {
-                "question": "Bi-spinous diameter relates to:",
-                "options": [
-                "Distance between sacrum and symphysis",
-                "Distance between ischial spines",
-                "Width of the pubic arch",
-                "Length of sacrum"
-                ],
-                "answer": "Distance between ischial spines"
-            },
-            {
-                "question": "Which muscle is part of the levator ani?",
-                "options": [
-                "Pubococcygeus",
-                "Gluteus maximus",
-                "Sartorius",
-                "Rectus femoris"
-                ],
-                "answer": "Pubococcygeus"
-            },
-            {
-                "question": "Damage to the pelvic floor can cause:",
-                "options": [
-                "Urinary incontinence",
-                "Asthma",
-                "Diabetes",
-                "Heart disease"
-                ],
-                "answer": "Urinary incontinence"
-            },
-            {
-                "question": "The blood supply of the pelvis comes mainly from:",
-                "options": [
-                "Internal iliac arteries",
-                "Femoral artery",
-                "External carotid",
-                "Pulmonary artery"
-                ],
-                "answer": "Internal iliac arteries"
-            },
-            {
-                "question": "Lymph from the pelvis drains mainly into:",
-                "options": [
-                "Cervical nodes",
-                "Aortic and iliac nodes",
-                "Axillary nodes",
-                "Inguinal nodes only"
-                ],
-                "answer": "Aortic and iliac nodes"
-            },
-            {
-                "question": "The male pelvis compared to female pelvis has:",
-                "options": [
-                "Narrower pelvic inlet",
-                "Wider subpubic arch",
-                "Movable coccyx",
-                "Straight side walls"
-                ],
-                "answer": "Narrower pelvic inlet"
-            },
-            {
-                "question": "The pelvic cavity roof is formed by:",
-                "options": [
-                "Pelvic diaphragm",
-                "Pelvic brim",
-                "Symphysis pubis",
-                "Coccyx"
-                ],
-                "answer": "Pelvic brim"
-            },
-            {
-                "question": "The pelvic cavity floor is formed by:",
-                "options": [
-                "Pelvic floor muscles",
-                "Sacral promontory",
-                "Ischial spines",
-                "Iliac crest"
-                ],
-                "answer": "Pelvic floor muscles"
-            },
-            {
-                "question": "The sacro-sciatic notch in gynaecoid pelvis is:",
-                "options": [
-                "Narrow",
-                "Wide",
-                "Triangular",
-                "Flat"
-                ],
-                "answer": "Wide"
-            },
-            {
-                "question": "The true pelvis includes:",
-                "options": [
-                "Inlet, cavity, outlet",
-                "Only inlet and outlet",
-                "Only cavity",
-                "False pelvis only"
-                ],
-                "answer": "Inlet, cavity, outlet"
-            },
-            {
-                "question": "The pelvic floor muscles help mainly in:",
-                "options": [
-                "Supporting pelvic organs",
-                "Breathing",
-                "Digestion",
-                "Arm movement"
-                ],
-                "answer": "Supporting pelvic organs"
-            },
-            {
-                "question": "The fetal skull is divided into:",
-                "options": [
-                "Face, vault, base",
-                "Cranial, facial, spinal",
-                "Vault, brain, spine",
-                "Base, neck, limbs"
-                ],
-                "answer": "Face, vault, base"
-            },
-            {
-                "question": "Which bones of the fetal skull are heavy and fused?",
-                "options": [
-                "Face and base",
-                "Vault",
-                "Parietal",
-                "Frontal"
-                ],
-                "answer": "Face and base"
-            },
-            {
-                "question": "Which bones of the fetal skull form the vault?",
-                "options": [
-                "Two frontal, two parietal, occipital",
-                "Maxilla, mandible, nasal",
-                "Temporal and sphenoid",
-                "Zygomatic and lacrimal"
-                ],
-                "answer": "Two frontal, two parietal, occipital"
-            },
-            {
-                "question": "The anterior fontanel is also called:",
-                "options": ["Bregma", "Lambda", "Coronal", "Sagittal"],
-                "answer": "Bregma"
-            },
-            {
-                "question": "The posterior fontanel is also called:",
-                "options": ["Lambda", "Bregma", "Coronal", "Sagittal"],
-                "answer": "Lambda"
-            },
-            {
-                "question": "Sutures are:",
-                "options": [
-                "Membranous spaces between fetal skull bones",
-                "Muscles of the head",
-                "Cartilage of the spine",
-                "Ligaments of the pelvis"
-                ],
-                "answer": "Membranous spaces between fetal skull bones"
-            },
-            {
-                "question": "The sagittal suture lies between:",
-                "options": [
-                "Two parietal bones",
-                "Frontal and parietal",
-                "Parietal and occipital",
-                "Frontal bones only"
-                ],
-                "answer": "Two parietal bones"
-            },
-            {
-                "question": "Molding occurs to:",
-                "options": [
-                "Reduce fetal head diameter to pass through the birth canal",
-                "Increase fetal head size",
-                "Strengthen fetal bones",
-                "Protect maternal pelvis"
-                ],
-                "answer": "Reduce fetal head diameter to pass through the birth canal"
-            },
-            {
-                "question": "Station refers to:",
-                "options": [
-                "Relationship of fetal presenting part to maternal ischial spines",
-                "Fetal heart rate",
-                "Maternal blood pressure",
-                "Length of labor"
-                ],
-                "answer": "Relationship of fetal presenting part to maternal ischial spines"
-            },
-            {
-                "question": "Fetal lie is:",
-                "options": [
-                "Relationship between long axis of fetus and mother",
-                "Part of fetal skull",
-                "Uterine contraction pattern",
-                "Umbilical cord length"
-                ],
-                "answer": "Relationship between long axis of fetus and mother"
-            },
-            {
-                "question": "Fetal attitude describes:",
-                "options": [
-                "Relationship between fetal parts to each other",
-                "Position of placenta",
-                "Amniotic fluid amount",
-                "Maternal posture"
-                ],
-                "answer": "Relationship between fetal parts to each other"
-            },
-            {
-                "question": "Cephalic presentation means:",
-                "options": [
-                "Head first",
-                "Buttocks first",
-                "Shoulder first",
-                "Feet first"
-                ],
-                "answer": "Head first"
-            },
-            {
-                "question": "Breech presentation means:",
-                "options": [
-                "Buttocks first",
-                "Head first",
-                "Shoulder first",
-                "Face first"
-                ],
-                "answer": "Buttocks first"
-            },
-            {
-                "question": "Occiput anterior (OA) is:",
-                "options": [
-                "Easiest fetal head position for vaginal delivery",
-                "Hardest position",
-                "Breech",
-                "Transverse"
-                ],
-                "answer": "Easiest fetal head position for vaginal delivery"
-            },
-            {
-                "question": "LOA fetal position means:",
-                "options": [
-                "Left occiput anterior",
-                "Right occiput anterior",
-                "Left occiput posterior",
-                "Right shoulder first"
-                ],
-                "answer": "Left occiput anterior"
-            },
-            {
-                "question": "ROA fetal position means:",
-                "options": [
-                "Right occiput anterior",
-                "Left occiput anterior",
-                "Breech",
-                "Face presentation"
-                ],
-                "answer": "Right occiput anterior"
-            },
-            {
-                "question": "Leopold’s maneuvers are used to:",
-                "options": [
-                "Assess fetal position and presentation",
-                "Measure maternal blood pressure",
-                "Check uterine contractions",
-                "Evaluate pelvic floor strength"
-                ],
-                "answer": "Assess fetal position and presentation"
-            },
-            {
-                "question": "Which suture is between the two frontal bones?",
-                "options": [
-                "Frontal suture",
-                "Sagittal suture",
-                "Coronal suture",
-                "Lambdoid suture"
-                ],
-                "answer": "Frontal suture"
-            },
-            {
-                "question": "Which suture is located between parietal bones and occipital bone?",
-                "options": [
-                "Lambdoid suture",
-                "Sagittal suture",
-                "Coronal suture",
-                "Frontal suture"
-                ],
-                "answer": "Lambdoid suture"
-            },
-            {
-                "question": "The fontanelles allow the fetal skull to:",
-                "options": [
-                "Overlap and mold during birth",
-                "Harden before delivery",
-                "Increase in thickness",
-                "Protect from infection"
-                ],
-                "answer": "Overlap and mold during birth"
-            },
-            {
-                "question": "Oogenesis is the process of:",
-                "options": [
-                "Formation of female gametes (ova)",
-                "Formation of male gametes (sperm)",
-                "Fertilization of ovum",
-                "Menstrual bleeding"
-                ],
-                "answer": "Formation of female gametes (ova)"
-            },
-            {
-                "question": "Gametes are:",
-                "options": [
-                "Reproductive cells",
-                "Muscle cells",
-                "Nerve cells",
-                "Bone cells"
-                ],
-                "answer": "Reproductive cells"
-            },
-            {
-                "question": "Ovulation is:",
-                "options": [
-                "Release of a mature ovum from the ovary",
-                "Shedding of the endometrium",
-                "Formation of corpus luteum",
-                "Fertilization of ovum"
-                ],
-                "answer": "Release of a mature ovum from the ovary"
-            },
-            {
-                "question": "The corpus luteum secretes:",
-                "options": [
-                "Progesterone and some estrogen",
-                "Only estrogen",
-                "Only FSH",
-                "Only LH"
-                ],
-                "answer": "Progesterone and some estrogen"
-            },
-            {
-                "question": "Graafian follicles are:",
-                "options": [
-                "Small sacs in the ovary containing a maturing ovum",
-                "Part of the uterus lining",
-                "Sections of the fallopian tube",
-                "Placental structures"
-                ],
-                "answer": "Small sacs in the ovary containing a maturing ovum"
-            },
-            {
-                "question": "The endometrium is:",
-                "options": [
-                "Lining of the uterus",
-                "Muscles of the ovary",
-                "Fetal membrane",
-                "Part of the cervix"
-                ],
-                "answer": "Lining of the uterus"
-            },
-            {
-                "question": "Follicle-Stimulating Hormone (FSH) stimulates:",
-                "options": [
-                "Follicle growth and estrogen secretion",
-                "Ovulation directly",
-                "Progesterone release only",
-                "Menstrual bleeding"
-                ],
-                "answer": "Follicle growth and estrogen secretion"
-            },
-            {
-                "question": "Luteinizing Hormone (LH) triggers:",
-                "options": [
-                "Ovulation",
-                "Follicle growth",
-                "Endometrial shedding",
-                "Fertilization"
-                ],
-                "answer": "Ovulation"
-            },
-            {
-                "question": "Estrogen function includes:",
-                "options": [
-                "Repair and thickening of endometrium",
-                "Maintaining endometrium after ovulation",
-                "Inhibiting FSH only",
-                "Initiating labor"
-                ],
-                "answer": "Repair and thickening of endometrium"
-            },
-            {
-                "question": "Progesterone function includes:",
-                "options": [
-                "Maintaining the endometrium for implantation",
-                "Stimulating follicle growth",
-                "Causing ovulation",
-                "Triggering menstruation"
-                ],
-                "answer": "Maintaining the endometrium for implantation"
-            },
-            {
-                "question": "The follicular phase of the ovarian cycle occurs:",
-                "options": [
-                "Before ovulation",
-                "After ovulation",
-                "During fertilization",
-                "During menstruation only"
-                ],
-                "answer": "Before ovulation"
-            },
-            {
-                "question": "The luteal phase occurs:",
-                "options": [
-                "After ovulation",
-                "Before ovulation",
-                "During menstruation only",
-                "During implantation only"
-                ],
-                "answer": "After ovulation"
-            },
-            {
-                "question": "Menstruation occurs due to:",
-                "options": [
-                "Falling estrogen and progesterone levels",
-                "Rising estrogen only",
-                "High progesterone",
-                "FSH surge"
-                ],
-                "answer": "Falling estrogen and progesterone levels"
-            },
-            {
-                "question": "Fertilization normally occurs in:",
-                "options": [
-                "Fallopian tube (ampulla)",
-                "Ovary",
-                "Uterus",
-                "Cervix"
-                ],
-                "answer": "Fallopian tube (ampulla)"
-            },
-            {
-                "question": "Sex of the baby is determined by:",
-                "options": [
-                "Sperm (X or Y chromosome)",
-                "Ovum",
-                "Maternal hormones",
-                "Placenta"
-                ],
-                "answer": "Sperm (X or Y chromosome)"
-            },
-            {
-                "question": "Zygote develops into a blastocyst which contains:",
-                "options": [
-                "Trophoblast and inner cell mass",
-                "Only trophoblast",
-                "Only inner cell mass",
-                "Amniotic fluid only"
-                ],
-                "answer": "Trophoblast and inner cell mass"
-            },
-            {
-                "question": "The trophoblast forms:",
-                "options": [
-                "Placenta and chorion",
-                "Fetus",
-                "Umbilical cord only",
-                "Amniotic fluid"
-                ],
-                "answer": "Placenta and chorion"
-            },
-            {
-                "question": "The inner cell mass forms:",
-                "options": [
-                "Fetus, amnion, umbilical cord",
-                "Placenta",
-                "Chorion only",
-                "Maternal endometrium"
-                ],
-                "answer": "Fetus, amnion, umbilical cord"
-            },
-            {
-                "question": "Amniotic fluid functions to:",
-                "options": [
-                "Protect the fetus, allow movement, regulate temperature",
-                "Cause ovulation",
-                "Stimulate menstruation",
-                "Develop corpus luteum"
-                ],
-                "answer": "Protect the fetus, allow movement, regulate temperature"
-            },
-            {
-                "question": "The umbilical cord contains:",
-                "options": [
-                "Two arteries and one vein",
-                "Two veins and one artery",
-                "Only arteries",
-                "Only vein"
-                ],
-                "answer": "Two arteries and one vein"
-            }
+            { "question": "Which of these external genitalia in the female is considered the most sensitive region?", "options": ["The clitoris", "The labia majora", "The labia minora", "The vaginal opening"], "answer": "The clitoris" },
+            { "question": "Which of these internal female reproductive organs produce a mucous secretion to help nourish the spermatozoa?", "options": ["The vagina", "The cervix", "The uterus", "The ovaries"], "answer": "The uterus" },
+            { "question": "The triangular mound of fatty tissue that covers the pubic bone", "options": ["Mons Pubis", "Labia Majora", "The perineum.", "Labia Minora"], "answer": "Mons Pubis" },
+            { "question": "............... are comparable to the scrotum in males", "options": ["Labia Minora", "Labia Majora", "The ovaries", "The uterus"], "answer": "Labia Majora" },
+            { "question": "Which of the following is incorrect statement about Labia Majora", "options": ["Fleshy folds of tissue that extended from the mons pubis to the perineum.", "Protect the other external reproductive organs.", "contain sweat and oil-secreting glands", "Hairless folds."], "answer": "Hairless folds." },
+            { "question": "Which of the following is a correct statement about uterine tubes?", "options": ["They are directly connected to the ovaries.", "They are the site of implantation.", "They have no role in fertilization.", "They consist of the infundibulum, ampulla, and isthmus."], "answer": "They consist of the infundibulum, ampulla, and isthmus." },
+            { "question": "............... glands are found on each side of the vestibule.", "options": ["penile bulb.", "Vestibular bulb:", "Bartholin's glands.", "The lesser vestibular glands"], "answer": "Bartholin's glands." },
+            { "question": "............... glands are homologous to the male prostate.", "options": ["Vestibular bulb", "Bartholin's glands.", "The greater vestibular", "The lesser vestibular glands"], "answer": "The lesser vestibular glands" },
+            { "question": "The vagina communicates superiorly with the ........", "options": ["Rectum", "The uterus", "urinary bladder", "cervical canal and opens"], "answer": "cervical canal and opens" },
+            { "question": "During which period does the puerperium refer to?", "options": ["The second trimester of pregnancy", "The six week period after delivery", "The first trimester of pregnancy", "The third trimester of pregnancy"], "answer": "The six week period after delivery" },
+            { "question": "How is uterine involution assessed?", "options": ["By counting the number of contractions", "By measuring the fundus by fingerbreadths", "By measuring the length of the umbilical cord", "By estimating the weight of the baby"], "answer": "By measuring the fundus by fingerbreadths" },
+            { "question": "Which type of lochia should the nurse expect to find in a client 2 days PP?", "options": ["Lochia delta", "Lochia serosa", "Lochia alba", "Lochia rubra"], "answer": "Lochia rubra" },
+            { "question": "The postpartum period is also referred to as ________ or the fourth stage of pregnancy.", "options": ["Puerperium", "Menarche", "Lactation", "Gestation"], "answer": "Puerperium" },
+            { "question": "What is the postpartum period?", "options": ["The first trimester", "The time during pregnancy", "The time before conception", "The interval between birth and return of reproductive organs to their nonpregnant state"], "answer": "The interval between birth and return of reproductive organs to their nonpregnant state" },
+            { "question": "How long does the postpartum period traditionally last?", "options": ["2 weeks", "4 weeks", "6 weeks", "8 weeks"], "answer": "6 weeks" },
+            { "question": "What is the involution process in the context of the uterus?", "options": ["The involution process is the onset of labor contractions.", "The involution process is the expansion of the uterus during pregnancy.", "The involution process is the formation of the placenta after conception.", "The involution process is the return of the uterus to a nonpregnant state following birth."], "answer": "The involution process is the return of the uterus to a nonpregnant state following birth." },
+            { "question": "How rapidly does the involution process of the uterus progress?", "options": ["Fundus descends 1 every 24 hours", "Fundus does not descend after birth", "Fundus descends 5 cm every 24 hours", "Fundus descends 1 to 2 cm every week"], "answer": "Fundus descends 1 every 24 hours" },
+            { "question": "How many weeks after childbirth is the uterus no longer palpable?", "options": ["2 weeks after childbirth the uterus is no longer palpable.", "1 week after childbirth the uterus is no longer palpable.", "4 weeks after childbirth the uterus is no longer palpable.", "6 weeks after childbirth the uterus is no longer palpable."], "answer": "6 weeks after childbirth the uterus is no longer palpable." },
+            { "question": "Critical period for monitoring complications such as postpartum hemorrhage (PPH) and uterine atony", "options": ["Partum", "Late Postpartum", "Early Postpartum", "Immediate Postpartum"], "answer": "Immediate Postpartum" },
+            { "question": "Late Postpartum", "options": ["First 24 hours", "Day 2 to Day 7", "Week 2 to 6", "6 or up to 12 weeks"], "answer": "Week 2 to 6" },
+            { "question": "Assisted reproductive technologies used to treat infertility include the following:", "options": ["Induction of ovulation", "In vitro fertilization (IVF)", "Zygote intrafallopian transfer (ZIFT)", "Gamete intrafallopian transfer (GIFT)"], "answer": "Induction of ovulation" },
+            { "question": "To be considered a PPH, what would the estimated blood loss have to be for a C-section?", "options": ["< 550 ML", "> 600 ML", "> 1000 ML", "< 900 ML"], "answer": "> 1000 ML" },
+            { "question": "Fertility in women is impaired by", "options": ["Hernia", "High blood pressure", "Obesity", "Gallstones"], "answer": "Obesity" },
+            { "question": "Infertility is when a couple fails to conceive after", "options": ["4 years of unprotected sex", "3 years of unprotected sex", "2 years of unprotected sex", "1 year of unprotected sex"], "answer": "1 year of unprotected sex" },
+            { "question": "In women, this sexually transmitted disease can result in infertility", "options": ["Human papillomavirus (HPV)", "Pelvic inflammatory disease", "Genital herpes", "Hernia"], "answer": "Pelvic inflammatory disease" },
+            { "question": "Sterility defines as failure of conception due to incurable cause.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Failure of conception after a period of previous fertility is secondary infertility.", "options": ["True", "False"], "answer": "True" },
+            { "question": "PPH is defined as blood loss of > 500 ml following caesarean delivery within 24 hours of childbirth.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Late Postpartum start 2 to 6 or up to 12 weeks", "options": ["True", "False"], "answer": "True" },
+            { "question": "Lochia rubra bright red, lasts 4-10 days", "options": ["True", "False"], "answer": "False" },
+            { "question": "Major obstetric hemorrhage is denied as blood loss in excess of 1,000 ml.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Most mothers resume menstruation within 7 to 9 weeks after childbirth.", "options": ["True", "False"], "answer": "True" },
+            { "question": "In lactating mothers, menstruation usually 3-4 months, and sometimes as late as 24 months.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Postpartum physiological bradycardia mean decreases to rate 60 to 70 b/m for 24-48 hrs", "options": ["True", "False"], "answer": "True" },
+            { "question": "PPH is defined as blood loss of more than 24 hours after childbirth but within 6 weeks postpartum.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Failure to ovulate is the most common infertility problem.", "options": ["True", "False"], "answer": "True" },
+            { "question": "The main cause of male infertility is diseases of the hypothalamus", "options": ["True", "False"], "answer": "False" },
+            { "question": "Pelvic ultrasonograms most frequently used diagnostic tool to assess endometrial cavity", "options": ["True", "False"], "answer": "False" },
+            {"question":"Which bones form the innominate bone?","options":["Ilium, Ischium, Pubis","Femur, Tibia, Fibula","Sacrum, Coccyx, Femur","Sacrum, Ilium, Pubis"],"answer":"Ilium, Ischium, Pubis"},
+            {"question":"The false pelvis is located:","options":["Above the pelvic brim","Below the pelvic brim","Forms the birth canal","Narrow and heart-shaped"],"answer":"Above the pelvic brim"},
+            {"question":"The true pelvis is mainly important for:","options":["Digestion","Childbirth","Breathing","Posture"],"answer":"Childbirth"},
+            {"question":"Which pelvic type is most favorable for normal vaginal delivery?","options":["Gynaecoid","Anthropoid","Android","Platypelloid"],"answer":"Gynaecoid"},
+            {"question":"Which pelvic type resembles a male pelvis?","options":["Gynaecoid","Anthropoid","Android","Platypelloid"],"answer":"Android"},
+            {"question":"The subpubic angle in a female pelvis is generally:","options":["Narrow","Wide","Heart-shaped","Flat"],"answer":"Wide"},
+            {"question":"The ischial spines in females are:","options":["Larger","Smaller","Curved","Not present"],"answer":"Smaller"},
+            {"question":"Which structure forms the posterior boundary of the pelvic inlet?","options":["Symphysis pubis","Sacral promontory","Ischial tuberosity","Coccyx"],"answer":"Sacral promontory"},
+            {"question":"The pelvic outlet is bounded posteriorly by:","options":["Symphysis pubis","Coccyx","Iliac crest","Sacroiliac joint"],"answer":"Coccyx"},
+            {"question":"Bi-spinous diameter relates to:","options":["Distance between sacrum and symphysis","Distance between ischial spines","Width of the pubic arch","Length of sacrum"],"answer":"Distance between ischial spines"},
+            {"question":"Which muscle is part of the levator ani?","options":["Pubococcygeus","Gluteus maximus","Sartorius","Rectus femoris"],"answer":"Pubococcygeus"},
+            {"question":"Damage to the pelvic floor can cause:","options":["Urinary incontinence","Asthma","Diabetes","Heart disease"],"answer":"Urinary incontinence"},
+            {"question":"The blood supply of the pelvis comes mainly from:","options":["Internal iliac arteries","Femoral artery","External carotid","Pulmonary artery"],"answer":"Internal iliac arteries"},
+            {"question":"Lymph from the pelvis drains mainly into:","options":["Cervical nodes","Aortic and iliac nodes","Axillary nodes","Inguinal nodes only"],"answer":"Aortic and iliac nodes"},
+            {"question":"The male pelvis compared to female pelvis has:","options":["Narrower pelvic inlet","Wider subpubic arch","Movable coccyx","Straight side walls"],"answer":"Narrower pelvic inlet"},
+            {"question":"The pelvic cavity roof is formed by:","options":["Pelvic diaphragm","Pelvic brim","Symphysis pubis","Coccyx"],"answer":"Pelvic brim"},
+            {"question":"The pelvic cavity floor is formed by:","options":["Pelvic floor muscles","Sacral promontory","Ischial spines","Iliac crest"],"answer":"Pelvic floor muscles"},
+            {"question":"The sacro-sciatic notch in gynaecoid pelvis is:","options":["Narrow","Wide","Triangular","Flat"],"answer":"Wide"},
+            {"question":"The true pelvis includes:","options":["Inlet, cavity, outlet","Only inlet and outlet","Only cavity","False pelvis only"],"answer":"Inlet, cavity, outlet"},
+            {"question":"The pelvic floor muscles help mainly in:","options":["Supporting pelvic organs","Breathing","Digestion","Arm movement"],"answer":"Supporting pelvic organs"},
+            {"question":"The fetal skull is divided into:","options":["Face, vault, base","Cranial, facial, spinal","Vault, brain, spine","Base, neck, limbs"],"answer":"Face, vault, base"},
+            {"question":"Which bones of the fetal skull are heavy and fused?","options":["Face and base","Vault","Parietal","Frontal"],"answer":"Face and base"},
+            {"question":"Which bones of the fetal skull form the vault?","options":["Two frontal, two parietal, occipital","Maxilla, mandible, nasal","Temporal and sphenoid","Zygomatic and lacrimal"],"answer":"Two frontal, two parietal, occipital"},
+            {"question":"The anterior fontanel is also called:","options":["Bregma","Lambda","Coronal","Sagittal"],"answer":"Bregma"},
+            {"question":"The posterior fontanel is also called:","options":["Lambda","Bregma","Coronal","Sagittal"],"answer":"Lambda"},
+            {"question":"Sutures are:","options":["Membranous spaces between fetal skull bones","Muscles of the head","Cartilage of the spine","Ligaments of the pelvis"],"answer":"Membranous spaces between fetal skull bones"},
+            {"question":"The sagittal suture lies between:","options":["Two parietal bones","Frontal and parietal","Parietal and occipital","Frontal bones only"],"answer":"Two parietal bones"},
+            {"question":"Molding occurs to:","options":["Reduce fetal head diameter to pass through the birth canal","Increase fetal head size","Strengthen fetal bones","Protect maternal pelvis"],"answer":"Reduce fetal head diameter to pass through the birth canal"},
+            {"question":"Station refers to:","options":["Relationship of fetal presenting part to maternal ischial spines","Fetal heart rate","Maternal blood pressure","Length of labor"],"answer":"Relationship of fetal presenting part to maternal ischial spines"},
+            {"question":"Fetal lie is:","options":["Relationship between long axis of fetus and mother","Part of fetal skull","Uterine contraction pattern","Umbilical cord length"],"answer":"Relationship between long axis of fetus and mother"},
+            {"question":"Fetal attitude describes:","options":["Relationship between fetal parts to each other","Position of placenta","Amniotic fluid amount","Maternal posture"],"answer":"Relationship between fetal parts to each other"},
+            {"question":"Cephalic presentation means:","options":["Head first","Buttocks first","Shoulder first","Feet first"],"answer":"Head first"},
+            {"question":"Breech presentation means:","options":["Buttocks first","Head first","Shoulder first","Face first"],"answer":"Buttocks first"},
+            {"question":"Occiput anterior (OA) is:","options":["Easiest fetal head position for vaginal delivery","Hardest position","Breech","Transverse"],"answer":"Easiest fetal head position for vaginal delivery"},
+            {"question":"LOA fetal position means:","options":["Left occiput anterior","Right occiput anterior","Left occiput posterior","Right shoulder first"],"answer":"Left occiput anterior"},
+            {"question":"ROA fetal position means:","options":["Right occiput anterior","Left occiput anterior","Breech","Face presentation"],"answer":"Right occiput anterior"},
+            {"question":"Leopold’s maneuvers are used to:","options":["Assess fetal position and presentation","Measure maternal blood pressure","Check uterine contractions","Evaluate pelvic floor strength"],"answer":"Assess fetal position and presentation"},
+            {"question":"Which suture is between the two frontal bones?","options":["Frontal suture","Sagittal suture","Coronal suture","Lambdoid suture"],"answer":"Frontal suture"},
+            {"question":"Which suture is located between parietal bones and occipital bone?","options":["Lambdoid suture","Sagittal suture","Coronal suture","Frontal suture"],"answer":"Lambdoid suture"},
+            {"question":"The fontanelles allow the fetal skull to:","options":["Overlap and mold during birth","Harden before delivery","Increase in thickness","Protect from infection"],"answer":"Overlap and mold during birth"},
+            {"question":"Oogenesis is the process of:","options":["Formation of female gametes (ova)","Formation of male gametes (sperm)","Fertilization of ovum","Menstrual bleeding"],"answer":"Formation of female gametes (ova)"},
+            {"question":"Gametes are:","options":["Reproductive cells","Muscle cells","Nerve cells","Bone cells"],"answer":"Reproductive cells"},
+            {"question":"Ovulation is:","options":["Release of a mature ovum from the ovary","Shedding of the endometrium","Formation of corpus luteum","Fertilization of ovum"],"answer":"Release of a mature ovum from the ovary"},
+            {"question":"The corpus luteum secretes:","options":["Progesterone and some estrogen","Only estrogen","Only FSH","Only LH"],"answer":"Progesterone and some estrogen"},
+            {"question":"Graafian follicles are:","options":["Small sacs in the ovary containing a maturing ovum","Part of the uterus lining","Sections of the fallopian tube","Placental structures"],"answer":"Small sacs in the ovary containing a maturing ovum"},
+            {"question":"The endometrium is:","options":["Lining of the uterus","Muscles of the ovary","Fetal membrane","Part of the cervix"],"answer":"Lining of the uterus"},
+            {"question":"Follicle-Stimulating Hormone (FSH) stimulates:","options":["Follicle growth and estrogen secretion","Ovulation directly","Progesterone release only","Menstrual bleeding"],"answer":"Follicle growth and estrogen secretion"},
+            {"question":"Luteinizing Hormone (LH) triggers:","options":["Ovulation","Follicle growth","Endometrial shedding","Fertilization"],"answer":"Ovulation"},
+            {"question":"Estrogen function includes:","options":["Repair and thickening of endometrium","Maintaining endometrium after ovulation","Inhibiting FSH only","Initiating labor"],"answer":"Repair and thickening of endometrium"},
+            {"question":"Progesterone function includes:","options":["Maintaining the endometrium for implantation","Stimulating follicle growth","Causing ovulation","Triggering menstruation"],"answer":"Maintaining the endometrium for implantation"},
+            {"question":"The follicular phase of the ovarian cycle occurs:","options":["Before ovulation","After ovulation","During fertilization","During menstruation only"],"answer":"Before ovulation"},
+            {"question":"The luteal phase occurs:","options":["After ovulation","Before ovulation","During menstruation only","During implantation only"],"answer":"After ovulation"},
+            {"question":"Menstruation occurs due to:","options":["Falling estrogen and progesterone levels","Rising estrogen only","High progesterone","FSH surge"],"answer":"Falling estrogen and progesterone levels"},
+            {"question":"Fertilization normally occurs in:","options":["Fallopian tube (ampulla)","Ovary","Uterus","Cervix"],"answer":"Fallopian tube (ampulla)"},
+            {"question":"Sex of the baby is determined by:","options":["Sperm (X or Y chromosome)","Ovum","Maternal hormones","Placenta"],"answer":"Sperm (X or Y chromosome)"},
+            {"question":"Zygote develops into a blastocyst which contains:","options":["Trophoblast and inner cell mass","Only trophoblast","Only inner cell mass","Amniotic fluid only"],"answer":"Trophoblast and inner cell mass"},
+            {"question":"The trophoblast forms:","options":["Placenta and chorion","Fetus","Umbilical cord only","Amniotic fluid"],"answer":"Placenta and chorion"},
+            {"question":"The inner cell mass forms:","options":["Fetus, amnion, umbilical cord","Placenta","Chorion only","Maternal endometrium"],"answer":"Fetus, amnion, umbilical cord"},
+            {"question":"Amniotic fluid functions to:","options":["Protect the fetus, allow movement, regulate temperature","Cause ovulation","Stimulate menstruation","Develop corpus luteum"],"answer":"Protect the fetus, allow movement, regulate temperature"},
+            {"question":"The umbilical cord contains:","options":["Two arteries and one vein","Two veins and one artery","Only arteries","Only vein"],"answer":"Two arteries and one vein"}
+
         ],
     },
     "التمريض القائم ع الأدلة": {
         "L1 Critical Thinking": [
-            {
-                "question": "What is the best definition of thinking?",
-                "options": [
-                "Emotional response to situations",
-                "Cognitive activity used to process information and solve problems",
-                "Habitual reaction to stimuli",
-                "Passive observation"
-                ],
-                "answer": "Cognitive activity used to process information and solve problems"
-            },
-            {
-                "question": "Critical thinking primarily involves:",
-                "options": [
-                "Memorization",
-                "Guessing outcomes",
-                "Evaluating and analyzing information",
-                "Following routines"
-                ],
-                "answer": "Evaluating and analyzing information"
-            },
-            {
-                "question": "Which skill involves understanding meaning of information?",
-                "options": ["Analysis", "Evaluation", "Interpretation", "Explanation"],
-                "answer": "Interpretation"
-            },
-            {
-                "question": "A nurse checks if data is reliable and relevant. This is:",
-                "options": ["Analysis", "Evaluation", "Explanation", "Interpretation"],
-                "answer": "Evaluation"
-            },
-            {
-                "question": "Self-regulation refers to:",
-                "options": [
-                "Following protocols",
-                "Monitoring one's own thinking",
-                "Ignoring bias",
-                "Memorizing facts"
-                ],
-                "answer": "Monitoring one's own thinking"
-            },
-            {
-                "question": "Which is NOT a critical thinking skill?",
-                "options": ["Interpretation", "Evaluation", "Memorization", "Analysis"],
-                "answer": "Memorization"
-            },
-            {
-                "question": "A critical thinker is characterized by:",
-                "options": [
-                "Emotional decisions",
-                "Closed mindset",
-                "Open-mindedness",
-                "Ignoring others"
-                ],
-                "answer": "Open-mindedness"
-            },
-            {
-                "question": "Which behavior shows a critical thinker?",
-                "options": [
-                "Acts without thinking",
-                "Uses evidence for decisions",
-                "Rejects new ideas",
-                "Avoids communication"
-                ],
-                "answer": "Uses evidence for decisions"
-            },
-            {
-                "question": "Benefit of critical thinking in daily life:",
-                "options": [
-                "Faster guessing",
-                "Avoiding poor decisions",
-                "Less responsibility",
-                "Emotional thinking"
-                ],
-                "answer": "Avoiding poor decisions"
-            },
-            {
-                "question": "Which principle is correct?",
-                "options": [
-                "Accept conclusions without questioning",
-                "Gather complete information",
-                "Ignore biases",
-                "Focus on one cause"
-                ],
-                "answer": "Gather complete information"
-            },
-            {
-                "question": "First step in critical thinking process:",
-                "options": [
-                "Analyze data",
-                "Identify problem",
-                "Make decision",
-                "Evaluate results"
-                ],
-                "answer": "Identify problem"
-            },
-            {
-                "question": "Asking \"Is this source reliable?\" is:",
-                "options": ["Interpretation", "Evaluation", "Explanation", "Self-regulation"],
-                "answer": "Evaluation"
-            },
-            {
-                "question": "Which is a barrier to critical thinking?",
-                "options": [
-                "Open-mindedness",
-                "Egocentric thinking",
-                "Flexibility",
-                "Communication"
-                ],
-                "answer": "Egocentric thinking"
-            },
-            {
-                "question": "Egocentric thinking means:",
-                "options": [
-                "Thinking logically",
-                "Thinking about others",
-                "Focusing only on oneself",
-                "Using evidence"
-                ],
-                "answer": "Focusing only on oneself"
-            },
-            {
-                "question": "Working under time pressure leads to:",
-                "options": [
-                "Better thinking",
-                "Poor decisions",
-                "Strong analysis",
-                "Better judgment"
-                ],
-                "answer": "Poor decisions"
-            },
-            {
-                "question": "\"Drone mentality\" refers to:",
-                "options": [
-                "Critical analysis",
-                "Automatic behavior without thinking",
-                "Logical reasoning",
-                "Creative thinking"
-                ],
-                "answer": "Automatic behavior without thinking"
-            },
-            {
-                "question": "Social conditioning can:",
-                "options": [
-                "Improve logic",
-                "Create bias",
-                "Increase flexibility",
-                "Improve reasoning"
-                ],
-                "answer": "Create bias"
-            },
-            {
-                "question": "A nurse considers multiple viewpoints. This is:",
-                "options": ["Bias", "Critical thinking", "Emotion", "Guessing"],
-                "answer": "Critical thinking"
-            },
-            {
-                "question": "Which step comes after data collection?",
-                "options": ["Decision", "Analysis", "Communication", "Assumption"],
-                "answer": "Analysis"
-            },
-            {
-                "question": "Identifying hidden assumptions occurs in:",
-                "options": ["First step", "Mid process", "Final step", "Not included"],
-                "answer": "Mid process"
-            },
-            {
-                "question": "Which is a principle of critical thinking?",
-                "options": [
-                "Accept all data",
-                "Question sources",
-                "Avoid questions",
-                "Ignore evidence"
-                ],
-                "answer": "Question sources"
-            },
-            {
-                "question": "A nurse explains her reasoning clearly. This is:",
-                "options": ["Evaluation", "Explanation", "Interpretation", "Analysis"],
-                "answer": "Explanation"
-            },
-            {
-                "question": "Which improves critical thinking?",
-                "options": [
-                "Avoid learning",
-                "Continuous learning",
-                "Ignoring others",
-                "Routine work"
-                ],
-                "answer": "Continuous learning"
-            },
-            {
-                "question": "Ethical decision-making involves:",
-                "options": [
-                "Self-interest",
-                "Majority benefit",
-                "Quick judgment",
-                "Bias"
-                ],
-                "answer": "Majority benefit"
-            },
-            {
-                "question": "Listening to new opinions helps:",
-                "options": ["Bias", "Critical thinking", "Emotional thinking", "Confusion"],
-                "answer": "Critical thinking"
-            },
-            {
-                "question": "Avoiding analysis paralysis means:",
-                "options": [
-                "Ignore data",
-                "Balance thinking and action",
-                "Stop thinking",
-                "Guess"
-                ],
-                "answer": "Balance thinking and action"
-            },
-            {
-                "question": "A nurse reflects on her decisions. This is:",
-                "options": ["Analysis", "Self-regulation", "Evaluation", "Explanation"],
-                "answer": "Self-regulation"
-            },
-            {
-                "question": "Which is NOT a benefit?",
-                "options": [
-                "Better decisions",
-                "Open-mindedness",
-                "Increased bias",
-                "Problem solving"
-                ],
-                "answer": "Increased bias"
-            },
-            {
-                "question": "Critical thinking helps nurses:",
-                "options": [
-                "Memorize only",
-                "Make safe decisions",
-                "Avoid patients",
-                "Work blindly"
-                ],
-                "answer": "Make safe decisions"
-            },
-            {
-                "question": "Which is part of process?",
-                "options": [
-                "Ignore data",
-                "Gather information",
-                "Avoid decisions",
-                "Skip analysis"
-                ],
-                "answer": "Gather information"
-            },
-            {
-                "question": "Bias affects:",
-                "options": ["Objectivity", "Accuracy", "Judgment", "All of the above"],
-                "answer": "All of the above"
-            },
-            {
-                "question": "Which shows flexibility?",
-                "options": [
-                "Reject ideas",
-                "Accept change",
-                "Ignore data",
-                "Stick to habits"
-                ],
-                "answer": "Accept change"
-            },
-            {
-                "question": "A nurse checks big picture. This is:",
-                "options": [
-                "Narrow thinking",
-                "Critical thinking",
-                "Emotional thinking",
-                "Guessing"
-                ],
-                "answer": "Critical thinking"
-            },
-            {
-                "question": "Which step includes choosing best solution?",
-                "options": ["Analysis", "Decision", "Data collection", "Interpretation"],
-                "answer": "Decision"
-            },
-            {
-                "question": "Which is NOT a barrier?",
-                "options": ["Bias", "Arrogance", "Open mind", "Time pressure"],
-                "answer": "Open mind"
-            },
-            {
-                "question": "Critical thinkers avoid:",
-                "options": ["Bias", "Evidence", "Logic", "Learning"],
-                "answer": "Bias"
-            },
-            {
-                "question": "Which skill checks outcomes?",
-                "options": ["Evaluation", "Interpretation", "Analysis", "Explanation"],
-                "answer": "Evaluation"
-            },
-            {
-                "question": "Good communication helps:",
-                "options": ["Bias", "Thinking", "Errors", "Confusion"],
-                "answer": "Thinking"
-            },
-            {
-                "question": "Critical thinking requires:",
-                "options": [
-                "Ignoring others",
-                "Considering evidence",
-                "Emotional decisions",
-                "Guessing"
-                ],
-                "answer": "Considering evidence"
-            },
-            {
-                "question": "Final step is:",
-                "options": ["Analysis", "Decision", "Communication", "Evaluation"],
-                "answer": "Communication"
-            },
-            {
-                "question": "Thinking is a static process.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "Critical thinking includes evaluation of data.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Interpretation means judging credibility.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "Self-regulation involves reflecting on thinking.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Critical thinkers ignore other opinions.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "Open-mindedness is a key trait.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Bias improves decision-making.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "Time pressure can reduce thinking quality.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Critical thinking avoids questioning.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "Gathering data is the first step.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "Evaluation checks reliability.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Egocentric thinking focuses on others.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "Critical thinking helps avoid mistakes.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Drone mentality improves awareness.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "Communication is part of final step.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Bias can come from experience.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Critical thinking requires no evidence.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "Flexibility is important for thinkers.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Analysis comes before data collection.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "Critical thinking helps in clinical decisions.",
-                "options": ["True", "False"],
-                "answer": "True"
-            }
+            { "question": "What is the best definition of thinking?", "options": ["Emotional response to situations", "Cognitive activity used to process information and solve problems", "Habitual reaction to stimuli", "Passive observation"], "answer": "Cognitive activity used to process information and solve problems" },
+            { "question": "Critical thinking primarily involves:", "options": ["Memorization", "Guessing outcomes", "Evaluating and analyzing information", "Following routines"], "answer": "Evaluating and analyzing information" },
+            { "question": "Which skill involves understanding meaning of information?", "options": ["Analysis", "Evaluation", "Interpretation", "Explanation"], "answer": "Interpretation" },
+            { "question": "A nurse checks if data is reliable and relevant. This is:", "options": ["Analysis", "Evaluation", "Explanation", "Interpretation"], "answer": "Evaluation" },
+            { "question": "Self-regulation refers to:", "options": ["Following protocols", "Monitoring one's own thinking", "Ignoring bias", "Memorizing facts"], "answer": "Monitoring one's own thinking" },
+            { "question": "Which is NOT a critical thinking skill?", "options": ["Interpretation", "Evaluation", "Memorization", "Analysis"], "answer": "Memorization" },
+            { "question": "A critical thinker is characterized by:", "options": ["Emotional decisions", "Closed mindset", "Open-mindedness", "Ignoring others"], "answer": "Open-mindedness" },
+            { "question": "Which behavior shows a critical thinker?", "options": ["Acts without thinking", "Uses evidence for decisions", "Rejects new ideas", "Avoids communication"], "answer": "Uses evidence for decisions" },
+            { "question": "Benefit of critical thinking in daily life:", "options": ["Faster guessing", "Avoiding poor decisions", "Less responsibility", "Emotional thinking"], "answer": "Avoiding poor decisions" },
+            { "question": "Which principle is correct?", "options": ["Accept conclusions without questioning", "Gather complete information", "Ignore biases", "Focus on one cause"], "answer": "Gather complete information" },
+            { "question": "First step in critical thinking process:", "options": ["Analyze data", "Identify problem", "Make decision", "Evaluate results"], "answer": "Identify problem" },
+            { "question": "Asking \"Is this source reliable?\" is:", "options": ["Interpretation", "Evaluation", "Explanation", "Self-regulation"], "answer": "Evaluation" },
+            { "question": "Which is a barrier to critical thinking?", "options": ["Open-mindedness", "Egocentric thinking", "Flexibility", "Communication"], "answer": "Egocentric thinking" },
+            { "question": "Egocentric thinking means:", "options": ["Thinking logically", "Thinking about others", "Focusing only on oneself", "Using evidence"], "answer": "Focusing only on oneself" },
+            { "question": "Working under time pressure leads to:", "options": ["Better thinking", "Poor decisions", "Strong analysis", "Better judgment"], "answer": "Poor decisions" },
+            { "question": "\"Drone mentality\" refers to:", "options": ["Critical analysis", "Automatic behavior without thinking", "Logical reasoning", "Creative thinking"], "answer": "Automatic behavior without thinking" },
+            { "question": "Social conditioning can:", "options": ["Improve logic", "Create bias", "Increase flexibility", "Improve reasoning"], "answer": "Create bias" },
+            { "question": "A nurse considers multiple viewpoints. This is:", "options": ["Bias", "Critical thinking", "Emotion", "Guessing"], "answer": "Critical thinking" },
+            { "question": "Which step comes after data collection?", "options": ["Decision", "Analysis", "Communication", "Assumption"], "answer": "Analysis" },
+            { "question": "Identifying hidden assumptions occurs in:", "options": ["First step", "Mid process", "Final step", "Not included"], "answer": "Mid process" },
+            { "question": "Which is a principle of critical thinking?", "options": ["Accept all data", "Question sources", "Avoid questions", "Ignore evidence"], "answer": "Question sources" },
+            { "question": "A nurse explains her reasoning clearly. This is:", "options": ["Evaluation", "Explanation", "Interpretation", "Analysis"], "answer": "Explanation" },
+            { "question": "Which improves critical thinking?", "options": ["Avoid learning", "Continuous learning", "Ignoring others", "Routine work"], "answer": "Continuous learning" },
+            { "question": "Ethical decision-making involves:", "options": ["Self-interest", "Majority benefit", "Quick judgment", "Bias"], "answer": "Majority benefit" },
+            { "question": "Listening to new opinions helps:", "options": ["Bias", "Critical thinking", "Emotional thinking", "Confusion"], "answer": "Critical thinking" },
+            { "question": "Avoiding analysis paralysis means:", "options": ["Ignore data", "Balance thinking and action", "Stop thinking", "Guess"], "answer": "Balance thinking and action" },
+            { "question": "A nurse reflects on her decisions. This is:", "options": ["Analysis", "Self-regulation", "Evaluation", "Explanation"], "answer": "Self-regulation" },
+            { "question": "Which is NOT a benefit?", "options": ["Better decisions", "Open-mindedness", "Increased bias", "Problem solving"], "answer": "Increased bias" },
+            { "question": "Critical thinking helps nurses:", "options": ["Memorize only", "Make safe decisions", "Avoid patients", "Work blindly"], "answer": "Make safe decisions" },
+            { "question": "Which is part of process?", "options": ["Ignore data", "Gather information", "Avoid decisions", "Skip analysis"], "answer": "Gather information" },
+            { "question": "Bias affects:", "options": ["Objectivity", "Accuracy", "Judgment", "All of the above"], "answer": "All of the above" },
+            { "question": "Which shows flexibility?", "options": ["Reject ideas", "Accept change", "Ignore data", "Stick to habits"], "answer": "Accept change" },
+            { "question": "A nurse checks big picture. This is:", "options": ["Narrow thinking", "Critical thinking", "Emotional thinking", "Guessing"], "answer": "Critical thinking" },
+            { "question": "Which step includes choosing best solution?", "options": ["Analysis", "Decision", "Data collection", "Interpretation"], "answer": "Decision" },
+            { "question": "Which is NOT a barrier?", "options": ["Bias", "Arrogance", "Open mind", "Time pressure"], "answer": "Open mind" },
+            { "question": "Critical thinkers avoid:", "options": ["Bias", "Evidence", "Logic", "Learning"], "answer": "Bias" },
+            { "question": "Which skill checks outcomes?", "options": ["Evaluation", "Interpretation", "Analysis", "Explanation"], "answer": "Evaluation" },
+            { "question": "Good communication helps:", "options": ["Bias", "Thinking", "Errors", "Confusion"], "answer": "Thinking" },
+            { "question": "Critical thinking requires:", "options": ["Ignoring others", "Considering evidence", "Emotional decisions", "Guessing"], "answer": "Considering evidence" },
+            { "question": "Final step is:", "options": ["Analysis", "Decision", "Communication", "Evaluation"], "answer": "Communication" },
+
+            { "question": "Thinking is a static process.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Critical thinking includes evaluation of data.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Interpretation means judging credibility.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Self-regulation involves reflecting on thinking.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Critical thinkers ignore other opinions.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Open-mindedness is a key trait.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Bias improves decision-making.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Time pressure can reduce thinking quality.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Critical thinking avoids questioning.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Gathering data is the first step.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Evaluation checks reliability.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Egocentric thinking focuses on others.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Critical thinking helps avoid mistakes.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Drone mentality improves awareness.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Communication is part of final step.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Bias can come from experience.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Critical thinking requires no evidence.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Flexibility is important for thinkers.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Analysis comes before data collection.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Critical thinking helps in clinical decisions.", "options": ["True", "False"], "answer": "True" }
+
         ],
         "L2 Introduction to EBP": [
-            {
-                "question": "Evidence-Based Practice (EBP) is best described as:",
-                "options": [
-                "Using only clinical experience",
-                "Using research evidence only",
-                "Integrating evidence, expertise, and patient preferences",
-                "Following hospital protocol only"
-                ],
-                "answer": "Integrating evidence, expertise, and patient preferences"
-            },
-            {
-                "question": "Which is NOT a component of EBP?",
-                "options": [
-                "Best evidence",
-                "Clinical expertise",
-                "Patient preferences",
-                "Personal opinion only"
-                ],
-                "answer": "Personal opinion only"
-            },
-            {
-                "question": "First step in EBP:",
-                "options": ["Apply", "Ask", "Assess", "Appraise"],
-                "answer": "Ask"
-            },
-            {
-                "question": "PICOT “P” refers to:",
-                "options": ["Procedure", "Patient/Population", "Plan", "Problem"],
-                "answer": "Patient/Population"
-            },
-            {
-                "question": "PICOT “I” stands for:",
-                "options": ["Issue", "Intervention", "Impact", "Idea"],
-                "answer": "Intervention"
-            },
-            {
-                "question": "PICOT “C” means:",
-                "options": ["Control/Comparison", "Condition", "Care", "Case"],
-                "answer": "Control/Comparison"
-            },
-            {
-                "question": "PICOT “O” refers to:",
-                "options": ["Objective", "Outcome", "Observation", "Order"],
-                "answer": "Outcome"
-            },
-            {
-                "question": "PICOT “T” indicates:",
-                "options": ["Treatment", "Time or study type", "Trend", "Test"],
-                "answer": "Time or study type"
-            },
-            {
-                "question": "Which step involves searching for evidence?",
-                "options": ["Ask", "Acquire", "Apply", "Assess"],
-                "answer": "Acquire"
-            },
-            {
-                "question": "Appraisal step focuses on:",
-                "options": [
-                "Collecting data",
-                "Judging validity and relevance",
-                "Implementing care",
-                "Asking question"
-                ],
-                "answer": "Judging validity and relevance"
-            },
-            {
-                "question": "Applying EBP means:",
-                "options": [
-                "Ignoring patient preference",
-                "Using evidence in decision-making",
-                "Reading research only",
-                "Writing reports"
-                ],
-                "answer": "Using evidence in decision-making"
-            },
-            {
-                "question": "Assess step means:",
-                "options": [
-                "Implement intervention",
-                "Evaluate outcomes",
-                "Search literature",
-                "Identify problem"
-                ],
-                "answer": "Evaluate outcomes"
-            },
-            {
-                "question": "Final step (Allow) refers to:",
-                "options": [
-                "Ignoring results",
-                "Sharing outcomes",
-                "Collecting data",
-                "Asking questions"
-                ],
-                "answer": "Sharing outcomes"
-            },
-            {
-                "question": "Which resource type summarizes evidence?",
-                "options": ["Unfiltered", "Filtered", "Background", "Primary"],
-                "answer": "Filtered"
-            },
-            {
-                "question": "Which is a primary source?",
-                "options": [
-                "Guidelines",
-                "Systematic reviews",
-                "Original research",
-                "Textbooks"
-                ],
-                "answer": "Original research"
-            },
-            {
-                "question": "Background resources provide:",
-                "options": [
-                "Raw data",
-                "Summary of research",
-                "General information",
-                "Clinical trials"
-                ],
-                "answer": "General information"
-            },
-            {
-                "question": "Highest level of evidence:",
-                "options": [
-                "Expert opinion",
-                "Case study",
-                "Systematic review",
-                "Observation"
-                ],
-                "answer": "Systematic review"
-            },
-            {
-                "question": "A major aim of EBP:",
-                "options": [
-                "Increase habits",
-                "Improve quality of care",
-                "Reduce knowledge",
-                "Avoid research"
-                ],
-                "answer": "Improve quality of care"
-            },
-            {
-                "question": "Which is a benefit of EBP?",
-                "options": [
-                "Increased errors",
-                "Better outcomes",
-                "Less confidence",
-                "More variation"
-                ],
-                "answer": "Better outcomes"
-            },
-            {
-                "question": "EBP reduces:",
-                "options": ["Knowledge", "Costs", "Skills", "Evidence"],
-                "answer": "Costs"
-            },
-            {
-                "question": "Barrier to EBP:",
-                "options": ["Knowledge", "Lack of time", "Training", "Resources"],
-                "answer": "Lack of time"
-            },
-            {
-                "question": "Organizational barrier:",
-                "options": [
-                "Open culture",
-                "Supportive system",
-                "Heavy workload",
-                "Research access"
-                ],
-                "answer": "Heavy workload"
-            },
-            {
-                "question": "Nurse-related barrier:",
-                "options": [
-                "Lack of knowledge",
-                "Evidence availability",
-                "Systematic reviews",
-                "Guidelines"
-                ],
-                "answer": "Lack of knowledge"
-            },
-            {
-                "question": "Critical thinking helps in EBP by:",
-                "options": [
-                "Ignoring data",
-                "Evaluating evidence",
-                "Guessing",
-                "Memorizing"
-                ],
-                "answer": "Evaluating evidence"
-            },
-            {
-                "question": "Which is a critical thinking skill?",
-                "options": ["Bias", "Evaluation", "Emotion", "Guess"],
-                "answer": "Evaluation"
-            },
-            {
-                "question": "A nurse compares interventions → which PICOT?",
-                "options": ["P", "I", "C", "O"],
-                "answer": "C"
-            },
-            {
-                "question": "Validity means:",
-                "options": [
-                "Speed of study",
-                "Accuracy of measurement",
-                "Sample size",
-                "Cost"
-                ],
-                "answer": "Accuracy of measurement"
-            },
-            {
-                "question": "Relevance refers to:",
-                "options": [
-                "Study design",
-                "Patient usefulness",
-                "Research cost",
-                "Sample"
-                ],
-                "answer": "Patient usefulness"
-            },
-            {
-                "question": "Which improves EBP?",
-                "options": [
-                "Ignoring research",
-                "Education and training",
-                "Bias",
-                "Routine"
-                ],
-                "answer": "Education and training"
-            },
-            {
-                "question": "Clinical reasoning requires:",
-                "options": [
-                "Emotion",
-                "Evidence + thinking",
-                "Guessing",
-                "Habit"
-                ],
-                "answer": "Evidence + thinking"
-            },
-            {
-                "question": "A nurse uses PubMed → type:",
-                "options": ["Filtered", "Background", "Unfiltered", "Secondary"],
-                "answer": "Unfiltered"
-            },
-            {
-                "question": "Guidelines are:",
-                "options": ["Primary", "Filtered", "Background", "Raw data"],
-                "answer": "Filtered"
-            },
-            {
-                "question": "Which is NOT benefit?",
-                "options": [
-                "Better outcomes",
-                "Reduced cost",
-                "Increased variation",
-                "Improved care"
-                ],
-                "answer": "Increased variation"
-            },
-            {
-                "question": "Asking PICOT question improves:",
-                "options": ["Confusion", "Focus", "Bias", "Guessing"],
-                "answer": "Focus"
-            },
-            {
-                "question": "Best decision combines:",
-                "options": [
-                "Opinion",
-                "Evidence + expertise + patient",
-                "Habit",
-                "Emotion"
-                ],
-                "answer": "Evidence + expertise + patient"
-            },
-            {
-                "question": "Research generates:",
-                "options": ["Opinions", "Knowledge", "Bias", "Assumptions"],
-                "answer": "Knowledge"
-            },
-            {
-                "question": "Critical appraisal checks:",
-                "options": ["Validity", "Relevance", "Results", "All"],
-                "answer": "All"
-            },
-            {
-                "question": "EBP begins with:",
-                "options": ["Treatment", "Question", "Evidence", "Decision"],
-                "answer": "Question"
-            },
-            {
-                "question": "Which is correct sequence؟",
-                "options": [
-                "Ask → Acquire → Appraise → Apply → Assess → Allow",
-                "Acquire → Ask → Apply",
-                "Ask → Apply → Acquire",
-                "Appraise → Ask"
-                ],
-                "answer": "Ask → Acquire → Appraise → Apply → Assess → Allow"
-            },
-            {
-                "question": "Patient preference affects:",
-                "options": [
-                "Research only",
-                "Decision-making",
-                "Data collection",
-                "Analysis"
-                ],
-                "answer": "Decision-making"
-            },
-            {
-                "question": "EBP relies only on scientific research.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "PICOT helps in formulating a clear question.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Acquire means evaluating the evidence.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "Appraise focuses on validity.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Apply means implementing the decision.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Assess means collecting data.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "Allow means sharing the results.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Filtered resources are primary sources.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "PubMed is an unfiltered resource.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Systematic reviews provide the highest level of evidence.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "EBP reduces costs.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "EBP increases variation in practice.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "Lack of time is a barrier to EBP.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Background resources provide general information.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Validity is the same as relevance.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "Patient preference is part of decision-making.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Critical thinking is not important in EBP.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "EBP begins with a question.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Research generates new knowledge.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Appraise comes before Acquire.",
-                "options": ["True", "False"],
-                "answer": "False"
-            }
+            { "question": "Evidence-Based Practice (EBP) is best described as:", "options": ["Using only clinical experience", "Using research evidence only", "Integrating evidence, expertise, and patient preferences", "Following hospital protocol only"], "answer": "Integrating evidence, expertise, and patient preferences" },
+            { "question": "Which is NOT a component of EBP?", "options": ["Best evidence", "Clinical expertise", "Patient preferences", "Personal opinion only"], "answer": "Personal opinion only" },
+            { "question": "First step in EBP:", "options": ["Apply", "Ask", "Assess", "Appraise"], "answer": "Ask" },
+            { "question": "PICOT “P” refers to:", "options": ["Procedure", "Patient/Population", "Plan", "Problem"], "answer": "Patient/Population" },
+            { "question": "PICOT “I” stands for:", "options": ["Issue", "Intervention", "Impact", "Idea"], "answer": "Intervention" },
+            { "question": "PICOT “C” means:", "options": ["Control/Comparison", "Condition", "Care", "Case"], "answer": "Control/Comparison" },
+            { "question": "PICOT “O” refers to:", "options": ["Objective", "Outcome", "Observation", "Order"], "answer": "Outcome" },
+            { "question": "PICOT “T” indicates:", "options": ["Treatment", "Time or study type", "Trend", "Test"], "answer": "Time or study type" },
+            { "question": "Which step involves searching for evidence?", "options": ["Ask", "Acquire", "Apply", "Assess"], "answer": "Acquire" },
+            { "question": "Appraisal step focuses on:", "options": ["Collecting data", "Judging validity and relevance", "Implementing care", "Asking question"], "answer": "Judging validity and relevance" },
+            { "question": "Applying EBP means:", "options": ["Ignoring patient preference", "Using evidence in decision-making", "Reading research only", "Writing reports"], "answer": "Using evidence in decision-making" },
+            { "question": "Assess step means:", "options": ["Implement intervention", "Evaluate outcomes", "Search literature", "Identify problem"], "answer": "Evaluate outcomes" },
+            { "question": "Final step (Allow) refers to:", "options": ["Ignoring results", "Sharing outcomes", "Collecting data", "Asking questions"], "answer": "Sharing outcomes" },
+            { "question": "Which resource type summarizes evidence?", "options": ["Unfiltered", "Filtered", "Background", "Primary"], "answer": "Filtered" },
+            { "question": "Which is a primary source?", "options": ["Guidelines", "Systematic reviews", "Original research", "Textbooks"], "answer": "Original research" },
+            { "question": "Background resources provide:", "options": ["Raw data", "Summary of research", "General information", "Clinical trials"], "answer": "General information" },
+            { "question": "Highest level of evidence:", "options": ["Expert opinion", "Case study", "Systematic review", "Observation"], "answer": "Systematic review" },
+            { "question": "A major aim of EBP:", "options": ["Increase habits", "Improve quality of care", "Reduce knowledge", "Avoid research"], "answer": "Improve quality of care" },
+            { "question": "Which is a benefit of EBP?", "options": ["Increased errors", "Better outcomes", "Less confidence", "More variation"], "answer": "Better outcomes" },
+            { "question": "EBP reduces:", "options": ["Knowledge", "Costs", "Skills", "Evidence"], "answer": "Costs" },
+            { "question": "Barrier to EBP:", "options": ["Knowledge", "Lack of time", "Training", "Resources"], "answer": "Lack of time" },
+            { "question": "Organizational barrier:", "options": ["Open culture", "Supportive system", "Heavy workload", "Research access"], "answer": "Heavy workload" },
+            { "question": "Nurse-related barrier:", "options": ["Lack of knowledge", "Evidence availability", "Systematic reviews", "Guidelines"], "answer": "Lack of knowledge" },
+            { "question": "Critical thinking helps in EBP by:", "options": ["Ignoring data", "Evaluating evidence", "Guessing", "Memorizing"], "answer": "Evaluating evidence" },
+            { "question": "Which is a critical thinking skill?", "options": ["Bias", "Evaluation", "Emotion", "Guess"], "answer": "Evaluation" },
+            { "question": "A nurse compares interventions → which PICOT?", "options": ["P", "I", "C", "O"], "answer": "C" },
+            { "question": "Validity means:", "options": ["Speed of study", "Accuracy of measurement", "Sample size", "Cost"], "answer": "Accuracy of measurement" },
+            { "question": "Relevance refers to:", "options": ["Study design", "Patient usefulness", "Research cost", "Sample"], "answer": "Patient usefulness" },
+            { "question": "Which improves EBP?", "options": ["Ignoring research", "Education and training", "Bias", "Routine"], "answer": "Education and training" },
+            { "question": "Clinical reasoning requires:", "options": ["Emotion", "Evidence + thinking", "Guessing", "Habit"], "answer": "Evidence + thinking" },
+            { "question": "A nurse uses PubMed → type:", "options": ["Filtered", "Background", "Unfiltered", "Secondary"], "answer": "Unfiltered" },
+            { "question": "Guidelines are:", "options": ["Primary", "Filtered", "Background", "Raw data"], "answer": "Filtered" },
+            { "question": "Which is NOT benefit?", "options": ["Better outcomes", "Reduced cost", "Increased variation", "Improved care"], "answer": "Increased variation" },
+            { "question": "Asking PICOT question improves:", "options": ["Confusion", "Focus", "Bias", "Guessing"], "answer": "Focus" },
+            { "question": "Best decision combines:", "options": ["Opinion", "Evidence + expertise + patient", "Habit", "Emotion"], "answer": "Evidence + expertise + patient" },
+            { "question": "Research generates:", "options": ["Opinions", "Knowledge", "Bias", "Assumptions"], "answer": "Knowledge" },
+            { "question": "Critical appraisal checks:", "options": ["Validity", "Relevance", "Results", "All"], "answer": "All" },
+            { "question": "EBP begins with:", "options": ["Treatment", "Question", "Evidence", "Decision"], "answer": "Question" },
+            { "question": "Which is correct sequence؟", "options": ["Ask → Acquire → Appraise → Apply → Assess → Allow", "Acquire → Ask → Apply", "Ask → Apply → Acquire", "Appraise → Ask"], "answer": "Ask → Acquire → Appraise → Apply → Assess → Allow" },
+            { "question": "Patient preference affects:", "options": ["Research only", "Decision-making", "Data collection", "Analysis"], "answer": "Decision-making" },
+
+            { "question": "EBP relies only on scientific research.", "options": ["True", "False"], "answer": "False" },
+            { "question": "PICOT helps in formulating a clear question.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Acquire means evaluating the evidence.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Appraise focuses on validity.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Apply means implementing the decision.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Assess means collecting data.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Allow means sharing the results.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Filtered resources are primary sources.", "options": ["True", "False"], "answer": "False" },
+            { "question": "PubMed is an unfiltered resource.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Systematic reviews provide the highest level of evidence.", "options": ["True", "False"], "answer": "True" },
+            { "question": "EBP reduces costs.", "options": ["True", "False"], "answer": "True" },
+            { "question": "EBP increases variation in practice.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Lack of time is a barrier to EBP.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Background resources provide general information.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Validity is the same as relevance.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Patient preference is part of decision-making.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Critical thinking is not important in EBP.", "options": ["True", "False"], "answer": "False" },
+            { "question": "EBP begins with a question.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Research generates new knowledge.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Appraise comes before Acquire.", "options": ["True", "False"], "answer": "False" }
+
         ],
         "L3 Steps of Evidence Based Resources": [
-            {
-                "question": "Which best defines Evidence-Based Practice?",
-                "options": [
-                "Following clinical habits",
-                "Using research only",
-                "Integrating evidence, expertise, and patient values",
-                "Using guidelines only"
-                ],
-                "answer": "Integrating evidence, expertise, and patient values"
-            },
-            {
-                "question": "Which is NOT one of EBP components?",
-                "options": [
-                "Best evidence",
-                "Clinical expertise",
-                "Patient values",
-                "Personal bias"
-                ],
-                "answer": "Personal bias"
-            },
-            {
-                "question": "First step in EBP process:",
-                "options": ["Acquire", "Ask", "Apply", "Assess"],
-                "answer": "Ask"
-            },
-            {
-                "question": "Which PICOT element identifies patient group?",
-                "options": ["I", "C", "P", "O"],
-                "answer": "P"
-            },
-            {
-                "question": "A nurse compares two treatments → which PICOT?",
-                "options": ["P", "I", "C", "T"],
-                "answer": "C"
-            },
-            {
-                "question": "Outcome in PICOT refers to:",
-                "options": ["Intervention", "Result", "Patient", "Time"],
-                "answer": "Result"
-            },
-            {
-                "question": "Acquire step includes:",
-                "options": [
-                "Evaluating evidence",
-                "Searching for evidence",
-                "Applying evidence",
-                "Sharing results"
-                ],
-                "answer": "Searching for evidence"
-            },
-            {
-                "question": "Appraisal step evaluates:",
-                "options": ["Quantity", "Validity and relevance", "Cost", "Time"],
-                "answer": "Validity and relevance"
-            },
-            {
-                "question": "Validity means:",
-                "options": [
-                "Study speed",
-                "Accuracy of measurement",
-                "Sample size",
-                "Cost"
-                ],
-                "answer": "Accuracy of measurement"
-            },
-            {
-                "question": "Relevance means:",
-                "options": [
-                "Research design",
-                "Applicability to patient",
-                "Sample size",
-                "Time"
-                ],
-                "answer": "Applicability to patient"
-            },
-            {
-                "question": "Apply step focuses on:",
-                "options": [
-                "Searching",
-                "Decision-making",
-                "Questioning",
-                "Publishing"
-                ],
-                "answer": "Decision-making"
-            },
-            {
-                "question": "Assess step refers to:",
-                "options": [
-                "Data collection",
-                "Outcome evaluation",
-                "Research design",
-                "Question formation"
-                ],
-                "answer": "Outcome evaluation"
-            },
-            {
-                "question": "Allow step involves:",
-                "options": [
-                "Ignoring results",
-                "Disseminating findings",
-                "Collecting data",
-                "Analyzing"
-                ],
-                "answer": "Disseminating findings"
-            },
-            {
-                "question": "Background resources provide:",
-                "options": [
-                "Primary research",
-                "General knowledge",
-                "Summarized evidence",
-                "Clinical trials"
-                ],
-                "answer": "General knowledge"
-            },
-            {
-                "question": "Filtered resources:",
-                "options": [
-                "Raw data",
-                "Secondary summaries",
-                "Opinions",
-                "Personal notes"
-                ],
-                "answer": "Secondary summaries"
-            },
-            {
-                "question": "Unfiltered resources:",
-                "options": [
-                "Guidelines",
-                "Systematic reviews",
-                "Original studies",
-                "Textbooks"
-                ],
-                "answer": "Original studies"
-            },
-            {
-                "question": "Which is example of unfiltered resource?",
-                "options": ["Cochrane", "Guidelines", "PubMed", "Textbook"],
-                "answer": "PubMed"
-            },
-            {
-                "question": "Highest level of evidence:",
-                "options": [
-                "Case reports",
-                "Expert opinion",
-                "Systematic reviews",
-                "Cohort studies"
-                ],
-                "answer": "Systematic reviews"
-            },
-            {
-                "question": "EBP aims to:",
-                "options": [
-                "Increase variation",
-                "Improve care quality",
-                "Reduce knowledge",
-                "Ignore research"
-                ],
-                "answer": "Improve care quality"
-            },
-            {
-                "question": "Which is benefit of EBP?",
-                "options": [
-                "Increased cost",
-                "Better outcomes",
-                "More errors",
-                "Less confidence"
-                ],
-                "answer": "Better outcomes"
-            },
-            {
-                "question": "Which is NOT benefit?",
-                "options": [
-                "Cost reduction",
-                "Improved outcomes",
-                "Increased variation",
-                "Better decisions"
-                ],
-                "answer": "Increased variation"
-            },
-            {
-                "question": "Barrier to EBP:",
-                "options": ["Knowledge", "Time limitation", "Evidence", "Training"],
-                "answer": "Time limitation"
-            },
-            {
-                "question": "Nurse lacks research skills → barrier type:",
-                "options": [
-                "Organizational",
-                "Nurse-related",
-                "Research",
-                "Patient"
-                ],
-                "answer": "Nurse-related"
-            },
-            {
-                "question": "Heavy workload is:",
-                "options": [
-                "Personal barrier",
-                "Organizational barrier",
-                "Research barrier",
-                "Patient factor"
-                ],
-                "answer": "Organizational barrier"
-            },
-            {
-                "question": "Critical thinking helps EBP by:",
-                "options": [
-                "Guessing",
-                "Evaluating evidence",
-                "Ignoring data",
-                "Memorizing"
-                ],
-                "answer": "Evaluating evidence"
-            },
-            {
-                "question": "Which is critical thinking skill?",
-                "options": ["Bias", "Interpretation", "Emotion", "Habit"],
-                "answer": "Interpretation"
-            },
-            {
-                "question": "A nurse reflects on own thinking → skill:",
-                "options": [
-                "Analysis",
-                "Self-regulation",
-                "Evaluation",
-                "Explanation"
-                ],
-                "answer": "Self-regulation"
-            },
-            {
-                "question": "Which is characteristic of critical thinker?",
-                "options": [
-                "Closed mind",
-                "Emotional decisions",
-                "Open-mindedness",
-                "Bias"
-                ],
-                "answer": "Open-mindedness"
-            },
-            {
-                "question": "Egocentric thinking leads to:",
-                "options": [
-                "Better reasoning",
-                "Bias",
-                "Objectivity",
-                "Accuracy"
-                ],
-                "answer": "Bias"
-            },
-            {
-                "question": "Principle of critical thinking:",
-                "options": [
-                "Accept facts blindly",
-                "Question sources",
-                "Ignore bias",
-                "Avoid questions"
-                ],
-                "answer": "Question sources"
-            },
-            {
-                "question": "Clinical reasoning requires:",
-                "options": ["Habit", "Evidence + thinking", "Emotion", "Guess"],
-                "answer": "Evidence + thinking"
-            },
-            {
-                "question": "Research differs from EBP because:",
-                "options": [
-                "Research applies evidence",
-                "EBP generates knowledge",
-                "Research generates knowledge",
-                "No difference"
-                ],
-                "answer": "Research generates knowledge"
-            },
-            {
-                "question": "Which skill is required for EBP?",
-                "options": ["Guessing", "Communication", "Bias", "Routine"],
-                "answer": "Communication"
-            },
-            {
-                "question": "Identifying knowledge gaps is:",
-                "options": ["Weakness", "Required skill", "Barrier", "Outcome"],
-                "answer": "Required skill"
-            },
-            {
-                "question": "Which improves EBP?",
-                "options": ["Ignoring research", "Training", "Bias", "Routine"],
-                "answer": "Training"
-            },
-            {
-                "question": "Decision-making in EBP depends on:",
-                "options": [
-                "Opinion",
-                "Evidence + patient + expertise",
-                "Guess",
-                "Habit"
-                ],
-                "answer": "Evidence + patient + expertise"
-            },
-            {
-                "question": "Which step uses PICOT?",
-                "options": ["Ask", "Acquire", "Apply", "Assess"],
-                "answer": "Ask"
-            },
-            {
-                "question": "Critical appraisal includes:",
-                "options": ["Validity", "Relevance", "Results", "All"],
-                "answer": "All"
-            },
-            {
-                "question": "Which resource is fastest for overview?",
-                "options": ["Unfiltered", "Background", "Primary", "Trials"],
-                "answer": "Background"
-            },
-            {
-                "question": "Final outcome of EBP:",
-                "options": [
-                "Decision only",
-                "Improved patient care",
-                "Research only",
-                "Data collection"
-                ],
-                "answer": "Improved patient care"
-            },
-            {
-                "question": "EBP relies only on evidence.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "PICOT helps organize the clinical question.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Acquire means evaluating the evidence.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "Appraise focuses on validity.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Apply means using the evidence.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Assess means disseminating the results.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "Allow means disseminating the results.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Background resources provide general information.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Filtered resources are primary sources.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "PubMed is a primary source.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Systematic reviews represent the highest level of evidence.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "EBP increases variation in practice.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "Time constraint is a barrier to EBP.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Validity is the same as relevance.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "Critical thinking is not important in EBP.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "EBP begins with a question.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Research applies evidence.",
-                "options": ["True", "False"],
-                "answer": "False"
-            },
-            {
-                "question": "EBP improves quality of care.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Patient values are an essential component.",
-                "options": ["True", "False"],
-                "answer": "True"
-            },
-            {
-                "question": "Appraise comes before Acquire.",
-                "options": ["True", "False"],
-                "answer": "False"
-            }
+            { "question": "Which best defines Evidence-Based Practice?", "options": ["Following clinical habits", "Using research only", "Integrating evidence, expertise, and patient values", "Using guidelines only"], "answer": "Integrating evidence, expertise, and patient values" },
+            { "question": "Which is NOT one of EBP components?", "options": ["Best evidence", "Clinical expertise", "Patient values", "Personal bias"], "answer": "Personal bias" },
+            { "question": "First step in EBP process:", "options": ["Acquire", "Ask", "Apply", "Assess"], "answer": "Ask" },
+            { "question": "Which PICOT element identifies patient group?", "options": ["I", "C", "P", "O"], "answer": "P" },
+            { "question": "A nurse compares two treatments → which PICOT?", "options": ["P", "I", "C", "T"], "answer": "C" },
+            { "question": "Outcome in PICOT refers to:", "options": ["Intervention", "Result", "Patient", "Time"], "answer": "Result" },
+            { "question": "Acquire step includes:", "options": ["Evaluating evidence", "Searching for evidence", "Applying evidence", "Sharing results"], "answer": "Searching for evidence" },
+            { "question": "Appraisal step evaluates:", "options": ["Quantity", "Validity and relevance", "Cost", "Time"], "answer": "Validity and relevance" },
+            { "question": "Validity means:", "options": ["Study speed", "Accuracy of measurement", "Sample size", "Cost"], "answer": "Accuracy of measurement" },
+            { "question": "Relevance means:", "options": ["Research design", "Applicability to patient", "Sample size", "Time"], "answer": "Applicability to patient" },
+            { "question": "Apply step focuses on:", "options": ["Searching", "Decision-making", "Questioning", "Publishing"], "answer": "Decision-making" },
+            { "question": "Assess step refers to:", "options": ["Data collection", "Outcome evaluation", "Research design", "Question formation"], "answer": "Outcome evaluation" },
+            { "question": "Allow step involves:", "options": ["Ignoring results", "Disseminating findings", "Collecting data", "Analyzing"], "answer": "Disseminating findings" },
+            { "question": "Background resources provide:", "options": ["Primary research", "General knowledge", "Summarized evidence", "Clinical trials"], "answer": "General knowledge" },
+            { "question": "Filtered resources:", "options": ["Raw data", "Secondary summaries", "Opinions", "Personal notes"], "answer": "Secondary summaries" },
+            { "question": "Unfiltered resources:", "options": ["Guidelines", "Systematic reviews", "Original studies", "Textbooks"], "answer": "Original studies" },
+            { "question": "Which is example of unfiltered resource?", "options": ["Cochrane", "Guidelines", "PubMed", "Textbook"], "answer": "PubMed" },
+            { "question": "Highest level of evidence:", "options": ["Case reports", "Expert opinion", "Systematic reviews", "Cohort studies"], "answer": "Systematic reviews" },
+            { "question": "EBP aims to:", "options": ["Increase variation", "Improve care quality", "Reduce knowledge", "Ignore research"], "answer": "Improve care quality" },
+            { "question": "Which is benefit of EBP?", "options": ["Increased cost", "Better outcomes", "More errors", "Less confidence"], "answer": "Better outcomes" },
+            { "question": "Which is NOT benefit?", "options": ["Cost reduction", "Improved outcomes", "Increased variation", "Better decisions"], "answer": "Increased variation" },
+            { "question": "Barrier to EBP:", "options": ["Knowledge", "Time limitation", "Evidence", "Training"], "answer": "Time limitation" },
+            { "question": "Nurse lacks research skills → barrier type:", "options": ["Organizational", "Nurse-related", "Research", "Patient"], "answer": "Nurse-related" },
+            { "question": "Heavy workload is:", "options": ["Personal barrier", "Organizational barrier", "Research barrier", "Patient factor"], "answer": "Organizational barrier" },
+            { "question": "Critical thinking helps EBP by:", "options": ["Guessing", "Evaluating evidence", "Ignoring data", "Memorizing"], "answer": "Evaluating evidence" },
+            { "question": "Which is critical thinking skill?", "options": ["Bias", "Interpretation", "Emotion", "Habit"], "answer": "Interpretation" },
+            { "question": "A nurse reflects on own thinking → skill:", "options": ["Analysis", "Self-regulation", "Evaluation", "Explanation"], "answer": "Self-regulation" },
+            { "question": "Which is characteristic of critical thinker?", "options": ["Closed mind", "Emotional decisions", "Open-mindedness", "Bias"], "answer": "Open-mindedness" },
+            { "question": "Egocentric thinking leads to:", "options": ["Better reasoning", "Bias", "Objectivity", "Accuracy"], "answer": "Bias" },
+            { "question": "Principle of critical thinking:", "options": ["Accept facts blindly", "Question sources", "Ignore bias", "Avoid questions"], "answer": "Question sources" },
+            { "question": "Clinical reasoning requires:", "options": ["Habit", "Evidence + thinking", "Emotion", "Guess"], "answer": "Evidence + thinking" },
+            { "question": "Research differs from EBP because:", "options": ["Research applies evidence", "EBP generates knowledge", "Research generates knowledge", "No difference"], "answer": "Research generates knowledge" },
+            { "question": "Which skill is required for EBP?", "options": ["Guessing", "Communication", "Bias", "Routine"], "answer": "Communication" },
+            { "question": "Identifying knowledge gaps is:", "options": ["Weakness", "Required skill", "Barrier", "Outcome"], "answer": "Required skill" },
+            { "question": "Which improves EBP?", "options": ["Ignoring research", "Training", "Bias", "Routine"], "answer": "Training" },
+            { "question": "Decision-making in EBP depends on:", "options": ["Opinion", "Evidence + patient + expertise", "Guess", "Habit"], "answer": "Evidence + patient + expertise" },
+            { "question": "Which step uses PICOT?", "options": ["Ask", "Acquire", "Apply", "Assess"], "answer": "Ask" },
+            { "question": "Critical appraisal includes:", "options": ["Validity", "Relevance", "Results", "All"], "answer": "All" },
+            { "question": "Which resource is fastest for overview?", "options": ["Unfiltered", "Background", "Primary", "Trials"], "answer": "Background" },
+            { "question": "Final outcome of EBP:", "options": ["Decision only", "Improved patient care", "Research only", "Data collection"], "answer": "Improved patient care" },
+
+            { "question": "EBP relies only on evidence.", "options": ["True", "False"], "answer": "False" },
+            { "question": "PICOT helps organize the clinical question.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Acquire means evaluating the evidence.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Appraise focuses on validity.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Apply means using the evidence.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Assess means disseminating the results.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Allow means disseminating the results.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Background resources provide general information.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Filtered resources are primary sources.", "options": ["True", "False"], "answer": "False" },
+            { "question": "PubMed is a primary source.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Systematic reviews represent the highest level of evidence.", "options": ["True", "False"], "answer": "True" },
+            { "question": "EBP increases variation in practice.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Time constraint is a barrier to EBP.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Validity is the same as relevance.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Critical thinking is not important in EBP.", "options": ["True", "False"], "answer": "False" },
+            { "question": "EBP begins with a question.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Research applies evidence.", "options": ["True", "False"], "answer": "False" },
+            { "question": "EBP improves quality of care.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Patient values are an essential component.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Appraise comes before Acquire.", "options": ["True", "False"], "answer": "False" }
+
+        ],
+        "L4 Evidence Based Resources":[
+            { "question": "Evidence-based practitioner starts decision by:", "options": ["Personal judgment only", "Asking what is available evidence", "Guessing", "Tradition"], "answer": "Asking what is available evidence" },
+            { "question": "Evidence-based resources are:", "options": ["Random opinions", "Reviews of studies with evidence", "Personal experience only", "Old books"], "answer": "Reviews of studies with evidence" },
+            { "question": "Primary sources provide:", "options": ["Interpretation", "Direct evidence", "Summary", "Opinion"], "answer": "Direct evidence" },
+            { "question": "Example of primary source:", "options": ["Textbook", "Review article", "Interview data", "Summary"], "answer": "Interview data" },
+            { "question": "Secondary sources:", "options": ["Direct evidence", "Analyze primary sources", "Raw data", "Experiments"], "answer": "Analyze primary sources" },
+            { "question": "Example of secondary source:", "options": ["Interview", "Survey", "Systematic review", "Experiment"], "answer": "Systematic review" },
+            { "question": "Scientific literature includes:", "options": ["Newspapers", "Journals", "Social media", "Blogs"], "answer": "Journals" },
+            { "question": "Evidence from organization includes:", "options": ["Personal belief", "Hospital data", "Random idea", "Guess"], "answer": "Hospital data" },
+            { "question": "Stakeholders are:", "options": ["Doctors only", "People affected by decisions", "Nurses only", "Patients only"], "answer": "People affected by decisions" },
+            { "question": "Strongest type of evidence is:", "options": ["Case report", "Cohort", "Systematic review", "Opinion"], "answer": "Systematic review" },
+            { "question": "Meta-analysis is:", "options": ["Opinion", "Combining results of studies", "Case report", "Survey"], "answer": "Combining results of studies" },
+            { "question": "RCT stands for:", "options": ["Random case trial", "Randomized controlled trial", "Research clinical test", "Random clinical technique"], "answer": "Randomized controlled trial" },
+            { "question": "RCT reduces:", "options": ["Bias", "Errors", "Memory", "Data"], "answer": "Bias" },
+            { "question": "Cohort study:", "options": ["Experimental", "Observational", "Lab study", "Theory"], "answer": "Observational" },
+            { "question": "Case control compares:", "options": ["Same group", "Disease vs no disease", "Random data", "Lab samples"], "answer": "Disease vs no disease" },
+            { "question": "Case report studies:", "options": ["Large population", "Single patient", "Groups", "Trials"], "answer": "Single patient" },
+            { "question": "Case report evidence is:", "options": ["Strong", "Moderate", "Weak", "Highest"], "answer": "Weak" },
+            { "question": "Meta-analysis increases:", "options": ["Bias", "Power", "Errors", "Confusion"], "answer": "Power" },
+            { "question": "Systematic review aims to:", "options": ["Bias", "Reliable summary", "Guess", "Opinion"], "answer": "Reliable summary" },
+            { "question": "Systematic review uses:", "options": ["Random search", "Structured search", "No method", "Opinion"], "answer": "Structured search" },
+
+            { "question": "Evidence-based practice depends only on personal opinion.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Primary sources give direct evidence.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Secondary sources analyze primary data.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Systematic review is weakest evidence.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Meta-analysis combines multiple studies.", "options": ["True", "False"], "answer": "True" },
+            { "question": "RCT reduces bias.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Cohort study is experimental.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Case report studies many patients.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Case report is strong evidence.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Meta-analysis improves reliability.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Systematic review uses clear methods.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Stakeholders are affected by decisions.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Scientific journals are evidence sources.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Meta-analysis decreases sample size.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Cohort study follows patients over time.", "options": ["True", "False"], "answer": "True" }
+
+        ],
+        "L5 Guidelines to Evidence Based Practice":[
+            { "question": "Guidelines are developed by:", "options": ["Patients", "Students", "Experienced professionals", "Random people"], "answer": "Experienced professionals" },
+            { "question": "Guidelines depend on:", "options": ["Opinion only", "Evidence strength", "Guessing", "Tradition"], "answer": "Evidence strength" },
+            { "question": "EB guidelines help in:", "options": ["Random care", "Decision making", "Ignoring evidence", "Delay care"], "answer": "Decision making" },
+            { "question": "Guidelines are also called:", "options": ["Care plans", "Clinical practice guidelines", "Policies", "Notes"], "answer": "Clinical practice guidelines" },
+            { "question": "Guidelines assist:", "options": ["Doctors only", "Nurses only", "Practitioners and patients", "Managers only"], "answer": "Practitioners and patients" },
+            { "question": "Nurses role in guidelines:", "options": ["Ignore", "Passive", "Active role", "No role"], "answer": "Active role" },
+            { "question": "Guidelines reduce:", "options": ["Costs only", "Variations in practice", "Staff", "Data"], "answer": "Variations in practice" },
+            { "question": "Guidelines promote:", "options": ["Low quality care", "High quality care", "No care", "Delayed care"], "answer": "High quality care" },
+            { "question": "Guidelines improve:", "options": ["Errors", "Patient experience", "Confusion", "Delay"], "answer": "Patient experience" },
+            { "question": "Guidelines decrease:", "options": ["Quality", "Costs", "Care", "Skills"], "answer": "Costs" },
+            { "question": "First stage of guideline development:", "options": ["Testing", "Review", "Literature search", "Implementation"], "answer": "Literature search" },
+            { "question": "Second stage:", "options": ["Testing", "Construction", "Review", "Dissemination"], "answer": "Construction" },
+            { "question": "Third stage:", "options": ["Construction", "Testing", "Review", "Search"], "answer": "Testing" },
+            { "question": "Final stage:", "options": ["Testing", "Construction", "Review", "Search"], "answer": "Review" },
+            { "question": "Literature search identifies:", "options": ["Patients", "Evidence", "Staff", "Equipment"], "answer": "Evidence" },
+            { "question": "Guideline construction involves:", "options": ["Individuals only", "Group work", "Patients", "Machines"], "answer": "Group work" },
+            { "question": "Testing ensures:", "options": ["Cost", "Clarity and feasibility", "Errors", "Delay"], "answer": "Clarity and feasibility" },
+            { "question": "Review stage includes:", "options": ["Deleting guideline", "Updating knowledge", "Ignoring evidence", "Ending process"], "answer": "Updating knowledge" },
+            { "question": "Validity means:", "options": ["Random result", "Expected outcome achieved", "No result", "Error"], "answer": "Expected outcome achieved" },
+            { "question": "Reliability means:", "options": ["Different results", "Same result in same situation", "Random use", "No use"], "answer": "Same result in same situation" },
+
+            { "question": "Guidelines are based on evidence.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Guidelines are made randomly.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Nurses have no role in guidelines.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Guidelines reduce variations.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Guidelines improve quality.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Guidelines increase costs.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Literature search is first stage.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Testing is last stage.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Review updates guidelines.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Validity means correct outcome.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Reliability means same results.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Guidelines should ignore patients.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Flexibility is important.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Guidelines should be clear.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Dissemination means use.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Implementation means application.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Implementation is passive.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Barriers affect implementation.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Dissemination improves data.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Guidelines support EBP.", "options": ["True", "False"], "answer": "True" }
+
+        ],
+        "L6 Theory of Evidence Based Practice":[
+            { "question": "Theory is best defined as:", "options": ["A set of random facts", "A set of concepts linked through propositions to explain phenomena", "A nursing skill", "A treatment plan"], "answer": "A set of concepts linked through propositions to explain phenomena" },
+            { "question": "Evidence in EBP comes from:", "options": ["One source only", "Three different sources", "Four different sources", "Two different sources"], "answer": "Three different sources" },
+            { "question": "Which is one source of evidence in EBP?", "options": ["Scientific research", "Gossip", "Tradition", "Habit"], "answer": "Scientific research" },
+            { "question": "Clinical expertise refers to:", "options": ["Random opinion", "Knowledge gained from years of caring for patients", "Patient preferences only", "Lab results only"], "answer": "Knowledge gained from years of caring for patients" },
+            { "question": "Patient values and circumstances are:", "options": ["Not important", "The most important pillar of evidence", "Only for doctors", "Equal to research only"], "answer": "The most important pillar of evidence" },
+            { "question": "EBP improves decision making by combining:", "options": ["Research only", "Research, expertise, and patient values", "Experience only", "Opinion only"], "answer": "Research, expertise, and patient values" },
+            { "question": "Which is a benefit of EBP models?", "options": ["Increase confusion", "Improve patient outcomes", "Reduce accountability", "Increase costs"], "answer": "Improve patient outcomes" },
+            { "question": "EBP contributes to the science of:", "options": ["Medicine only", "Nursing", "Physics", "Chemistry"], "answer": "Nursing" },
+            { "question": "EBP helps maintain practice that is:", "options": ["Old and fixed", "Relevant and current", "Random", "Expensive only"], "answer": "Relevant and current" },
+            { "question": "Which of the following is an EBP model?", "options": ["Stetler model", "Freud model", "Watson model", "Selye model"], "answer": "Stetler model" },
+            { "question": "Johns Hopkins model uses the process called:", "options": ["ABC", "PET", "XYZ", "GAS"], "answer": "PET" },
+            { "question": "PET stands for:", "options": ["Problem, Evidence, Treatment", "Practice question, Evidence, Translation", "Plan, Evaluate, Test", "Patient, Education, Therapy"], "answer": "Practice question, Evidence, Translation" },
+            { "question": "Iowa model starts with:", "options": ["Evaluation", "Trigger", "Translation", "Review"], "answer": "Trigger" },
+            { "question": "The Iowa model emphasizes:", "options": ["No testing", "Pilot testing before full-scale change", "Only theory", "Patient refusal"], "answer": "Pilot testing before full-scale change" },
+            { "question": "Rosswurm and Larrabee model was developed in:", "options": ["1980", "1994", "1999", "2005"], "answer": "1999" },
+            { "question": "Rosswurm and Larrabee model begins with:", "options": ["Evaluation", "Assessment of need", "Translation", "Publication"], "answer": "Assessment of need" },
+            { "question": "Censo’s model gives dominance to:", "options": ["Nurse preference only", "Patient preferences and actions", "Hospital policy only", "Research only"], "answer": "Patient preferences and actions" },
+            { "question": "Which is one stage of Stetler model?", "options": ["Preparation", "Injection", "Diagnosis", "Isolation"], "answer": "Preparation" },
+            { "question": "In Stetler model, validation means:", "options": ["Ignore studies", "Critique studies systematically", "Stop research", "Choose by opinion"], "answer": "Critique studies systematically" },
+            { "question": "In Stetler model, translation means:", "options": ["Deleting evidence", "Converting findings into practice", "Repeating research", "Avoiding implementation"], "answer": "Converting findings into practice" },
+
+            { "question": "Evidence-based practice uses only patient values.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Scientific research is one source of EBP evidence.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Clinical expertise comes from years of patient care.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Patient values are not important in EBP.", "options": ["True", "False"], "answer": "False" },
+            { "question": "EBP helps improve patient outcomes.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Stetler model is practitioner-oriented.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Stetler model includes five progressive categories.", "options": ["True", "False"], "answer": "True" },
+            { "question": "PET stands for Practice question, Evidence, Translation.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Iowa model discourages pilot testing.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Case reports are high-level evidence.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Barriers to EBP can be research-related, nurse-related, or organizational.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Lack of time is a nurse-related barrier.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Heavy workload is an organizational barrier.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Training nurses in computer skills can help overcome barriers.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Administration support is not important for EBP.", "options": ["True", "False"], "answer": "False" },
+            { "question": "Guidelines for EBP should be flexible.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Promoting acceptance requires assessing baseline beliefs and behaviors.", "options": ["True", "False"], "answer": "True" },
+            { "question": "Implementation is a passive process.", "options": ["True", "False"], "answer": "False" },
+            { "question": "The Johns Hopkins model is designed for practicing nurses.", "options": ["True", "False"], "answer": "True" },
+            { "question": "EBP improves decision-making and care quality.", "options": ["True", "False"], "answer": "True" }
+
         ],
     },
     "علوم الحاسب":{
