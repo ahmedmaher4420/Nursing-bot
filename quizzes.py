@@ -1,5160 +1,610 @@
 quizzes = {
     "نفسية عملي": {
         "Anti-Anxiety Medications": [
-            {
-                "question": "Which statement best describes anxiolytics?",
-                "options": [
-                "Drugs that permanently cure the biological cause of anxiety",
-                "Drugs used to treat anxiety that causes excessive worry and interferes with functioning",
-                "Drugs used only for sleep induction",
-                "Drugs that suppress all brain activity"
-                ],
-                "answer": "Drugs used to treat anxiety that causes excessive worry and interferes with functioning",
-                "explanation": "Anxiolytics are used to treat anxiety that interferes with daily functioning."
-            },
-            {
-                "question": "Which of the following is NOT one of the main anti-anxiety drug groups listed in the lecture?",
-                "options": [
-                "Benzodiazepines",
-                "SSRIs",
-                "SNRIs",
-                "Calcium channel blockers"
-                ],
-                "answer": "Calcium channel blockers",
-                "explanation": "Calcium channel blockers are not included in anti-anxiety drug groups."
-            },
-            {
-                "question": "Benzodiazepines produce their anxiolytic effect mainly by:",
-                "options": [
-                "Blocking serotonin reuptake",
-                "Blocking norepinephrine transporters",
-                "Binding to the GABA-A receptor complex and increasing chloride channel opening frequency",
-                "Directly stimulating dopamine release"
-                ],
-                "answer": "Binding to the GABA-A receptor complex and increasing chloride channel opening frequency",
-                "explanation": "They enhance GABA effect causing neuronal inhibition."
-            },
-            {
-                "question": "The immediate electrical consequence of benzodiazepine action is:",
-                "options": [
-                "Depolarization of the neuron",
-                "Hyperpolarization of the neuron",
-                "Destruction of synaptic vesicles",
-                "Inhibition of receptor synthesis"
-                ],
-                "answer": "Hyperpolarization of the neuron",
-                "explanation": "Chloride influx makes the neuron more negative."
-            },
-            {
-                "question": "Which medication is a benzodiazepine?",
-                "options": [
-                "Sertraline",
-                "Venlafaxine",
-                "Lorazepam",
-                "Propranolol"
-                ],
-                "answer": "Lorazepam",
-                "explanation": "Lorazepam is a benzodiazepine."
-            },
-            {
-                "question": "Which of the following is a common indication for benzodiazepines?",
-                "options": [
-                "Acute narrow-angle glaucoma",
-                "Seizure disorders",
-                "Severe hepatic impairment",
-                "Pregnancy in first trimester"
-                ],
-                "answer": "Seizure disorders",
-                "explanation": "Used in seizures."
-            },
-            {
-                "question": "A patient with anxiety also has severe respiratory insufficiency. Which class should be avoided?",
-                "options": [
-                "Benzodiazepines",
-                "SSRIs",
-                "SNRIs",
-                "Beta-blockers"
-                ],
-                "answer": "Benzodiazepines",
-                "explanation": "They cause respiratory depression."
-            },
-            {
-                "question": "Which side effect is most associated with long-term benzodiazepine use?",
-                "options": [
-                "Hair loss",
-                "Tolerance and dependence",
-                "Hyperthyroidism",
-                "Permanent cure of anxiety"
-                ],
-                "answer": "Tolerance and dependence",
-                "explanation": "Long-term use leads to dependence."
-            },
-            {
-                "question": "Which instruction is most important for a patient taking benzodiazepines?",
-                "options": [
-                "Increase the dose if anxiety returns",
-                "Stop the drug suddenly when symptoms improve",
-                "Avoid alcohol and other CNS depressants",
-                "Take it with MAOIs to improve response"
-                ],
-                "answer": "Avoid alcohol and other CNS depressants",
-                "explanation": "Prevents respiratory depression."
-            },
-            {
-                "question": "SSRIs work mainly by:",
-                "options": [
-                "Enhancing GABA inhibition",
-                "Blocking serotonin reuptake in the CNS",
-                "Blocking only norepinephrine release",
-                "Increasing chloride influx through GABA-A receptors"
-                ],
-                "answer": "Blocking serotonin reuptake in the CNS",
-                "explanation": "They increase serotonin levels."
-            },
-            {
-                "question": "Which is an SSRI?",
-                "options": [
-                "Fluoxetine",
-                "Diazepam",
-                "Duloxetine",
-                "Propranolol"
-                ],
-                "answer": "Fluoxetine",
-                "explanation": "Fluoxetine is an SSRI."
-            },
-            {
-                "question": "Which condition is listed as an indication for SSRIs?",
-                "options": [
-                "Muscle spasms",
-                "Recurrent panic attacks",
-                "Alcohol withdrawal symptoms",
-                "Preoperative sedation"
-                ],
-                "answer": "Recurrent panic attacks",
-                "explanation": "SSRIs treat panic disorder."
-            },
-            {
-                "question": "A patient taking an MAOI is prescribed sertraline. What is the issue?",
-                "options": [
-                "Drug interaction contraindication",
-                "Reduced effect",
-                "No issue",
-                "Improved outcome"
-                ],
-                "answer": "Drug interaction contraindication",
-                "explanation": "Risk of serotonin syndrome."
-            },
-            {
-                "question": "Which adverse effect is important in children taking SSRIs?",
-                "options": [
-                "Hair loss",
-                "Increased suicidality",
-                "Muscle spasm",
-                "Bradycardia"
-                ],
-                "answer": "Increased suicidality",
-                "explanation": "Black box warning."
-            },
-            {
-                "question": "Which is a known SSRI side effect?",
-                "options": [
-                "Dry mouth",
-                "Seizure suppression",
-                "Immediate cure",
-                "Bradycardia"
-                ],
-                "answer": "Dry mouth",
-                "explanation": "Common side effect."
-            },
-            {
-                "question": "SNRIs mainly increase synaptic levels of:",
-                "options": [
-                "GABA and acetylcholine",
-                "Serotonin and norepinephrine",
-                "Dopamine and histamine",
-                "Chloride and calcium"
-                ],
-                "answer": "Serotonin and norepinephrine",
-                "explanation": "They inhibit reuptake of both."
-            },
-            {
-                "question": "Which of the following is an SNRI?",
-                "options": [
-                "Escitalopram",
-                "Paroxetine",
-                "Venlafaxine",
-                "Alprazolam"
-                ],
-                "answer": "Venlafaxine",
-                "explanation": "Venlafaxine is an SNRI."
-            },
-            {
-                "question": "Which condition is a contraindication for SNRIs?",
-                "options": [
-                "Uncontrolled narrow-angle glaucoma",
-                "Insomnia",
-                "Social anxiety disorder",
-                "Sedation need"
-                ],
-                "answer": "Uncontrolled narrow-angle glaucoma",
-                "explanation": "Listed contraindication."
-            },
-            {
-                "question": "Beta-blockers in anxiety are mainly used to:",
-                "options": [
-                "Treat root cause",
-                "Control physical symptoms and heart rate",
-                "Increase serotonin",
-                "Activate GABA"
-                ],
-                "answer": "Control physical symptoms and heart rate",
-                "explanation": "They reduce physical symptoms."
-            },
-            {
-                "question": "A patient needs rapid control of tremor before a stressful event. Which class is best?",
-                "options": [
-                "Beta-blockers",
-                "SSRIs",
-                "SNRIs",
-                "Benzodiazepines long-term"
-                ],
-                "answer": "Beta-blockers",
-                "explanation": "Used short-term for physical symptoms."
-            },
-            {
-                "question": "Anxiolytics are used to reduce anxiety that interferes with daily functioning.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Definition of anxiolytics."
-            },
-            {
-                "question": "Benzodiazepines decrease chloride channel opening frequency.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "They increase it."
-            },
-            {
-                "question": "Benzodiazepines can cause sedation and dizziness.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Common side effects."
-            },
-            {
-                "question": "Long-term benzodiazepine use may lead to dependence.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Dependence occurs."
-            },
-            {
-                "question": "Abrupt discontinuation of benzodiazepines is harmless.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Causes withdrawal."
-            },
-            {
-                "question": "Patients taking benzodiazepines should avoid alcohol.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Prevents CNS depression."
-            },
-            {
-                "question": "SSRIs increase serotonin availability.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "By blocking reuptake."
-            },
-            {
-                "question": "SSRIs are safe with MAOIs.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Contraindicated."
-            },
-            {
-                "question": "SNRIs inhibit serotonin and norepinephrine reuptake.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Main mechanism."
-            },
-            {
-                "question": "Beta-blockers treat the psychological cause of anxiety.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "They treat physical symptoms only."
-            },
-            {
-                "question": "A patient with severe respiratory insufficiency is prescribed benzodiazepines. What is the main concern?",
-                "options": [
-                "Respiratory depression",
-                "Hypertension",
-                "Hyperglycemia",
-                "Renal failure"
-                ],
-                "answer": "Respiratory depression",
-                "explanation": "BZDs worsen respiratory function."
-            },
-            {
-                "question": "A patient stopped benzodiazepines suddenly and developed agitation. What is the cause?",
-                "options": [
-                "Withdrawal",
-                "Allergic reaction",
-                "Overdose",
-                "Tolerance"
-                ],
-                "answer": "Withdrawal",
-                "explanation": "Abrupt cessation causes withdrawal."
-            },
-            {
-                "question": "A patient needs quick relief of tremor before presentation. Which drug class is best?",
-                "options": [
-                "Beta-blockers",
-                "SSRIs",
-                "SNRIs",
-                "Antipsychotics"
-                ],
-                "answer": "Beta-blockers",
-                "explanation": "Best for physical symptoms."
-            },
-            {
-                "question": "A patient takes MAOI and is prescribed SSRI. What should be done?",
-                "options": [
-                "Stop medication and inform provider",
-                "Continue both",
-                "Increase dose",
-                "Ignore"
-                ],
-                "answer": "Stop medication and inform provider",
-                "explanation": "Combination is dangerous."
-            },
-            {
-                "question": "A teenager on SSRI develops mood changes. What is the concern?",
-                "options": [
-                "Suicidality",
-                "Hypertension",
-                "Diabetes",
-                "Infection"
-                ],
-                "answer": "Suicidality",
-                "explanation": "Black box warning."
-            }
+            {"question":"Which statement best describes anxiolytics?","options":["Drugs that permanently cure the biological cause of anxiety","Drugs used to treat anxiety that causes excessive worry and interferes with functioning","Drugs used only for sleep induction","Drugs that suppress all brain activity"],"answer":"Drugs used to treat anxiety that causes excessive worry and interferes with functioning"},
+            {"question":"Which of the following is NOT one of the main anti-anxiety drug groups listed in the lecture?","options":["Benzodiazepines","SSRIs","SNRIs","Calcium channel blockers"],"answer":"Calcium channel blockers"},
+            {"question":"Benzodiazepines produce their anxiolytic effect mainly by:","options":["Blocking serotonin reuptake","Blocking norepinephrine transporters","Binding to the GABA-A receptor complex and increasing chloride channel opening frequency","Directly stimulating dopamine release"],"answer":"Binding to the GABA-A receptor complex and increasing chloride channel opening frequency"},
+            {"question":"The immediate electrical consequence of benzodiazepine action is:","options":["Depolarization of the neuron","Hyperpolarization of the neuron","Destruction of synaptic vesicles","Inhibition of receptor synthesis"],"answer":"Hyperpolarization of the neuron"},
+            {"question":"Which medication is a benzodiazepine?","options":["Sertraline","Venlafaxine","Lorazepam","Propranolol"],"answer":"Lorazepam"},
+            {"question":"Which of the following is a common indication for benzodiazepines?","options":["Acute narrow-angle glaucoma","Seizure disorders","Severe hepatic impairment","Pregnancy in first trimester"],"answer":"Seizure disorders"},
+            {"question":"A patient with anxiety also has severe respiratory insufficiency. Which class should be avoided?","options":["Benzodiazepines","SSRIs","SNRIs","Beta-blockers"],"answer":"Benzodiazepines"},
+            {"question":"Which side effect is most associated with long-term benzodiazepine use?","options":["Hair loss","Tolerance and dependence","Hyperthyroidism","Permanent cure of anxiety"],"answer":"Tolerance and dependence"},
+            {"question":"Which instruction is most important for a patient taking benzodiazepines?","options":["Increase the dose if anxiety returns","Stop the drug suddenly when symptoms improve","Avoid alcohol and other CNS depressants","Take it with MAOIs to improve response"],"answer":"Avoid alcohol and other CNS depressants"},
+            {"question":"SSRIs work mainly by:","options":["Enhancing GABA inhibition","Blocking serotonin reuptake in the CNS","Blocking only norepinephrine release","Increasing chloride influx through GABA-A receptors"],"answer":"Blocking serotonin reuptake in the CNS"},
+            {"question":"Which is an SSRI?","options":["Fluoxetine","Diazepam","Duloxetine","Propranolol"],"answer":"Fluoxetine"},
+            {"question":"Which condition is listed as an indication for SSRIs?","options":["Muscle spasms","Recurrent panic attacks","Alcohol withdrawal symptoms","Preoperative sedation"],"answer":"Recurrent panic attacks"},
+            {"question":"A patient taking an MAOI is prescribed sertraline. What is the issue?","options":["Drug interaction contraindication","Reduced effect","No issue","Improved outcome"],"answer":"Drug interaction contraindication"},
+            {"question":"Which adverse effect is important in children taking SSRIs?","options":["Hair loss","Increased suicidality","Muscle spasm","Bradycardia"],"answer":"Increased suicidality"},
+            {"question":"Which is a known SSRI side effect?","options":["Dry mouth","Seizure suppression","Immediate cure","Bradycardia"],"answer":"Dry mouth"},
+            {"question":"SNRIs mainly increase synaptic levels of:","options":["GABA and acetylcholine","Serotonin and norepinephrine","Dopamine and histamine","Chloride and calcium"],"answer":"Serotonin and norepinephrine"},
+            {"question":"Which of the following is an SNRI?","options":["Escitalopram","Paroxetine","Venlafaxine","Alprazolam"],"answer":"Venlafaxine"},
+            {"question":"Which condition is a contraindication for SNRIs?","options":["Uncontrolled narrow-angle glaucoma","Insomnia","Social anxiety disorder","Sedation need"],"answer":"Uncontrolled narrow-angle glaucoma"},
+            {"question":"Beta-blockers in anxiety are mainly used to:","options":["Treat root cause","Control physical symptoms and heart rate","Increase serotonin","Activate GABA"],"answer":"Control physical symptoms and heart rate"},
+            {"question":"A patient needs rapid control of tremor before a stressful event. Which class is best?","options":["Beta-blockers","SSRIs","SNRIs","Benzodiazepines long-term"],"answer":"Beta-blockers"},
+            {"question":"Anxiolytics are used to reduce anxiety that interferes with daily functioning.","options":["True","False"],"answer":"True"},
+            {"question":"Benzodiazepines decrease chloride channel opening frequency.","options":["True","False"],"answer":"False"},
+            {"question":"Benzodiazepines can cause sedation and dizziness.","options":["True","False"],"answer":"True"},
+            {"question":"Long-term benzodiazepine use may lead to dependence.","options":["True","False"],"answer":"True"},
+            {"question":"Abrupt discontinuation of benzodiazepines is harmless.","options":["True","False"],"answer":"False"},
+            {"question":"Patients taking benzodiazepines should avoid alcohol.","options":["True","False"],"answer":"True"},
+            {"question":"SSRIs increase serotonin availability.","options":["True","False"],"answer":"True"},
+            {"question":"SSRIs are safe with MAOIs.","options":["True","False"],"answer":"False"},
+            {"question":"SNRIs inhibit serotonin and norepinephrine reuptake.","options":["True","False"],"answer":"True"},
+            {"question":"Beta-blockers treat the psychological cause of anxiety.","options":["True","False"],"answer":"False"},
+            {"question":"A patient with severe respiratory insufficiency is prescribed benzodiazepines. What is the main concern?","options":["Respiratory depression","Hypertension","Hyperglycemia","Renal failure"],"answer":"Respiratory depression"},
+            {"question":"A patient stopped benzodiazepines suddenly and developed agitation. What is the cause?","options":["Withdrawal","Allergic reaction","Overdose","Tolerance"],"answer":"Withdrawal"},
+            {"question":"A patient needs quick relief of tremor before presentation. Which drug class is best?","options":["Beta-blockers","SSRIs","SNRIs","Antipsychotics"],"answer":"Beta-blockers"},
+            {"question":"A patient takes MAOI and is prescribed SSRI. What should be done?","options":["Stop medication and inform provider","Continue both","Increase dose","Ignore"],"answer":"Stop medication and inform provider"},
+            {"question":"A teenager on SSRI develops mood changes. What is the concern?","options":["Suicidality","Hypertension","Diabetes","Infection"],"answer":"Suicidality"}
+
         ],
         "Antidepresent drugs":[
-            {
-                "question": "Which best explains the main action of antidepressants?",
-                "options": [
-                "Increase brain oxygen supply",
-                "Modify neurotransmitter levels",
-                "Destroy depressive neurons",
-                "Block all CNS activity"
-                ],
-                "answer": "Modify neurotransmitter levels",
-                "explanation": "Antidepressants adjust serotonin, norepinephrine, and dopamine levels."
-            },
-            {
-                "question": "A patient expects immediate relief after first antidepressant dose. What is the best response?",
-                "options": [
-                "Yes, within hours",
-                "Improvement starts in 1 to 2 days",
-                "Effects take weeks to appear",
-                "Stop if no effect in 3 days"
-                ],
-                "answer": "Effects take weeks to appear",
-                "explanation": "Onset is gradual and usually takes 4 to 6 weeks."
-            },
-            {
-                "question": "Which improves first after starting antidepressant therapy?",
-                "options": [
-                "Mood",
-                "Energy and appetite",
-                "Social behavior",
-                "Memory"
-                ],
-                "answer": "Energy and appetite",
-                "explanation": "Energy improves before mood."
-            },
-            {
-                "question": "Which is most concerning early in antidepressant therapy?",
-                "options": [
-                "Mild nausea",
-                "Weight gain",
-                "Suicidal thoughts",
-                "Headache"
-                ],
-                "answer": "Suicidal thoughts",
-                "explanation": "This is the highest priority risk early in treatment."
-            },
-            {
-                "question": "Which is an SSRI?",
-                "options": [
-                "Amitriptyline",
-                "Fluoxetine",
-                "Phenelzine",
-                "Bupropion"
-                ],
-                "answer": "Fluoxetine",
-                "explanation": "Fluoxetine is an SSRI."
-            },
-            {
-                "question": "SSRIs mainly act by:",
-                "options": [
-                "Blocking dopamine receptors",
-                "Inhibiting serotonin reuptake",
-                "Increasing MAO activity",
-                "Blocking acetylcholine"
-                ],
-                "answer": "Inhibiting serotonin reuptake",
-                "explanation": "They increase serotonin levels in the synapse."
-            },
-            {
-                "question": "Which adverse effect is common with SSRIs?",
-                "options": [
-                "Severe hypotension",
-                "Sexual dysfunction",
-                "Hyperglycemia",
-                "Seizures"
-                ],
-                "answer": "Sexual dysfunction",
-                "explanation": "A common SSRI side effect."
-            },
-            {
-                "question": "A patient on SSRI develops agitation and hyperreflexia. What is the diagnosis?",
-                "options": [
-                "Withdrawal",
-                "Serotonin syndrome",
-                "Mania",
-                "Stroke"
-                ],
-                "answer": "Serotonin syndrome",
-                "explanation": "Classic signs of serotonin toxicity."
-            },
-            {
-                "question": "Which combination most increases risk of serotonin syndrome?",
-                "options": [
-                "SSRI and MAOI",
-                "SSRI and food",
-                "SSRI alone",
-                "SSRI and vitamins"
-                ],
-                "answer": "SSRI and MAOI",
-                "explanation": "Dangerous interaction causing serotonin excess."
-            },
-            {
-                "question": "TCAs differ from SSRIs by:",
-                "options": [
-                "No effect on norepinephrine",
-                "Strong anticholinergic effects",
-                "No CNS effect",
-                "No side effects"
-                ],
-                "answer": "Strong anticholinergic effects",
-                "explanation": "TCAs cause dry mouth, urinary retention, etc."
-            },
-            {
-                "question": "Which is a classic anticholinergic effect of TCAs?",
-                "options": [
-                "Diarrhea",
-                "Dry mouth",
-                "Bradycardia",
-                "Sweating"
-                ],
-                "answer": "Dry mouth",
-                "explanation": "Typical anticholinergic symptom."
-            },
-            {
-                "question": "Most dangerous complication of TCA overdose?",
-                "options": [
-                "Constipation",
-                "Arrhythmia",
-                "Weight gain",
-                "Insomnia"
-                ],
-                "answer": "Arrhythmia",
-                "explanation": "Cardiotoxicity is the main danger."
-            },
-            {
-                "question": "MAOIs increase neurotransmitters by:",
-                "options": [
-                "Blocking reuptake",
-                "Preventing breakdown",
-                "Blocking receptors",
-                "Decreasing synthesis"
-                ],
-                "answer": "Preventing breakdown",
-                "explanation": "They inhibit monoamine oxidase enzyme."
-            },
-            {
-                "question": "A patient on MAOI eats aged cheese. What happens?",
-                "options": [
-                "Hypoglycemia",
-                "Hypertensive crisis",
-                "Bradycardia",
-                "Sedation"
-                ],
-                "answer": "Hypertensive crisis",
-                "explanation": "Due to tyramine interaction."
-            },
-            {
-                "question": "Most important teaching for MAOI therapy?",
-                "options": [
-                "Avoid caffeine",
-                "Avoid tyramine rich foods",
-                "Avoid exercise",
-                "Avoid water"
-                ],
-                "answer": "Avoid tyramine rich foods",
-                "explanation": "Prevents hypertensive crisis."
-            },
-            {
-                "question": "Which antidepressant class increases blood pressure?",
-                "options": [
-                "SSRI",
-                "SNRI",
-                "TCA",
-                "MAOI"
-                ],
-                "answer": "SNRI",
-                "explanation": "Due to norepinephrine effect."
-            },
-            {
-                "question": "Which class affects both serotonin and norepinephrine?",
-                "options": [
-                "SSRI",
-                "SNRI",
-                "NDRI",
-                "MAOI"
-                ],
-                "answer": "SNRI",
-                "explanation": "Dual action drugs."
-            },
-            {
-                "question": "Which antidepressant is linked to seizures?",
-                "options": [
-                "Fluoxetine",
-                "Venlafaxine",
-                "Bupropion",
-                "Sertraline"
-                ],
-                "answer": "Bupropion",
-                "explanation": "Lowers seizure threshold."
-            },
-            {
-                "question": "Which patient should not receive NDRI?",
-                "options": [
-                "Depression",
-                "Anxiety",
-                "Epilepsy",
-                "Insomnia"
-                ],
-                "answer": "Epilepsy",
-                "explanation": "Risk of seizures."
-            },
-            {
-                "question": "Abrupt discontinuation of antidepressants leads to:",
-                "options": [
-                "Cure",
-                "Withdrawal symptoms",
-                "Hypertension",
-                "Coma"
-                ],
-                "answer": "Withdrawal symptoms",
-                "explanation": "Stopping suddenly causes discontinuation syndrome."
-            },
-            {
-                "question": "Which interaction increases bleeding risk?",
-                "options": [
-                "SSRI and NSAIDs",
-                "SSRI and vitamins",
-                "SSRI and water",
-                "SSRI and insulin"
-                ],
-                "answer": "SSRI and NSAIDs",
-                "explanation": "Increases bleeding risk."
-            },
-            {
-                "question": "Which class causes most weight gain?",
-                "options": [
-                "TCAs",
-                "NDRIs",
-                "SSRIs",
-                "SNRIs"
-                ],
-                "answer": "TCAs",
-                "explanation": "They are associated with weight gain."
-            },
-            {
-                "question": "Which class causes weight loss?",
-                "options": [
-                "TCAs",
-                "NDRIs",
-                "SSRIs",
-                "MAOIs"
-                ],
-                "answer": "NDRIs",
-                "explanation": "Bupropion causes weight loss."
-            },
-            {
-                "question": "Most important nursing assessment?",
-                "options": [
-                "Vision",
-                "Mood and suicide risk",
-                "Skin",
-                "Hearing"
-                ],
-                "answer": "Mood and suicide risk",
-                "explanation": "Priority assessment."
-            },
-            {
-                "question": "Which is contraindicated with MAOI?",
-                "options": [
-                "SSRI",
-                "Vitamin C",
-                "Water",
-                "Calcium"
-                ],
-                "answer": "SSRI",
-                "explanation": "Risk of serotonin syndrome."
-            },
-            {
-                "question": "Which improves mood by increasing dopamine?",
-                "options": [
-                "SSRI",
-                "SNRI",
-                "NDRI",
-                "TCA"
-                ],
-                "answer": "NDRI",
-                "explanation": "Dopamine reuptake inhibition."
-            },
-            {
-                "question": "Which side effect is most expected with TCAs?",
-                "options": [
-                "Diarrhea",
-                "Urinary retention",
-                "Sweating",
-                "Weight loss"
-                ],
-                "answer": "Urinary retention",
-                "explanation": "Anticholinergic effect."
-            },
-            {
-                "question": "Which antidepressant is safest for the heart?",
-                "options": [
-                "TCA",
-                "SSRI",
-                "MAOI",
-                "NDRI"
-                ],
-                "answer": "SSRI",
-                "explanation": "Lowest cardiotoxic risk."
-            },
-            {
-                "question": "Which condition increases risk with SNRIs?",
-                "options": [
-                "Hypotension",
-                "Hypertension",
-                "Hypoglycemia",
-                "Anemia"
-                ],
-                "answer": "Hypertension",
-                "explanation": "SNRIs increase BP."
-            },
-            {
-                "question": "Most important instruction for antidepressant use?",
-                "options": [
-                "Stop early",
-                "Take irregularly",
-                "Adhere to schedule",
-                "Double dose"
-                ],
-                "answer": "Adhere to schedule",
-                "explanation": "Consistency is essential."
-            },
-            {
-                "question": "Antidepressants act on neurotransmitters.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "They modify neurotransmitter levels."
-            },
-            {
-                "question": "Antidepressants work immediately.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "They take weeks to work."
-            },
-            {
-                "question": "SSRIs affect only serotonin.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Selective action."
-            },
-            {
-                "question": "TCAs have anticholinergic effects.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Common feature."
-            },
-            {
-                "question": "MAOIs increase breakdown of serotonin.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "They prevent breakdown."
-            },
-            {
-                "question": "Tyramine with MAOI causes crisis.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Leads to hypertensive crisis."
-            },
-            {
-                "question": "SNRIs increase norepinephrine and serotonin.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Dual mechanism."
-            },
-            {
-                "question": "NDRIs affect dopamine.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Dopamine reuptake inhibition."
-            },
-            {
-                "question": "Bupropion is safe in epilepsy.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Increases seizure risk."
-            },
-            {
-                "question": "SSRIs can cause bleeding.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Especially with NSAIDs."
-            },
-            {
-                "question": "TCAs are safe in heart disease.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Cardiotoxic."
-            },
-            {
-                "question": "Alcohol is safe with antidepressants.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Increases CNS depression."
-            },
-            {
-                "question": "Withdrawal occurs if antidepressants are stopped suddenly.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Discontinuation syndrome."
-            },
-            {
-                "question": "SSRIs can cause serotonin syndrome.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Especially with interactions."
-            },
-            {
-                "question": "MAOIs require diet restriction.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Avoid tyramine foods."
-            },
-            {
-                "question": "SNRIs decrease blood pressure.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "They increase BP."
-            },
-            {
-                "question": "TCAs cause arrhythmia.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Cardiotoxic effect."
-            },
-            {
-                "question": "NDRIs increase weight.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "They cause weight loss."
-            },
-            {
-                "question": "Monitoring is essential in antidepressant therapy.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Ensures safety."
-            },
-            {
-                "question": "Nursing role includes patient education.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Key responsibility."
-            },
-            {
-                "question": "A patient taking SSRI with NSAIDs develops bleeding. What is the cause?",
-                "options": [
-                "Drug interaction",
-                "Allergy",
-                "Overdose",
-                "Infection"
-                ],
-                "answer": "Drug interaction",
-                "explanation": "Increased bleeding risk."
-            },
-            {
-                "question": "A patient on MAOI eats cheese and develops high blood pressure. What is the diagnosis?",
-                "options": [
-                "Hypertensive crisis",
-                "Hypotension",
-                "Stroke",
-                "Arrhythmia"
-                ],
-                "answer": "Hypertensive crisis",
-                "explanation": "Tyramine interaction."
-            },
-            {
-                "question": "A bipolar patient given SSRI develops symptoms. What is the issue?",
-                "options": [
-                "Mania induction",
-                "Withdrawal",
-                "Tolerance",
-                "Sedation"
-                ],
-                "answer": "Mania induction",
-                "explanation": "SSRIs can trigger mania."
-            },
-            {
-                "question": "A patient with epilepsy is prescribed bupropion. What is the concern?",
-                "options": [
-                "Seizure risk",
-                "Hypertension",
-                "Bleeding",
-                "Sedation"
-                ],
-                "answer": "Seizure risk",
-                "explanation": "Bupropion lowers seizure threshold."
-            },
-            {
-                "question": "A patient develops suicidal thoughts after starting antidepressants. What is the priority?",
-                "options": [
-                "Ensure safety",
-                "Stop food",
-                "Increase dose",
-                "Ignore symptoms"
-                ],
-                "answer": "Ensure safety",
-                "explanation": "High-risk situation."
-            },
-            {
-                "question": "A patient with arrhythmia takes TCA. What is the risk?",
-                "options": [
-                "Cardiac toxicity",
-                "Bleeding",
-                "Infection",
-                "Sedation"
-                ],
-                "answer": "Cardiac toxicity",
-                "explanation": "TCAs affect heart rhythm."
-            },
-            {
-                "question": "A patient starts SNRI and develops high blood pressure. What is the cause?",
-                "options": [
-                "Side effect",
-                "Allergy",
-                "Withdrawal",
-                "Infection"
-                ],
-                "answer": "Side effect",
-                "explanation": "SNRIs increase BP."
-            },
-            {
-                "question": "A patient stops SSRI suddenly and develops symptoms. What is the diagnosis?",
-                "options": [
-                "Withdrawal",
-                "Allergy",
-                "Overdose",
-                "Tolerance"
-                ],
-                "answer": "Withdrawal",
-                "explanation": "Discontinuation syndrome."
-            },
-            {
-                "question": "A patient on MAOI takes decongestant. What is the risk?",
-                "options": [
-                "Hypertensive crisis",
-                "Hypoglycemia",
-                "Sedation",
-                "Bradycardia"
-                ],
-                "answer": "Hypertensive crisis",
-                "explanation": "Dangerous interaction."
-            },
-            {
-                "question": "A patient does not improve after one week of antidepressant therapy. What is the explanation?",
-                "options": [
-                "Normal delayed effect",
-                "Drug failure",
-                "Overdose",
-                "Allergy"
-                ],
-                "answer": "Normal delayed effect",
-                "explanation": "Effect takes weeks."
-            }
+            {"question":"Which best explains the main action of antidepressants?","options":["Increase brain oxygen supply","Modify neurotransmitter levels","Destroy depressive neurons","Block all CNS activity"],"answer":"Modify neurotransmitter levels"},
+            {"question":"A patient expects immediate relief after first antidepressant dose. What is the best response?","options":["Yes, within hours","Improvement starts in 1 to 2 days","Effects take weeks to appear","Stop if no effect in 3 days"],"answer":"Effects take weeks to appear"},
+            {"question":"Which improves first after starting antidepressant therapy?","options":["Mood","Energy and appetite","Social behavior","Memory"],"answer":"Energy and appetite"},
+            {"question":"Which is most concerning early in antidepressant therapy?","options":["Mild nausea","Weight gain","Suicidal thoughts","Headache"],"answer":"Suicidal thoughts"},
+            {"question":"Which is an SSRI?","options":["Amitriptyline","Fluoxetine","Phenelzine","Bupropion"],"answer":"Fluoxetine"},
+            {"question":"SSRIs mainly act by:","options":["Blocking dopamine receptors","Inhibiting serotonin reuptake","Increasing MAO activity","Blocking acetylcholine"],"answer":"Inhibiting serotonin reuptake"},
+            {"question":"Which adverse effect is common with SSRIs?","options":["Severe hypotension","Sexual dysfunction","Hyperglycemia","Seizures"],"answer":"Sexual dysfunction"},
+            {"question":"A patient on SSRI develops agitation and hyperreflexia. What is the diagnosis?","options":["Withdrawal","Serotonin syndrome","Mania","Stroke"],"answer":"Serotonin syndrome"},
+            {"question":"Which combination most increases risk of serotonin syndrome?","options":["SSRI and MAOI","SSRI and food","SSRI alone","SSRI and vitamins"],"answer":"SSRI and MAOI"},
+            {"question":"TCAs differ from SSRIs by:","options":["No effect on norepinephrine","Strong anticholinergic effects","No CNS effect","No side effects"],"answer":"Strong anticholinergic effects"},
+            {"question":"Which is a classic anticholinergic effect of TCAs?","options":["Diarrhea","Dry mouth","Bradycardia","Sweating"],"answer":"Dry mouth"},
+            {"question":"Most dangerous complication of TCA overdose?","options":["Constipation","Arrhythmia","Weight gain","Insomnia"],"answer":"Arrhythmia"},
+            {"question":"MAOIs increase neurotransmitters by:","options":["Blocking reuptake","Preventing breakdown","Blocking receptors","Decreasing synthesis"],"answer":"Preventing breakdown"},
+            {"question":"A patient on MAOI eats aged cheese. What happens?","options":["Hypoglycemia","Hypertensive crisis","Bradycardia","Sedation"],"answer":"Hypertensive crisis"},
+            {"question":"Most important teaching for MAOI therapy?","options":["Avoid caffeine","Avoid tyramine rich foods","Avoid exercise","Avoid water"],"answer":"Avoid tyramine rich foods"},
+            {"question":"Which antidepressant class increases blood pressure?","options":["SSRI","SNRI","TCA","MAOI"],"answer":"SNRI"},
+            {"question":"Which class affects both serotonin and norepinephrine?","options":["SSRI","SNRI","NDRI","MAOI"],"answer":"SNRI"},
+            {"question":"Which antidepressant is linked to seizures?","options":["Fluoxetine","Venlafaxine","Bupropion","Sertraline"],"answer":"Bupropion"},
+            {"question":"Which patient should not receive NDRI?","options":["Depression","Anxiety","Epilepsy","Insomnia"],"answer":"Epilepsy"},
+            {"question":"Abrupt discontinuation of antidepressants leads to:","options":["Cure","Withdrawal symptoms","Hypertension","Coma"],"answer":"Withdrawal symptoms"},
+            {"question":"Which interaction increases bleeding risk?","options":["SSRI and NSAIDs","SSRI and vitamins","SSRI and water","SSRI and insulin"],"answer":"SSRI and NSAIDs"},
+            {"question":"Which class causes most weight gain?","options":["TCAs","NDRIs","SSRIs","SNRIs"],"answer":"TCAs"},
+            {"question":"Which class causes weight loss?","options":["TCAs","NDRIs","SSRIs","MAOIs"],"answer":"NDRIs"},
+            {"question":"Most important nursing assessment?","options":["Vision","Mood and suicide risk","Skin","Hearing"],"answer":"Mood and suicide risk"},
+            {"question":"Which is contraindicated with MAOI?","options":["SSRI","Vitamin C","Water","Calcium"],"answer":"SSRI"},
+            {"question":"Which improves mood by increasing dopamine?","options":["SSRI","SNRI","NDRI","TCA"],"answer":"NDRI"},
+            {"question":"Which side effect is most expected with TCAs?","options":["Diarrhea","Urinary retention","Sweating","Weight loss"],"answer":"Urinary retention"},
+            {"question":"Which antidepressant is safest for the heart?","options":["TCA","SSRI","MAOI","NDRI"],"answer":"SSRI"},
+            {"question":"Which condition increases risk with SNRIs?","options":["Hypotension","Hypertension","Hypoglycemia","Anemia"],"answer":"Hypertension"},
+            {"question":"Most important instruction for antidepressant use?","options":["Stop early","Take irregularly","Adhere to schedule","Double dose"],"answer":"Adhere to schedule"},
+            {"question":"Antidepressants act on neurotransmitters.","options":["True","False"],"answer":"True"},
+            {"question":"Antidepressants work immediately.","options":["True","False"],"answer":"False"},
+            {"question":"SSRIs affect only serotonin.","options":["True","False"],"answer":"True"},
+            {"question":"TCAs have anticholinergic effects.","options":["True","False"],"answer":"True"},
+            {"question":"MAOIs increase breakdown of serotonin.","options":["True","False"],"answer":"False"},
+            {"question":"Tyramine with MAOI causes crisis.","options":["True","False"],"answer":"True"},
+            {"question":"SNRIs increase norepinephrine and serotonin.","options":["True","False"],"answer":"True"},
+            {"question":"NDRIs affect dopamine.","options":["True","False"],"answer":"True"},
+            {"question":"Bupropion is safe in epilepsy.","options":["True","False"],"answer":"False"},
+            {"question":"SSRIs can cause bleeding.","options":["True","False"],"answer":"True"},
+            {"question":"TCAs are safe in heart disease.","options":["True","False"],"answer":"False"},
+            {"question":"Alcohol is safe with antidepressants.","options":["True","False"],"answer":"False"},
+            {"question":"Withdrawal occurs if antidepressants are stopped suddenly.","options":["True","False"],"answer":"True"},
+            {"question":"SSRIs can cause serotonin syndrome.","options":["True","False"],"answer":"True"},
+            {"question":"MAOIs require diet restriction.","options":["True","False"],"answer":"True"},
+            {"question":"SNRIs decrease blood pressure.","options":["True","False"],"answer":"False"},
+            {"question":"TCAs cause arrhythmia.","options":["True","False"],"answer":"True"},
+            {"question":"NDRIs increase weight.","options":["True","False"],"answer":"False"},
+            {"question":"Monitoring is essential in antidepressant therapy.","options":["True","False"],"answer":"True"},
+            {"question":"Nursing role includes patient education.","options":["True","False"],"answer":"True"},
+            {"question":"A patient taking SSRI with NSAIDs develops bleeding. What is the cause?","options":["Drug interaction","Allergy","Overdose","Infection"],"answer":"Drug interaction"},
+            {"question":"A patient on MAOI eats cheese and develops high blood pressure. What is the diagnosis?","options":["Hypertensive crisis","Hypotension","Stroke","Arrhythmia"],"answer":"Hypertensive crisis"},
+            {"question":"A bipolar patient given SSRI develops symptoms. What is the issue?","options":["Mania induction","Withdrawal","Tolerance","Sedation"],"answer":"Mania induction"},
+            {"question":"A patient with epilepsy is prescribed bupropion. What is the concern?","options":["Seizure risk","Hypertension","Bleeding","Sedation"],"answer":"Seizure risk"},
+            {"question":"A patient develops suicidal thoughts after starting antidepressants. What is the priority?","options":["Ensure safety","Stop food","Increase dose","Ignore symptoms"],"answer":"Ensure safety"},
+            {"question":"A patient with arrhythmia takes TCA. What is the risk?","options":["Cardiac toxicity","Bleeding","Infection","Sedation"],"answer":"Cardiac toxicity"},
+            {"question":"A patient starts SNRI and develops high blood pressure. What is the cause?","options":["Side effect","Allergy","Withdrawal","Infection"],"answer":"Side effect"},
+            {"question":"A patient stops SSRI suddenly and develops symptoms. What is the diagnosis?","options":["Withdrawal","Allergy","Overdose","Tolerance"],"answer":"Withdrawal"},
+            {"question":"A patient on MAOI takes decongestant. What is the risk?","options":["Hypertensive crisis","Hypoglycemia","Sedation","Bradycardia"],"answer":"Hypertensive crisis"},
+            {"question":"A patient does not improve after one week of antidepressant therapy. What is the explanation?","options":["Normal delayed effect","Drug failure","Overdose","Allergy"],"answer":"Normal delayed effect"}
+
         ],
         "Antipsychotics":[
-            {
-                "question": "Which best explains the mechanism of typical antipsychotics?",
-                "options": [
-                "Increase serotonin release",
-                "Block dopamine D2 receptors",
-                "Increase acetylcholine",
-                "Block GABA"
-                ],
-                "answer": "Block dopamine D2 receptors",
-                "explanation": "Typical antipsychotics work mainly by blocking dopamine receptors."
-            },
-            {
-                "question": "Atypical antipsychotics differ mainly by:",
-                "options": [
-                "No dopamine effect",
-                "Act on dopamine only",
-                "Act on dopamine and serotonin",
-                "Increase norepinephrine only"
-                ],
-                "answer": "Act on dopamine and serotonin",
-                "explanation": "They block dopamine and serotonin receptors."
-            },
-            {
-                "question": "Which symptom is most associated with typical antipsychotics?",
-                "options": [
-                "Weight loss",
-                "Extrapyramidal symptoms",
-                "Hypoglycemia",
-                "Seizures"
-                ],
-                "answer": "Extrapyramidal symptoms",
-                "explanation": "EPS are common with typical antipsychotics."
-            },
-            {
-                "question": "Which is an example of atypical antipsychotic?",
-                "options": [
-                "Haloperidol",
-                "Chlorpromazine",
-                "Risperidone",
-                "Fluphenazine"
-                ],
-                "answer": "Risperidone",
-                "explanation": "Risperidone is an atypical antipsychotic."
-            },
-            {
-                "question": "Which is most likely to cause metabolic syndrome?",
-                "options": [
-                "Typical antipsychotics",
-                "Atypical antipsychotics",
-                "Benzodiazepines",
-                "SSRIs"
-                ],
-                "answer": "Atypical antipsychotics",
-                "explanation": "They are associated with weight gain and metabolic changes."
-            },
-            {
-                "question": "A patient develops tremor, rigidity, and bradykinesia. What is the diagnosis?",
-                "options": [
-                "Akathisia",
-                "Parkinsonism",
-                "Dystonia",
-                "Neuroleptic malignant syndrome"
-                ],
-                "answer": "Parkinsonism",
-                "explanation": "These are classic Parkinson-like symptoms."
-            },
-            {
-                "question": "Sudden neck twisting after starting antipsychotic indicates:",
-                "options": [
-                "Akathisia",
-                "Acute dystonia",
-                "Tardive dyskinesia",
-                "Mania"
-                ],
-                "answer": "Acute dystonia",
-                "explanation": "Early extrapyramidal side effect."
-            },
-            {
-                "question": "A patient feels restless and cannot sit still. What is the diagnosis?",
-                "options": [
-                "Parkinsonism",
-                "Akathisia",
-                "Tardive dyskinesia",
-                "Neuroleptic malignant syndrome"
-                ],
-                "answer": "Akathisia",
-                "explanation": "Characterized by restlessness."
-            },
-            {
-                "question": "Which extrapyramidal symptom is potentially irreversible?",
-                "options": [
-                "Dystonia",
-                "Akathisia",
-                "Parkinsonism",
-                "Tardive dyskinesia"
-                ],
-                "answer": "Tardive dyskinesia",
-                "explanation": "Late and often irreversible."
-            },
-            {
-                "question": "Lip smacking and tongue protrusion indicate:",
-                "options": [
-                "Dystonia",
-                "Tardive dyskinesia",
-                "Akathisia",
-                "Parkinsonism"
-                ],
-                "answer": "Tardive dyskinesia",
-                "explanation": "Characteristic movements."
-            },
-            {
-                "question": "Which condition is life-threatening?",
-                "options": [
-                "Tardive dyskinesia",
-                "Akathisia",
-                "Neuroleptic malignant syndrome",
-                "Parkinsonism"
-                ],
-                "answer": "Neuroleptic malignant syndrome",
-                "explanation": "Medical emergency."
-            },
-            {
-                "question": "Key feature of neuroleptic malignant syndrome:",
-                "options": [
-                "Hypothermia",
-                "Muscle rigidity and fever",
-                "Diarrhea",
-                "Weight loss"
-                ],
-                "answer": "Muscle rigidity and fever",
-                "explanation": "Classic presentation."
-            },
-            {
-                "question": "First priority in suspected neuroleptic malignant syndrome:",
-                "options": [
-                "Continue drug",
-                "Stop antipsychotic",
-                "Give antidepressant",
-                "Ignore"
-                ],
-                "answer": "Stop antipsychotic",
-                "explanation": "Immediate discontinuation is required."
-            },
-            {
-                "question": "Which drug has risk of neutropenia?",
-                "options": [
-                "Haloperidol",
-                "Clozapine",
-                "Risperidone",
-                "Olanzapine"
-                ],
-                "answer": "Clozapine",
-                "explanation": "Requires regular CBC monitoring."
-            },
-            {
-                "question": "Which is contraindicated in Parkinson disease?",
-                "options": [
-                "Atypical antipsychotics",
-                "Typical antipsychotics",
-                "SSRIs",
-                "SNRIs"
-                ],
-                "answer": "Typical antipsychotics",
-                "explanation": "They worsen Parkinson symptoms."
-            },
-            {
-                "question": "Which symptom is treated best by typical antipsychotics?",
-                "options": [
-                "Negative symptoms",
-                "Positive symptoms",
-                "Cognitive symptoms",
-                "Mood symptoms"
-                ],
-                "answer": "Positive symptoms",
-                "explanation": "Effective for hallucinations and delusions."
-            },
-            {
-                "question": "Which class is preferred for long-term treatment?",
-                "options": [
-                "Typical",
-                "Atypical",
-                "Benzodiazepines",
-                "MAOIs"
-                ],
-                "answer": "Atypical",
-                "explanation": "Better side effect profile."
-            },
-            {
-                "question": "Which side effect is common in both types?",
-                "options": [
-                "Hypoglycemia",
-                "Sedation",
-                "Hair loss",
-                "Kidney failure"
-                ],
-                "answer": "Sedation",
-                "explanation": "Common CNS effect."
-            },
-            {
-                "question": "Which drug interaction increases sedation risk?",
-                "options": [
-                "Antipsychotic and alcohol",
-                "Antipsychotic and water",
-                "Antipsychotic and vitamins",
-                "Antipsychotic and insulin"
-                ],
-                "answer": "Antipsychotic and alcohol",
-                "explanation": "Increases CNS depression."
-            },
-            {
-                "question": "Grapefruit juice causes:",
-                "options": [
-                "Decrease drug level",
-                "Increase drug level",
-                "No effect",
-                "Destroy drug"
-                ],
-                "answer": "Increase drug level",
-                "explanation": "Inhibits metabolism."
-            },
-            {
-                "question": "High protein meals may:",
-                "options": [
-                "Increase absorption",
-                "Decrease absorption",
-                "No effect",
-                "Destroy drug"
-                ],
-                "answer": "Decrease absorption",
-                "explanation": "Protein interferes with absorption."
-            },
-            {
-                "question": "Which side effect is due to prolactin increase?",
-                "options": [
-                "Weight loss",
-                "Galactorrhea",
-                "Hypoglycemia",
-                "Seizures"
-                ],
-                "answer": "Galactorrhea",
-                "explanation": "Due to hormonal effect."
-            },
-            {
-                "question": "Which is most important nursing role?",
-                "options": [
-                "Give drug only",
-                "Monitor side effects",
-                "Ignore symptoms",
-                "Reduce dose always"
-                ],
-                "answer": "Monitor side effects",
-                "explanation": "Ensures patient safety."
-            },
-            {
-                "question": "Which condition increases mortality with atypical antipsychotics?",
-                "options": [
-                "Diabetes",
-                "Dementia in elderly",
-                "Hypertension",
-                "Anxiety"
-                ],
-                "answer": "Dementia in elderly",
-                "explanation": "Higher mortality risk."
-            },
-            {
-                "question": "Which causes QT prolongation?",
-                "options": [
-                "Some antipsychotics",
-                "All drugs",
-                "Vitamins",
-                "Antibiotics only"
-                ],
-                "answer": "Some antipsychotics",
-                "explanation": "Cardiac side effect."
-            },
-            {
-                "question": "Which extrapyramidal symptom occurs early?",
-                "options": [
-                "Tardive dyskinesia",
-                "Dystonia",
-                "Chronic EPS",
-                "Metabolic syndrome"
-                ],
-                "answer": "Dystonia",
-                "explanation": "Occurs early after starting therapy."
-            },
-            {
-                "question": "Which symptom indicates anticholinergic effect?",
-                "options": [
-                "Diarrhea",
-                "Dry mouth",
-                "Sweating",
-                "Bradycardia"
-                ],
-                "answer": "Dry mouth",
-                "explanation": "Typical anticholinergic sign."
-            },
-            {
-                "question": "Which is most important patient education?",
-                "options": [
-                "Stop medication",
-                "Avoid alcohol",
-                "Double dose",
-                "Skip doses"
-                ],
-                "answer": "Avoid alcohol",
-                "explanation": "Prevents CNS depression."
-            },
-            {
-                "question": "Which drug is used for resistant cases?",
-                "options": [
-                "Haloperidol",
-                "Clozapine",
-                "Fluoxetine",
-                "Diazepam"
-                ],
-                "answer": "Clozapine",
-                "explanation": "Used in treatment-resistant cases."
-            },
-            {
-                "question": "Most important assessment:",
-                "options": [
-                "Skin",
-                "Mental status",
-                "Hair",
-                "Nails"
-                ],
-                "answer": "Mental status",
-                "explanation": "Core psychiatric evaluation."
-            },
-            {
-                "question": "Typical antipsychotics block dopamine.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Main mechanism."
-            },
-            {
-                "question": "Atypical antipsychotics act only on dopamine.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "They act on dopamine and serotonin."
-            },
-            {
-                "question": "Extrapyramidal symptoms are more common with typical antipsychotics.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Higher risk."
-            },
-            {
-                "question": "Tardive dyskinesia is always reversible.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Often irreversible."
-            },
-            {
-                "question": "Neuroleptic malignant syndrome is life-threatening.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Medical emergency."
-            },
-            {
-                "question": "Clozapine can cause neutropenia.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Requires monitoring."
-            },
-            {
-                "question": "Antipsychotics are safe in Parkinson disease.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Worsen symptoms."
-            },
-            {
-                "question": "Atypical antipsychotics cause metabolic effects.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Weight gain and diabetes risk."
-            },
-            {
-                "question": "Alcohol increases sedation with antipsychotics.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "CNS depression."
-            },
-            {
-                "question": "Grapefruit decreases drug level.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It increases drug level."
-            },
-            {
-                "question": "Akathisia means restlessness.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Core feature."
-            },
-            {
-                "question": "Parkinsonism causes slow movement.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Bradykinesia."
-            },
-            {
-                "question": "Dystonia is sudden muscle contraction.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Acute muscle spasm."
-            },
-            {
-                "question": "Tardive dyskinesia occurs early.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Occurs late."
-            },
-            {
-                "question": "QT prolongation may occur with antipsychotics.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Cardiac risk."
-            },
-            {
-                "question": "Nurses do not monitor side effects.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Monitoring is essential."
-            },
-            {
-                "question": "Atypical antipsychotics treat negative symptoms.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Better for negative symptoms."
-            },
-            {
-                "question": "High protein increases absorption.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It decreases absorption."
-            },
-            {
-                "question": "Neuroleptic malignant syndrome includes fever.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Key sign."
-            },
-            {
-                "question": "Extrapyramidal symptoms are only mild.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Can be severe."
-            },
-            {
-                "question": "A patient develops neck spasm after haloperidol. What is the diagnosis?",
-                "options": [
-                "Acute dystonia",
-                "Akathisia",
-                "Parkinsonism",
-                "Tardive dyskinesia"
-                ],
-                "answer": "Acute dystonia",
-                "explanation": "Early EPS."
-            },
-            {
-                "question": "A patient develops tremor and rigidity. What is the diagnosis?",
-                "options": [
-                "Parkinsonism",
-                "Akathisia",
-                "Dystonia",
-                "NMS"
-                ],
-                "answer": "Parkinsonism",
-                "explanation": "Classic features."
-            },
-            {
-                "question": "A patient cannot sit still after medication. What is the diagnosis?",
-                "options": [
-                "Akathisia",
-                "Dystonia",
-                "Tardive dyskinesia",
-                "NMS"
-                ],
-                "answer": "Akathisia",
-                "explanation": "Restlessness."
-            },
-            {
-                "question": "A patient has lip smacking movements. What is the diagnosis?",
-                "options": [
-                "Tardive dyskinesia",
-                "Dystonia",
-                "Parkinsonism",
-                "Akathisia"
-                ],
-                "answer": "Tardive dyskinesia",
-                "explanation": "Late EPS."
-            },
-            {
-                "question": "A patient has fever and rigidity. What is the diagnosis?",
-                "options": [
-                "Neuroleptic malignant syndrome",
-                "Akathisia",
-                "Dystonia",
-                "Tardive dyskinesia"
-                ],
-                "answer": "Neuroleptic malignant syndrome",
-                "explanation": "Life-threatening condition."
-            },
-            {
-                "question": "A patient on clozapine develops infection. What is the concern?",
-                "options": [
-                "Neutropenia",
-                "Hypertension",
-                "Bleeding",
-                "Sedation"
-                ],
-                "answer": "Neutropenia",
-                "explanation": "Requires CBC monitoring."
-            },
-            {
-                "question": "Elderly patient with dementia on antipsychotic. What is the risk?",
-                "options": [
-                "Increased mortality",
-                "Weight loss",
-                "Hair loss",
-                "Hypoglycemia"
-                ],
-                "answer": "Increased mortality",
-                "explanation": "Higher risk in elderly dementia."
-            },
-            {
-                "question": "Patient takes antipsychotic with alcohol. What is the effect?",
-                "options": [
-                "CNS depression",
-                "Hypertension",
-                "Hyperglycemia",
-                "Seizures"
-                ],
-                "answer": "CNS depression",
-                "explanation": "Additive sedation."
-            },
-            {
-                "question": "Patient takes medication with grapefruit juice. What happens?",
-                "options": [
-                "Increase drug level",
-                "Decrease drug level",
-                "No effect",
-                "Drug destroyed"
-                ],
-                "answer": "Increase drug level",
-                "explanation": "Inhibits metabolism."
-            },
-            {
-                "question": "Patient becomes very sleepy after starting medication. What is the cause?",
-                "options": [
-                "Sedation",
-                "Allergy",
-                "Infection",
-                "Withdrawal"
-                ],
-                "answer": "Sedation",
-                "explanation": "Common side effect."
-            }
+            {"question":"Which best explains the mechanism of typical antipsychotics?","options":["Increase serotonin release","Block dopamine D2 receptors","Increase acetylcholine","Block GABA"],"answer":"Block dopamine D2 receptors"},
+            {"question":"Atypical antipsychotics differ mainly by:","options":["No dopamine effect","Act on dopamine only","Act on dopamine and serotonin","Increase norepinephrine only"],"answer":"Act on dopamine and serotonin"},
+            {"question":"Which symptom is most associated with typical antipsychotics?","options":["Weight loss","Extrapyramidal symptoms","Hypoglycemia","Seizures"],"answer":"Extrapyramidal symptoms"},
+            {"question":"Which is an example of atypical antipsychotic?","options":["Haloperidol","Chlorpromazine","Risperidone","Fluphenazine"],"answer":"Risperidone"},
+            {"question":"Which is most likely to cause metabolic syndrome?","options":["Typical antipsychotics","Atypical antipsychotics","Benzodiazepines","SSRIs"],"answer":"Atypical antipsychotics"},
+            {"question":"A patient develops tremor, rigidity, and bradykinesia. What is the diagnosis?","options":["Akathisia","Parkinsonism","Dystonia","Neuroleptic malignant syndrome"],"answer":"Parkinsonism"},
+            {"question":"Sudden neck twisting after starting antipsychotic indicates:","options":["Akathisia","Acute dystonia","Tardive dyskinesia","Mania"],"answer":"Acute dystonia"},
+            {"question":"A patient feels restless and cannot sit still. What is the diagnosis?","options":["Parkinsonism","Akathisia","Tardive dyskinesia","Neuroleptic malignant syndrome"],"answer":"Akathisia"},
+            {"question":"Which extrapyramidal symptom is potentially irreversible?","options":["Dystonia","Akathisia","Parkinsonism","Tardive dyskinesia"],"answer":"Tardive dyskinesia"},
+            {"question":"Lip smacking and tongue protrusion indicate:","options":["Dystonia","Tardive dyskinesia","Akathisia","Parkinsonism"],"answer":"Tardive dyskinesia"},
+            {"question":"Which condition is life-threatening?","options":["Tardive dyskinesia","Akathisia","Neuroleptic malignant syndrome","Parkinsonism"],"answer":"Neuroleptic malignant syndrome"},
+            {"question":"Key feature of neuroleptic malignant syndrome:","options":["Hypothermia","Muscle rigidity and fever","Diarrhea","Weight loss"],"answer":"Muscle rigidity and fever"},
+            {"question":"First priority in suspected neuroleptic malignant syndrome:","options":["Continue drug","Stop antipsychotic","Give antidepressant","Ignore"],"answer":"Stop antipsychotic"},
+            {"question":"Which drug has risk of neutropenia?","options":["Haloperidol","Clozapine","Risperidone","Olanzapine"],"answer":"Clozapine"},
+            {"question":"Which is contraindicated in Parkinson disease?","options":["Atypical antipsychotics","Typical antipsychotics","SSRIs","SNRIs"],"answer":"Typical antipsychotics"},
+            {"question":"Which symptom is treated best by typical antipsychotics?","options":["Negative symptoms","Positive symptoms","Cognitive symptoms","Mood symptoms"],"answer":"Positive symptoms"},
+            {"question":"Which class is preferred for long-term treatment?","options":["Typical","Atypical","Benzodiazepines","MAOIs"],"answer":"Atypical"},
+            {"question":"Which side effect is common in both types?","options":["Hypoglycemia","Sedation","Hair loss","Kidney failure"],"answer":"Sedation"},
+            {"question":"Which drug interaction increases sedation risk?","options":["Antipsychotic and alcohol","Antipsychotic and water","Antipsychotic and vitamins","Antipsychotic and insulin"],"answer":"Antipsychotic and alcohol"},
+            {"question":"Grapefruit juice causes:","options":["Decrease drug level","Increase drug level","No effect","Destroy drug"],"answer":"Increase drug level"},
+            {"question":"High protein meals may:","options":["Increase absorption","Decrease absorption","No effect","Destroy drug"],"answer":"Decrease absorption"},
+            {"question":"Which side effect is due to prolactin increase?","options":["Weight loss","Galactorrhea","Hypoglycemia","Seizures"],"answer":"Galactorrhea"},
+            {"question":"Which is most important nursing role?","options":["Give drug only","Monitor side effects","Ignore symptoms","Reduce dose always"],"answer":"Monitor side effects"},
+            {"question":"Which condition increases mortality with atypical antipsychotics?","options":["Diabetes","Dementia in elderly","Hypertension","Anxiety"],"answer":"Dementia in elderly"},
+            {"question":"Which causes QT prolongation?","options":["Some antipsychotics","All drugs","Vitamins","Antibiotics only"],"answer":"Some antipsychotics"},
+            {"question":"Which extrapyramidal symptom occurs early?","options":["Tardive dyskinesia","Dystonia","Chronic EPS","Metabolic syndrome"],"answer":"Dystonia"},
+            {"question":"Which symptom indicates anticholinergic effect?","options":["Diarrhea","Dry mouth","Sweating","Bradycardia"],"answer":"Dry mouth"},
+            {"question":"Which is most important patient education?","options":["Stop medication","Avoid alcohol","Double dose","Skip doses"],"answer":"Avoid alcohol"},
+            {"question":"Which drug is used for resistant cases?","options":["Haloperidol","Clozapine","Fluoxetine","Diazepam"],"answer":"Clozapine"},
+            {"question":"Most important assessment:","options":["Skin","Mental status","Hair","Nails"],"answer":"Mental status"},
+            {"question":"Typical antipsychotics block dopamine.","options":["True","False"],"answer":"True"},
+            {"question":"Atypical antipsychotics act only on dopamine.","options":["True","False"],"answer":"False"},
+            {"question":"Extrapyramidal symptoms are more common with typical antipsychotics.","options":["True","False"],"answer":"True"},
+            {"question":"Tardive dyskinesia is always reversible.","options":["True","False"],"answer":"False"},
+            {"question":"Neuroleptic malignant syndrome is life-threatening.","options":["True","False"],"answer":"True"},
+            {"question":"Clozapine can cause neutropenia.","options":["True","False"],"answer":"True"},
+            {"question":"Antipsychotics are safe in Parkinson disease.","options":["True","False"],"answer":"False"},
+            {"question":"Atypical antipsychotics cause metabolic effects.","options":["True","False"],"answer":"True"},
+            {"question":"Alcohol increases sedation with antipsychotics.","options":["True","False"],"answer":"True"},
+            {"question":"Grapefruit decreases drug level.","options":["True","False"],"answer":"False"},
+            {"question":"Akathisia means restlessness.","options":["True","False"],"answer":"True"},
+            {"question":"Parkinsonism causes slow movement.","options":["True","False"],"answer":"True"},
+            {"question":"Dystonia is sudden muscle contraction.","options":["True","False"],"answer":"True"},
+            {"question":"Tardive dyskinesia occurs early.","options":["True","False"],"answer":"False"},
+            {"question":"QT prolongation may occur with antipsychotics.","options":["True","False"],"answer":"True"},
+            {"question":"Nurses do not monitor side effects.","options":["True","False"],"answer":"False"},
+            {"question":"Atypical antipsychotics treat negative symptoms.","options":["True","False"],"answer":"True"},
+            {"question":"High protein increases absorption.","options":["True","False"],"answer":"False"},
+            {"question":"Neuroleptic malignant syndrome includes fever.","options":["True","False"],"answer":"True"},
+            {"question":"Extrapyramidal symptoms are only mild.","options":["True","False"],"answer":"False"},
+            {"question":"A patient develops neck spasm after haloperidol. What is the diagnosis?","options":["Acute dystonia","Akathisia","Parkinsonism","Tardive dyskinesia"],"answer":"Acute dystonia"},
+            {"question":"A patient develops tremor and rigidity. What is the diagnosis?","options":["Parkinsonism","Akathisia","Dystonia","NMS"],"answer":"Parkinsonism"},
+            {"question":"A patient cannot sit still after medication. What is the diagnosis?","options":["Akathisia","Dystonia","Tardive dyskinesia","NMS"],"answer":"Akathisia"},
+            {"question":"A patient has lip smacking movements. What is the diagnosis?","options":["Tardive dyskinesia","Dystonia","Parkinsonism","Akathisia"],"answer":"Tardive dyskinesia"},
+            {"question":"A patient has fever and rigidity. What is the diagnosis?","options":["Neuroleptic malignant syndrome","Akathisia","Dystonia","Tardive dyskinesia"],"answer":"Neuroleptic malignant syndrome"},
+            {"question":"A patient on clozapine develops infection. What is the concern?","options":["Neutropenia","Hypertension","Bleeding","Sedation"],"answer":"Neutropenia"},
+            {"question":"Elderly patient with dementia on antipsychotic. What is the risk?","options":["Increased mortality","Weight loss","Hair loss","Hypoglycemia"],"answer":"Increased mortality"},
+            {"question":"Patient takes antipsychotic with alcohol. What is the effect?","options":["CNS depression","Hypertension","Hyperglycemia","Seizures"],"answer":"CNS depression"},
+            {"question":"Patient takes medication with grapefruit juice. What happens?","options":["Increase drug level","Decrease drug level","No effect","Drug destroyed"],"answer":"Increase drug level"},
+            {"question":"Patient becomes very sleepy after starting medication. What is the cause?","options":["Sedation","Allergy","Infection","Withdrawal"],"answer":"Sedation"}
+
         ],
         "Anxiety Disorders":[
-            {
-                "question": "Which statement best describes anxiety?",
-                "options": [
-                "Response to external danger only",
-                "Internal feeling of worry without clear external trigger",
-                "Always pathological",
-                "Same as fear"
-                ],
-                "answer": "Internal feeling of worry without clear external trigger",
-                "explanation": "Anxiety is an internal feeling of worry without a clear external trigger."
-            },
-            {
-                "question": "Fear differs from anxiety because fear:",
-                "options": [
-                "Has no trigger",
-                "Is always pathological",
-                "Is response to identifiable danger",
-                "Lasts longer"
-                ],
-                "answer": "Is response to identifiable danger",
-                "explanation": "Fear is linked to a clear external threat."
-            },
-            {
-                "question": "Which describes stress?",
-                "options": [
-                "Internal emotion",
-                "External pressure activating fight or flight",
-                "Always chronic",
-                "No physical response"
-                ],
-                "answer": "External pressure activating fight or flight",
-                "explanation": "Stress is a response to external pressure."
-            },
-            {
-                "question": "Which indicates pathological anxiety?",
-                "options": [
-                "Short duration",
-                "Linked to exam",
-                "Impairs daily life",
-                "Resolves quickly"
-                ],
-                "answer": "Impairs daily life",
-                "explanation": "Pathological anxiety interferes with functioning."
-            },
-            {
-                "question": "Which is not a cause of anxiety disorders?",
-                "options": [
-                "Genetics",
-                "Neurotransmitters",
-                "Strong immune system",
-                "Substance abuse"
-                ],
-                "answer": "Strong immune system",
-                "explanation": "It is not related to causing anxiety disorders."
-            },
-            {
-                "question": "Which neurotransmitter is involved in anxiety?",
-                "options": [
-                "GABA",
-                "Serotonin",
-                "Noradrenaline",
-                "All of the above"
-                ],
-                "answer": "All of the above",
-                "explanation": "All these neurotransmitters play roles in anxiety."
-            },
-            {
-                "question": "Generalized anxiety disorder is characterized by:",
-                "options": [
-                "Short anxiety",
-                "Situational anxiety",
-                "Persistent excessive worry for 6 months or more",
-                "Panic attacks only"
-                ],
-                "answer": "Persistent excessive worry for 6 months or more",
-                "explanation": "GAD requires long duration of worry."
-            },
-            {
-                "question": "Which is not a symptom of generalized anxiety disorder?",
-                "options": [
-                "Restlessness",
-                "Irritability",
-                "Euphoria",
-                "Sleep disturbance"
-                ],
-                "answer": "Euphoria",
-                "explanation": "Euphoria is not typical of GAD."
-            },
-            {
-                "question": "Which symptom suggests panic attack?",
-                "options": [
-                "Gradual worry",
-                "Chest pain and fear of death",
-                "Weight gain",
-                "Memory loss"
-                ],
-                "answer": "Chest pain and fear of death",
-                "explanation": "Classic panic attack presentation."
-            },
-            {
-                "question": "Panic disorder requires:",
-                "options": [
-                "One panic attack",
-                "Recurrent attacks with at least one month concern",
-                "Only physical symptoms",
-                "Only night attacks"
-                ],
-                "answer": "Recurrent attacks with at least one month concern",
-                "explanation": "Diagnostic criteria."
-            },
-            {
-                "question": "Agoraphobia involves fear of:",
-                "options": [
-                "Animals",
-                "Social judgment",
-                "Places where escape is difficult",
-                "Blood"
-                ],
-                "answer": "Places where escape is difficult",
-                "explanation": "Fear of situations where escape is hard."
-            },
-            {
-                "question": "Which is an example of specific phobia?",
-                "options": [
-                "Generalized anxiety disorder",
-                "Fear of heights",
-                "Panic disorder",
-                "Obsessive compulsive disorder"
-                ],
-                "answer": "Fear of heights",
-                "explanation": "Specific phobia example."
-            },
-            {
-                "question": "Social anxiety disorder is characterized by:",
-                "options": [
-                "Fear of animals",
-                "Fear of judgment",
-                "Fear of death",
-                "Fear of separation"
-                ],
-                "answer": "Fear of judgment",
-                "explanation": "Core feature."
-            },
-            {
-                "question": "Most important feature of social anxiety:",
-                "options": [
-                "Weight gain",
-                "Avoidance of social situations",
-                "Fever",
-                "Hallucination"
-                ],
-                "answer": "Avoidance of social situations",
-                "explanation": "Avoidance behavior is key."
-            },
-            {
-                "question": "Separation anxiety occurs due to:",
-                "options": [
-                "Fear of public speaking",
-                "Fear of losing attachment figure",
-                "Fear of animals",
-                "Fear of blood"
-                ],
-                "answer": "Fear of losing attachment figure",
-                "explanation": "Main cause."
-            },
-            {
-                "question": "Selective mutism is:",
-                "options": [
-                "Speech disorder",
-                "Refusal to speak in certain situations",
-                "Hearing loss",
-                "Memory loss"
-                ],
-                "answer": "Refusal to speak in certain situations",
-                "explanation": "Occurs in specific settings."
-            },
-            {
-                "question": "Which duration is required for generalized anxiety disorder diagnosis?",
-                "options": [
-                "1 week",
-                "1 month",
-                "6 months",
-                "1 year"
-                ],
-                "answer": "6 months",
-                "explanation": "Diagnostic requirement."
-            },
-            {
-                "question": "Which is first line therapy?",
-                "options": [
-                "Surgery",
-                "Cognitive behavioral therapy",
-                "Isolation",
-                "Sedation only"
-                ],
-                "answer": "Cognitive behavioral therapy",
-                "explanation": "First-line treatment."
-            },
-            {
-                "question": "Which drug is first line for anxiety?",
-                "options": [
-                "Antibiotics",
-                "SSRIs",
-                "Insulin",
-                "Antipsychotics"
-                ],
-                "answer": "SSRIs",
-                "explanation": "First-line pharmacotherapy."
-            },
-            {
-                "question": "Benzodiazepines are used:",
-                "options": [
-                "Long term only",
-                "In severe cases or initial phase",
-                "Never used",
-                "Only in children"
-                ],
-                "answer": "In severe cases or initial phase",
-                "explanation": "Used short-term."
-            },
-            {
-                "question": "Hospitalization is needed when:",
-                "options": [
-                "Mild anxiety",
-                "Suicidal ideation",
-                "Headache",
-                "Insomnia"
-                ],
-                "answer": "Suicidal ideation",
-                "explanation": "Safety priority."
-            },
-            {
-                "question": "Most important nursing action:",
-                "options": [
-                "Ignore patient",
-                "Assess anxiety level",
-                "Give food",
-                "Check vision"
-                ],
-                "answer": "Assess anxiety level",
-                "explanation": "Initial step."
-            },
-            {
-                "question": "Which is most important priority?",
-                "options": [
-                "Social activity",
-                "Suicide assessment",
-                "Sleep",
-                "Diet"
-                ],
-                "answer": "Suicide assessment",
-                "explanation": "Top priority."
-            },
-            {
-                "question": "Which reduces anxiety?",
-                "options": [
-                "Caffeine",
-                "Alcohol",
-                "Support system",
-                "Isolation"
-                ],
-                "answer": "Support system",
-                "explanation": "Support helps reduce anxiety."
-            },
-            {
-                "question": "Which worsens anxiety?",
-                "options": [
-                "Exercise",
-                "Support",
-                "Caffeine",
-                "Therapy"
-                ],
-                "answer": "Caffeine",
-                "explanation": "Stimulant effect."
-            },
-            {
-                "question": "Panic attack can:",
-                "options": [
-                "Only occur daytime",
-                "Occur during sleep",
-                "Last hours only",
-                "Never recur"
-                ],
-                "answer": "Occur during sleep",
-                "explanation": "Can occur anytime."
-            },
-            {
-                "question": "Which is hallmark of panic attack?",
-                "options": [
-                "Calmness",
-                "Sudden intense fear",
-                "Memory loss",
-                "Paralysis"
-                ],
-                "answer": "Sudden intense fear",
-                "explanation": "Core symptom."
-            },
-            {
-                "question": "Which symptom is physical sign of anxiety?",
-                "options": [
-                "Hallucination",
-                "Tachycardia",
-                "Delusion",
-                "Paralysis"
-                ],
-                "answer": "Tachycardia",
-                "explanation": "Common physical symptom."
-            },
-            {
-                "question": "Which condition affects functioning most?",
-                "options": [
-                "Normal anxiety",
-                "Pathological anxiety",
-                "Mild stress",
-                "Temporary fear"
-                ],
-                "answer": "Pathological anxiety",
-                "explanation": "Impairs daily life."
-            },
-            {
-                "question": "Most important patient teaching:",
-                "options": [
-                "Avoid therapy",
-                "Increase caffeine",
-                "Seek support and treatment",
-                "Stay isolated"
-                ],
-                "answer": "Seek support and treatment",
-                "explanation": "Encourages recovery."
-            },
-            {
-                "question": "Anxiety is always abnormal.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Can be normal."
-            },
-            {
-                "question": "Fear has identifiable trigger.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Fear has clear cause."
-            },
-            {
-                "question": "Stress is internal.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Stress is external."
-            },
-            {
-                "question": "Pathological anxiety impairs life.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Affects function."
-            },
-            {
-                "question": "Generalized anxiety disorder lasts 6 months or more.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Diagnostic criteria."
-            },
-            {
-                "question": "Panic attacks are always predictable.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "They can be unexpected."
-            },
-            {
-                "question": "Social anxiety involves fear of judgment.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Core feature."
-            },
-            {
-                "question": "Agoraphobia is fear of animals.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It is fear of places."
-            },
-            {
-                "question": "Cognitive behavioral therapy is effective.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "First-line therapy."
-            },
-            {
-                "question": "SSRIs are first line for anxiety.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Standard treatment."
-            },
-            {
-                "question": "Benzodiazepines are first choice long term.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Used short-term."
-            },
-            {
-                "question": "Anxiety affects sleep.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Common symptom."
-            },
-            {
-                "question": "Selective mutism means inability to speak.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Selective refusal, not inability."
-            },
-            {
-                "question": "Separation anxiety affects adults also.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Can occur in adults."
-            },
-            {
-                "question": "Caffeine reduces anxiety.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It increases anxiety."
-            },
-            {
-                "question": "Support helps reduce anxiety.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Support is beneficial."
-            },
-            {
-                "question": "Suicide risk must be assessed.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Priority."
-            },
-            {
-                "question": "Panic attack may mimic heart attack.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Similar symptoms."
-            },
-            {
-                "question": "Anxiety has no physical symptoms.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It has physical signs."
-            },
-            {
-                "question": "Treatment includes psychotherapy.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Key treatment."
-            },
-            {
-                "question": "A patient has persistent anxiety for 6 months. What is the diagnosis?",
-                "options": [
-                "Generalized anxiety disorder",
-                "Panic disorder",
-                "Phobia",
-                "Depression"
-                ],
-                "answer": "Generalized anxiety disorder",
-                "explanation": "Meets duration criteria."
-            },
-            {
-                "question": "A patient has sudden fear and chest pain. What is the diagnosis?",
-                "options": [
-                "Panic attack",
-                "Depression",
-                "Schizophrenia",
-                "Phobia"
-                ],
-                "answer": "Panic attack",
-                "explanation": "Classic presentation."
-            },
-            {
-                "question": "A patient fears open places. What is the diagnosis?",
-                "options": [
-                "Agoraphobia",
-                "Social anxiety",
-                "Specific phobia",
-                "GAD"
-                ],
-                "answer": "Agoraphobia",
-                "explanation": "Fear of escape difficulty."
-            },
-            {
-                "question": "A patient fears speaking in public. What is the diagnosis?",
-                "options": [
-                "Social anxiety",
-                "GAD",
-                "Panic disorder",
-                "OCD"
-                ],
-                "answer": "Social anxiety",
-                "explanation": "Fear of judgment."
-            },
-            {
-                "question": "A child refuses to speak in school. What is the diagnosis?",
-                "options": [
-                "Selective mutism",
-                "Speech disorder",
-                "Autism",
-                "Hearing loss"
-                ],
-                "answer": "Selective mutism",
-                "explanation": "Situational refusal."
-            },
-            {
-                "question": "A patient fears being away from a loved one. What is the diagnosis?",
-                "options": [
-                "Separation anxiety",
-                "Social anxiety",
-                "Phobia",
-                "GAD"
-                ],
-                "answer": "Separation anxiety",
-                "explanation": "Attachment fear."
-            },
-            {
-                "question": "A patient has suicidal thoughts. What is the priority?",
-                "options": [
-                "Hospitalization",
-                "Ignore",
-                "Give food",
-                "Wait"
-                ],
-                "answer": "Hospitalization",
-                "explanation": "Safety priority."
-            },
-            {
-                "question": "A patient drinks excessive caffeine and anxiety worsens. What is the cause?",
-                "options": [
-                "Trigger factor",
-                "Infection",
-                "Allergy",
-                "Genetics"
-                ],
-                "answer": "Trigger factor",
-                "explanation": "Caffeine increases anxiety."
-            },
-            {
-                "question": "A patient cannot sleep due to anxiety. What is the issue?",
-                "options": [
-                "Anxiety symptom",
-                "Infection",
-                "Drug effect",
-                "Allergy"
-                ],
-                "answer": "Anxiety symptom",
-                "explanation": "Sleep disturbance is common."
-            },
-            {
-                "question": "A patient avoids people due to fear. What is the diagnosis?",
-                "options": [
-                "Social anxiety",
-                "GAD",
-                "Panic disorder",
-                "Depression"
-                ],
-                "answer": "Social anxiety",
-                "explanation": "Avoidance behavior."
-            }
+            {"question":"Which statement best describes anxiety?","options":["Response to external danger only","Internal feeling of worry without clear external trigger","Always pathological","Same as fear"],"answer":"Internal feeling of worry without clear external trigger"},
+            {"question":"Fear differs from anxiety because fear:","options":["Has no trigger","Is always pathological","Is response to identifiable danger","Lasts longer"],"answer":"Is response to identifiable danger"},
+            {"question":"Which describes stress?","options":["Internal emotion","External pressure activating fight or flight","Always chronic","No physical response"],"answer":"External pressure activating fight or flight"},
+            {"question":"Which indicates pathological anxiety?","options":["Short duration","Linked to exam","Impairs daily life","Resolves quickly"],"answer":"Impairs daily life"},
+            {"question":"Which is not a cause of anxiety disorders?","options":["Genetics","Neurotransmitters","Strong immune system","Substance abuse"],"answer":"Strong immune system"},
+            {"question":"Which neurotransmitter is involved in anxiety?","options":["GABA","Serotonin","Noradrenaline","All of the above"],"answer":"All of the above"},
+            {"question":"Generalized anxiety disorder is characterized by:","options":["Short anxiety","Situational anxiety","Persistent excessive worry for 6 months or more","Panic attacks only"],"answer":"Persistent excessive worry for 6 months or more"},
+            {"question":"Which is not a symptom of generalized anxiety disorder?","options":["Restlessness","Irritability","Euphoria","Sleep disturbance"],"answer":"Euphoria"},
+            {"question":"Which symptom suggests panic attack?","options":["Gradual worry","Chest pain and fear of death","Weight gain","Memory loss"],"answer":"Chest pain and fear of death"},
+            {"question":"Panic disorder requires:","options":["One panic attack","Recurrent attacks with at least one month concern","Only physical symptoms","Only night attacks"],"answer":"Recurrent attacks with at least one month concern"},
+            {"question":"Agoraphobia involves fear of:","options":["Animals","Social judgment","Places where escape is difficult","Blood"],"answer":"Places where escape is difficult"},
+            {"question":"Which is an example of specific phobia?","options":["Generalized anxiety disorder","Fear of heights","Panic disorder","Obsessive compulsive disorder"],"answer":"Fear of heights"},
+            {"question":"Social anxiety disorder is characterized by:","options":["Fear of animals","Fear of judgment","Fear of death","Fear of separation"],"answer":"Fear of judgment"},
+            {"question":"Most important feature of social anxiety:","options":["Weight gain","Avoidance of social situations","Fever","Hallucination"],"answer":"Avoidance of social situations"},
+            {"question":"Separation anxiety occurs due to:","options":["Fear of public speaking","Fear of losing attachment figure","Fear of animals","Fear of blood"],"answer":"Fear of losing attachment figure"},
+            {"question":"Selective mutism is:","options":["Speech disorder","Refusal to speak in certain situations","Hearing loss","Memory loss"],"answer":"Refusal to speak in certain situations"},
+            {"question":"Which duration is required for generalized anxiety disorder diagnosis?","options":["1 week","1 month","6 months","1 year"],"answer":"6 months"},
+            {"question":"Which is first line therapy?","options":["Surgery","Cognitive behavioral therapy","Isolation","Sedation only"],"answer":"Cognitive behavioral therapy"},
+            {"question":"Which drug is first line for anxiety?","options":["Antibiotics","SSRIs","Insulin","Antipsychotics"],"answer":"SSRIs"},
+            {"question":"Benzodiazepines are used:","options":["Long term only","In severe cases or initial phase","Never used","Only in children"],"answer":"In severe cases or initial phase"},
+            {"question":"Hospitalization is needed when:","options":["Mild anxiety","Suicidal ideation","Headache","Insomnia"],"answer":"Suicidal ideation"},
+            {"question":"Most important nursing action:","options":["Ignore patient","Assess anxiety level","Give food","Check vision"],"answer":"Assess anxiety level"},
+            {"question":"Which is most important priority?","options":["Social activity","Suicide assessment","Sleep","Diet"],"answer":"Suicide assessment"},
+            {"question":"Which reduces anxiety?","options":["Caffeine","Alcohol","Support system","Isolation"],"answer":"Support system"},
+            {"question":"Which worsens anxiety?","options":["Exercise","Support","Caffeine","Therapy"],"answer":"Caffeine"},
+            {"question":"Panic attack can:","options":["Only occur daytime","Occur during sleep","Last hours only","Never recur"],"answer":"Occur during sleep"},
+            {"question":"Which is hallmark of panic attack?","options":["Calmness","Sudden intense fear","Memory loss","Paralysis"],"answer":"Sudden intense fear"},
+            {"question":"Which symptom is physical sign of anxiety?","options":["Hallucination","Tachycardia","Delusion","Paralysis"],"answer":"Tachycardia"},
+            {"question":"Which condition affects functioning most?","options":["Normal anxiety","Pathological anxiety","Mild stress","Temporary fear"],"answer":"Pathological anxiety"},
+            {"question":"Most important patient teaching:","options":["Avoid therapy","Increase caffeine","Seek support and treatment","Stay isolated"],"answer":"Seek support and treatment"},
+            {"question":"Anxiety is always abnormal.","options":["True","False"],"answer":"False"},
+            {"question":"Fear has identifiable trigger.","options":["True","False"],"answer":"True"},
+            {"question":"Stress is internal.","options":["True","False"],"answer":"False"},
+            {"question":"Pathological anxiety impairs life.","options":["True","False"],"answer":"True"},
+            {"question":"Generalized anxiety disorder lasts 6 months or more.","options":["True","False"],"answer":"True"},
+            {"question":"Panic attacks are always predictable.","options":["True","False"],"answer":"False"},
+            {"question":"Social anxiety involves fear of judgment.","options":["True","False"],"answer":"True"},
+            {"question":"Agoraphobia is fear of animals.","options":["True","False"],"answer":"False"},
+            {"question":"Cognitive behavioral therapy is effective.","options":["True","False"],"answer":"True"},
+            {"question":"SSRIs are first line for anxiety.","options":["True","False"],"answer":"True"},
+            {"question":"Benzodiazepines are first choice long term.","options":["True","False"],"answer":"False"},
+            {"question":"Anxiety affects sleep.","options":["True","False"],"answer":"True"},
+            {"question":"Selective mutism means inability to speak.","options":["True","False"],"answer":"False"},
+            {"question":"Separation anxiety affects adults also.","options":["True","False"],"answer":"True"},
+            {"question":"Caffeine reduces anxiety.","options":["True","False"],"answer":"False"},
+            {"question":"Support helps reduce anxiety.","options":["True","False"],"answer":"True"},
+            {"question":"Suicide risk must be assessed.","options":["True","False"],"answer":"True"},
+            {"question":"Panic attack may mimic heart attack.","options":["True","False"],"answer":"True"},
+            {"question":"Anxiety has no physical symptoms.","options":["True","False"],"answer":"False"},
+            {"question":"Treatment includes psychotherapy.","options":["True","False"],"answer":"True"},
+            {"question":"A patient has persistent anxiety for 6 months. What is the diagnosis?","options":["Generalized anxiety disorder","Panic disorder","Phobia","Depression"],"answer":"Generalized anxiety disorder"},
+            {"question":"A patient has sudden fear and chest pain. What is the diagnosis?","options":["Panic attack","Depression","Schizophrenia","Phobia"],"answer":"Panic attack"},
+            {"question":"A patient fears open places. What is the diagnosis?","options":["Agoraphobia","Social anxiety","Specific phobia","GAD"],"answer":"Agoraphobia"},
+            {"question":"A patient fears speaking in public. What is the diagnosis?","options":["Social anxiety","GAD","Panic disorder","OCD"],"answer":"Social anxiety"},
+            {"question":"A child refuses to speak in school. What is the diagnosis?","options":["Selective mutism","Speech disorder","Autism","Hearing loss"],"answer":"Selective mutism"},
+            {"question":"A patient fears being away from a loved one. What is the diagnosis?","options":["Separation anxiety","Social anxiety","Phobia","GAD"],"answer":"Separation anxiety"},
+            {"question":"A patient has suicidal thoughts. What is the priority?","options":["Hospitalization","Ignore","Give food","Wait"],"answer":"Hospitalization"},
+            {"question":"A patient drinks excessive caffeine and anxiety worsens. What is the cause?","options":["Trigger factor","Infection","Allergy","Genetics"],"answer":"Trigger factor"},
+            {"question":"A patient cannot sleep due to anxiety. What is the issue?","options":["Anxiety symptom","Infection","Drug effect","Allergy"],"answer":"Anxiety symptom"},
+            {"question":"A patient avoids people due to fear. What is the diagnosis?","options":["Social anxiety","GAD","Panic disorder","Depression"],"answer":"Social anxiety"}
+
         ],
         "Electro Convulsive Therapy ECT":[
-            {
-                "question": "Which best defines ECT?",
-                "options": [
-                "Drug therapy for depression",
-                "Artificial induction of seizure using electrical current",
-                "Behavioral therapy",
-                "Brain surgery"
-                ],
-                "answer": "Artificial induction of seizure using electrical current",
-                "explanation": "ECT is defined as inducing a controlled seizure using electrical current."
-            },
-            {
-                "question": "ECT works mainly by:",
-                "options": [
-                "Destroying brain tissue",
-                "Increasing neurotransmitters",
-                "Blocking dopamine only",
-                "Reducing oxygen"
-                ],
-                "answer": "Increasing neurotransmitters",
-                "explanation": "ECT increases serotonin, dopamine, and norepinephrine."
-            },
-            {
-                "question": "Which neurotransmitter is increased in ECT?",
-                "options": [
-                "Serotonin",
-                "Dopamine",
-                "Norepinephrine",
-                "All of the above"
-                ],
-                "answer": "All of the above",
-                "explanation": "ECT increases multiple neurotransmitters."
-            },
-            {
-                "question": "Which placement is most effective?",
-                "options": [
-                "Unilateral",
-                "Bilateral",
-                "Occipital",
-                "Temporal only"
-                ],
-                "answer": "Bilateral",
-                "explanation": "Bilateral placement is more effective."
-            },
-            {
-                "question": "Which placement has less cognitive side effects?",
-                "options": [
-                "Bilateral",
-                "Unilateral",
-                "Both equal",
-                "None"
-                ],
-                "answer": "Unilateral",
-                "explanation": "Unilateral placement reduces cognitive side effects."
-            },
-            {
-                "question": "Typical number of ECT sessions:",
-                "options": [
-                "1 to 2",
-                "3 to 4",
-                "6 to 10",
-                "50"
-                ],
-                "answer": "6 to 10",
-                "explanation": "Standard course of treatment."
-            },
-            {
-                "question": "Maximum sessions per episode:",
-                "options": [
-                "10",
-                "20",
-                "25",
-                "50"
-                ],
-                "answer": "25",
-                "explanation": "Upper limit per episode."
-            },
-            {
-                "question": "ECT is most indicated for:",
-                "options": [
-                "Mild anxiety",
-                "Severe depression",
-                "Headache",
-                "Insomnia"
-                ],
-                "answer": "Severe depression",
-                "explanation": "Main indication."
-            },
-            {
-                "question": "Which condition requires ECT urgently?",
-                "options": [
-                "Mild depression",
-                "Suicidal patient",
-                "Anxiety only",
-                "Insomnia"
-                ],
-                "answer": "Suicidal patient",
-                "explanation": "Emergency indication."
-            },
-            {
-                "question": "ECT is used in:",
-                "options": [
-                "Mania",
-                "Schizophrenia",
-                "Resistant depression",
-                "All of the above"
-                ],
-                "answer": "All of the above",
-                "explanation": "Multiple psychiatric conditions."
-            },
-            {
-                "question": "Which is absolute contraindication?",
-                "options": [
-                "Hypertension",
-                "Increased intracranial pressure",
-                "Anxiety",
-                "Depression"
-                ],
-                "answer": "Increased intracranial pressure",
-                "explanation": "Major contraindication."
-            },
-            {
-                "question": "Which is relative contraindication?",
-                "options": [
-                "Increased intracranial pressure",
-                "Brain tumor",
-                "Recent myocardial infarction",
-                "Stroke"
-                ],
-                "answer": "Recent myocardial infarction",
-                "explanation": "Relative risk condition."
-            },
-            {
-                "question": "First phase of ECT:",
-                "options": [
-                "Tonic",
-                "Clonic",
-                "Cry phase",
-                "Recovery"
-                ],
-                "answer": "Cry phase",
-                "explanation": "Initial phase with vocalization."
-            },
-            {
-                "question": "Which phase has muscle contraction and apnea?",
-                "options": [
-                "Cry",
-                "Tonic",
-                "Clonic",
-                "Recovery"
-                ],
-                "answer": "Tonic",
-                "explanation": "Sustained contraction phase."
-            },
-            {
-                "question": "Clonic phase is characterized by:",
-                "options": [
-                "Relaxation only",
-                "Alternating contraction and relaxation",
-                "No movement",
-                "Sleep"
-                ],
-                "answer": "Alternating contraction and relaxation",
-                "explanation": "Rhythmic movements."
-            },
-            {
-                "question": "Recovery phase:",
-                "options": [
-                "Patient unconscious forever",
-                "Regains consciousness",
-                "Seizure continues",
-                "Death"
-                ],
-                "answer": "Regains consciousness",
-                "explanation": "Patient awakens."
-            },
-            {
-                "question": "Most important pre-ECT nursing action:",
-                "options": [
-                "Give food",
-                "Ensure fasting",
-                "Encourage exercise",
-                "Give caffeine"
-                ],
-                "answer": "Ensure fasting",
-                "explanation": "Prevents aspiration."
-            },
-            {
-                "question": "Why atropine is given before ECT?",
-                "options": [
-                "Increase heart rate",
-                "Prevent secretions",
-                "Cause sedation",
-                "Induce seizure"
-                ],
-                "answer": "Prevent secretions",
-                "explanation": "Reduces aspiration risk."
-            },
-            {
-                "question": "Muscle relaxant is given to:",
-                "options": [
-                "Reduce anxiety",
-                "Prevent fractures",
-                "Induce sleep",
-                "Increase seizure"
-                ],
-                "answer": "Prevent fractures",
-                "explanation": "Prevents injury during seizure."
-            },
-            {
-                "question": "General anesthesia is used to:",
-                "options": [
-                "Increase seizure",
-                "Prevent pain and anxiety",
-                "Cause memory loss",
-                "Reduce oxygen"
-                ],
-                "answer": "Prevent pain and anxiety",
-                "explanation": "Ensures comfort."
-            },
-            {
-                "question": "During ECT priority:",
-                "options": [
-                "Talk with patient",
-                "Protect airway",
-                "Give food",
-                "Ignore patient"
-                ],
-                "answer": "Protect airway",
-                "explanation": "Airway management is critical."
-            },
-            {
-                "question": "Most important post-ECT care:",
-                "options": [
-                "Feeding",
-                "Reorientation",
-                "Exercise",
-                "Bath"
-                ],
-                "answer": "Reorientation",
-                "explanation": "Confusion is common."
-            },
-            {
-                "question": "Common side effect:",
-                "options": [
-                "Kidney failure",
-                "Temporary memory loss",
-                "Stroke",
-                "Paralysis"
-                ],
-                "answer": "Temporary memory loss",
-                "explanation": "Short-term memory impairment."
-            },
-            {
-                "question": "Which complication is rare but serious?",
-                "options": [
-                "Headache",
-                "Confusion",
-                "Death",
-                "Fatigue"
-                ],
-                "answer": "Death",
-                "explanation": "Very rare but serious."
-            },
-            {
-                "question": "Why oxygen is given?",
-                "options": [
-                "Prevent hypoxia",
-                "Increase seizure",
-                "Reduce blood pressure",
-                "Cause sleep"
-                ],
-                "answer": "Prevent hypoxia",
-                "explanation": "Maintains oxygenation."
-            },
-            {
-                "question": "Which is part of nurse role?",
-                "options": [
-                "Ignore patient",
-                "Educate patient",
-                "Delay treatment",
-                "Stop therapy"
-                ],
-                "answer": "Educate patient",
-                "explanation": "Key nursing responsibility."
-            },
-            {
-                "question": "Which is not required before ECT?",
-                "options": [
-                "Consent",
-                "ECG",
-                "Full stomach",
-                "Physical exam"
-                ],
-                "answer": "Full stomach",
-                "explanation": "Patient must be fasting."
-            },
-            {
-                "question": "Patient should empty bladder because:",
-                "options": [
-                "Comfort",
-                "Prevent complications",
-                "Increase seizure",
-                "No reason"
-                ],
-                "answer": "Prevent complications",
-                "explanation": "Avoids incontinence or injury."
-            },
-            {
-                "question": "Which phase involves loud cry?",
-                "options": [
-                "Cry phase",
-                "Tonic",
-                "Clonic",
-                "Recovery"
-                ],
-                "answer": "Cry phase",
-                "explanation": "Initial vocalization."
-            },
-            {
-                "question": "Most important priority:",
-                "options": [
-                "Comfort",
-                "Safety",
-                "Nutrition",
-                "Sleep"
-                ],
-                "answer": "Safety",
-                "explanation": "Primary concern."
-            },
-            {
-                "question": "ECT induces seizure.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Core mechanism."
-            },
-            {
-                "question": "Mechanism of ECT is fully known.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Not fully understood."
-            },
-            {
-                "question": "ECT increases neurotransmitters.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Increases serotonin, dopamine, NE."
-            },
-            {
-                "question": "Bilateral ECT is less effective.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "More effective than unilateral."
-            },
-            {
-                "question": "Unilateral ECT has fewer cognitive side effects.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Less memory impairment."
-            },
-            {
-                "question": "ECT is only used for depression.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Used for multiple conditions."
-            },
-            {
-                "question": "Increased intracranial pressure is a contraindication.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Absolute contraindication."
-            },
-            {
-                "question": "Fasting is required before ECT.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Prevents aspiration."
-            },
-            {
-                "question": "Atropine reduces secretions.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Used pre-procedure."
-            },
-            {
-                "question": "Muscle relaxant prevents fractures.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Protects patient."
-            },
-            {
-                "question": "Recovery phase means return of consciousness.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Patient wakes up."
-            },
-            {
-                "question": "Memory loss is always permanent.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Usually temporary."
-            },
-            {
-                "question": "Death risk is common with ECT.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Very rare."
-            },
-            {
-                "question": "Oxygen prevents hypoxia.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Maintains oxygen levels."
-            },
-            {
-                "question": "Nursing role includes patient education.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Important responsibility."
-            },
-            {
-                "question": "Patient should eat before ECT.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Must fast."
-            },
-            {
-                "question": "Consent is required before ECT.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Legal requirement."
-            },
-            {
-                "question": "Confusion may occur after ECT.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Common side effect."
-            },
-            {
-                "question": "ECT is a punishment.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It is a medical treatment."
-            },
-            {
-                "question": "Monitoring vital signs is important.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Ensures patient safety."
-            },
-            {
-                "question": "A patient with severe depression and suicidal ideation. What is the best management?",
-                "options": [
-                "Start ECT urgently",
-                "Give vitamins",
-                "Wait",
-                "Ignore"
-                ],
-                "answer": "Start ECT urgently",
-                "explanation": "Emergency indication."
-            },
-            {
-                "question": "A patient has a brain tumor. What is the decision regarding ECT?",
-                "options": [
-                "Avoid ECT",
-                "Start ECT",
-                "Increase dose",
-                "Ignore"
-                ],
-                "answer": "Avoid ECT",
-                "explanation": "Contraindicated."
-            },
-            {
-                "question": "A patient has memory loss after ECT. What is the explanation?",
-                "options": [
-                "Side effect",
-                "Infection",
-                "Stroke",
-                "Allergy"
-                ],
-                "answer": "Side effect",
-                "explanation": "Common temporary effect."
-            },
-            {
-                "question": "A patient develops fracture during ECT. What is the cause?",
-                "options": [
-                "Lack of muscle relaxant",
-                "Infection",
-                "Allergy",
-                "Sedation"
-                ],
-                "answer": "Lack of muscle relaxant",
-                "explanation": "Preventable complication."
-            },
-            {
-                "question": "A patient has excessive secretions before ECT. What should be given?",
-                "options": [
-                "Atropine",
-                "Insulin",
-                "Antibiotic",
-                "Vitamin"
-                ],
-                "answer": "Atropine",
-                "explanation": "Reduces secretions."
-            },
-            {
-                "question": "A patient is not fasting before ECT. What is the action?",
-                "options": [
-                "Delay procedure",
-                "Proceed",
-                "Ignore",
-                "Increase dose"
-                ],
-                "answer": "Delay procedure",
-                "explanation": "Risk of aspiration."
-            },
-            {
-                "question": "A patient is unconscious after ECT. What is the explanation?",
-                "options": [
-                "Recovery phase",
-                "Death",
-                "Coma",
-                "Stroke"
-                ],
-                "answer": "Recovery phase",
-                "explanation": "Expected stage."
-            },
-            {
-                "question": "A patient has breathing difficulty after ECT. What is the priority?",
-                "options": [
-                "Give oxygen",
-                "Give food",
-                "Ignore",
-                "Discharge"
-                ],
-                "answer": "Give oxygen",
-                "explanation": "Prevent hypoxia."
-            },
-            {
-                "question": "A patient is very anxious before ECT. What is the best action?",
-                "options": [
-                "Reassure and explain",
-                "Ignore",
-                "Increase dose",
-                "Discharge"
-                ],
-                "answer": "Reassure and explain",
-                "explanation": "Reduces anxiety."
-            },
-            {
-                "question": "A patient is confused after ECT. What is the priority?",
-                "options": [
-                "Reorientation and safety",
-                "Ignore",
-                "Discharge",
-                "Increase medication"
-                ],
-                "answer": "Reorientation and safety",
-                "explanation": "Common post-ECT care."
-            }
+            {"question":"Which best defines ECT?","options":["Drug therapy for depression","Artificial induction of seizure using electrical current","Behavioral therapy","Brain surgery"],"answer":"Artificial induction of seizure using electrical current"},
+            {"question":"ECT works mainly by:","options":["Destroying brain tissue","Increasing neurotransmitters","Blocking dopamine only","Reducing oxygen"],"answer":"Increasing neurotransmitters"},
+            {"question":"Which neurotransmitter is increased in ECT?","options":["Serotonin","Dopamine","Norepinephrine","All of the above"],"answer":"All of the above"},
+            {"question":"Which placement is most effective?","options":["Unilateral","Bilateral","Occipital","Temporal only"],"answer":"Bilateral"},
+            {"question":"Which placement has less cognitive side effects?","options":["Bilateral","Unilateral","Both equal","None"],"answer":"Unilateral"},
+            {"question":"Typical number of ECT sessions:","options":["1 to 2","3 to 4","6 to 10","50"],"answer":"6 to 10"},
+            {"question":"Maximum sessions per episode:","options":["10","20","25","50"],"answer":"25"},
+            {"question":"ECT is most indicated for:","options":["Mild anxiety","Severe depression","Headache","Insomnia"],"answer":"Severe depression"},
+            {"question":"Which condition requires ECT urgently?","options":["Mild depression","Suicidal patient","Anxiety only","Insomnia"],"answer":"Suicidal patient"},
+            {"question":"ECT is used in:","options":["Mania","Schizophrenia","Resistant depression","All of the above"],"answer":"All of the above"},
+            {"question":"Which is absolute contraindication?","options":["Hypertension","Increased intracranial pressure","Anxiety","Depression"],"answer":"Increased intracranial pressure"},
+            {"question":"Which is relative contraindication?","options":["Increased intracranial pressure","Brain tumor","Recent myocardial infarction","Stroke"],"answer":"Recent myocardial infarction"},
+            {"question":"First phase of ECT:","options":["Tonic","Clonic","Cry phase","Recovery"],"answer":"Cry phase"},
+            {"question":"Which phase has muscle contraction and apnea?","options":["Cry","Tonic","Clonic","Recovery"],"answer":"Tonic"},
+            {"question":"Clonic phase is characterized by:","options":["Relaxation only","Alternating contraction and relaxation","No movement","Sleep"],"answer":"Alternating contraction and relaxation"},
+            {"question":"Recovery phase:","options":["Patient unconscious forever","Regains consciousness","Seizure continues","Death"],"answer":"Regains consciousness"},
+            {"question":"Most important pre-ECT nursing action:","options":["Give food","Ensure fasting","Encourage exercise","Give caffeine"],"answer":"Ensure fasting"},
+            {"question":"Why atropine is given before ECT?","options":["Increase heart rate","Prevent secretions","Cause sedation","Induce seizure"],"answer":"Prevent secretions"},
+            {"question":"Muscle relaxant is given to:","options":["Reduce anxiety","Prevent fractures","Induce sleep","Increase seizure"],"answer":"Prevent fractures"},
+            {"question":"General anesthesia is used to:","options":["Increase seizure","Prevent pain and anxiety","Cause memory loss","Reduce oxygen"],"answer":"Prevent pain and anxiety"},
+            {"question":"During ECT priority:","options":["Talk with patient","Protect airway","Give food","Ignore patient"],"answer":"Protect airway"},
+            {"question":"Most important post-ECT care:","options":["Feeding","Reorientation","Exercise","Bath"],"answer":"Reorientation"},
+            {"question":"Common side effect:","options":["Kidney failure","Temporary memory loss","Stroke","Paralysis"],"answer":"Temporary memory loss"},
+            {"question":"Which complication is rare but serious?","options":["Headache","Confusion","Death","Fatigue"],"answer":"Death"},
+            {"question":"Why oxygen is given?","options":["Prevent hypoxia","Increase seizure","Reduce blood pressure","Cause sleep"],"answer":"Prevent hypoxia"},
+            {"question":"Which is part of nurse role?","options":["Ignore patient","Educate patient","Delay treatment","Stop therapy"],"answer":"Educate patient"},
+            {"question":"Which is not required before ECT?","options":["Consent","ECG","Full stomach","Physical exam"],"answer":"Full stomach"},
+            {"question":"Patient should empty bladder because:","options":["Comfort","Prevent complications","Increase seizure","No reason"],"answer":"Prevent complications"},
+            {"question":"Which phase involves loud cry?","options":["Cry phase","Tonic","Clonic","Recovery"],"answer":"Cry phase"},
+            {"question":"Most important priority:","options":["Comfort","Safety","Nutrition","Sleep"],"answer":"Safety"},
+            {"question":"ECT induces seizure.","options":["True","False"],"answer":"True"},
+            {"question":"Mechanism of ECT is fully known.","options":["True","False"],"answer":"False"},
+            {"question":"ECT increases neurotransmitters.","options":["True","False"],"answer":"True"},
+            {"question":"Bilateral ECT is less effective.","options":["True","False"],"answer":"False"},
+            {"question":"Unilateral ECT has fewer cognitive side effects.","options":["True","False"],"answer":"True"},
+            {"question":"ECT is only used for depression.","options":["True","False"],"answer":"False"},
+            {"question":"Increased intracranial pressure is a contraindication.","options":["True","False"],"answer":"True"},
+            {"question":"Fasting is required before ECT.","options":["True","False"],"answer":"True"},
+            {"question":"Atropine reduces secretions.","options":["True","False"],"answer":"True"},
+            {"question":"Muscle relaxant prevents fractures.","options":["True","False"],"answer":"True"},
+            {"question":"Recovery phase means return of consciousness.","options":["True","False"],"answer":"True"},
+            {"question":"Memory loss is always permanent.","options":["True","False"],"answer":"False"},
+            {"question":"Death risk is common with ECT.","options":["True","False"],"answer":"False"},
+            {"question":"Oxygen prevents hypoxia.","options":["True","False"],"answer":"True"},
+            {"question":"Nursing role includes patient education.","options":["True","False"],"answer":"True"},
+            {"question":"Patient should eat before ECT.","options":["True","False"],"answer":"False"},
+            {"question":"Consent is required before ECT.","options":["True","False"],"answer":"True"},
+            {"question":"Confusion may occur after ECT.","options":["True","False"],"answer":"True"},
+            {"question":"ECT is a punishment.","options":["True","False"],"answer":"False"},
+            {"question":"Monitoring vital signs is important.","options":["True","False"],"answer":"True"},
+            {"question":"A patient with severe depression and suicidal ideation. What is the best management?","options":["Start ECT urgently","Give vitamins","Wait","Ignore"],"answer":"Start ECT urgently"},
+            {"question":"A patient has a brain tumor. What is the decision regarding ECT?","options":["Avoid ECT","Start ECT","Increase dose","Ignore"],"answer":"Avoid ECT"},
+            {"question":"A patient has memory loss after ECT. What is the explanation?","options":["Side effect","Infection","Stroke","Allergy"],"answer":"Side effect"},
+            {"question":"A patient develops fracture during ECT. What is the cause?","options":["Lack of muscle relaxant","Infection","Allergy","Sedation"],"answer":"Lack of muscle relaxant"},
+            {"question":"A patient has excessive secretions before ECT. What should be given?","options":["Atropine","Insulin","Antibiotic","Vitamin"],"answer":"Atropine"},
+            {"question":"A patient is not fasting before ECT. What is the action?","options":["Delay procedure","Proceed","Ignore","Increase dose"],"answer":"Delay procedure"},
+            {"question":"A patient is unconscious after ECT. What is the explanation?","options":["Recovery phase","Death","Coma","Stroke"],"answer":"Recovery phase"},
+            {"question":"A patient has breathing difficulty after ECT. What is the priority?","options":["Give oxygen","Give food","Ignore","Discharge"],"answer":"Give oxygen"},
+            {"question":"A patient is very anxious before ECT. What is the best action?","options":["Reassure and explain","Ignore","Increase dose","Discharge"],"answer":"Reassure and explain"},
+            {"question":"A patient is confused after ECT. What is the priority?","options":["Reorientation and safety","Ignore","Discharge","Increase medication"],"answer":"Reorientation and safety"}
+
         ],
         "Milieu Therapy 2":[
-            {
-                "question": "Milieu therapy is best described as:",
-                "options": [
-                "Drug treatment",
-                "Structured therapeutic environment",
-                "Surgical intervention",
-                "Individual psychotherapy only"
-                ],
-                "answer": "Structured therapeutic environment",
-                "explanation": "Milieu therapy is the scientific structuring of the environment so that the environment itself becomes therapeutic."
-            },
-            {
-                "question": "The main goal of milieu therapy is:",
-                "options": [
-                "Cure disease directly",
-                "Change environment to promote behavior change",
-                "Increase medication dose",
-                "Isolation of patient"
-                ],
-                "answer": "Change environment to promote behavior change",
-                "explanation": "The environment is modified to support behavioral and emotional improvement."
-            },
-            {
-                "question": "Which of the following is a core principle of milieu therapy?",
-                "options": [
-                "Isolation",
-                "Punishment",
-                "Respect for individuals",
-                "Medication control"
-                ],
-                "answer": "Respect for individuals",
-                "explanation": "Fundamental respect is essential for therapeutic interaction."
-            },
-            {
-                "question": "Which principle encourages patient participation in unit management?",
-                "options": [
-                "Isolation",
-                "Client involvement",
-                "Medication therapy",
-                "Bed rest"
-                ],
-                "answer": "Client involvement",
-                "explanation": "Patients participate in decisions to build responsibility and self-esteem."
-            },
-            {
-                "question": "Which is a key characteristic of milieu therapy?",
-                "options": [
-                "Closed communication",
-                "Open communication",
-                "No interaction",
-                "Individual work only"
-                ],
-                "answer": "Open communication",
-                "explanation": "Open communication supports trust and therapeutic interaction."
-            },
-            {
-                "question": "Distribution of power in milieu therapy means:",
-                "options": [
-                "Staff control everything",
-                "Patient has no role",
-                "Shared responsibility",
-                "No rules"
-                ],
-                "answer": "Shared responsibility",
-                "explanation": "Power is shared between staff and patients to promote autonomy."
-            },
-            {
-                "question": "Which is an advantage of milieu therapy?",
-                "options": [
-                "Increases stress",
-                "Provides safe environment",
-                "Causes isolation",
-                "Reduces communication"
-                ],
-                "answer": "Provides safe environment",
-                "explanation": "A safe, structured, and non-punitive environment reduces stress."
-            },
-            {
-                "question": "Which is a disadvantage of milieu therapy?",
-                "options": [
-                "Improves self-esteem",
-                "Enhances communication",
-                "Role blurring",
-                "Social development"
-                ],
-                "answer": "Role blurring",
-                "explanation": "Sometimes boundaries between roles become unclear."
-            },
-            {
-                "question": "Milieu therapy mainly develops:",
-                "options": [
-                "Physical strength",
-                "Social and interpersonal skills",
-                "Vision",
-                "Hearing"
-                ],
-                "answer": "Social and interpersonal skills",
-                "explanation": "Focus is on interaction and relationships."
-            },
-            {
-                "question": "Which is the most important outcome of milieu therapy?",
-                "options": [
-                "Sleep",
-                "Autonomy",
-                "Appetite",
-                "Weight"
-                ],
-                "answer": "Autonomy",
-                "explanation": "Promoting independence is a key goal."
-            },
-            {
-                "question": "Milieu therapy is best classified as:",
-                "options": [
-                "Outpatient therapy",
-                "Inpatient environmental therapy",
-                "Surgical therapy",
-                "Emergency intervention"
-                ],
-                "answer": "Inpatient environmental therapy",
-                "explanation": "It is typically implemented in structured inpatient settings."
-            },
-            {
-                "question": "Which principle most improves self-esteem?",
-                "options": [
-                "Isolation",
-                "Punishment",
-                "Acting according to ability",
-                "Bed rest"
-                ],
-                "answer": "Acting according to ability",
-                "explanation": "Achievable tasks enhance confidence and self-worth."
-            },
-            {
-                "question": "Which is not a characteristic of milieu therapy?",
-                "options": [
-                "Structured interaction",
-                "Open communication",
-                "Isolation",
-                "Work activities"
-                ],
-                "answer": "Isolation",
-                "explanation": "Milieu therapy encourages social interaction, not isolation."
-            },
-            {
-                "question": "Which activity helps nonverbal expression most?",
-                "options": [
-                "Medication",
-                "Art therapy",
-                "Surgery",
-                "Diet"
-                ],
-                "answer": "Art therapy",
-                "explanation": "Art allows emotional expression without words."
-            },
-            {
-                "question": "Music therapy is most useful for:",
-                "options": [
-                "Physical injury",
-                "Social withdrawal",
-                "Kidney disease",
-                "Diabetes"
-                ],
-                "answer": "Social withdrawal",
-                "explanation": "It helps patients who are withdrawn or depressed."
-            },
-            {
-                "question": "Dance therapy helps in:",
-                "options": [
-                "Speech only",
-                "Body expression of emotions",
-                "Memory loss",
-                "Nutrition"
-                ],
-                "answer": "Body expression of emotions",
-                "explanation": "Movement expresses emotions physically."
-            },
-            {
-                "question": "Pet therapy is most suitable for:",
-                "options": [
-                "Aggressive patients",
-                "Lonely withdrawn patients",
-                "Hyperactive only",
-                "Surgical patients"
-                ],
-                "answer": "Lonely withdrawn patients",
-                "explanation": "Animals help patients who struggle with human interaction."
-            },
-            {
-                "question": "Occupational therapy aims to:",
-                "options": [
-                "Rest patient",
-                "Engage patient in activities",
-                "Increase isolation",
-                "Stop communication"
-                ],
-                "answer": "Engage patient in activities",
-                "explanation": "Activity-based therapy improves function."
-            },
-            {
-                "question": "Which is a goal of occupational therapy?",
-                "options": [
-                "Reduce self-esteem",
-                "Improve concentration",
-                "Cause stress",
-                "Reduce interaction"
-                ],
-                "answer": "Improve concentration",
-                "explanation": "Enhances cognitive and social function."
-            },
-            {
-                "question": "Which therapy uses plants?",
-                "options": [
-                "Pet therapy",
-                "Plant therapy",
-                "Music therapy",
-                "Art therapy"
-                ],
-                "answer": "Plant therapy",
-                "explanation": "Uses gardening and plant care therapeutically."
-            },
-            {
-                "question": "Which therapy uses role play videos?",
-                "options": [
-                "Play therapy",
-                "Video therapy",
-                "Music therapy",
-                "Dance therapy"
-                ],
-                "answer": "Video therapy",
-                "explanation": "Uses recorded scenarios for behavioral learning."
-            },
-            {
-                "question": "Which therapy is best for children?",
-                "options": [
-                "Play therapy",
-                "Surgery",
-                "ECT",
-                "Isolation"
-                ],
-                "answer": "Play therapy",
-                "explanation": "Children express emotions through play."
-            },
-            {
-                "question": "Which is the most important nursing role in milieu therapy?",
-                "options": [
-                "Ignore patient",
-                "Ensure safe environment",
-                "Give food only",
-                "Avoid communication"
-                ],
-                "answer": "Ensure safe environment",
-                "explanation": "Safety is always the priority."
-            },
-            {
-                "question": "Which patient needs close supervision?",
-                "options": [
-                "Calm patient",
-                "Destructive patient",
-                "Cooperative patient",
-                "Stable patient"
-                ],
-                "answer": "Destructive patient",
-                "explanation": "Risk of harm requires monitoring."
-            },
-            {
-                "question": "Milieu therapy promotes:",
-                "options": [
-                "Dependence",
-                "Autonomy",
-                "Isolation",
-                "Weakness"
-                ],
-                "answer": "Autonomy",
-                "explanation": "Encourages independence."
-            },
-            {
-                "question": "Which is a disadvantage of milieu therapy?",
-                "options": [
-                "Improves communication",
-                "Role confusion",
-                "Increases confidence",
-                "Enhances skills"
-                ],
-                "answer": "Role confusion",
-                "explanation": "Blurred roles can occur."
-            },
-            {
-                "question": "Which is part of the interdisciplinary team?",
-                "options": [
-                "Psychiatrist",
-                "Nurse",
-                "Social worker",
-                "All of the above"
-                ],
-                "answer": "All of the above",
-                "explanation": "Milieu therapy is team-based."
-            },
-            {
-                "question": "Which activity improves leadership?",
-                "options": [
-                "Isolation",
-                "Group interaction",
-                "Sleeping",
-                "Medication"
-                ],
-                "answer": "Group interaction",
-                "explanation": "Group roles build leadership skills."
-            },
-            {
-                "question": "Milieu therapy environment should be:",
-                "options": [
-                "Punitive",
-                "Stressful",
-                "Safe",
-                "Isolated"
-                ],
-                "answer": "Safe",
-                "explanation": "Safety is essential for therapy."
-            },
-            {
-                "question": "Most important element of milieu therapy:",
-                "options": [
-                "Drugs",
-                "Environment",
-                "Surgery",
-                "Diet"
-                ],
-                "answer": "Environment",
-                "explanation": "The environment itself is the therapy."
-            },
-            {
-                "question": "Milieu therapy is an inpatient therapy.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It is typically used in inpatient settings."
-            },
-            {
-                "question": "Milieu therapy focuses on environment.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Environment is the core element."
-            },
-            {
-                "question": "It isolates the patient.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It promotes social interaction."
-            },
-            {
-                "question": "Patient participation is important.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Key principle of therapy."
-            },
-            {
-                "question": "Communication is not important.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Communication is essential."
-            },
-            {
-                "question": "It promotes autonomy.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Encourages independence."
-            },
-            {
-                "question": "It increases stress.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It reduces stress."
-            },
-            {
-                "question": "Milieu therapy encourages social interaction.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Social interaction is fundamental."
-            },
-            {
-                "question": "Patient should be passive.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Active participation is required."
-            },
-            {
-                "question": "Environment affects behavior.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Core concept of therapy."
-            },
-            {
-                "question": "Leadership skills can develop.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Through group participation."
-            },
-            {
-                "question": "Role confusion may occur.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "A known disadvantage."
-            },
-            {
-                "question": "It reduces self-confidence.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It improves self-confidence."
-            },
-            {
-                "question": "Teamwork is essential.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Interdisciplinary collaboration is key."
-            },
-            {
-                "question": "It ignores patient needs.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It is patient-centered."
-            },
-            {
-                "question": "Communication is key.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Essential element."
-            },
-            {
-                "question": "Activities are part of therapy.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Activities are therapeutic tools."
-            },
-            {
-                "question": "It is only for children.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Used for all ages."
-            },
-            {
-                "question": "Nurse has major role.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Nurse is central in implementation."
-            },
-            {
-                "question": "Safety is not important.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Safety is top priority."
-            },
-            {
-                "question": "Patient refuses group activity. What is the best action?",
-                "options": [
-                "Encourage participation",
-                "Ignore",
-                "Punish",
-                "Isolate"
-                ],
-                "answer": "Encourage participation",
-                "explanation": "Social interaction is essential."
-            },
-            {
-                "question": "Patient given no responsibilities. What is the issue?",
-                "options": [
-                "Violation of milieu principle",
-                "Correct care",
-                "Good practice",
-                "No issue"
-                ],
-                "answer": "Violation of milieu principle",
-                "explanation": "Patient involvement is required."
-            },
-            {
-                "question": "Staff controls everything. What is the problem?",
-                "options": [
-                "No distribution of power",
-                "Good structure",
-                "Better care",
-                "Improved safety"
-                ],
-                "answer": "No distribution of power",
-                "explanation": "Shared responsibility is required."
-            },
-            {
-                "question": "Patient feels unsafe. What is the priority?",
-                "options": [
-                "Ensure safe environment",
-                "Give medication",
-                "Ignore",
-                "Discharge"
-                ],
-                "answer": "Ensure safe environment",
-                "explanation": "Safety is priority."
-            },
-            {
-                "question": "Patient has poor social skills. What is the best benefit of therapy?",
-                "options": [
-                "Improve interaction skills",
-                "Increase isolation",
-                "Stop communication",
-                "Reduce activity"
-                ],
-                "answer": "Improve interaction skills",
-                "explanation": "Main goal is social skill development."
-            }
+            {"question":"Milieu therapy is best described as:","options":["Drug treatment","Structured therapeutic environment","Surgical intervention","Individual psychotherapy only"],"answer":"Structured therapeutic environment"},
+            {"question":"The main goal of milieu therapy is:","options":["Cure disease directly","Change environment to promote behavior change","Increase medication dose","Isolation of patient"],"answer":"Change environment to promote behavior change"},
+            {"question":"Which of the following is a core principle of milieu therapy?","options":["Isolation","Punishment","Respect for individuals","Medication control"],"answer":"Respect for individuals"},
+            {"question":"Which principle encourages patient participation in unit management?","options":["Isolation","Client involvement","Medication therapy","Bed rest"],"answer":"Client involvement"},
+            {"question":"Which is a key characteristic of milieu therapy?","options":["Closed communication","Open communication","No interaction","Individual work only"],"answer":"Open communication"},
+            {"question":"Distribution of power in milieu therapy means:","options":["Staff control everything","Patient has no role","Shared responsibility","No rules"],"answer":"Shared responsibility"},
+            {"question":"Which is an advantage of milieu therapy?","options":["Increases stress","Provides safe environment","Causes isolation","Reduces communication"],"answer":"Provides safe environment"},
+            {"question":"Which is a disadvantage of milieu therapy?","options":["Improves self-esteem","Enhances communication","Role blurring","Social development"],"answer":"Role blurring"},
+            {"question":"Milieu therapy mainly develops:","options":["Physical strength","Social and interpersonal skills","Vision","Hearing"],"answer":"Social and interpersonal skills"},
+            {"question":"Which is the most important outcome of milieu therapy?","options":["Sleep","Autonomy","Appetite","Weight"],"answer":"Autonomy"},
+            {"question":"Milieu therapy is best classified as:","options":["Outpatient therapy","Inpatient environmental therapy","Surgical therapy","Emergency intervention"],"answer":"Inpatient environmental therapy"},
+            {"question":"Which principle most improves self-esteem?","options":["Isolation","Punishment","Acting according to ability","Bed rest"],"answer":"Acting according to ability"},
+            {"question":"Which is not a characteristic of milieu therapy?","options":["Structured interaction","Open communication","Isolation","Work activities"],"answer":"Isolation"},
+            {"question":"Which activity helps nonverbal expression most?","options":["Medication","Art therapy","Surgery","Diet"],"answer":"Art therapy"},
+            {"question":"Music therapy is most useful for:","options":["Physical injury","Social withdrawal","Kidney disease","Diabetes"],"answer":"Social withdrawal"},
+            {"question":"Dance therapy helps in:","options":["Speech only","Body expression of emotions","Memory loss","Nutrition"],"answer":"Body expression of emotions"},
+            {"question":"Pet therapy is most suitable for:","options":["Aggressive patients","Lonely withdrawn patients","Hyperactive only","Surgical patients"],"answer":"Lonely withdrawn patients"},
+            {"question":"Occupational therapy aims to:","options":["Rest patient","Engage patient in activities","Increase isolation","Stop communication"],"answer":"Engage patient in activities"},
+            {"question":"Which is a goal of occupational therapy?","options":["Reduce self-esteem","Improve concentration","Cause stress","Reduce interaction"],"answer":"Improve concentration"},
+            {"question":"Which therapy uses plants?","options":["Pet therapy","Plant therapy","Music therapy","Art therapy"],"answer":"Plant therapy"},
+            {"question":"Which therapy uses role play videos?","options":["Play therapy","Video therapy","Music therapy","Dance therapy"],"answer":"Video therapy"},
+            {"question":"Which therapy is best for children?","options":["Play therapy","Surgery","ECT","Isolation"],"answer":"Play therapy"},
+            {"question":"Which is the most important nursing role in milieu therapy?","options":["Ignore patient","Ensure safe environment","Give food only","Avoid communication"],"answer":"Ensure safe environment"},
+            {"question":"Which patient needs close supervision?","options":["Calm patient","Destructive patient","Cooperative patient","Stable patient"],"answer":"Destructive patient"},
+            {"question":"Milieu therapy promotes:","options":["Dependence","Autonomy","Isolation","Weakness"],"answer":"Autonomy"},
+            {"question":"Which is a disadvantage of milieu therapy?","options":["Improves communication","Role confusion","Increases confidence","Enhances skills"],"answer":"Role confusion"},
+            {"question":"Which is part of the interdisciplinary team?","options":["Psychiatrist","Nurse","Social worker","All of the above"],"answer":"All of the above"},
+            {"question":"Which activity improves leadership?","options":["Isolation","Group interaction","Sleeping","Medication"],"answer":"Group interaction"},
+            {"question":"Milieu therapy environment should be:","options":["Punitive","Stressful","Safe","Isolated"],"answer":"Safe"},
+            {"question":"Most important element of milieu therapy:","options":["Drugs","Environment","Surgery","Diet"],"answer":"Environment"},
+            {"question":"Milieu therapy is an inpatient therapy.","options":["True","False"],"answer":"True"},
+            {"question":"Milieu therapy focuses on environment.","options":["True","False"],"answer":"True"},
+            {"question":"It isolates the patient.","options":["True","False"],"answer":"False"},
+            {"question":"Patient participation is important.","options":["True","False"],"answer":"True"},
+            {"question":"Communication is not important.","options":["True","False"],"answer":"False"},
+            {"question":"It promotes autonomy.","options":["True","False"],"answer":"True"},
+            {"question":"It increases stress.","options":["True","False"],"answer":"False"},
+            {"question":"Milieu therapy encourages social interaction.","options":["True","False"],"answer":"True"},
+            {"question":"Patient should be passive.","options":["True","False"],"answer":"False"},
+            {"question":"Environment affects behavior.","options":["True","False"],"answer":"True"},
+            {"question":"Leadership skills can develop.","options":["True","False"],"answer":"True"},
+            {"question":"Role confusion may occur.","options":["True","False"],"answer":"True"},
+            {"question":"It reduces self-confidence.","options":["True","False"],"answer":"False"},
+            {"question":"Teamwork is essential.","options":["True","False"],"answer":"True"},
+            {"question":"It ignores patient needs.","options":["True","False"],"answer":"False"},
+            {"question":"Communication is key.","options":["True","False"],"answer":"True"},
+            {"question":"Activities are part of therapy.","options":["True","False"],"answer":"True"},
+            {"question":"It is only for children.","options":["True","False"],"answer":"False"},
+            {"question":"Nurse has major role.","options":["True","False"],"answer":"True"},
+            {"question":"Safety is not important.","options":["True","False"],"answer":"False"},
+            {"question":"Patient refuses group activity. What is the best action?","options":["Encourage participation","Ignore","Punish","Isolate"],"answer":"Encourage participation"},
+            {"question":"Patient given no responsibilities. What is the issue?","options":["Violation of milieu principle","Correct care","Good practice","No issue"],"answer":"Violation of milieu principle"},
+            {"question":"Staff controls everything. What is the problem?","options":["No distribution of power","Good structure","Better care","Improved safety"],"answer":"No distribution of power"},
+            {"question":"Patient feels unsafe. What is the priority?","options":["Ensure safe environment","Give medication","Ignore","Discharge"],"answer":"Ensure safe environment"},
+            {"question":"Patient has poor social skills. What is the best benefit of therapy?","options":["Improve interaction skills","Increase isolation","Stop communication","Reduce activity"],"answer":"Improve interaction skills"}
+
         ],
         "Mood Disorder":[
-            {
-                "question": "Mood disorders are best defined as:",
-                "options": [
-                "Temporary mood changes",
-                "Persistent mood disturbance affecting function",
-                "Only emotional changes",
-                "Normal stress"
-                ],
-                "answer": "Persistent mood disturbance affecting function",
-                "explanation": "Mood disorders involve persistent disturbance that impairs daily functioning."
-            },
-            {
-                "question": "Which is a key feature of depression?",
-                "options": [
-                "Elevated mood",
-                "Loss of interest",
-                "Hyperactivity",
-                "Excess energy"
-                ],
-                "answer": "Loss of interest",
-                "explanation": "Loss of interest or pleasure is a hallmark symptom of depression."
-            },
-            {
-                "question": "Which factor is not a cause of depression?",
-                "options": [
-                "Genetic",
-                "Biochemical",
-                "Environmental",
-                "High intelligence"
-                ],
-                "answer": "High intelligence",
-                "explanation": "Intelligence is not considered a cause of depression."
-            },
-            {
-                "question": "Which is a physical symptom of depression?",
-                "options": [
-                "Guilt",
-                "Fatigue",
-                "Hopelessness",
-                "Irritability"
-                ],
-                "answer": "Fatigue",
-                "explanation": "Fatigue is a common physical symptom."
-            },
-            {
-                "question": "Which symptom indicates severe depression?",
-                "options": [
-                "Sleep changes",
-                "Appetite change",
-                "Suicidal ideation",
-                "Irritability"
-                ],
-                "answer": "Suicidal ideation",
-                "explanation": "Suicidal thoughts indicate severe and life-threatening depression."
-            },
-            {
-                "question": "Major depressive disorder requires duration of:",
-                "options": [
-                "3 days",
-                "1 week",
-                "2 weeks",
-                "1 month"
-                ],
-                "answer": "2 weeks",
-                "explanation": "DSM-5 requires at least 2 weeks."
-            },
-            {
-                "question": "Persistent depressive disorder lasts:",
-                "options": [
-                "1 month",
-                "6 months",
-                "2 years",
-                "5 years"
-                ],
-                "answer": "2 years",
-                "explanation": "Minimum duration is 2 years."
-            },
-            {
-                "question": "Which type occurs in winter?",
-                "options": [
-                "PMDD",
-                "Seasonal affective disorder",
-                "Persistent depressive disorder",
-                "DMDD"
-                ],
-                "answer": "Seasonal affective disorder",
-                "explanation": "SAD occurs in certain seasons, often winter."
-            },
-            {
-                "question": "Postpartum depression occurs:",
-                "options": [
-                "Before pregnancy",
-                "During or after delivery",
-                "Only after 1 year",
-                "Never"
-                ],
-                "answer": "During or after delivery",
-                "explanation": "Occurs during pregnancy or after childbirth."
-            },
-            {
-                "question": "Which condition requires hospitalization?",
-                "options": [
-                "Mild sadness",
-                "Insomnia",
-                "Suicidal risk",
-                "Fatigue"
-                ],
-                "answer": "Suicidal risk",
-                "explanation": "Safety priority."
-            },
-            {
-                "question": "Which drug class is used in depression?",
-                "options": [
-                "Antibiotics",
-                "Antidepressants",
-                "Antihypertensives",
-                "Insulin"
-                ],
-                "answer": "Antidepressants",
-                "explanation": "Primary pharmacological treatment."
-            },
-            {
-                "question": "Antidepressants act by:",
-                "options": [
-                "Killing neurons",
-                "Balancing neurotransmitters",
-                "Blocking oxygen",
-                "Increasing blood pressure"
-                ],
-                "answer": "Balancing neurotransmitters",
-                "explanation": "They regulate serotonin, norepinephrine, and dopamine."
-            },
-            {
-                "question": "Which therapy modifies thoughts?",
-                "options": [
-                "Cognitive behavioral therapy",
-                "Surgery",
-                "ECT",
-                "Isolation"
-                ],
-                "answer": "Cognitive behavioral therapy",
-                "explanation": "CBT focuses on changing thoughts and behaviors."
-            },
-            {
-                "question": "ECT is used in:",
-                "options": [
-                "Mild depression",
-                "Severe depression",
-                "Headache",
-                "Anxiety only"
-                ],
-                "answer": "Severe depression",
-                "explanation": "Used in severe or resistant cases."
-            },
-            {
-                "question": "Most important nursing role in depression:",
-                "options": [
-                "Feeding",
-                "Suicide assessment",
-                "Exercise",
-                "Vision check"
-                ],
-                "answer": "Suicide assessment",
-                "explanation": "Highest priority."
-            },
-            {
-                "question": "Which is not an emotional symptom?",
-                "options": [
-                "Sadness",
-                "Guilt",
-                "Weight loss",
-                "Hopelessness"
-                ],
-                "answer": "Weight loss",
-                "explanation": "Weight loss is a physical symptom."
-            },
-            {
-                "question": "Which is a behavioral symptom?",
-                "options": [
-                "Withdrawal",
-                "Fatigue",
-                "Guilt",
-                "Insomnia"
-                ],
-                "answer": "Withdrawal",
-                "explanation": "Behavioral change."
-            },
-            {
-                "question": "Mania is characterized by:",
-                "options": [
-                "Low energy",
-                "Elevated mood",
-                "Withdrawal",
-                "Sleepiness"
-                ],
-                "answer": "Elevated mood",
-                "explanation": "Core feature of mania."
-            },
-            {
-                "question": "Key feature of mania:",
-                "options": [
-                "Increased sleep",
-                "Decreased sleep need",
-                "Fatigue",
-                "Isolation"
-                ],
-                "answer": "Decreased sleep need",
-                "explanation": "Patients feel energetic with little sleep."
-            },
-            {
-                "question": "Which symptom indicates mania?",
-                "options": [
-                "Hopelessness",
-                "Grandiosity",
-                "Fatigue",
-                "Withdrawal"
-                ],
-                "answer": "Grandiosity",
-                "explanation": "Inflated self-esteem."
-            },
-            {
-                "question": "Which is a risky behavior in mania?",
-                "options": [
-                "Sleeping",
-                "Overspending",
-                "Eating",
-                "Walking"
-                ],
-                "answer": "Overspending",
-                "explanation": "Common impulsive behavior."
-            },
-            {
-                "question": "Which stage is mild mania?",
-                "options": [
-                "Acute mania",
-                "Delirious mania",
-                "Hypomania",
-                "Severe mania"
-                ],
-                "answer": "Hypomania",
-                "explanation": "Mild form."
-            },
-            {
-                "question": "Which stage is most severe?",
-                "options": [
-                "Hypomania",
-                "Acute mania",
-                "Delirious mania",
-                "Mild mania"
-                ],
-                "answer": "Delirious mania",
-                "explanation": "Most severe form."
-            },
-            {
-                "question": "Which drug is first-line for mania?",
-                "options": [
-                "Antibiotics",
-                "Lithium",
-                "Insulin",
-                "NSAIDs"
-                ],
-                "answer": "Lithium",
-                "explanation": "Mood stabilizer."
-            },
-            {
-                "question": "Which drug helps agitation?",
-                "options": [
-                "Antibiotics",
-                "Benzodiazepines",
-                "Vitamins",
-                "Insulin"
-                ],
-                "answer": "Benzodiazepines",
-                "explanation": "Used for acute agitation."
-            },
-            {
-                "question": "Antidepressants in bipolar disorder are:",
-                "options": [
-                "Always safe",
-                "Used alone",
-                "Used with mood stabilizer",
-                "Never used"
-                ],
-                "answer": "Used with mood stabilizer",
-                "explanation": "To prevent mania induction."
-            },
-            {
-                "question": "Which is most important in mania care?",
-                "options": [
-                "Nutrition",
-                "Safety",
-                "Sleep",
-                "Hygiene"
-                ],
-                "answer": "Safety",
-                "explanation": "Due to risk-taking behaviors."
-            },
-            {
-                "question": "Best environment for mania:",
-                "options": [
-                "Loud",
-                "Stimulating",
-                "Low stimulus",
-                "Isolated"
-                ],
-                "answer": "Low stimulus",
-                "explanation": "Reduces overstimulation."
-            },
-            {
-                "question": "Priority in aggressive patient:",
-                "options": [
-                "Talk",
-                "Safety",
-                "Food",
-                "Sleep"
-                ],
-                "answer": "Safety",
-                "explanation": "Prevent harm."
-            },
-            {
-                "question": "Most important patient teaching:",
-                "options": [
-                "Stop medications",
-                "Adherence",
-                "Isolation",
-                "Caffeine"
-                ],
-                "answer": "Adherence",
-                "explanation": "Ensures stability."
-            },
-            {
-                "question": "Mood disorders affect function.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "They impair daily functioning."
-            },
-            {
-                "question": "Depression is always temporary.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Can be persistent."
-            },
-            {
-                "question": "Genetic factors are involved.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Genetics play a role."
-            },
-            {
-                "question": "Suicidal thoughts are mild symptoms.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "They are severe."
-            },
-            {
-                "question": "Major depression requires 2 weeks duration.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "DSM criteria."
-            },
-            {
-                "question": "Persistent depressive disorder lasts 2 years.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Diagnostic duration."
-            },
-            {
-                "question": "CBT is useful in depression.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Effective therapy."
-            },
-            {
-                "question": "ECT is used for mild cases.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Used for severe cases."
-            },
-            {
-                "question": "Mania involves high energy.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Core feature."
-            },
-            {
-                "question": "Mania includes decreased sleep.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Patients need less sleep."
-            }
+            {"question":"Mood disorders are best defined as:","options":["Temporary mood changes","Persistent mood disturbance affecting function","Only emotional changes","Normal stress"],"answer":"Persistent mood disturbance affecting function"},
+            {"question":"Which is a key feature of depression?","options":["Elevated mood","Loss of interest","Hyperactivity","Excess energy"],"answer":"Loss of interest"},
+            {"question":"Which factor is not a cause of depression?","options":["Genetic","Biochemical","Environmental","High intelligence"],"answer":"High intelligence"},
+            {"question":"Which is a physical symptom of depression?","options":["Guilt","Fatigue","Hopelessness","Irritability"],"answer":"Fatigue"},
+            {"question":"Which symptom indicates severe depression?","options":["Sleep changes","Appetite change","Suicidal ideation","Irritability"],"answer":"Suicidal ideation"},
+            {"question":"Major depressive disorder requires duration of:","options":["3 days","1 week","2 weeks","1 month"],"answer":"2 weeks"},
+            {"question":"Persistent depressive disorder lasts:","options":["1 month","6 months","2 years","5 years"],"answer":"2 years"},
+            {"question":"Which type occurs in winter?","options":["PMDD","Seasonal affective disorder","Persistent depressive disorder","DMDD"],"answer":"Seasonal affective disorder"},
+            {"question":"Postpartum depression occurs:","options":["Before pregnancy","During or after delivery","Only after 1 year","Never"],"answer":"During or after delivery"},
+            {"question":"Which condition requires hospitalization?","options":["Mild sadness","Insomnia","Suicidal risk","Fatigue"],"answer":"Suicidal risk"},
+            {"question":"Which drug class is used in depression?","options":["Antibiotics","Antidepressants","Antihypertensives","Insulin"],"answer":"Antidepressants"},
+            {"question":"Antidepressants act by:","options":["Killing neurons","Balancing neurotransmitters","Blocking oxygen","Increasing blood pressure"],"answer":"Balancing neurotransmitters"},
+            {"question":"Which therapy modifies thoughts?","options":["Cognitive behavioral therapy","Surgery","ECT","Isolation"],"answer":"Cognitive behavioral therapy"},
+            {"question":"ECT is used in:","options":["Mild depression","Severe depression","Headache","Anxiety only"],"answer":"Severe depression"},
+            {"question":"Most important nursing role in depression:","options":["Feeding","Suicide assessment","Exercise","Vision check"],"answer":"Suicide assessment"},
+            {"question":"Which is not an emotional symptom?","options":["Sadness","Guilt","Weight loss","Hopelessness"],"answer":"Weight loss"},
+            {"question":"Which is a behavioral symptom?","options":["Withdrawal","Fatigue","Guilt","Insomnia"],"answer":"Withdrawal"},
+            {"question":"Mania is characterized by:","options":["Low energy","Elevated mood","Withdrawal","Sleepiness"],"answer":"Elevated mood"},
+            {"question":"Key feature of mania:","options":["Increased sleep","Decreased sleep need","Fatigue","Isolation"],"answer":"Decreased sleep need"},
+            {"question":"Which symptom indicates mania?","options":["Hopelessness","Grandiosity","Fatigue","Withdrawal"],"answer":"Grandiosity"},
+            {"question":"Which is a risky behavior in mania?","options":["Sleeping","Overspending","Eating","Walking"],"answer":"Overspending"},
+            {"question":"Which stage is mild mania?","options":["Acute mania","Delirious mania","Hypomania","Severe mania"],"answer":"Hypomania"},
+            {"question":"Which stage is most severe?","options":["Hypomania","Acute mania","Delirious mania","Mild mania"],"answer":"Delirious mania"},
+            {"question":"Which drug is first-line for mania?","options":["Antibiotics","Lithium","Insulin","NSAIDs"],"answer":"Lithium"},
+            {"question":"Which drug helps agitation?","options":["Antibiotics","Benzodiazepines","Vitamins","Insulin"],"answer":"Benzodiazepines"},
+            {"question":"Antidepressants in bipolar disorder are:","options":["Always safe","Used alone","Used with mood stabilizer","Never used"],"answer":"Used with mood stabilizer"},
+            {"question":"Which is most important in mania care?","options":["Nutrition","Safety","Sleep","Hygiene"],"answer":"Safety"},
+            {"question":"Best environment for mania:","options":["Loud","Stimulating","Low stimulus","Isolated"],"answer":"Low stimulus"},
+            {"question":"Priority in aggressive patient:","options":["Talk","Safety","Food","Sleep"],"answer":"Safety"},
+            {"question":"Most important patient teaching:","options":["Stop medications","Adherence","Isolation","Caffeine"],"answer":"Adherence"},
+            {"question":"Mood disorders affect function.","options":["True","False"],"answer":"True"},
+            {"question":"Depression is always temporary.","options":["True","False"],"answer":"False"},
+            {"question":"Genetic factors are involved.","options":["True","False"],"answer":"True"},
+            {"question":"Suicidal thoughts are mild symptoms.","options":["True","False"],"answer":"False"},
+            {"question":"Major depression requires 2 weeks duration.","options":["True","False"],"answer":"True"},
+            {"question":"Persistent depressive disorder lasts 2 years.","options":["True","False"],"answer":"True"},
+            {"question":"CBT is useful in depression.","options":["True","False"],"answer":"True"},
+            {"question":"ECT is used for mild cases.","options":["True","False"],"answer":"False"},
+            {"question":"Mania involves high energy.","options":["True","False"],"answer":"True"},
+            {"question":"Mania includes decreased sleep.","options":["True","False"],"answer":"True"}
+
         ],
         "OSD":[
-            {
-                "question": "OCD is best defined as:",
-                "options": [
-                "Mood disorder",
-                "Anxiety disorder with obsessions and compulsions",
-                "Personality disorder",
-                "Psychotic disorder"
-                ],
-                "answer": "Anxiety disorder with obsessions and compulsions",
-                "explanation": "OCD consists of obsessions (intrusive thoughts) and compulsions (repetitive behaviors)."
-            },
-            {
-                "question": "Obsessions are:",
-                "options": [
-                "Voluntary thoughts",
-                "Pleasant ideas",
-                "Intrusive unwanted thoughts",
-                "Normal thinking"
-                ],
-                "answer": "Intrusive unwanted thoughts",
-                "explanation": "Obsessions are unwanted, distressing thoughts."
-            },
-            {
-                "question": "Compulsions are:",
-                "options": [
-                "Random actions",
-                "Repetitive behaviors driven by anxiety",
-                "Normal habits",
-                "Reflex actions"
-                ],
-                "answer": "Repetitive behaviors driven by anxiety",
-                "explanation": "They are performed to reduce anxiety."
-            },
-            {
-                "question": "The main purpose of compulsions is:",
-                "options": [
-                "Pleasure",
-                "Reduce anxiety",
-                "Increase stress",
-                "Improve memory"
-                ],
-                "answer": "Reduce anxiety",
-                "explanation": "Compulsions temporarily relieve anxiety caused by obsessions."
-            },
-            {
-                "question": "Which is an example of obsession?",
-                "options": [
-                "Hand washing",
-                "Counting repeatedly",
-                "Fear of contamination",
-                "Cleaning"
-                ],
-                "answer": "Fear of contamination",
-                "explanation": "It is a thought, not a behavior."
-            },
-            {
-                "question": "Which is an example of compulsion?",
-                "options": [
-                "Fear",
-                "Thought",
-                "Hand washing",
-                "Anxiety"
-                ],
-                "answer": "Hand washing",
-                "explanation": "It is a repetitive behavior."
-            },
-            {
-                "question": "Which is a major symptom of OCD?",
-                "options": [
-                "Hallucination",
-                "Delusion",
-                "Time-consuming rituals",
-                "Paralysis"
-                ],
-                "answer": "Time-consuming rituals",
-                "explanation": "Rituals interfere with daily life."
-            },
-            {
-                "question": "Which indicates severe OCD?",
-                "options": [
-                "Mild worry",
-                "Behavior interfering with daily life",
-                "Normal habits",
-                "Temporary fear"
-                ],
-                "answer": "Behavior interfering with daily life",
-                "explanation": "Severity is based on impairment."
-            },
-            {
-                "question": "Which is a cause of OCD?",
-                "options": [
-                "Genetics",
-                "Stress",
-                "Substance abuse",
-                "All of the above"
-                ],
-                "answer": "All of the above",
-                "explanation": "Multiple factors contribute."
-            },
-            {
-                "question": "Which is not a risk factor?",
-                "options": [
-                "Family history",
-                "Trauma",
-                "Strong coping skills",
-                "Chronic stress"
-                ],
-                "answer": "Strong coping skills",
-                "explanation": "It is protective, not a risk."
-            },
-            {
-                "question": "Which neurotransmitter is mainly involved?",
-                "options": [
-                "Serotonin",
-                "Calcium",
-                "Sodium",
-                "Oxygen"
-                ],
-                "answer": "Serotonin",
-                "explanation": "OCD is linked to serotonin imbalance."
-            },
-            {
-                "question": "Which therapy is first-line?",
-                "options": [
-                "Surgery",
-                "Cognitive behavioral therapy",
-                "Isolation",
-                "ECT"
-                ],
-                "answer": "Cognitive behavioral therapy",
-                "explanation": "CBT with ERP is first-line."
-            },
-            {
-                "question": "ERP stands for:",
-                "options": [
-                "Emotional response plan",
-                "Exposure and response prevention",
-                "Emergency response procedure",
-                "External reaction process"
-                ],
-                "answer": "Exposure and response prevention",
-                "explanation": "Key CBT technique."
-            },
-            {
-                "question": "ERP works by:",
-                "options": [
-                "Avoiding fear",
-                "Exposure and preventing compulsion",
-                "Increasing medication",
-                "Isolation"
-                ],
-                "answer": "Exposure and preventing compulsion",
-                "explanation": "Reduces anxiety over time."
-            },
-            {
-                "question": "Which drug is first-line for OCD?",
-                "options": [
-                "Antibiotics",
-                "SSRIs",
-                "Insulin",
-                "NSAIDs"
-                ],
-                "answer": "SSRIs",
-                "explanation": "They increase serotonin."
-            },
-            {
-                "question": "Which SSRI is used?",
-                "options": [
-                "Fluoxetine",
-                "Aspirin",
-                "Paracetamol",
-                "Insulin"
-                ],
-                "answer": "Fluoxetine",
-                "explanation": "Common SSRI."
-            },
-            {
-                "question": "Which drug is used in resistant cases?",
-                "options": [
-                "SSRI",
-                "Clomipramine",
-                "Antibiotic",
-                "Vitamin"
-                ],
-                "answer": "Clomipramine",
-                "explanation": "TCA used in resistant OCD."
-            },
-            {
-                "question": "Which symptom is behavioral?",
-                "options": [
-                "Anxiety",
-                "Fear",
-                "Repetitive washing",
-                "Guilt"
-                ],
-                "answer": "Repetitive washing",
-                "explanation": "Behavioral manifestation."
-            },
-            {
-                "question": "Most important nursing assessment:",
-                "options": [
-                "Weight",
-                "Anxiety level",
-                "Vision",
-                "Hearing"
-                ],
-                "answer": "Anxiety level",
-                "explanation": "Core symptom."
-            },
-            {
-                "question": "Most important priority:",
-                "options": [
-                "Sleep",
-                "Safety",
-                "Social",
-                "Food"
-                ],
-                "answer": "Safety",
-                "explanation": "Prevent harm."
-            },
-            {
-                "question": "Most important teaching:",
-                "options": [
-                "Stop therapy",
-                "Adherence",
-                "Isolation",
-                "Ignore symptoms"
-                ],
-                "answer": "Adherence",
-                "explanation": "Ensures treatment success."
-            },
-            {
-                "question": "Which behavior is typical?",
-                "options": [
-                "Random aggression",
-                "Ritualistic behavior",
-                "Memory loss",
-                "Paralysis"
-                ],
-                "answer": "Ritualistic behavior",
-                "explanation": "Core feature."
-            },
-            {
-                "question": "Which indicates compulsion?",
-                "options": [
-                "Fear only",
-                "Thought only",
-                "Repeated checking",
-                "Sadness"
-                ],
-                "answer": "Repeated checking",
-                "explanation": "Behavior driven by anxiety."
-            },
-            {
-                "question": "Which patient needs hospitalization?",
-                "options": [
-                "Mild OCD",
-                "Severe impairment",
-                "Mild anxiety",
-                "Stable"
-                ],
-                "answer": "Severe impairment",
-                "explanation": "When function is impaired."
-            },
-            {
-                "question": "Which is the most important goal?",
-                "options": [
-                "Remove thoughts completely",
-                "Reduce anxiety and control behavior",
-                "Increase isolation",
-                "Stop communication"
-                ],
-                "answer": "Reduce anxiety and control behavior",
-                "explanation": "Realistic treatment goal."
-            },
-            {
-                "question": "Which is part of nursing care?",
-                "options": [
-                "Ignore patient",
-                "Calm communication",
-                "Punishment",
-                "Isolation"
-                ],
-                "answer": "Calm communication",
-                "explanation": "Therapeutic communication."
-            },
-            {
-                "question": "Which worsens OCD?",
-                "options": [
-                "Stress",
-                "Support",
-                "Therapy",
-                "Education"
-                ],
-                "answer": "Stress",
-                "explanation": "Triggers symptoms."
-            },
-            {
-                "question": "Which improves OCD?",
-                "options": [
-                "Avoidance",
-                "CBT",
-                "Isolation",
-                "Stress"
-                ],
-                "answer": "CBT",
-                "explanation": "Effective treatment."
-            },
-            {
-                "question": "Which is a key feature?",
-                "options": [
-                "Hallucination",
-                "Compulsion driven by anxiety",
-                "Paralysis",
-                "Fever"
-                ],
-                "answer": "Compulsion driven by anxiety",
-                "explanation": "Core mechanism."
-            },
-            {
-                "question": "Most important concept in OCD:",
-                "options": [
-                "Behavior is voluntary",
-                "Patient enjoys behavior",
-                "Behavior reduces anxiety",
-                "No anxiety"
-                ],
-                "answer": "Behavior reduces anxiety",
-                "explanation": "Central concept."
-            },
-            {
-                "question": "OCD includes obsessions and compulsions.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Core definition."
-            },
-            {
-                "question": "Obsessions are voluntary.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "They are intrusive."
-            },
-            {
-                "question": "Compulsions reduce anxiety.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Main purpose."
-            },
-            {
-                "question": "OCD affects daily life.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Severe cases impair function."
-            },
-            {
-                "question": "Genetics play a role.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Biological factor."
-            },
-            {
-                "question": "Stress triggers OCD.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Common trigger."
-            },
-            {
-                "question": "CBT is effective.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "First-line therapy."
-            },
-            {
-                "question": "ERP is part of CBT.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Core technique."
-            },
-            {
-                "question": "SSRIs are first-line.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Standard treatment."
-            },
-            {
-                "question": "Clomipramine is used in resistant cases.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Second-line option."
-            }
+            {"question":"OCD is best defined as:","options":["Mood disorder","Anxiety disorder with obsessions and compulsions","Personality disorder","Psychotic disorder"],"answer":"Anxiety disorder with obsessions and compulsions"},
+            {"question":"Obsessions are:","options":["Voluntary thoughts","Pleasant ideas","Intrusive unwanted thoughts","Normal thinking"],"answer":"Intrusive unwanted thoughts"},
+            {"question":"Compulsions are:","options":["Random actions","Repetitive behaviors driven by anxiety","Normal habits","Reflex actions"],"answer":"Repetitive behaviors driven by anxiety"},
+            {"question":"The main purpose of compulsions is:","options":["Pleasure","Reduce anxiety","Increase stress","Improve memory"],"answer":"Reduce anxiety"},
+            {"question":"Which is an example of obsession?","options":["Hand washing","Counting repeatedly","Fear of contamination","Cleaning"],"answer":"Fear of contamination"},
+            {"question":"Which is an example of compulsion?","options":["Fear","Thought","Hand washing","Anxiety"],"answer":"Hand washing"},
+            {"question":"Which is a major symptom of OCD?","options":["Hallucination","Delusion","Time-consuming rituals","Paralysis"],"answer":"Time-consuming rituals"},
+            {"question":"Which indicates severe OCD?","options":["Mild worry","Behavior interfering with daily life","Normal habits","Temporary fear"],"answer":"Behavior interfering with daily life"},
+            {"question":"Which is a cause of OCD?","options":["Genetics","Stress","Substance abuse","All of the above"],"answer":"All of the above"},
+            {"question":"Which is not a risk factor?","options":["Family history","Trauma","Strong coping skills","Chronic stress"],"answer":"Strong coping skills"},
+            {"question":"Which neurotransmitter is mainly involved?","options":["Serotonin","Calcium","Sodium","Oxygen"],"answer":"Serotonin"},
+            {"question":"Which therapy is first-line?","options":["Surgery","Cognitive behavioral therapy","Isolation","ECT"],"answer":"Cognitive behavioral therapy"},
+            {"question":"ERP stands for:","options":["Emotional response plan","Exposure and response prevention","Emergency response procedure","External reaction process"],"answer":"Exposure and response prevention"},
+            {"question":"ERP works by:","options":["Avoiding fear","Exposure and preventing compulsion","Increasing medication","Isolation"],"answer":"Exposure and preventing compulsion"},
+            {"question":"Which drug is first-line for OCD?","options":["Antibiotics","SSRIs","Insulin","NSAIDs"],"answer":"SSRIs"},
+            {"question":"Which SSRI is used?","options":["Fluoxetine","Aspirin","Paracetamol","Insulin"],"answer":"Fluoxetine"},
+            {"question":"Which drug is used in resistant cases?","options":["SSRI","Clomipramine","Antibiotic","Vitamin"],"answer":"Clomipramine"},
+            {"question":"Which symptom is behavioral?","options":["Anxiety","Fear","Repetitive washing","Guilt"],"answer":"Repetitive washing"},
+            {"question":"Most important nursing assessment:","options":["Weight","Anxiety level","Vision","Hearing"],"answer":"Anxiety level"},
+            {"question":"Most important priority:","options":["Sleep","Safety","Social","Food"],"answer":"Safety"},
+            {"question":"Most important teaching:","options":["Stop therapy","Adherence","Isolation","Ignore symptoms"],"answer":"Adherence"},
+            {"question":"Which behavior is typical?","options":["Random aggression","Ritualistic behavior","Memory loss","Paralysis"],"answer":"Ritualistic behavior"},
+            {"question":"Which indicates compulsion?","options":["Fear only","Thought only","Repeated checking","Sadness"],"answer":"Repeated checking"},
+            {"question":"Which patient needs hospitalization?","options":["Mild OCD","Severe impairment","Mild anxiety","Stable"],"answer":"Severe impairment"},
+            {"question":"Which is the most important goal?","options":["Remove thoughts completely","Reduce anxiety and control behavior","Increase isolation","Stop communication"],"answer":"Reduce anxiety and control behavior"},
+            {"question":"Which is part of nursing care?","options":["Ignore patient","Calm communication","Punishment","Isolation"],"answer":"Calm communication"},
+            {"question":"Which worsens OCD?","options":["Stress","Support","Therapy","Education"],"answer":"Stress"},
+            {"question":"Which improves OCD?","options":["Avoidance","CBT","Isolation","Stress"],"answer":"CBT"},
+            {"question":"Which is a key feature?","options":["Hallucination","Compulsion driven by anxiety","Paralysis","Fever"],"answer":"Compulsion driven by anxiety"},
+            {"question":"Most important concept in OCD:","options":["Behavior is voluntary","Patient enjoys behavior","Behavior reduces anxiety","No anxiety"],"answer":"Behavior reduces anxiety"},
+            {"question":"OCD includes obsessions and compulsions.","options":["True","False"],"answer":"True"},
+            {"question":"Obsessions are voluntary.","options":["True","False"],"answer":"False"},
+            {"question":"Compulsions reduce anxiety.","options":["True","False"],"answer":"True"},
+            {"question":"OCD affects daily life.","options":["True","False"],"answer":"True"},
+            {"question":"Genetics play a role.","options":["True","False"],"answer":"True"},
+            {"question":"Stress triggers OCD.","options":["True","False"],"answer":"True"},
+            {"question":"CBT is effective.","options":["True","False"],"answer":"True"},
+            {"question":"ERP is part of CBT.","options":["True","False"],"answer":"True"},
+            {"question":"SSRIs are first-line.","options":["True","False"],"answer":"True"},
+            {"question":"Clomipramine is used in resistant cases.","options":["True","False"],"answer":"True"}
+
         ],
         "Personality Disorders":[
-            {
-                "question": "Personality disorder is best defined as:",
-                "options": [
-                "Temporary emotional change",
-                "Long-standing maladaptive pattern of behavior",
-                "Acute psychiatric episode",
-                "Normal personality"
-                ],
-                "answer": "Long-standing maladaptive pattern of behavior",
-                "explanation": "Personality disorders are chronic, maladaptive patterns affecting behavior and function."
-            },
-            {
-                "question": "Personality disorders usually begin in:",
-                "options": [
-                "Childhood only",
-                "Adolescence or early adulthood",
-                "Old age",
-                "After trauma only"
-                ],
-                "answer": "Adolescence or early adulthood",
-                "explanation": "They typically emerge early and persist."
-            },
-            {
-                "question": "Which is not a risk factor?",
-                "options": [
-                "Family history",
-                "Abuse",
-                "Stable environment",
-                "Brain changes"
-                ],
-                "answer": "Stable environment",
-                "explanation": "Stable environment is protective."
-            },
-            {
-                "question": "Personality disorders affect:",
-                "options": [
-                "Only mood",
-                "Thinking, behavior, relationships",
-                "Memory only",
-                "Sleep only"
-                ],
-                "answer": "Thinking, behavior, relationships",
-                "explanation": "They affect multiple domains."
-            },
-            {
-                "question": "Which cluster is odd and eccentric?",
-                "options": [
-                "Cluster A",
-                "Cluster B",
-                "Cluster C",
-                "Cluster D"
-                ],
-                "answer": "Cluster A",
-                "explanation": "Includes paranoid, schizoid, schizotypal."
-            },
-            {
-                "question": "Which cluster is dramatic and emotional?",
-                "options": [
-                "Cluster A",
-                "Cluster B",
-                "Cluster C",
-                "Cluster D"
-                ],
-                "answer": "Cluster B",
-                "explanation": "Includes borderline, antisocial, histrionic, narcissistic."
-            },
-            {
-                "question": "Which cluster is anxious and fearful?",
-                "options": [
-                "Cluster A",
-                "Cluster B",
-                "Cluster C",
-                "Cluster D"
-                ],
-                "answer": "Cluster C",
-                "explanation": "Includes avoidant, dependent, OCPD."
-            },
-            {
-                "question": "Paranoid personality disorder is characterized by:",
-                "options": [
-                "Trusting others",
-                "Suspicion and distrust",
-                "Emotional instability",
-                "Anxiety only"
-                ],
-                "answer": "Suspicion and distrust",
-                "explanation": "Persistent mistrust."
-            },
-            {
-                "question": "Schizoid personality disorder:",
-                "options": [
-                "Loves social interaction",
-                "Avoids relationships",
-                "Aggressive",
-                "Emotional"
-                ],
-                "answer": "Avoids relationships",
-                "explanation": "Detached and socially withdrawn."
-            },
-            {
-                "question": "Schizotypal personality disorder includes:",
-                "options": [
-                "Normal thinking",
-                "Magical thinking",
-                "Memory loss",
-                "Paralysis"
-                ],
-                "answer": "Magical thinking",
-                "explanation": "Odd beliefs and thinking."
-            },
-            {
-                "question": "Which cluster has psychotic-like symptoms?",
-                "options": [
-                "Cluster A",
-                "Cluster B",
-                "Cluster C",
-                "None"
-                ],
-                "answer": "Cluster A",
-                "explanation": "Odd and eccentric features."
-            },
-            {
-                "question": "Antisocial personality disorder includes:",
-                "options": [
-                "Respect for others",
-                "Violation of others' rights",
-                "Fear",
-                "Isolation"
-                ],
-                "answer": "Violation of others' rights",
-                "explanation": "Disregard for others."
-            },
-            {
-                "question": "Borderline personality disorder is characterized by:",
-                "options": [
-                "Stable relationships",
-                "Emotional instability",
-                "Calm behavior",
-                "Isolation"
-                ],
-                "answer": "Emotional instability",
-                "explanation": "Mood swings and unstable relationships."
-            },
-            {
-                "question": "Most dangerous feature in borderline disorder:",
-                "options": [
-                "Anxiety",
-                "Suicide or self-harm",
-                "Isolation",
-                "Fatigue"
-                ],
-                "answer": "Suicide or self-harm",
-                "explanation": "High risk behavior."
-            },
-            {
-                "question": "Histrionic personality disorder:",
-                "options": [
-                "Quiet behavior",
-                "Attention seeking",
-                "Isolation",
-                "Fear"
-                ],
-                "answer": "Attention seeking",
-                "explanation": "Excessive emotionality."
-            },
-            {
-                "question": "Narcissistic personality disorder:",
-                "options": [
-                "Low self-esteem",
-                "Grandiosity and lack of empathy",
-                "Fear",
-                "Isolation"
-                ],
-                "answer": "Grandiosity and lack of empathy",
-                "explanation": "Inflated self-image."
-            },
-            {
-                "question": "Avoidant personality disorder:",
-                "options": [
-                "Social confidence",
-                "Fear of rejection",
-                "Aggression",
-                "Mania"
-                ],
-                "answer": "Fear of rejection",
-                "explanation": "Avoids social interaction."
-            },
-            {
-                "question": "Dependent personality disorder:",
-                "options": [
-                "Independence",
-                "Inability to be alone",
-                "Aggression",
-                "Hallucination"
-                ],
-                "answer": "Inability to be alone",
-                "explanation": "Needs excessive support."
-            },
-            {
-                "question": "Obsessive compulsive personality disorder:",
-                "options": [
-                "Impulsivity",
-                "Perfectionism",
-                "Aggression",
-                "Withdrawal"
-                ],
-                "answer": "Perfectionism",
-                "explanation": "Rigid and perfectionist."
-            },
-            {
-                "question": "Which therapy focuses on behavior modification?",
-                "options": [
-                "Psychoanalysis",
-                "Behavior therapy",
-                "Surgery",
-                "ECT"
-                ],
-                "answer": "Behavior therapy",
-                "explanation": "Changes behavior patterns."
-            },
-            {
-                "question": "Which therapy focuses on thoughts?",
-                "options": [
-                "Cognitive behavioral therapy",
-                "Surgery",
-                "Isolation",
-                "Medication"
-                ],
-                "answer": "Cognitive behavioral therapy",
-                "explanation": "Targets cognition."
-            },
-            {
-                "question": "Which therapy explores past experiences?",
-                "options": [
-                "CBT",
-                "Psychoanalysis",
-                "Medication",
-                "Behavior therapy"
-                ],
-                "answer": "Psychoanalysis",
-                "explanation": "Explores unconscious processes."
-            },
-            {
-                "question": "Group therapy is useful for:",
-                "options": [
-                "Isolation",
-                "Social skills improvement",
-                "Surgery",
-                "Memory"
-                ],
-                "answer": "Social skills improvement",
-                "explanation": "Enhances interaction."
-            },
-            {
-                "question": "Hospitalization is required when:",
-                "options": [
-                "Mild symptoms",
-                "Risk of harm",
-                "Stable patient",
-                "Normal behavior"
-                ],
-                "answer": "Risk of harm",
-                "explanation": "Safety concern."
-            },
-            {
-                "question": "Which drug group is used?",
-                "options": [
-                "Antibiotics",
-                "Mood stabilizers",
-                "Insulin",
-                "Vitamins"
-                ],
-                "answer": "Mood stabilizers",
-                "explanation": "Used for symptom control."
-            },
-            {
-                "question": "Most important nursing priority:",
-                "options": [
-                "Sleep",
-                "Safety",
-                "Food",
-                "Hygiene"
-                ],
-                "answer": "Safety",
-                "explanation": "Prevent harm."
-            },
-            {
-                "question": "Key nursing role:",
-                "options": [
-                "Ignore",
-                "Build relationship",
-                "Punish",
-                "Isolate"
-                ],
-                "answer": "Build relationship",
-                "explanation": "Therapeutic alliance."
-            },
-            {
-                "question": "Cluster B patients need:",
-                "options": [
-                "Isolation",
-                "Close monitoring",
-                "No care",
-                "Surgery"
-                ],
-                "answer": "Close monitoring",
-                "explanation": "Due to impulsivity."
-            },
-            {
-                "question": "Cluster C patients need:",
-                "options": [
-                "Stress",
-                "Anxiety reduction",
-                "Isolation",
-                "Aggression"
-                ],
-                "answer": "Anxiety reduction",
-                "explanation": "They are anxious and fearful."
-            },
-            {
-                "question": "Most important concept:",
-                "options": [
-                "Acute disorder",
-                "Chronic pattern",
-                "Temporary",
-                "Normal"
-                ],
-                "answer": "Chronic pattern",
-                "explanation": "Long-term condition."
-            },
-            {
-                "question": "Personality disorders are chronic.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "They persist over time."
-            },
-            {
-                "question": "They begin in early adulthood.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Typical onset."
-            },
-            {
-                "question": "Cluster A is odd.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Eccentric behavior."
-            },
-            {
-                "question": "Cluster B is emotional.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Dramatic cluster."
-            },
-            {
-                "question": "Cluster C is anxious.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Fearful behaviors."
-            },
-            {
-                "question": "Paranoid personality trusts others.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Distrustful."
-            },
-            {
-                "question": "Schizoid personality is social.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Avoids relationships."
-            },
-            {
-                "question": "Borderline personality is stable.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Unstable emotions."
-            },
-            {
-                "question": "Histrionic seeks attention.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Core feature."
-            },
-            {
-                "question": "Narcissistic lacks empathy.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Key trait."
-            }
+            {"question":"Personality disorder is best defined as:","options":["Temporary emotional change","Long-standing maladaptive pattern of behavior","Acute psychiatric episode","Normal personality"],"answer":"Long-standing maladaptive pattern of behavior"},
+            {"question":"Personality disorders usually begin in:","options":["Childhood only","Adolescence or early adulthood","Old age","After trauma only"],"answer":"Adolescence or early adulthood"},
+            {"question":"Which is not a risk factor?","options":["Family history","Abuse","Stable environment","Brain changes"],"answer":"Stable environment"},
+            {"question":"Personality disorders affect:","options":["Only mood","Thinking, behavior, relationships","Memory only","Sleep only"],"answer":"Thinking, behavior, relationships"},
+            {"question":"Which cluster is odd and eccentric?","options":["Cluster A","Cluster B","Cluster C","Cluster D"],"answer":"Cluster A"},
+            {"question":"Which cluster is dramatic and emotional?","options":["Cluster A","Cluster B","Cluster C","Cluster D"],"answer":"Cluster B"},
+            {"question":"Which cluster is anxious and fearful?","options":["Cluster A","Cluster B","Cluster C","Cluster D"],"answer":"Cluster C"},
+            {"question":"Paranoid personality disorder is characterized by:","options":["Trusting others","Suspicion and distrust","Emotional instability","Anxiety only"],"answer":"Suspicion and distrust"},
+            {"question":"Schizoid personality disorder:","options":["Loves social interaction","Avoids relationships","Aggressive","Emotional"],"answer":"Avoids relationships"},
+            {"question":"Schizotypal personality disorder includes:","options":["Normal thinking","Magical thinking","Memory loss","Paralysis"],"answer":"Magical thinking"},
+            {"question":"Which cluster has psychotic-like symptoms?","options":["Cluster A","Cluster B","Cluster C","None"],"answer":"Cluster A"},
+            {"question":"Antisocial personality disorder includes:","options":["Respect for others","Violation of others' rights","Fear","Isolation"],"answer":"Violation of others' rights"},
+            {"question":"Borderline personality disorder is characterized by:","options":["Stable relationships","Emotional instability","Calm behavior","Isolation"],"answer":"Emotional instability"},
+            {"question":"Most dangerous feature in borderline disorder:","options":["Anxiety","Suicide or self-harm","Isolation","Fatigue"],"answer":"Suicide or self-harm"},
+            {"question":"Histrionic personality disorder:","options":["Quiet behavior","Attention seeking","Isolation","Fear"],"answer":"Attention seeking"},
+            {"question":"Narcissistic personality disorder:","options":["Low self-esteem","Grandiosity and lack of empathy","Fear","Isolation"],"answer":"Grandiosity and lack of empathy"},
+            {"question":"Avoidant personality disorder:","options":["Social confidence","Fear of rejection","Aggression","Mania"],"answer":"Fear of rejection"},
+            {"question":"Dependent personality disorder:","options":["Independence","Inability to be alone","Aggression","Hallucination"],"answer":"Inability to be alone"},
+            {"question":"Obsessive compulsive personality disorder:","options":["Impulsivity","Perfectionism","Aggression","Withdrawal"],"answer":"Perfectionism"},
+            {"question":"Which therapy focuses on behavior modification?","options":["Psychoanalysis","Behavior therapy","Surgery","ECT"],"answer":"Behavior therapy"},
+            {"question":"Which therapy focuses on thoughts?","options":["Cognitive behavioral therapy","Surgery","Isolation","Medication"],"answer":"Cognitive behavioral therapy"},
+            {"question":"Which therapy explores past experiences?","options":["CBT","Psychoanalysis","Medication","Behavior therapy"],"answer":"Psychoanalysis"},
+            {"question":"Group therapy is useful for:","options":["Isolation","Social skills improvement","Surgery","Memory"],"answer":"Social skills improvement"},
+            {"question":"Hospitalization is required when:","options":["Mild symptoms","Risk of harm","Stable patient","Normal behavior"],"answer":"Risk of harm"},
+            {"question":"Which drug group is used?","options":["Antibiotics","Mood stabilizers","Insulin","Vitamins"],"answer":"Mood stabilizers"},
+            {"question":"Most important nursing priority:","options":["Sleep","Safety","Food","Hygiene"],"answer":"Safety"},
+            {"question":"Key nursing role:","options":["Ignore","Build relationship","Punish","Isolate"],"answer":"Build relationship"},
+            {"question":"Cluster B patients need:","options":["Isolation","Close monitoring","No care","Surgery"],"answer":"Close monitoring"},
+            {"question":"Cluster C patients need:","options":["Stress","Anxiety reduction","Isolation","Aggression"],"answer":"Anxiety reduction"},
+            {"question":"Most important concept:","options":["Acute disorder","Chronic pattern","Temporary","Normal"],"answer":"Chronic pattern"},
+            {"question":"Personality disorders are chronic.","options":["True","False"],"answer":"True"},
+            {"question":"They begin in early adulthood.","options":["True","False"],"answer":"True"},
+            {"question":"Cluster A is odd.","options":["True","False"],"answer":"True"},
+            {"question":"Cluster B is emotional.","options":["True","False"],"answer":"True"},
+            {"question":"Cluster C is anxious.","options":["True","False"],"answer":"True"},
+            {"question":"Paranoid personality trusts others.","options":["True","False"],"answer":"False"},
+            {"question":"Schizoid personality is social.","options":["True","False"],"answer":"False"},
+            {"question":"Borderline personality is stable.","options":["True","False"],"answer":"False"},
+            {"question":"Histrionic seeks attention.","options":["True","False"],"answer":"True"},
+            {"question":"Narcissistic lacks empathy.","options":["True","False"],"answer":"True"}
+
         ],
         "Psychiatric Emergency":[
-            {
-                "question": "Psychiatric emergency is best defined as:",
-                "options": [
-                "Chronic disorder",
-                "Acute disturbance requiring immediate intervention",
-                "Mild stress",
-                "Temporary anxiety"
-                ],
-                "answer": "Acute disturbance requiring immediate intervention",
-                "explanation": "It is an acute disturbance in behavior, thought, or mood requiring urgent care."
-            },
-            {
-                "question": "Which is not a psychiatric emergency?",
-                "options": [
-                "Suicide attempt",
-                "Violence",
-                "Panic attack",
-                "Stable patient"
-                ],
-                "answer": "Stable patient",
-                "explanation": "Emergency involves instability or risk."
-            },
-            {
-                "question": "Most common cause of psychiatric emergency:",
-                "options": [
-                "Schizophrenia",
-                "Substance abuse",
-                "Anxiety",
-                "Depression"
-                ],
-                "answer": "Substance abuse",
-                "explanation": "It is the leading cause. :contentReference[oaicite:0]{index=0}"
-            },
-            {
-                "question": "Which disorder represents second most common cause?",
-                "options": [
-                "Personality disorder",
-                "Affective disorders",
-                "Anxiety",
-                "Organic disorder"
-                ],
-                "answer": "Affective disorders",
-                "explanation": "Second most frequent cause. :contentReference[oaicite:1]{index=1}"
-            },
-            {
-                "question": "Which is considered major emergency?",
-                "options": [
-                "Grief",
-                "Panic attack",
-                "Suicide attempt",
-                "Disaster"
-                ],
-                "answer": "Suicide attempt",
-                "explanation": "Life-threatening condition."
-            },
-            {
-                "question": "Which is minor emergency?",
-                "options": [
-                "Violence",
-                "Suicide",
-                "Panic attack",
-                "Psychosis"
-                ],
-                "answer": "Panic attack",
-                "explanation": "Less severe compared to others."
-            },
-            {
-                "question": "Psychiatric emergency may lead to:",
-                "options": [
-                "Comfort",
-                "Harm to self or others",
-                "Sleep",
-                "Weight gain"
-                ],
-                "answer": "Harm to self or others",
-                "explanation": "Primary risk."
-            },
-            {
-                "question": "Suicide is defined as:",
-                "options": [
-                "Accidental death",
-                "Intentional self-inflicted death",
-                "Sudden illness",
-                "Stress"
-                ],
-                "answer": "Intentional self-inflicted death",
-                "explanation": "Definition of suicide."
-            },
-            {
-                "question": "Which neurotransmitter is involved in suicide?",
-                "options": [
-                "Calcium",
-                "Sodium",
-                "Serotonin",
-                "Oxygen"
-                ],
-                "answer": "Serotonin",
-                "explanation": "Low serotonin is linked."
-            },
-            {
-                "question": "Which is a psychogenic factor?",
-                "options": [
-                "Genetics",
-                "Neurotransmitters",
-                "Substance abuse",
-                "Brain tumor"
-                ],
-                "answer": "Substance abuse",
-                "explanation": "Behavioral factor."
-            },
-            {
-                "question": "Which is a sociological factor?",
-                "options": [
-                "Depression",
-                "Loneliness",
-                "Genetics",
-                "Dopamine"
-                ],
-                "answer": "Loneliness",
-                "explanation": "Social factor."
-            },
-            {
-                "question": "Strongest suicide risk factor:",
-                "options": [
-                "Good support",
-                "Previous attempt",
-                "Education",
-                "Job"
-                ],
-                "answer": "Previous attempt",
-                "explanation": "Highest predictor."
-            },
-            {
-                "question": "Which is a warning sign?",
-                "options": [
-                "Happiness",
-                "Talking about death",
-                "Sleeping well",
-                "Exercise"
-                ],
-                "answer": "Talking about death",
-                "explanation": "Important red flag."
-            },
-            {
-                "question": "Which behavior indicates high risk?",
-                "options": [
-                "Studying",
-                "Planning suicide",
-                "Eating",
-                "Sleeping"
-                ],
-                "answer": "Planning suicide",
-                "explanation": "Indicates serious intent."
-            },
-            {
-                "question": "Suicidal ideation means:",
-                "options": [
-                "Action",
-                "Thought of suicide",
-                "Death",
-                "Attempt"
-                ],
-                "answer": "Thought of suicide",
-                "explanation": "Cognitive stage."
-            },
-            {
-                "question": "Suicide gesture means:",
-                "options": [
-                "Serious attempt",
-                "Action without intent to die",
-                "Completed suicide",
-                "Thought only"
-                ],
-                "answer": "Action without intent to die",
-                "explanation": "Not intended to be fatal."
-            },
-            {
-                "question": "Suicide attempt means:",
-                "options": [
-                "Thought only",
-                "Serious action to die",
-                "Joke",
-                "Gesture"
-                ],
-                "answer": "Serious action to die",
-                "explanation": "Intent to die present."
-            },
-            {
-                "question": "Completed suicide means:",
-                "options": [
-                "Thought",
-                "Attempt",
-                "Death",
-                "Plan"
-                ],
-                "answer": "Death",
-                "explanation": "Final outcome."
-            },
-            {
-                "question": "Most dangerous sign:",
-                "options": [
-                "Anxiety",
-                "Plan for suicide",
-                "Sadness",
-                "Fatigue"
-                ],
-                "answer": "Plan for suicide",
-                "explanation": "Indicates high risk."
-            },
-            {
-                "question": "Which method is common?",
-                "options": [
-                "Reading",
-                "Hanging",
-                "Walking",
-                "Eating"
-                ],
-                "answer": "Hanging",
-                "explanation": "Common method."
-            },
-            {
-                "question": "Most important management:",
-                "options": [
-                "Talking only",
-                "Hospitalization",
-                "Sleep",
-                "Diet"
-                ],
-                "answer": "Hospitalization",
-                "explanation": "Ensures safety."
-            },
-            {
-                "question": "ECT is used in:",
-                "options": [
-                "Mild anxiety",
-                "Severe suicidal depression",
-                "Headache",
-                "Panic"
-                ],
-                "answer": "Severe suicidal depression",
-                "explanation": "Rapid effect."
-            },
-            {
-                "question": "Which drug used in depression?",
-                "options": [
-                "Antibiotics",
-                "Antidepressants",
-                "Insulin",
-                "NSAIDs"
-                ],
-                "answer": "Antidepressants",
-                "explanation": "Standard treatment."
-            },
-            {
-                "question": "Most important nursing assessment:",
-                "options": [
-                "Vision",
-                "Suicide risk",
-                "Weight",
-                "Hearing"
-                ],
-                "answer": "Suicide risk",
-                "explanation": "Top priority."
-            },
-            {
-                "question": "Which is nursing diagnosis?",
-                "options": [
-                "Anxiety",
-                "Risk for suicide",
-                "Infection",
-                "Fever"
-                ],
-                "answer": "Risk for suicide",
-                "explanation": "Critical diagnosis."
-            },
-            {
-                "question": "Priority nursing intervention:",
-                "options": [
-                "Talk only",
-                "Close observation",
-                "Give food",
-                "Ignore"
-                ],
-                "answer": "Close observation",
-                "explanation": "Prevent harm."
-            },
-            {
-                "question": "Why remove weapons?",
-                "options": [
-                "Comfort",
-                "Prevent harm",
-                "Clean room",
-                "Save time"
-                ],
-                "answer": "Prevent harm",
-                "explanation": "Safety measure."
-            },
-            {
-                "question": "Contract with patient means:",
-                "options": [
-                "Punishment",
-                "Agreement not to self-harm",
-                "Isolation",
-                "Medication"
-                ],
-                "answer": "Agreement not to self-harm",
-                "explanation": "Safety agreement."
-            },
-            {
-                "question": "Most important goal:",
-                "options": [
-                "Weight gain",
-                "Safety",
-                "Sleep",
-                "Hygiene"
-                ],
-                "answer": "Safety",
-                "explanation": "Primary goal."
-            },
-            {
-                "question": "Violence is defined as:",
-                "options": [
-                "Talking",
-                "Use of force causing harm",
-                "Thinking",
-                "Sleeping"
-                ],
-                "answer": "Use of force causing harm",
-                "explanation": "Definition of violence."
-            },
-            {
-                "question": "Which is risk factor for violence?",
-                "options": [
-                "Calmness",
-                "Substance abuse",
-                "Support",
-                "Education"
-                ],
-                "answer": "Substance abuse",
-                "explanation": "Major contributor."
-            },
-            {
-                "question": "Which is warning sign of violence?",
-                "options": [
-                "Calm",
-                "Severe anger",
-                "Sleep",
-                "Study"
-                ],
-                "answer": "Severe anger",
-                "explanation": "Indicates escalation."
-            },
-            {
-                "question": "Physical violence means:",
-                "options": [
-                "Talking",
-                "Using body or object to harm",
-                "Thinking",
-                "Feeling"
-                ],
-                "answer": "Using body or object to harm",
-                "explanation": "Direct harm."
-            },
-            {
-                "question": "Psychological violence:",
-                "options": [
-                "Physical harm",
-                "Fear and threat",
-                "Injury",
-                "Sleep"
-                ],
-                "answer": "Fear and threat",
-                "explanation": "Emotional harm."
-            },
-            {
-                "question": "Verbal abuse:",
-                "options": [
-                "Silence",
-                "Harmful language",
-                "Physical attack",
-                "Isolation"
-                ],
-                "answer": "Harmful language",
-                "explanation": "Verbal harm."
-            },
-            {
-                "question": "Which drug for aggression?",
-                "options": [
-                "Antibiotic",
-                "Haloperidol",
-                "Insulin",
-                "Vitamin"
-                ],
-                "answer": "Haloperidol",
-                "explanation": "Antipsychotic for control."
-            },
-            {
-                "question": "Combination for aggression:",
-                "options": [
-                "SSRI",
-                "Haloperidol and benzodiazepine",
-                "Insulin",
-                "NSAIDs"
-                ],
-                "answer": "Haloperidol and benzodiazepine",
-                "explanation": "Common combination."
-            },
-            {
-                "question": "Restraints are used:",
-                "options": [
-                "Always",
-                "Last resort",
-                "First step",
-                "Never"
-                ],
-                "answer": "Last resort",
-                "explanation": "Used only when necessary."
-            },
-            {
-                "question": "Risk of restraints:",
-                "options": [
-                "No risk",
-                "Injury",
-                "Cure",
-                "Sleep"
-                ],
-                "answer": "Injury",
-                "explanation": "Potential harm."
-            },
-            {
-                "question": "Most important in violent patient:",
-                "options": [
-                "Comfort",
-                "Safety",
-                "Sleep",
-                "Food"
-                ],
-                "answer": "Safety",
-                "explanation": "Top priority."
-            }
+            {"question":"Psychiatric emergency is best defined as:","options":["Chronic disorder","Acute disturbance requiring immediate intervention","Mild stress","Temporary anxiety"],"answer":"Acute disturbance requiring immediate intervention"},
+            {"question":"Which is not a psychiatric emergency?","options":["Suicide attempt","Violence","Panic attack","Stable patient"],"answer":"Stable patient"},
+            {"question":"Most common cause of psychiatric emergency:","options":["Schizophrenia","Substance abuse","Anxiety","Depression"],"answer":"Substance abuse"},
+            {"question":"Which disorder represents second most common cause?","options":["Personality disorder","Affective disorders","Anxiety","Organic disorder"],"answer":"Affective disorders"},
+            {"question":"Which is considered major emergency?","options":["Grief","Panic attack","Suicide attempt","Disaster"],"answer":"Suicide attempt"},
+            {"question":"Which is minor emergency?","options":["Violence","Suicide","Panic attack","Psychosis"],"answer":"Panic attack"},
+            {"question":"Psychiatric emergency may lead to:","options":["Comfort","Harm to self or others","Sleep","Weight gain"],"answer":"Harm to self or others"},
+            {"question":"Suicide is defined as:","options":["Accidental death","Intentional self-inflicted death","Sudden illness","Stress"],"answer":"Intentional self-inflicted death"},
+            {"question":"Which neurotransmitter is involved in suicide?","options":["Calcium","Sodium","Serotonin","Oxygen"],"answer":"Serotonin"},
+            {"question":"Which is a psychogenic factor?","options":["Genetics","Neurotransmitters","Substance abuse","Brain tumor"],"answer":"Substance abuse"},
+            {"question":"Which is a sociological factor?","options":["Depression","Loneliness","Genetics","Dopamine"],"answer":"Loneliness"},
+            {"question":"Strongest suicide risk factor:","options":["Good support","Previous attempt","Education","Job"],"answer":"Previous attempt"},
+            {"question":"Which is a warning sign?","options":["Happiness","Talking about death","Sleeping well","Exercise"],"answer":"Talking about death"},
+            {"question":"Which behavior indicates high risk?","options":["Studying","Planning suicide","Eating","Sleeping"],"answer":"Planning suicide"},
+            {"question":"Suicidal ideation means:","options":["Action","Thought of suicide","Death","Attempt"],"answer":"Thought of suicide"},
+            {"question":"Suicide gesture means:","options":["Serious attempt","Action without intent to die","Completed suicide","Thought only"],"answer":"Action without intent to die"},
+            {"question":"Suicide attempt means:","options":["Thought only","Serious action to die","Joke","Gesture"],"answer":"Serious action to die"},
+            {"question":"Completed suicide means:","options":["Thought","Attempt","Death","Plan"],"answer":"Death"},
+            {"question":"Most dangerous sign:","options":["Anxiety","Plan for suicide","Sadness","Fatigue"],"answer":"Plan for suicide"},
+            {"question":"Which method is common?","options":["Reading","Hanging","Walking","Eating"],"answer":"Hanging"},
+            {"question":"Most important management:","options":["Talking only","Hospitalization","Sleep","Diet"],"answer":"Hospitalization"},
+            {"question":"ECT is used in:","options":["Mild anxiety","Severe suicidal depression","Headache","Panic"],"answer":"Severe suicidal depression"},
+            {"question":"Which drug used in depression?","options":["Antibiotics","Antidepressants","Insulin","NSAIDs"],"answer":"Antidepressants"},
+            {"question":"Most important nursing assessment:","options":["Vision","Suicide risk","Weight","Hearing"],"answer":"Suicide risk"},
+            {"question":"Which is nursing diagnosis?","options":["Anxiety","Risk for suicide","Infection","Fever"],"answer":"Risk for suicide"},
+            {"question":"Priority nursing intervention:","options":["Talk only","Close observation","Give food","Ignore"],"answer":"Close observation"},
+            {"question":"Why remove weapons?","options":["Comfort","Prevent harm","Clean room","Save time"],"answer":"Prevent harm"},
+            {"question":"Contract with patient means:","options":["Punishment","Agreement not to self-harm","Isolation","Medication"],"answer":"Agreement not to self-harm"},
+            {"question":"Most important goal:","options":["Weight gain","Safety","Sleep","Hygiene"],"answer":"Safety"},
+            {"question":"Violence is defined as:","options":["Talking","Use of force causing harm","Thinking","Sleeping"],"answer":"Use of force causing harm"},
+            {"question":"Which is risk factor for violence?","options":["Calmness","Substance abuse","Support","Education"],"answer":"Substance abuse"},
+            {"question":"Which is warning sign of violence?","options":["Calm","Severe anger","Sleep","Study"],"answer":"Severe anger"},
+            {"question":"Physical violence means:","options":["Talking","Using body or object to harm","Thinking","Feeling"],"answer":"Using body or object to harm"},
+            {"question":"Psychological violence:","options":["Physical harm","Fear and threat","Injury","Sleep"],"answer":"Fear and threat"},
+            {"question":"Verbal abuse:","options":["Silence","Harmful language","Physical attack","Isolation"],"answer":"Harmful language"},
+            {"question":"Which drug for aggression?","options":["Antibiotic","Haloperidol","Insulin","Vitamin"],"answer":"Haloperidol"},
+            {"question":"Combination for aggression:","options":["SSRI","Haloperidol and benzodiazepine","Insulin","NSAIDs"],"answer":"Haloperidol and benzodiazepine"},
+            {"question":"Restraints are used:","options":["Always","Last resort","First step","Never"],"answer":"Last resort"},
+            {"question":"Risk of restraints:","options":["No risk","Injury","Cure","Sleep"],"answer":"Injury"},
+            {"question":"Most important in violent patient:","options":["Comfort","Safety","Sleep","Food"],"answer":"Safety"}
+
         ],
         "Schizophrenia":[
-            {
-                "question": "Schizophrenia is best described as:",
-                "options": [
-                "Mood disorder",
-                "Chronic mental disorder affecting thinking and behavior",
-                "Temporary illness",
-                "Personality disorder"
-                ],
-                "answer": "Chronic mental disorder affecting thinking and behavior",
-                "explanation": "It is a chronic disorder affecting thinking, feeling, and behavior. :contentReference[oaicite:0]{index=0}"
-            },
-            {
-                "question": "Core feature of schizophrenia:",
-                "options": [
-                "Fever",
-                "Hallucinations and delusions",
-                "Pain",
-                "Paralysis"
-                ],
-                "answer": "Hallucinations and delusions",
-                "explanation": "Positive symptoms are the hallmark."
-            },
-            {
-                "question": "Typical age of onset:",
-                "options": [
-                "Childhood",
-                "Late adolescence",
-                "Old age",
-                "Infancy"
-                ],
-                "answer": "Late adolescence",
-                "explanation": "Common onset period."
-            },
-            {
-                "question": "Which gender has earlier onset?",
-                "options": [
-                "Female",
-                "Male",
-                "Equal",
-                "None"
-                ],
-                "answer": "Male",
-                "explanation": "Males tend to have earlier onset."
-            },
-            {
-                "question": "Prevalence worldwide:",
-                "options": [
-                "10%",
-                "1%",
-                "50%",
-                "Rare"
-                ],
-                "answer": "1%",
-                "explanation": "Global prevalence."
-            },
-            {
-                "question": "Which neurotransmitter is involved?",
-                "options": [
-                "Dopamine",
-                "Sodium",
-                "Calcium",
-                "Oxygen"
-                ],
-                "answer": "Dopamine",
-                "explanation": "Dopamine hypothesis."
-            },
-            {
-                "question": "Which is genetic risk factor?",
-                "options": [
-                "Stress",
-                "Family history",
-                "Diet",
-                "Sleep"
-                ],
-                "answer": "Family history",
-                "explanation": "Strong genetic link."
-            },
-            {
-                "question": "Which environmental risk factor?",
-                "options": [
-                "Study",
-                "Prenatal infection",
-                "Exercise",
-                "Reading"
-                ],
-                "answer": "Prenatal infection",
-                "explanation": "Important environmental factor."
-            },
-            {
-                "question": "Which drug triggers schizophrenia?",
-                "options": [
-                "Antibiotics",
-                "Cannabis",
-                "Vitamins",
-                "Insulin"
-                ],
-                "answer": "Cannabis",
-                "explanation": "Substance-induced risk."
-            },
-            {
-                "question": "Which is positive symptom?",
-                "options": [
-                "Avolition",
-                "Hallucination",
-                "Flat affect",
-                "Withdrawal"
-                ],
-                "answer": "Hallucination",
-                "explanation": "Added abnormal experience."
-            },
-            {
-                "question": "Delusion means:",
-                "options": [
-                "True belief",
-                "False fixed belief",
-                "Thought",
-                "Emotion"
-                ],
-                "answer": "False fixed belief",
-                "explanation": "Not based on reality."
-            },
-            {
-                "question": "Hallucination means:",
-                "options": [
-                "Real stimulus",
-                "False perception",
-                "Memory",
-                "Idea"
-                ],
-                "answer": "False perception",
-                "explanation": "Perception without stimulus."
-            },
-            {
-                "question": "Which is negative symptom?",
-                "options": [
-                "Hallucination",
-                "Delusion",
-                "Avolition",
-                "Disorganized speech"
-                ],
-                "answer": "Avolition",
-                "explanation": "Loss of motivation."
-            },
-            {
-                "question": "Flat affect means:",
-                "options": [
-                "Excess emotion",
-                "Reduced emotional expression",
-                "Anger",
-                "Happiness"
-                ],
-                "answer": "Reduced emotional expression",
-                "explanation": "Blunted emotion."
-            },
-            {
-                "question": "Which is cognitive symptom?",
-                "options": [
-                "Delusion",
-                "Poor memory",
-                "Hallucination",
-                "Aggression"
-                ],
-                "answer": "Poor memory",
-                "explanation": "Cognitive impairment."
-            },
-            {
-                "question": "Which subtype has delusions and hallucinations mainly?",
-                "options": [
-                "Paranoid",
-                "Catatonic",
-                "Disorganized",
-                "Residual"
-                ],
-                "answer": "Paranoid",
-                "explanation": "Dominated by positive symptoms."
-            },
-            {
-                "question": "Disorganized schizophrenia includes:",
-                "options": [
-                "Organized thinking",
-                "Incoherent speech",
-                "Normal behavior",
-                "Calm mood"
-                ],
-                "answer": "Incoherent speech",
-                "explanation": "Disorganized thought."
-            },
-            {
-                "question": "Catatonic schizophrenia:",
-                "options": [
-                "Hyperactive",
-                "Mutism and immobility",
-                "Talkative",
-                "Social"
-                ],
-                "answer": "Mutism and immobility",
-                "explanation": "Motor disturbance."
-            },
-            {
-                "question": "Residual schizophrenia:",
-                "options": [
-                "Severe positive symptoms",
-                "Mostly negative symptoms",
-                "No symptoms",
-                "Acute phase"
-                ],
-                "answer": "Mostly negative symptoms",
-                "explanation": "Residual phase."
-            },
-            {
-                "question": "DSM-5 requires:",
-                "options": [
-                "1 symptom",
-                "2 symptoms",
-                "5 symptoms",
-                "No criteria"
-                ],
-                "answer": "2 symptoms",
-                "explanation": "Diagnostic criteria."
-            },
-            {
-                "question": "Duration for diagnosis:",
-                "options": [
-                "1 week",
-                "1 month",
-                "6 months",
-                "1 year"
-                ],
-                "answer": "6 months",
-                "explanation": "Minimum duration."
-            },
-            {
-                "question": "Which must be present?",
-                "options": [
-                "Memory loss",
-                "Hallucination or delusion",
-                "Sleep",
-                "Appetite"
-                ],
-                "answer": "Hallucination or delusion",
-                "explanation": "Core requirement."
-            },
-            {
-                "question": "First-line treatment:",
-                "options": [
-                "Antibiotics",
-                "Antipsychotics",
-                "Insulin",
-                "NSAIDs"
-                ],
-                "answer": "Antipsychotics",
-                "explanation": "Primary treatment."
-            },
-            {
-                "question": "Antipsychotics act by:",
-                "options": [
-                "Increase dopamine",
-                "Reduce dopamine",
-                "Increase oxygen",
-                "Kill neurons"
-                ],
-                "answer": "Reduce dopamine",
-                "explanation": "Dopamine blockade."
-            },
-            {
-                "question": "CBT helps in:",
-                "options": [
-                "Surgery",
-                "Thought correction",
-                "Isolation",
-                "Sedation"
-                ],
-                "answer": "Thought correction",
-                "explanation": "Cognitive restructuring."
-            },
-            {
-                "question": "Family therapy goal:",
-                "options": [
-                "Isolation",
-                "Support and education",
-                "Surgery",
-                "Medication"
-                ],
-                "answer": "Support and education",
-                "explanation": "Improves outcomes."
-            },
-            {
-                "question": "Hospitalization indicated when:",
-                "options": [
-                "Stable",
-                "Risk to self or others",
-                "Mild symptoms",
-                "Normal"
-                ],
-                "answer": "Risk to self or others",
-                "explanation": "Safety concern."
-            },
-            {
-                "question": "Most important nursing assessment:",
-                "options": [
-                "Vision",
-                "Mental status",
-                "Hearing",
-                "Weight"
-                ],
-                "answer": "Mental status",
-                "explanation": "Assess cognition and perception."
-            },
-            {
-                "question": "Which indicates hallucination?",
-                "options": [
-                "Talking to self",
-                "Sleeping",
-                "Eating",
-                "Reading"
-                ],
-                "answer": "Talking to self",
-                "explanation": "Responding to internal stimuli."
-            },
-            {
-                "question": "Which is nursing diagnosis?",
-                "options": [
-                "Fever",
-                "Disturbed thought process",
-                "Infection",
-                "Pain"
-                ],
-                "answer": "Disturbed thought process",
-                "explanation": "Common diagnosis."
-            },
-            {
-                "question": "Risk in schizophrenia:",
-                "options": [
-                "Sleep",
-                "Violence",
-                "Hunger",
-                "Weight"
-                ],
-                "answer": "Violence",
-                "explanation": "Potential risk."
-            },
-            {
-                "question": "Which is priority?",
-                "options": [
-                "Comfort",
-                "Safety",
-                "Food",
-                "Sleep"
-                ],
-                "answer": "Safety",
-                "explanation": "Primary concern."
-            },
-            {
-                "question": "Best communication:",
-                "options": [
-                "Argue",
-                "Calm and simple",
-                "Ignore",
-                "Threaten"
-                ],
-                "answer": "Calm and simple",
-                "explanation": "Therapeutic communication."
-            },
-            {
-                "question": "If patient has delusion:",
-                "options": [
-                "Agree",
-                "Argue",
-                "Redirect to reality",
-                "Ignore"
-                ],
-                "answer": "Redirect to reality",
-                "explanation": "Avoid reinforcing delusion."
-            },
-            {
-                "question": "Which improves cognition?",
-                "options": [
-                "Isolation",
-                "Activities",
-                "Sleep only",
-                "Drugs only"
-                ],
-                "answer": "Activities",
-                "explanation": "Enhances function."
-            },
-            {
-                "question": "Which is side effect of antipsychotics?",
-                "options": [
-                "Fever",
-                "Extrapyramidal symptoms",
-                "Infection",
-                "Pain"
-                ],
-                "answer": "Extrapyramidal symptoms",
-                "explanation": "Common adverse effect."
-            },
-            {
-                "question": "Which is negative symptom?",
-                "options": [
-                "Delusion",
-                "Withdrawal",
-                "Hallucination",
-                "Speech"
-                ],
-                "answer": "Withdrawal",
-                "explanation": "Loss of function."
-            },
-            {
-                "question": "Which is early relapse sign?",
-                "options": [
-                "Social withdrawal",
-                "Eating",
-                "Sleeping",
-                "Talking"
-                ],
-                "answer": "Social withdrawal",
-                "explanation": "Early warning sign."
-            },
-            {
-                "question": "Which improves outcome?",
-                "options": [
-                "Late treatment",
-                "Early intervention",
-                "Isolation",
-                "Ignoring"
-                ],
-                "answer": "Early intervention",
-                "explanation": "Better prognosis."
-            },
-            {
-                "question": "Most important concept:",
-                "options": [
-                "Acute disease",
-                "Chronic disorder",
-                "Temporary",
-                "Mild"
-                ],
-                "answer": "Chronic disorder",
-                "explanation": "Long-term condition."
-            }
+            {"question":"Schizophrenia is best described as:","options":["Mood disorder","Chronic mental disorder affecting thinking and behavior","Temporary illness","Personality disorder"],"answer":"Chronic mental disorder affecting thinking and behavior"},
+            {"question":"Core feature of schizophrenia:","options":["Fever","Hallucinations and delusions","Pain","Paralysis"],"answer":"Hallucinations and delusions"},
+            {"question":"Typical age of onset:","options":["Childhood","Late adolescence","Old age","Infancy"],"answer":"Late adolescence"},
+            {"question":"Which gender has earlier onset?","options":["Female","Male","Equal","None"],"answer":"Male"},
+            {"question":"Prevalence worldwide:","options":["10%","1%","50%","Rare"],"answer":"1%"},
+            {"question":"Which neurotransmitter is involved?","options":["Dopamine","Sodium","Calcium","Oxygen"],"answer":"Dopamine"},
+            {"question":"Which is genetic risk factor?","options":["Stress","Family history","Diet","Sleep"],"answer":"Family history"},
+            {"question":"Which environmental risk factor?","options":["Study","Prenatal infection","Exercise","Reading"],"answer":"Prenatal infection"},
+            {"question":"Which drug triggers schizophrenia?","options":["Antibiotics","Cannabis","Vitamins","Insulin"],"answer":"Cannabis"},
+            {"question":"Which is positive symptom?","options":["Avolition","Hallucination","Flat affect","Withdrawal"],"answer":"Hallucination"},
+            {"question":"Delusion means:","options":["True belief","False fixed belief","Thought","Emotion"],"answer":"False fixed belief"},
+            {"question":"Hallucination means:","options":["Real stimulus","False perception","Memory","Idea"],"answer":"False perception"},
+            {"question":"Which is negative symptom?","options":["Hallucination","Delusion","Avolition","Disorganized speech"],"answer":"Avolition"},
+            {"question":"Flat affect means:","options":["Excess emotion","Reduced emotional expression","Anger","Happiness"],"answer":"Reduced emotional expression"},
+            {"question":"Which is cognitive symptom?","options":["Delusion","Poor memory","Hallucination","Aggression"],"answer":"Poor memory"},
+            {"question":"Which subtype has delusions and hallucinations mainly?","options":["Paranoid","Catatonic","Disorganized","Residual"],"answer":"Paranoid"},
+            {"question":"Disorganized schizophrenia includes:","options":["Organized thinking","Incoherent speech","Normal behavior","Calm mood"],"answer":"Incoherent speech"},
+            {"question":"Catatonic schizophrenia:","options":["Hyperactive","Mutism and immobility","Talkative","Social"],"answer":"Mutism and immobility"},
+            {"question":"Residual schizophrenia:","options":["Severe positive symptoms","Mostly negative symptoms","No symptoms","Acute phase"],"answer":"Mostly negative symptoms"},
+            {"question":"DSM-5 requires:","options":["1 symptom","2 symptoms","5 symptoms","No criteria"],"answer":"2 symptoms"},
+            {"question":"Duration for diagnosis:","options":["1 week","1 month","6 months","1 year"],"answer":"6 months"},
+            {"question":"Which must be present?","options":["Memory loss","Hallucination or delusion","Sleep","Appetite"],"answer":"Hallucination or delusion"},
+            {"question":"First-line treatment:","options":["Antibiotics","Antipsychotics","Insulin","NSAIDs"],"answer":"Antipsychotics"},
+            {"question":"Antipsychotics act by:","options":["Increase dopamine","Reduce dopamine","Increase oxygen","Kill neurons"],"answer":"Reduce dopamine"},
+            {"question":"CBT helps in:","options":["Surgery","Thought correction","Isolation","Sedation"],"answer":"Thought correction"},
+            {"question":"Family therapy goal:","options":["Isolation","Support and education","Surgery","Medication"],"answer":"Support and education"},
+            {"question":"Hospitalization indicated when:","options":["Stable","Risk to self or others","Mild symptoms","Normal"],"answer":"Risk to self or others"},
+            {"question":"Most important nursing assessment:","options":["Vision","Mental status","Hearing","Weight"],"answer":"Mental status"},
+            {"question":"Which indicates hallucination?","options":["Talking to self","Sleeping","Eating","Reading"],"answer":"Talking to self"},
+            {"question":"Which is nursing diagnosis?","options":["Fever","Disturbed thought process","Infection","Pain"],"answer":"Disturbed thought process"},
+            {"question":"Risk in schizophrenia:","options":["Sleep","Violence","Hunger","Weight"],"answer":"Violence"},
+            {"question":"Which is priority?","options":["Comfort","Safety","Food","Sleep"],"answer":"Safety"},
+            {"question":"Best communication:","options":["Argue","Calm and simple","Ignore","Threaten"],"answer":"Calm and simple"},
+            {"question":"If patient has delusion:","options":["Agree","Argue","Redirect to reality","Ignore"],"answer":"Redirect to reality"},
+            {"question":"Which improves cognition?","options":["Isolation","Activities","Sleep only","Drugs only"],"answer":"Activities"},
+            {"question":"Which is side effect of antipsychotics?","options":["Fever","Extrapyramidal symptoms","Infection","Pain"],"answer":"Extrapyramidal symptoms"},
+            {"question":"Which is negative symptom?","options":["Delusion","Withdrawal","Hallucination","Speech"],"answer":"Withdrawal"},
+            {"question":"Which is early relapse sign?","options":["Social withdrawal","Eating","Sleeping","Talking"],"answer":"Social withdrawal"},
+            {"question":"Which improves outcome?","options":["Late treatment","Early intervention","Isolation","Ignoring"],"answer":"Early intervention"},
+            {"question":"Most important concept:","options":["Acute disease","Chronic disorder","Temporary","Mild"],"answer":"Chronic disorder"}
+
         ],
         },
     "نفسية نظري": {
         "L1 Mental Health & Illness": [
+            {"question":"Standard 5C of the Psychiatric-Mental Health Nursing Standards of Practice focuses on 'Milieu Therapy.' What does this involve?","options":["Collecting comprehensive health data from the patient.","The prescription of pharmacological agents.","Providing and maintaining a safe and therapeutic environment.","Conducting individual or family psychotherapy sessions."],"answer":"Providing and maintaining a safe and therapeutic environment."},
+            {"question":"According to the nursing standards, which group of interventions is restricted only to Advanced Practice Registered Nurses (APRNs)?","options":["Prescriptive Authority and Psychotherapy","Assessment and Diagnosis","Health Teaching and Health Promotion","Coordination of Care and Milieu Therapy"],"answer":"Prescriptive Authority and Psychotherapy"},
+            {"question":"The American Nurses Association (ANA) defines psychiatric-mental health nursing as a specialized area that uses self as its 'art' and which of the following as its 'science'?","options":["Biological chemistry","Sociological statistics","Neurological anatomy","Theories of human behavior"],"answer":"Theories of human behavior"},
+            {"question":"Which nutritional deficiencies are specifically mentioned as possible causes of mental illness symptoms?","options":["Vitamin K and Folic Acid","Vitamins A, D, and E","Vitamins B1, B3, B6, and C","Iron and Zinc"],"answer":"Vitamins B1, B3, B6, and C"},
+            {"question":"According to the DSM-IV-TR system, on which axis would a clinician record a patient's personality disorders or mental retardation?","options":["Axis IV","Axis III","Axis I","Axis II"],"answer":"Axis II"},
+            {"question":"In the DSM-IV-TR diagnostic system, Axis V is used to report:","options":["Primary psychiatric clinical disorders","Current general medical conditions","A Global Assessment of Functioning (GAF) score","Environmental problems affecting the patient"],"answer":"A Global Assessment of Functioning (GAF) score"},
+            {"question":"A mentally healthy individual is characterized by the ability to:","options":["Distinguish between the real world and fantasy or dreams","Function without the need for sleep or rest during times of high productivity","Avoid all stressful situations to maintain emotional stability","Suppress all negative feelings to present an optimistic outlook at all times"],"answer":"Distinguish between the real world and fantasy or dreams"},
+            {"question":"How does the American Psychiatric Association (APA) primarily define a mental disorder?","options":["A physical brain injury that results in a permanent loss of cognitive memory","A clinically significant behavioral or psychological syndrome associated with present distress or disability","A temporary state of sadness following a significant life loss","Any behavior that deviates from the average cultural norms of a specific society"],"answer":"A clinically significant behavioral or psychological syndrome associated with present distress or disability"},
+            {"question":"Which of the following is a potential sign of mental illness related to perceptual distortions?","options":["Grandiose ideas","Apathy","Hallucinations","Delusions"],"answer":"Hallucinations"},
+            {"question":"According to the World Health Organization (WHO), how is 'health' fundamentally defined?","options":["The successful achievement of personal goals and financial stability","A state of complete physical, mental, and social well-being","The complete absence of physical ailments and chronic diseases","The ability of an individual to conform to all societal standards without conflict"],"answer":"A state of complete physical, mental, and social well-being"},
+            {"question":"Which component of mental health involves an individual's progress toward self-realization and the maximization of their capacities?","options":["Self-governance","Growth orientation","Mastery of the environment","Reality orientation"],"answer":"Growth orientation"},
+            {"question":"Which of the following is identified in the text as one of the three primary factors influencing mental health?","options":["Technological proficiency","Nurturing during childhood","Current political climate","Strict adherence to religious laws"],"answer":"Nurturing during childhood"},
+
+            {"question":"According to the World Health Organization (WHO), how is health definitively characterized?","options":["The successful management of chronic disease symptoms.","A state of complete physical, mental, and social well-being.","The presence of physical fitness and the absence of mental disorders.","The ability of an individual to function independently within their society."],"answer":"A state of complete physical, mental, and social well-being."},
+            {"question":"Which component of mental health involves the progression toward self-realization and the maximization of one's capacities?","options":["Growth orientation","Mastery of the environment","Self-governance","Reality orientation"],"answer":"Growth orientation"},
+            {"question":"A mentally healthy individual is described as being 'optimistic.' How does this characteristic manifest in their problem-solving abilities?","options":["Reliance on others to provide solutions to avoid personal failure.","The ability to recognize limitations while remaining focused on potential.","A total denial of negative outcomes or personal failings.","The belief that all problems will resolve themselves without intervention."],"answer":"The ability to recognize limitations while remaining focused on potential."},
+            {"question":"When diagnosing an individual with a mental disorder using Axis II of the DSM-IV-TR, which of the following would a clinician primarily record?","options":["Psychosocial stressors such as unemployment or housing issues.","Major clinical syndromes such as schizophrenia or depression.","Current general medical conditions like diabetes or heart disease.","Personality disorders and mental retardation."],"answer":"Personality disorders and mental retardation."},
+            {"question":"The American Nurses Association (ANA) defines psychiatric-mental health nursing as the 'purposeful use of self.' What does this 'art' aspect of nursing primarily involve?","options":["Designing research studies to validate nursing interventions.","The therapeutic use of the nurse-patient relationship to promote healing.","Employing theories of human behavior as the primary scientific framework.","Adhering strictly to standardized pharmacological protocols."],"answer":"The therapeutic use of the nurse-patient relationship to promote healing."},
+            {"question":"Which DSM-IV-TR axis utilizes a Global Assessment of Functioning (GAF) scale ranging from 0 to 100?","options":["Axis III","Axis V","Axis I","Axis IV"],"answer":"Axis V"},
+            {"question":"In the context of mental health components, what does 'Self-governance' specifically entail for an individual?","options":["The ability to influence the external environment effectively.","High levels of self-esteem based on talent recognition.","The demonstration of autonomy in decision-making.","Distinguishing the real world from dreams or fantasies."],"answer":"The demonstration of autonomy in decision-making."},
+            {"question":"Which of the following nutritional deficiencies are explicitly linked in the material to the potential cause of mental illness?","options":["Protein and Carbohydrate imbalances.","Vitamin A, E, and K.","Vitamin D, Iron, and Potassium.","Vitamins B1, B3, B6, and C, along with calcium and magnesium."],"answer":"Vitamins B1, B3, B6, and C, along with calcium and magnesium."},
+            {"question":"What is the primary purpose of 'Standard 5C: Milieu Therapy' within psychiatric nursing practice?","options":["To provide and maintain a safe and therapeutic environment for the patient.","To oversee the administration of psychotropic medications.","To collect comprehensive health data during initial assessment.","To perform individual or family psychotherapy sessions."],"answer":"To provide and maintain a safe and therapeutic environment for the patient."},
+            {"question":"How does the American Psychiatric Association (APA) characterize a 'mental disorder' regarding its impact on the individual?","options":["As a purely physiological brain chemical imbalance.","As a temporary emotional disturbance caused by environmental stress.","As a syndrome associated with present distress or significant impairment in functioning.","As any behavior that deviates from standard cultural norms."],"answer":"As a syndrome associated with present distress or significant impairment in functioning."},
+            {"question":"An individual experiences 'hallucinations.' According to the provided signs of mental illness, how are these defined?","options":["Perceptual distortions arising from any of the senses, such as hearing voices.","A pattern of confused thinking, such as having grandiose ideas.","False beliefs that are firmly maintained despite contradictory evidence.","The inability to distinguish between the real world and dreams."],"answer":"Perceptual distortions arising from any of the senses, such as hearing voices."},
+            {"question":"Which of the following standards is considered an 'Advanced Practice' intervention that can only be performed by a psychiatric–mental health advanced practice registered nurse?","options":["Psychotherapy","Coordination of Care","Outcome Identification","Health Teaching and Health Promotion"],"answer":"Psychotherapy"},
+            {"question":"The source material mentions that 'Self-control is the great law of mental health.' This principle is most closely associated with which practice to increase mental health?","options":["Self-mastery and being aware.","Obtaining sunshine and fresh air.","Fasting and eating raw fruits.","Resting the brain by closing the eyes."],"answer":"Self-mastery and being aware."},
+            {"question":"In the DSM-IV-TR Axis system, where would a nurse find information regarding a patient's economic or legal problems?","options":["Axis IV","Axis I","Axis II","Axis III"],"answer":"Axis IV"},
+            {"question":"A mental health professional is evaluating 'Standard 10: Collegiality.' What behavior is expected of the nurse under this standard?","options":["Enhancing the quality and effectiveness of nursing practice.","Integrating ethical provisions into all areas of practice.","Interacting with and contributing to the professional development of peers.","Ensuring the patient's family is involved in the care plan."],"answer":"Interacting with and contributing to the professional development of peers."},
+            {"question":"What does 'Reality orientation' allow a mentally healthy person to accomplish?","options":["Developing a positive self-concept.","Facing the uncertainty of living.","Distinguishing fact from fantasy or dreams.","Maximizing one's capacities."],"answer":"Distinguishing fact from fantasy or dreams."},
+            {"question":"According to the factors influencing mental health, which category includes 'financial security' and 'successful marriage'?","options":["Nurturing during childhood","Life circumstances","Inherited characteristics","Self-governance"],"answer":"Life circumstances"},
+            {"question":"Which specific sign is categorized as a symptom of 'confused thinking' in a person with mental illness?","options":["Numerous unexplained physical ailments","Abnormal self-center","Grandiose ideas","Prolonged apathy"],"answer":"Grandiose ideas"},
+            {"question":"Standard 13 of Professional Performance requires the psychiatric-mental health nurse to do what?","options":["Provide leadership in the profession.","Consider the cost of nursing services.","Integrate research findings into practice.","Attain knowledge that reflects current practice."],"answer":"Attain knowledge that reflects current practice."},
+            {"question":"A person is able to 'benefit from rest and sleep.' Under which section of the lecture does this characteristic belong?","options":["General characteristics of a mentally healthy individual.","Practices that increase mental health.","Standard 5: Implementation.","Components of mental health."],"answer":"General characteristics of a mentally healthy individual."},
+            {"question":"What diagnostic distinction is made regarding Axis I of the DSM-IV-TR?","options":["It is exclusively for physical ailments that impact mental health.","It includes all major psychiatric disorders except personality disorders and mental retardation.","It records the Global Assessment of Functioning (GAF).","It focuses solely on social and environmental problems."],"answer":"It includes all major psychiatric disorders except personality disorders and mental retardation."},
+            {"question":"How does 'Standard 2: Diagnosis' differ from 'Standard 1: Assessment' in psychiatric nursing?","options":["Standard 2 focuses on evaluating progress.","Standard 2 involves analyzing the data to determine problems, whereas Standard 1 is about data collection.","Standard 2 is about identifying outcomes, whereas Standard 1 is about planning.","Standard 2 is for advanced practice nurses only."],"answer":"Standard 2 involves analyzing the data to determine problems, whereas Standard 1 is about data collection."},
+            {"question":"The lecture notes that 'no one can take advantage of you without your permission.' This sentiment is provided as advice to improve which condition?","options":["Standard 14: Resource Utilization.","Physical malnutrition.","Feeling nervous, depressed, or neurotic.","Inherited genetic traits."],"answer":"Feeling nervous, depressed, or neurotic."},
+            {"question":"What specific somatic (physical) symptom is mentioned as a potential sign of mental illness?","options":["Enhanced coordination and reflexes.","Numerous, unexplained physical ailments.","Increased physical energy and stamina.","Improvement in personal hygiene standards."],"answer":"Numerous, unexplained physical ailments."},
+            {"question":"Which component of mental health is built specifically upon 'self-knowledge and awareness of talents, abilities, and limitations'?","options":["Self-esteem","Self-governance","Reality orientation","Mastery of the environment"],"answer":"Self-esteem"},
+
             { "question": "According to WHO, health is:", "options": ["Absence of disease", "Physical well-being only", "Complete physical, mental, and social well-being", "Psychological stability only"], "answer": "Complete physical, mental, and social well-being", "explanation": "Health includes physical, mental, and social aspects, not just absence of disease." },
             { "question": "Mental health includes:", "options": ["Physical strength", "Emotional, psychological, and social wellness", "Only behavior", "Only mood"], "answer": "Emotional, psychological, and social wellness", "explanation": "Mental health is multidimensional." },
             { "question": "Which reflects good mental health?", "options": ["Poor relationships", "Effective coping", "Isolation", "Dependency"], "answer": "Effective coping", "explanation": "Healthy coping indicates good mental health." },
@@ -5188,6 +638,35 @@ quizzes = {
 
         ],
         "L2 Aasigns & Symptoms true": [
+            {"question":"Which term describes a clinician's objective findings and observations during a psychiatric assessment?","options":["Signs","Symptoms","Insights","Syndromes"],"answer":"Signs"},
+            {"question":"A patient interprets the phrase 'being on the fence' literally, unable to understand the metaphor for indecision. Which type of thinking is this patient demonstrating?","options":["Concrete thinking","Abstract thinking","Magical thinking","Autistic thinking"],"answer":"Concrete thinking"},
+            {"question":"A patient suddenly stops speaking in the middle of a sentence and, after a pause, claims to have no recall of what they were saying. Which disorder of thought is being described?","options":["Blocking","Thought withdrawal","Tangentiality","Poverty of speech"],"answer":"Blocking"},
+            {"question":"Which formal thought disorder is characterized by the creation of new words, often by combining syllables of other words for idiosyncratic reasons?","options":["Word salad","Neologism","Verbigeration","Clang association"],"answer":"Neologism"},
+            {"question":"A patient provides an excessive amount of detail and takes a circuitous route in speech but eventually reaches the desired point. This is known as:","options":["Tangentiality","Incoherence","Flight of ideas","Circumstantiality"],"answer":"Circumstantiality"},
+            {"question":"Which of the following describes a 'mood-congruent' delusion in a severely depressed patient?","options":["A belief that they are responsible for the destruction of the world.","A belief that people on the TV are sending them secret coded messages.","A belief that they have won a grand international award.","A belief that a famous celebrity is in love with them."],"answer":"A belief that they are responsible for the destruction of the world."},
+            {"question":"A patient expresses the false belief that their internal organs are rotting or that their brain is melting. This is classified as a:","options":["Erotic delusion","Somatic delusion","Delusion of reference","Nihilistic delusion"],"answer":"Nihilistic delusion"},
+            {"question":"How is a 'delusion of reference' defined according to the provided material?","options":["The belief that a spouse is being unfaithful without evidence.","The belief that one's thoughts are being broadcast into the air for others to hear.","The belief that external events or the behavior of others has a particular and unusual significance for the self.","The belief that one is being harassed or cheated by others."],"answer":"The belief that external events or the behavior of others has a particular and unusual significance for the self."},
+            {"question":"Which term refers to the pathological repetition of the words or phrases of one person by another?","options":["Perseveration","Verbigeration","Echopraxia","Echolalia"],"answer":"Echolalia"},
+            {"question":"What is the primary difference between an obsession and a compulsion?","options":["Obsessions are irresistible thoughts or feelings, whereas compulsions are the pathological needs to act on impulses.","Obsessions always involve fear of germs, while compulsions always involve washing hands.","Obsessions are based on external reality, while compulsions are based on delusions.","Obsessions are physical acts, while compulsions are mental images."],"answer":"Obsessions are irresistible thoughts or feelings, whereas compulsions are the pathological needs to act on impulses."},
+            {"question":"A patient experiences a persistent, irrational dread of open spaces. Which specific phobia is this?","options":["Xenophobia","Agoraphobia","Acrophobia","Claustrophobia"],"answer":"Agoraphobia"},
+            {"question":"Which type of hallucination is considered the most common in psychiatric disorders?","options":["Visual","Olfactory","Tactile","Auditory"],"answer":"Auditory"},
+            {"question":"What distinguishes an 'illusion' from a 'hallucination'?","options":["Illusions are only found in healthy people, and hallucinations are only found in sick people.","An illusion is a misperception of a real external stimulus, while a hallucination occurs without any external stimulus.","An illusion is always visual, whereas a hallucination can involve any sense.","A hallucination can be corrected by logic, but an illusion cannot."],"answer":"An illusion is a misperception of a real external stimulus, while a hallucination occurs without any external stimulus."},
+            {"question":"A patient is able to recall events from many years ago but cannot remember what happened yesterday. This is an example of:","options":["Paramnesia","Anterograde amnesia","Retrograde amnesia","Hypermnesia"],"answer":"Anterograde amnesia"},
+            {"question":"Which phenomenon involves an unconscious filling of gaps in memory with imagined or untrue experiences that the patient believes to be facts?","options":["Confabulation","Jamais vu","Déjà vu","Hypermnesia"],"answer":"Confabulation"},
+            {"question":"What is the difference between 'intellectual insight' and 'true insight'?","options":["Intellectual insight allows the patient to master the situation, while true insight does not.","There is no difference; they are synonymous terms in psychiatric nursing.","Intellectual insight involves objective understanding without the ability to apply it, whereas true insight includes motivation to master the situation.","True insight is only found in doctors, while intellectual insight is found in patients."],"answer":"Intellectual insight involves objective understanding without the ability to apply it, whereas true insight includes motivation to master the situation."},
+            {"question":"A disturbance in affect where there is a severe reduction in the intensity of externalized feeling tone is known as:","options":["Labile affect","Inappropriate affect","Blunted affect","Flat affect"],"answer":"Blunted affect"},
+            {"question":"Which term describes a loss of interest in and withdrawal from all regular and pleasurable activities?","options":["Anhedonia","Euthymia","Ambivalence","Dysphoria"],"answer":"Anhedonia"},
+            {"question":"In motor behavior, 'waxy flexibility' is a specific form of which broader sign?","options":["Catatonia","Stereotypy","Akathisia","Echopraxia"],"answer":"Catatonia"},
+            {"question":"A patient experiences a subjective feeling of muscular tension and restlessness, often as a side effect of antipsychotic medication. This is called:","options":["Tic","Cataplexy","Akathisia","Ataxia"],"answer":"Akathisia"},
+            {"question":"What is the term for a state of awareness where perception is modified by one's own emotions and thoughts?","options":["Disorientation","Sensorium","Stupor","Apperception"],"answer":"Apperception"},
+            {"question":"A patient believes that people on TV are talking directly to them. This is an example of:","options":["Delusion of grandeur","Delusion of reference","Illusion","Thought insertion"],"answer":"Delusion of reference"},
+            {"question":"The coexistense of two opposing impulses toward the same thing in the same person at the same time is called:","options":["Apathy","Agitation","Ambivalence","Anhedonia"],"answer":"Ambivalence"},
+            {"question":"Which of the following is an example of 'Echopraxia'?","options":["A patient keeps their arm raised in the air after the nurse moves it there.","A patient mimics the exact hand gestures and movements of the doctor.","A patient repeats every word the nurse says.","A patient repeatedly pulls their hair in a fixed pattern."],"answer":"A patient mimics the exact hand gestures and movements of the doctor."},
+            {"question":"In the context of thought stream, how is 'Poverty of thinking' defined?","options":["Rapid, continuous verbalization.","Thoughts that are not understandable and lack logical connection.","Creation of new words for idiosyncratic reasons.","Speech that is markedly reduced in quantity."],"answer":"Speech that is markedly reduced in quantity."},
+            {"question":"Which term refers to the inability to concentrate attention, where attention is easily drawn to unimportant external stimuli?","options":["Selective inattention","Distractibility","Clouding of consciousness","Hyper vigilance"],"answer":"Distractibility"},
+            {"question":"Which memory disturbance involves a situation that is familiar but is incorrectly experienced as novel or new?","options":["Jamais vu","Déjà vu","Amnesia","Paramnesia"],"answer":"Jamais vu"},
+            {"question":"Which of the following is characterized by an incoherent mixture of words and phrases?","options":["Verbigeration","Circumstantiality","Word salad","Clang association"],"answer":"Word salad"},
+
             { "question": "Signs are:", "options": ["Patient complaints", "Objective findings observed by clinician", "Emotional feelings", "Thoughts"], "answer": "Objective findings observed by clinician", "explanation": "Signs are objective and observable by the clinician." },
             { "question": "Symptoms are:", "options": ["Objective findings", "Lab results", "Subjective experiences", "Diagnosis"], "answer": "Subjective experiences", "explanation": "Symptoms are reported by the patient." },
             { "question": "Syndrome is:", "options": ["One symptom", "One sign", "Group of signs and symptoms", "Disease"], "answer": "Group of signs and symptoms", "explanation": "Combination of clinical features." },
@@ -5231,6 +710,33 @@ quizzes = {
 
         ],
         "L3 General Principl": [
+            {"question":"Which of the following describes the 'active process' of acceptance in psychiatric nursing?","options":["Agreeing with the patient's unrealistic ideas to avoid conflict.","Conveying respect for the patient as an individual with worth and dignity.","Passively tolerating a patient's behavior without intervention.","Moralizing the patient's behavior to help them improve."],"answer":"Conveying respect for the patient as an individual with worth and dignity."},
+            {"question":"When applying a non-judgmental approach, how should a nurse categorize a patient's behavior?","options":["As either 'right' or 'wrong' based on clinical standards.","As 'good' only when the patient follows the nursing plan perfectly.","As behavior that is neither good nor bad, avoiding all moral judgment.","As 'bad' behavior if it violates social standards of the ward."],"answer":"As behavior that is neither good nor bad, avoiding all moral judgment."},
+            {"question":"What does a 'non-punitive' approach imply when a patient's behavior fails to meet social standards?","options":["Direct punishment is avoided, but indirect social isolation is encouraged.","The nurse should express personal disappointment to show the behavior was wrong.","The patient must be corrected immediately to prevent recurrence.","The behavior should be ignored rather than punished directly or indirectly."],"answer":"The behavior should be ignored rather than punished directly or indirectly."},
+            {"question":"According to the principles of psychiatric nursing, where is the most effective place to demonstrate interest in a patient?","options":["During staff conferences where clinical problems are discussed.","By studying textbooks about the patient's specific diagnosis.","In the nursing office while updating the patient's chart.","In the presence of the patient through time spent together."],"answer":"In the presence of the patient through time spent together."},
+            {"question":"What is a primary requirement for 'effective active listening' in a therapeutic setting?","options":["Maintaining total silence throughout the entire interaction.","Concentrating on the person talking rather than on one's own response.","Preparing a clinical response while the patient is still speaking.","Interrupting to clarify medical terminology as the patient talks."],"answer":"Concentrating on the person talking rather than on one's own response."},
+            {"question":"How should a nurse handle a patient's unrealistic ideas or false perceptions?","options":["Attempt to persuade the patient that their ideas are incorrect.","Agree with the patient to maintain a positive relationship.","Simply do not agree with the ideas without rejecting the patient.","Ignore the patient until they speak about reality-based topics."],"answer":"Simply do not agree with the ideas without rejecting the patient."},
+            {"question":"Which method is specifically suggested to call reality to a patient's attention?","options":["Providing the patient with medical textbooks about their condition.","Using logical reasoning to debunk the patient's delusions.","Engaging the patient in reality-based activities.","Restricting the patient to a quiet room to think logically."],"answer":"Engaging the patient in reality-based activities."},
+            {"question":"When a nurse interprets a patient's behavior, why is seeking validation from the patient necessary?","options":["To ensure the patient agrees with the clinical diagnosis.","Because only the patient knows how an experience truly looks to them.","To document that the nurse attempted to communicate.","To force the patient to admit they were wrong."],"answer":"Because only the patient knows how an experience truly looks to them."},
+            {"question":"What is the primary benefit of maintaining a consistent routine in a psychiatric hospital?","options":["It prevents patients from becoming too friendly with each other.","It ensures the staff's schedule is easy to manage.","It helps the patient by reducing the number of decisions they must make.","It allows the nurse to avoid interacting with the patient frequently."],"answer":"It helps the patient by reducing the number of decisions they must make."},
+            {"question":"Which of these is considered 'True Reassurance' according to psychiatric nursing principles?","options":["Predicting that the patient will definitely get well soon.","Being aware of and accepting how the patient really feels.","Informing the patient that everything will end well eventually.","Telling the patient their fears are groundless."],"answer":"Being aware of and accepting how the patient really feels."},
+            {"question":"Why should topics like family, job, and home be avoided during the exploratory phase of a nurse-patient relationship?","options":["They are irrelevant to the patient's psychiatric care.","Nurses should only focus on medical symptoms in the beginning.","These topics often increase patient anxiety early on.","Patients are usually bored by these everyday subjects."],"answer":"These topics often increase patient anxiety early on."},
+            {"question":"The text states that 'Reason is not an effective weapon in changing patient behavior.' What is the ideal alternative focus?","options":["Strict adherence to hospital rules and regulations.","Developing emotional security and understanding of feelings.","Applying medical terminology to explain the patient's problems.","Intellectual logic and cognitive restructuring."],"answer":"Developing emotional security and understanding of feelings."},
+            {"question":"When can a nurse effectively interpret a patient's behavior to them?","options":["During the initial intake interview to set a clear baseline.","Only when the patient is secure enough to tolerate the interpretation.","Immediately after the behavior is first observed.","As soon as the nurse understands the motivation behind it."],"answer":"Only when the patient is secure enough to tolerate the interpretation."},
+            {"question":"According to the principle of self-understanding, what should a nurse do if they feel angered by a patient's behavior?","options":["Report the patient to a supervisor for disciplinary action.","Discuss the reaction frankly with the patient and provide the reason.","Suppress the anger to maintain a professional facade.","Avoid the patient until the feeling of anger passes."],"answer":"Discuss the reaction frankly with the patient and provide the reason."},
+            {"question":"Which of the following is a component of 'sensory stimulation' in a psychiatric environment?","options":["Using psychiatric terminology to stimulate intellectual curiosity.","Frequent application of hearing, vision, and touch within the environment.","Limiting the number of people the patient interacts with daily.","Encouraging the patient to finish their daily grooming."],"answer":"Frequent application of hearing, vision, and touch within the environment."},
+            {"question":"Consistency in a psychiatric ward must operate in several areas. Which of the following is NOT specifically mentioned?","options":["Ward routine.","Attitudes of the staff.","The patient's personal wardrobe choices.","Defining limitations placed on the patient."],"answer":"The patient's personal wardrobe choices."},
+            {"question":"What is the importance of a nurse seeing the 'potential for growth' in every patient?","options":["It guarantees that the patient will eventually recover fully.","It helps the nurse ignore the patient's current behavior disorders.","Nurse expectations directly influence the patient's behavior and resources.","It allows the nurse to set higher standards that the patient must meet."],"answer":"Nurse expectations directly influence the patient's behavior and resources."},
+            {"question":"True or False: In accepting a patient, the nurse should center the conversation on the nurse's own interests to model healthy behavior.","options":["True","False"],"answer":"False"},
+            {"question":"True or False: Failure is a factor that causes anxiety in persons who are already insecure.","options":["True","False"],"answer":"True"},
+            {"question":"When a nurse is studying for increased understanding of a behavior pattern, this is described as:","options":["A way to avoid direct contact with the patient.","The final stage of showing interest in a patient.","The first step in showing interest in the patient.","Unnecessary if the nurse already has years of experience."],"answer":"The first step in showing interest in the patient."},
+            {"question":"Which action helps a nurse achieve 'self-understanding'?","options":["Relying solely on clinical intuition without analyzing behavior.","Exchanging experiences frankly with classmates.","Avoiding group conferences to focus on individual reflection.","Ignoring one's own reactions to maintain neutrality."],"answer":"Exchanging experiences frankly with classmates."},
+            {"question":"In the context of reality orientation, what must a nurse provide the patient with regarding their environment?","options":["Orientation with persons, place, and time.","A strict schedule of intellectual exercises.","Consistent praise for every reality-based statement.","Detailed medical records of their treatment plan."],"answer":"Orientation with persons, place, and time."},
+            {"question":"According to the principles, why should a nurse observe, record, and report 'everything' the patient says and does?","options":["Because that information is important in planning care.","To provide evidence for legal termination of treatment.","To identify which social standards the patient is breaking.","To keep the patient busy with constant monitoring."],"answer":"Because that information is important in planning care."},
+            {"question":"A relationship based on mutual respect and trust will be better able to tolerate which of the following?","options":["The use of punitive measures for expression of feelings.","Constant moral judgment from the nursing staff.","A total lack of consistency in ward routine.","The stresses of termination of the relationship."],"answer":"The stresses of termination of the relationship."},
+            {"question":"Why is consistency between a nurse's feelings/thoughts and her behavior important?","options":["It makes the nurse more effective in the relationship.","It is the only way to avoid using psychiatric terminology.","It ensures the nurse always agrees with the patient's ideas.","It prevents the nurse from feeling any negative emotions."],"answer":"It makes the nurse more effective in the relationship."},
+            {"question":"True or False: Interest in a patient can be shown by being aware of their likes and dislikes.","options":["True","False"],"answer":"True"},
+
             { "question": "Acceptance in psychiatric nursing means:", "options": ["Ignoring patient", "Respecting patient as individual", "Punishing behavior", "Controlling patient"], "answer": "Respecting patient as individual", "explanation": "Acceptance involves respecting the patient’s dignity and individuality." },
             { "question": "Acceptance is expressed by:", "options": ["Judgment", "Punishment", "Non-judgmental approach", "Ignoring patient"], "answer": "Non-judgmental approach", "explanation": "Avoid judging the patient." },
             { "question": "Non-judgmental approach means:", "options": ["Evaluate behavior morally", "Avoid judging behavior", "Punish patient", "Ignore behavior"], "answer": "Avoid judging behavior", "explanation": "Maintain objectivity." },
@@ -5313,7 +819,37 @@ quizzes = {
             { "question": "Therapeutic relationship requires:", "options": ["Skill", "Luck", "Random", "Isolation"], "answer": "Skill", "explanation": "Professional competence." },
             { "question": "Therapeutic relationship is:", "options": ["Casual", "Professional", "Social", "Random"], "answer": "Professional", "explanation": "Maintains boundaries." },
             { "question": "Which phase includes data collection?", "options": ["Termination", "Initiating", "Discharge", "Isolation"], "answer": "Initiating", "explanation": "Assessment begins early." },
-            { "question": "Final goal of therapeutic relationship:", "options": ["Dependence", "Independence", "Isolation", "Fear"], "answer": "Independence", "explanation": "Patient autonomy." }
+            { "question": "Final goal of therapeutic relationship:", "options": ["Dependence", "Independence", "Isolation", "Fear"], "answer": "Independence", "explanation": "Patient autonomy." },
+            {"question":"Which characteristic is unique to a therapeutic relationship compared to a social one regarding the termination of the relationship?","options":["A commitment to remain until the problem has been worked through.","The freedom to leave any situation that becomes uncomfortable.","A lack of any established time limit for the interaction.","The mutual satisfaction of needs for both participants involved."],"answer":"A commitment to remain until the problem has been worked through."},
+            {"question":"In the context of the therapeutic relationship, how is 'genuineness' specifically defined?","options":["The consistent application of physical skills to promote confidence.","The state of congruence between what the nurse feels and what they express.","A special feeling based on mutual acceptance and understanding.","The nurse's ability to separate their own values from the patient's situation."],"answer":"The state of congruence between what the nurse feels and what they express."},
+            {"question":"During the pre-interaction phase, what is the primary focus of the nurse's internal tasks?","options":["Gathering data directly from the patient through active listening.","Exploring personal fears, fantasies, and self-concept.","Establishing a formal contract for behavioral goals.","Evaluating the patient's progress toward achieving goals."],"answer":"Exploring personal fears, fantasies, and self-concept."},
+            {"question":"What behavior might a patient exhibit during the initiating phase to prevent the development of the therapeutic relationship?","options":["Testing behavior, such as demonstrating aggression.","Resistance to acknowledging their personal problems.","Regression to childlike behaviors and dependency.","Transference of feelings from past figures onto the nurse."],"answer":"Testing behavior, such as demonstrating aggression."},
+            {"question":"What is the core therapeutic task to be accomplished during the working phase?","options":["Reviewing general goals before meeting the patient.","Defining the frequency and goals of the relationship meetings.","Assisting the patient in gaining insight and perceiving reality.","Establishing a plan of action for adaptive coping in the future."],"answer":"Assisting the patient in gaining insight and perceiving reality."},
+            {"question":"Which problem is most likely to arise during the termination phase of the therapeutic relationship?","options":["The nurse focuses too heavily on their own personal needs.","Feeling of separation and fear of inability to adjust to normal life.","The patient attempts to remain unaware of their problems.","A failure to establish a contract for goal achievement."],"answer":"Feeling of separation and fear of inability to adjust to normal life."},
+            {"question":"When is it appropriate for a nurse to set limits on a patient's behavior?","options":["When the patient is experiencing mild resistance during the working phase.","During the pre-interaction phase to establish dominance.","When the patient expresses a need for empathy and rapport.","When the patient acts out in a way that is destructive to themselves or others."],"answer":"When the patient acts out in a way that is destructive to themselves or others."},
+            {"question":"Which element of the therapeutic relationship involves the nurse seeing the situation as it appears to the patient while maintaining their own perspective?","options":["Respect","Empathy","Rapport","Acceptance"],"answer":"Empathy"},
+            {"question":"Which action should the nurse take to specifically overcome the problems of the termination phase?","options":["Gradually reduce the frequency of visits to encourage socialization with others.","Wait until the last day of treatment to mention the relationship is ending.","Increase the intensity of visits to provide extra support.","Encourage the patient to maintain total dependency on the staff after discharge."],"answer":"Gradually reduce the frequency of visits to encourage socialization with others."},
+            {"question":"In the initiating phase, what constitutes the 'Contract' between nurse and patient?","options":["An agreement to accomplish a clearly stated goal, including identifying problems.","A list of the patient's past traumas and medical history.","A document outlining the nurse's personal assets and limitations.","A schedule for the patient's physical therapy and medication routine."],"answer":"An agreement to accomplish a clearly stated goal, including identifying problems."},
+            {"question":"How does competency in physical skills specifically influence the therapeutic relationship?","options":["It reduces the need for the nurse to explore their own fears.","It promotes trust by providing the patient with confidence in the nurse.","It directly increases the nurse's empathy.","It serves as the primary tool for behavior modification."],"answer":"It promotes trust by providing the patient with confidence in the nurse."},
+            {"question":"In a therapeutic relationship, the focus is exclusively on whose needs?","options":["The hospital staff and institutional requirements.","The nurse's need for professional self-realization.","The patient's needs, excluding the nurse's needs.","Both the nurse and the patient equally."],"answer":"The patient's needs, excluding the nurse's needs."},
+            {"question":"What is identified as a major tool of psychotherapy within the nursing context?","options":["Frequent hospital discharge and readmission cycles.","The therapeutic relationship itself.","The nurse's ability to minimize their personal assets.","The use of physical force when necessary."],"answer":"The therapeutic relationship itself."},
+            {"question":"During the working phase, what is the purpose of using a problem-solving model?","options":["To finalize the termination plan after goals are met.","To work toward achievement of established goals.","To prevent the nurse from having to deal with the patient's feelings.","To identify the patient's problems for the first time."],"answer":"To work toward achievement of established goals."},
+            {"question":"Which therapeutic manner technique involves allowing the patient to test their own abilities within safe limits?","options":["Setting limits","Expressing feelings","Offering support","Behavior transference"],"answer":"Offering support"},
+            {"question":"What role does 'respect' play in the therapeutic relationship?","options":["It requires the nurse to agree with all the patient's behaviors.","It implies the dignity and worth of the individual regardless of behavior.","It is based solely on the nurse's personal opinion of the patient.","It is a feeling of rapport that only occurs at the end of the therapy."],"answer":"It implies the dignity and worth of the individual regardless of behavior."},
+            {"question":"A nurse who is open and honest about their feelings during an interaction is demonstrating:","options":["Genuineness","Efficiency","Testing behavior","Acceptance"],"answer":"Genuineness"},
+            {"question":"Which of these is a therapeutic task aimed at improving the patient's verbal communication during the working phase?","options":["Increasing the patient's ability to verbally describe their feelings.","Limiting the amount of time spent with the patient.","Providing information about hospital facilities.","Assisting the patient to recognize areas of discomfort and distress."],"answer":"Increasing the patient's ability to verbally describe their feelings."},
+            {"question":"The 'Pre-interaction phase' occurs at what point in the nurse-patient relationship?","options":["During the first data gathering session.","Immediately after the first interview.","When the nurse is preparing the discharge summary.","Before the nurse has any contact with the patient."],"answer":"Before the nurse has any contact with the patient."},
+            {"question":"What is the primary significance of the 'Testing behavior' seen in the initiating phase?","options":["It indicates the patient is ready to move to the working phase.","It proves the nurse has failed to establish a proper contract.","It is a method used by the patient to challenge the nurse's consistency and trust.","It is the nurse's way of evaluating the patient's physical skills."],"answer":"It is a method used by the patient to challenge the nurse's consistency and trust."},
+            {"question":"Which component of successful communication helps the nurse adjust to the patient's changing needs?","options":["Appropriateness","Efficiency","Flexibility","Feedback"],"answer":"Flexibility"},
+            {"question":"If a nurse tries to keep a patient helpless and dependent during the final stage of therapy, they are experiencing a problem in which phase?","options":["Working phase","Initiating phase","Termination phase","Pre-interaction phase"],"answer":"Termination phase"},
+            {"question":"True or False: A therapeutic relationship is established primarily for the mutual need satisfaction of both the nurse and the patient.","options":["False","True"],"answer":"False"},
+            {"question":"Which task is included in the 'Orientation' part of the initiating phase?","options":["Introducing the nurse and hospital routine.","The nurse self-exploring their own fantasies.","Reducing the number of visits to encourage socialization.","Evaluating results of behavioral changes."],"answer":"Introducing the nurse and hospital routine."},
+            {"question":"The feeling of being accepted by the nurse encourages the patient to do what?","options":["Rely entirely on physical skills rather than communication.","Develop more aggressive testing behaviors.","Stay in the hospital indefinitely.","Establish a therapeutic relationship."],"answer":"Establish a therapeutic relationship."},
+            {"question":"What is the nurse's objective when 'setting limits' on a patient who has severe guilt feelings?","options":["To increase the patient's anxiety and hostility.","To provide a safe structure using firm and realistic acknowledgments.","To transfer the patient to a social relationship instead.","To encourage the patient to act out their feelings physically."],"answer":"To provide a safe structure using firm and realistic acknowledgments."},
+            {"question":"Which concept refers to the nurse's ability to 'feel with and for' the patient?","options":["Empathy","Rapport","Acceptance","Genuineness"],"answer":"Empathy"},
+            {"question":"A patient attempting to remain unaware of their problems is demonstrating a challenge known as:","options":["Transference","Testing behavior","Regression","Resistance"],"answer":"Resistance"},
+            {"question":"What should the nurse do to prepare the patient for the termination phase?","options":["Prepare the patient for the final stage starting from the beginning of the relationship.","Maintain high dependency until the home visits begin.","Avoid discussing termination until the day of discharge to prevent depression.","Begin preparation only once all goals have been fully met."],"answer":"Prepare the patient for the final stage starting from the beginning of the relationship."},
+            {"question":"Successful communication in a therapeutic relationship requires 'Feedback.' What does this achieve?","options":["It ensures the nurse uses the most complex medical terminology possible.","It eliminates the need for the initiating phase orientation.","It allows the patient to express feelings and the nurse to verify needs.","It helps the nurse to assess the nurse's own needs."],"answer":"It allows the patient to express feelings and the nurse to verify needs."}
 
         ],
         "L5 Defense Mechanisms": [
@@ -5347,7 +883,36 @@ quizzes = {
             { "question": "Humor is:", "options": ["Negative", "Healthy expression", "Denial", "Projection"], "answer": "Healthy expression", "explanation": "Adaptive defense." },
             { "question": "Which is healthy defense?", "options": ["Denial", "Sublimation", "Projection", "Regression"], "answer": "Sublimation", "explanation": "Constructive coping." },
             { "question": "Which is unhealthy defense?", "options": ["Sublimation", "Humor", "Denial", "Acceptance"], "answer": "Denial", "explanation": "Distorts reality." },
-            { "question": "Most important concept about defense mechanisms:", "options": ["Always abnormal", "Normal adaptation", "Disease", "Weakness"], "answer": "Normal adaptation", "explanation": "They are normal unless excessive." }
+            { "question": "Most important concept about defense mechanisms:", "options": ["Always abnormal", "Normal adaptation", "Disease", "Weakness"], "answer": "Normal adaptation", "explanation": "They are normal unless excessive." },
+            {"question":"Which component of the personality, according to Freud, is primarily responsible for mediating between instinctual urges and the demands of the external environment?","options":["The Superego","The Id","The Preconscious","The Ego"],"answer":"The Ego"},
+            {"question":"How does the 'Preconscious' level of the mind differ from the 'Unconscious' level in Freudian theory?","options":["Preconscious material is readily accessible with attention, whereas unconscious material is outside of awareness.","There is no difference; Freud used these terms interchangeably to describe non-conscious thoughts.","Preconscious contents are actively ignored, while unconscious contents are actively remembered.","The preconscious contains only instinctual drives, while the unconscious contains moral values."],"answer":"Preconscious material is readily accessible with attention, whereas unconscious material is outside of awareness."},
+            {"question":"Which of the following best distinguishes 'Suppression' from 'Repression'?","options":["Suppression involves outward aggression, while repression involves inward withdrawal.","Suppression only applies to physical urges, whereas repression only applies to memories.","Suppression is an unconscious process, while repression is a conscious decision.","Suppression is the voluntary exclusion of thoughts, while repression is the involuntary pushing of thoughts into the unconscious."],"answer":"Suppression is the voluntary exclusion of thoughts, while repression is the involuntary pushing of thoughts into the unconscious."},
+            {"question":"A student who is angry with a professor is overtly friendly and agreeable during class. This behavior is a classic example of:","options":["Sublimation","Altruism","Introjection","Reaction Formation"],"answer":"Reaction Formation"},
+            {"question":"An individual who is unable to afford a luxury car tells friends, 'I didn't buy it because the fuel economy is terrible anyway.' This is an example of:","options":["Compensation","Projection","Rationalization","Denial"],"answer":"Rationalization"},
+            {"question":"When a person transfers their anger from a threatening target, like a boss, to a less threatening target, like a family pet, they are using:","options":["Reaction Formation","Substitution","Projection","Displacement"],"answer":"Displacement"},
+            {"question":"A 5-year-old child who recently gained a new baby brother begins to wet the bed and ask for a bottle. This behavior demonstrates:","options":["Fixation","Undoing","Regression","Identification"],"answer":"Regression"},
+            {"question":"Which defense mechanism is specifically characterized by the unconscious blaming of one's own unacceptable inclinations on an external object or person?","options":["Introjection","Projection","Isolation","Rationalization"],"answer":"Projection"},
+            {"question":"A mother who lost her child to a drunk driver becomes the president of a local support group to advocate for stricter laws. This is an example of:","options":["Reaction Formation","Sublimation","Compensation","Symbolization"],"answer":"Sublimation"},
+            {"question":"According to the source material, when do defense mechanisms become 'maladaptive'?","options":["Whenever they are used at the unconscious level.","When they interfere with the ability to deal with reality or interpersonal relations.","When they successfully reduce anxiety or fear.","Only when they are used by individuals with diagnosed mental disorders."],"answer":"When they interfere with the ability to deal with reality or interpersonal relations."},
+            {"question":"A person who is ruthless in business but makes massive donations to charity to 'offset' their behavior is exhibiting:","options":["Rationalization","Undoing","Introjection","Humor"],"answer":"Undoing"},
+            {"question":"The 'Perfection Principle' is most closely associated with which component of personality?","options":["The Id","The Ego","The Conscious","The Superego"],"answer":"The Superego"},
+            {"question":"Which defense mechanism involves a physician focusing strictly on the chemotherapy treatment of a terminally ill patient to avoid feeling the emotional weight of the prognosis?","options":["Suppression","Denial","Symbolization","Isolation"],"answer":"Isolation"},
+            {"question":"A nursing student decides to specialize in critical care because she admires the instructor who teaches that specialty. This is an example of:","options":["Identification","Introjection","Compensation","Rationalization"],"answer":"Identification"},
+            {"question":"In the context of substance abuse, which of the following defense mechanisms is commonly used to avoid facing the reality of the addiction?","options":["Denial","Sublimation","Reaction Formation","Undoing"],"answer":"Denial"},
+            {"question":"Which mechanism is defined as an arrest in emotional development due to an inability to solve problems at a specific developmental phase?","options":["Introjection","Fixation","Regression","Repression"],"answer":"Fixation"},
+            {"question":"A woman who would like to have children but cannot, opens a daycare center to satisfy that desire. This is described as:","options":["Substitution","Reaction Formation","Sublimation","Conversion"],"answer":"Sublimation"},
+            {"question":"The use of an engagement ring to represent love and commitment is an example of:","options":["Compensation","Identification","Introjection","Symbolization"],"answer":"Symbolization"},
+            {"question":"A person experiencing schizophrenia may accuse another patient of wanting to harm him because he actually feels aggressive toward that person. This is an application of:","options":["Reaction Formation","Displacement","Projection","Undoing"],"answer":"Projection"},
+            {"question":"Which of these mechanisms is specifically noted as common in Obsessive-Compulsive Disorder (OCD)?","options":["Regression","Isolation","Sublimation","Denial"],"answer":"Isolation"},
+            {"question":"A nurse who fails to get satisfaction in her job feels she is personally inadequate rather than blaming her supervisor. This internalization is known as:","options":["Introjection","Identification","Compensation","Rationalization"],"answer":"Introjection"},
+            {"question":"What is the primary purpose of defense mechanisms as stated in the text?","options":["To protect the ego from anxiety or guilt arising from unacceptable thoughts.","To ensure the id completely overpowers the superego.","To move memories from the preconscious to the conscious mind.","To increase instinctual drives and seek immediate gratification."],"answer":"To protect the ego from anxiety or guilt arising from unacceptable thoughts."},
+            {"question":"Which level of the mind includes all the things we are actively aware of at any given moment?","options":["The Preconscious","The Conscious","The Subconscious","The Unconscious"],"answer":"The Conscious"},
+            {"question":"A physically handicapped boy unable to play football becomes a great scholar. This is an example of:","options":["Compensation","Rationalization","Substitution","Conversion"],"answer":"Compensation"},
+            {"question":"A woman who miscarries continues to wear maternity clothes and refuses to acknowledge the loss. Which mechanism is she using?","options":["Denial","Isolation","Repression","Regression"],"answer":"Denial"},
+            {"question":"A person who has quit smoking sucks on hard candy when the urge to smoke arises. This is identified in the text as:","options":["Undoing","Reaction Formation","Sublimation","Regression"],"answer":"Sublimation"},
+            {"question":"According to the iceberg analogy, which components of the personality exist at least partially in the unconscious?","options":["Id, Ego, and Superego","Only the Ego","Only the Id","Only the Superego"],"answer":"Id, Ego, and Superego"},
+            {"question":"What happens when an individual uses defense mechanisms to such a degree that they interfere with interpersonal relations?","options":["They become maladaptive and may lead to signs of mental health deviation.","The ego is considered to have achieved perfect harmony.","It is considered a normal process of adjustment.","The individual is likely in the 'conscious' level of mind only."],"answer":"They become maladaptive and may lead to signs of mental health deviation."},
+            {"question":"Humor is considered a defense mechanism when it is used to:","options":["Overtly express unacceptable impulses without producing unpleasantness.","Return to a childlike state of laughing.","Avoid acknowledging a painful situation entirely.","Substitute a physical symptom for an emotional one."],"answer":"Overtly express unacceptable impulses without producing unpleasantness."}
 
         ],
         "L6 Substance-Related Disorders": [
@@ -5411,7 +976,37 @@ quizzes = {
             {"question":"Drugs affect brain function.","options":["True","False"],"answer":"True"},
             {"question":"Injection is a route of drug use.","options":["True","False"],"answer":"True"},
             {"question":"Family has no role in treatment.","options":["True","False"],"answer":"False"},
-            {"question":"Rehabilitation is part of treatment.","options":["True","False"],"answer":"True"}
+            {"question":"Rehabilitation is part of treatment.","options":["True","False"],"answer":"True"},
+            {"question":"Which specific terminology refers to the body's actual physiological adaptation to a substance, where the individual requires the substance simply to feel 'normal'?","options":["Physiological Dependence","Psychological Dependence","Addiction","Tolerance"],"answer":"Physiological Dependence"},
+            {"question":"Which of the following is considered one of the '5 C's of Addiction' that highlights the biological persistence of the disorder?","options":["Chronic","Circumstantial","Cognitive","Catastrophic"],"answer":"Chronic"},
+            {"question":"If an individual abstains from a substance, what typically happens to the physiological state of tolerance?","options":["It transforms into immediate physical dependence","It remains permanently at the highest level reached","It dissipates and reverts to the original state","It increases even without further substance use"],"answer":"It dissipates and reverts to the original state"},
+            {"question":"Which psychological risk factor is characterized by a person's inability to manage the pressures of society or the demands of daily living?","options":["Pleasure-seeking","Sexual immaturity","Low self-esteem","Poor stress management skills"],"answer":"Poor stress management skills"},
+            {"question":"In the context of alcohol-related medical problems, Korsakov's psychosis is a complication primarily affecting which body system?","options":["Cardiovascular system","Gastrointestinal tract","Nervous system","Striated muscle"],"answer":"Nervous system"},
+            {"question":"Which of the following substances is categorized as a stimulant that can be legally obtained through common beverages?","options":["Nicotine","Amphetamines","Caffeine","Cocaine"],"answer":"Caffeine"},
+            {"question":"According to the provided material, how do 'Opiates' differ from the broader category of 'Opioids'?","options":["Opioids are a subset of Opiates","Opiates do not cause physical dependence","Opiates are derived specifically from the poppy plant","Opiates refer only to synthetic laboratory-made drugs"],"answer":"Opiates are derived specifically from the poppy plant"},
+            {"question":"Which nursing diagnosis is most appropriate for a client experiencing seizures and unstable vital signs during substance withdrawal?","options":["Anxiety","Deficient Knowledge","Risk for Injury","Noncompliance"],"answer":"Risk for Injury"},
+            {"question":"When developing a strategy for Relapse Prevention, which activity would be most relevant according to the provided lecture notes?","options":["Isolating from family to avoid conflict","Initiating legal proceedings for past arrests","Enrolling in a high-stress occupation to stay busy","Developing new coping responses"],"answer":"Developing new coping responses"},
+            {"question":"What is the general relationship between a withdrawal state and the addictive state of a substance?","options":["The withdrawal state mirrors the addictive state's euphoria","The withdrawal state is the exact opposite of the addictive state","Withdrawal symptoms are identical across all classes of drugs","The withdrawal state is usually milder than the intoxication state"],"answer":"The withdrawal state is the exact opposite of the addictive state"},
+            {"question":"Which of the following is listed as a social risk factor related to occupation for substance abuse?","options":["Engineers","Accountants","Medical personnel","Teachers"],"answer":"Medical personnel"},
+            {"question":"In the APA criteria for substance abuse, what does 'recurrent substance-related legal problems' specifically refer to?","options":["Losing child custody due to lack of income","Arrests for disorderly conduct while intoxicated","Filing for bankruptcy due to high medical bills","Suing a physician for a wrong prescription"],"answer":"Arrests for disorderly conduct while intoxicated"},
+            {"question":"Methylenedioxymethamphetamine (MDMA) is classified under which type of substance in the lecture notes?","options":["Depressants","Hallucinogens","Opioids","Sedatives"],"answer":"Hallucinogens"},
+            {"question":"Which medical problem associated with alcoholism involves the inflammation of the organ responsible for producing digestive enzymes and insulin?","options":["Myopathy","Hypoglycemia","Pancreatitis","Peripheral neuritis"],"answer":"Pancreatitis"},
+            {"question":"Which of the following describes a 'psychological' risk factor for substance abuse as stated in the source material?","options":["Cost of drugs","Overcrowding","Poor role modeling","Genetic Vulnerability"],"answer":"Poor role modeling"},
+            {"question":"What requirement must be met before a nurse can refer a family member with substance abuse issues to an experienced professional?","options":["The person must have already reached the 'Relapse' phase","Total agreement from every family member","Permission from the individual abusing the substance","A court order for mandatory treatment"],"answer":"Permission from the individual abusing the substance"},
+            {"question":"Which of the following is a symptom of 'Loss of Control,' one of the 5 C's of Addiction?","options":["Spending all money on rent and food","Using more of a substance than intended","A temporary headache after one-time use","A physical rash on the skin"],"answer":"Using more of a substance than intended"},
+            {"question":"Which phase of substance abuse treatment focus on addressing the social and psychological aspects after the initial physical removal of the drug?","options":["Emergency department phase","Detoxification phase","Relapse rehabilitation","Psychological and social intervention phase"],"answer":"Psychological and social intervention phase"},
+            {"question":"How does the source material characterize the assessment step of the nursing process for addiction?","options":["It is focused only on physical vitals during detox","It is based entirely on the family's report of the patient","It should be performed once at the beginning of treatment","It must be continual, systematic, and accurate"],"answer":"It must be continual, systematic, and accurate"},
+            {"question":"Which of the following is a psychiatric disorder specifically noted to have a common association with substance use disorders?","options":["Schizophrenia","Antisocial personality disorder","Obsessive-compulsive disorder","Bipolar disorder"],"answer":"Antisocial personality disorder"},
+            {"question":"The diagram 'How Drugs Affect Your Brain' notes that drugs interfere with which fundamental system?","options":["Digestive enzyme production","Circulatory filtration system","Bone marrow regeneration","Chemical messaging system"],"answer":"Chemical messaging system"},
+            {"question":"In the context of 'Family Interventions,' what is the correct viewpoint regarding a patient's ability to quit using substances?","options":["Recovery is impossible without family members using their will power","Abstinence is not a matter of will power","Will power is the primary factor in long-term recovery","Only illegal drugs require medical treatment; beer is a matter of choice"],"answer":"Abstinence is not a matter of will power"},
+            {"question":"Which alcohol-related respiratory complication is specifically mentioned in the source material?","options":["Cystic fibrosis","Asthma","Carcinoma of the bronchus","Pneumonia"],"answer":"Pneumonia"},
+            {"question":"Which of the following describes a 'Defining Characteristic' of the nursing diagnosis 'Deficient Knowledge'?","options":["High self-esteem","Consistent follow-up care","Verbalization of the problem","Accurate description of substance risks"],"answer":"Verbalization of the problem"},
+            {"question":"Which biological factor is categorized as a risk for addiction alongside neurobiological theories?","options":["Low self-esteem","Cultural factors","Peer behaviors","Biochemical Factors"],"answer":"Biochemical Factors"},
+            {"question":"How does the APA define a 'maladaptive pattern' in the context of substance abuse?","options":["Use leading to clinically significant impairment or distress","Use that the individual finds enjoyable and harmless","Any use of an illegal drug, even once","Occasional use that does not affect work or home life"],"answer":"Use leading to clinically significant impairment or distress"},
+            {"question":"Which of the following is an example of an etiology (cause) for 'Deficient Knowledge' regarding substance abuse?","options":["Statement of misconception","Denial of risks involved with substance abuse","Abuse of substances","Request for information"],"answer":"Denial of risks involved with substance abuse"},
+            {"question":"What commonality is mentioned regarding the '5 C's' of addiction across different individuals?","options":["Every addict follows the 5 C's in the exact same chronological order","Not all addictions are the same, but they share these 5 commonalities","The 5 C's only apply to illegal substances","Individuals with addiction eventually lose all 5 C's once treated"],"answer":"Not all addictions are the same, but they share these 5 commonalities"},
+            {"question":"Which specific condition is a cardiovascular problem associated with chronic alcoholism?","options":["Diabetes","Dementia","Hypertension","Anemia"],"answer":"Hypertension"}
+
 
         ],
         "L7 Communication": [
@@ -5491,7 +1086,34 @@ quizzes = {
             { "question": "A nurse speaks loudly. What type is this?", "options": ["Verbal", "Non-verbal", "Written", "None"], "answer": "Non-verbal", "explanation": "Tone of voice." },
             { "question": "Patient understands message. What is this?", "options": ["Failure", "Successful communication", "Barrier", "Error"], "answer": "Successful communication", "explanation": "Message understood." },
             { "question": "A nurse uses simple language. What is this?", "options": ["Efficiency", "Barrier", "Failure", "Ignore"], "answer": "Efficiency", "explanation": "Clear message." },
-            { "question": "A nurse encourages patient to talk. What is this?", "options": ["Good communication", "Barrier", "Punishment", "Ignore"], "answer": "Good communication", "explanation": "Therapeutic technique." }
+            { "question": "A nurse encourages patient to talk. What is this?", "options": ["Good communication", "Barrier", "Punishment", "Ignore"], "answer": "Good communication", "explanation": "Therapeutic technique." },
+            {"question":"Which of the following best describes the 'dynamic' nature of communication as defined in the source material?","options":["It is an ever-changing series of events between individuals.","It is a one-way transfer of ideas from sender to receiver.","It is a mechanical exchange that remains consistent over time.","It is a static transmission of data between two points."],"answer":"It is an ever-changing series of events between individuals."},
+            {"question":"In the context of therapeutic communication, what is the primary distinction from casual conversation?","options":["It is purposeful, goal-oriented, and creates a beneficial outcome.","It involves a one-way flow of information from the nurse to the patient.","It is strictly verbal and excludes body language.","It focuses solely on the nurse's personal opinions and feelings."],"answer":"It is purposeful, goal-oriented, and creates a beneficial outcome."},
+            {"question":"Which variable affecting communication refers to how an individual interprets and understands the world?","options":["Culture","Perception","Efficiency","Values"],"answer":"Perception"},
+            {"question":"Which element of communication is described as the 'channel' or 'means' of conveying the message?","options":["The Method","The Message","The Feedback","The Sender"],"answer":"The Method"},
+            {"question":"What is required for communication to actually occur between two or more individuals?","options":["Physical contact through touch.","A common language.","A specialized professional vocabulary.","The use of cultural artifacts."],"answer":"A common language."},
+            {"question":"Why is non-verbal communication considered more reliable than verbal communication in expressing true feelings?","options":["There is less conscious control over non-verbal expressions.","It is easier to manipulate and fake non-verbal cues.","Words are always more accurate than body movements.","Non-verbal communication is only used in psychiatric settings."],"answer":"There is less conscious control over non-verbal expressions."},
+            {"question":"Which of the following is categorized as a 'non-language sound' in communication?","options":["Rate of speech.","Spoken words in a foreign language.","Pitch and range of voice.","Laughing or grunting."],"answer":"Laughing or grunting."},
+            {"question":"In the characteristics of successful communication, what does 'flexibility' specifically refer to?","options":["The ability to speak multiple languages fluently.","The physical ability to move during a conversation.","Ensuring the message is clear and simple.","The absence of overcontrol or undercontrol in the interaction."],"answer":"The absence of overcontrol or undercontrol in the interaction."},
+            {"question":"When a nurse says, 'What would you like to talk about today?', which talking technique is being applied?","options":["Focusing","Broad openings","Questioning","Clarification"],"answer":"Broad openings"},
+            {"question":"What is the primary function of 'Restating' as a talking technique?","options":["To introduce a completely new topic to the patient.","To provide false reassurance to the patient.","To repeat the main thought the patient expressed to bring attention to it.","To offer a rapid solution to a patient's problem."],"answer":"To repeat the main thought the patient expressed to bring attention to it."},
+            {"question":"Which talking technique involves tying together two different events or experiences?","options":["Paraphrasing","Linking","Focusing","Summarizing"],"answer":"Linking"},
+            {"question":"How does the source differentiate 'Listening' from 'Hearing'?","options":["Hearing is an active process; listening is passive.","There is no functional difference between the two terms.","Listening implies both people are talking simultaneously.","Listening is an active process that requires alertness and interest."],"answer":"Listening is an active process that requires alertness and interest."},
+            {"question":"What is a therapeutic benefit of using 'Silence' during a conversation with a patient?","options":["It allows the nurse to ignore negative feelings expressed by the patient.","It provides an opportunity for both parties to organize their thoughts.","It is used primarily to show that the nurse is in total control.","It indicates that the nurse has stopped caring about the conversation."],"answer":"It provides an opportunity for both parties to organize their thoughts."},
+            {"question":"Which of the following is considered a 'Block' or 'Barrier' to effective communication?","options":["Summarizing the discussion.","Defensive reflex.","Open-ended statements.","Appropriate use of silence."],"answer":"Defensive reflex."},
+            {"question":"Why should a nurse minimize their own verbal participation to improve communication?","options":["To save time during the nursing shift.","To give the patient the chance to lead the conversation.","Because non-verbal communication is always sufficient.","To avoid having to use a common language."],"answer":"To give the patient the chance to lead the conversation."},
+            {"question":"Which characteristic of successful communication is met when the message is weltimed and the language is clear and simple?","options":["Efficiency","Flexibility","Appropriateness","Feedback"],"answer":"Efficiency"},
+            {"question":"What does the term 'Cultural Artifacts' include in the context of non-verbal communication?","options":["Clothes, cosmetics, and jewelry.","Volume and rate of speech.","Interpersonal space and territoriality.","Hand gestures and eye movements."],"answer":"Clothes, cosmetics, and jewelry."},
+            {"question":"The nurse says, 'I am not sure what you mean. Are you saying that you are afraid?' This is an example of which technique?","options":["Summarizing","Broad opening","Paraphrasing","Clarification"],"answer":"Clarification"},
+            {"question":"When a nurse offers 'quick, false reassurance' to a patient, what is the likely outcome?","options":["It helps the patient express their negative feelings.","It improves the efficiency of the interaction.","It acts as a block to effective communication.","It builds immediate trust between the nurse and patient."],"answer":"It acts as a block to effective communication."},
+            {"question":"Which factor affecting communication involves teaching people language, hand gestures, and the use of space?","options":["Perception","Culture","Values","Method"],"answer":"Culture"},
+            {"question":"Which of the following is NOT a goal of therapeutic communication listed in the material?","options":["To explore feelings","To develop trust","To state one's personal opinions and ideas","To obtain or provide information"],"answer":"To state one's personal opinions and ideas"},
+            {"question":"True or False: Listening is a passive task for the nurse, as it only requires being silent.","options":["False","True"],"answer":"False"},
+            {"question":"What category of non-verbal communication involves facial expressions and body postures?","options":["Personal space","Body movement","Cultural artifacts","Voice quality"],"answer":"Body movement"},
+            {"question":"In the communication process, who is 'the receiver'?","options":["The person who initiates the conversation.","The person for whom the message is intended.","The medium through which the message is sent.","The response given back to the sender."],"answer":"The person for whom the message is intended."},
+            {"question":"A nurse tells a patient, 'In other words, you feel that your family is ignoring you.' Which technique is this?","options":["Paraphrasing","Linking","Broad opening","Summarizing"],"answer":"Paraphrasing"},
+            {"question":"Why is 'Overcontrol' considered a failure of successful communication flexibility?","options":["Because it involves checking the exchange and prescribing the other person's response.","Because it allows the patient to talk about whatever they want.","Because it creates an ongoing and dynamic series of events.","Because it uses language that is too simple for the patient."],"answer":"Because it involves checking the exchange and prescribing the other person's response."},
+            {"question":"According to the text, what is one of the main problems in mental health patients that nurses can help address through communication?","options":["Failure to communicate effectively.","Inability to wear cultural artifacts.","Using too much non-verbal communication.","A lack of physical exercise."],"answer":"Failure to communicate effectively."}
 
         ],
         "L8 CRISIS & CRISIS INTERVENTIONS":[
@@ -5566,7 +1188,33 @@ quizzes = {
             { "question": "A nurse says, “Could you contact some of your friends to see whether they know about available jobs?” Which technique is this?", "options": ["Exploration of solutions", "Support of defenses", "Validation", "Restating"], "answer": "Exploration of solutions" },
             { "question": "During assessment, the nurse asks about the precipitating event, the time it occurred, and whether the patient has a suicide plan. Which phase is this?", "options": ["Assessment", "Planning", "Intervention", "Evaluation"], "answer": "Assessment" },
             { "question": "A mobile team visits a patient at home, provides on-site assessment, treatment, and referral. What modality of crisis intervention is this?", "options": ["Group work", "Telephone contacts", "Mobile crisis program", "Health education"], "answer": "Mobile crisis program" },
-            { "question": "A person arrives at a center after a suicide attempt and receives 24-hour psychiatric care and counseling. What modality is this?", "options": ["Disaster response", "Crisis intervention center", "Victim outreach program", "Generic approach"], "answer": "Crisis intervention center" }
+            { "question": "A person arrives at a center after a suicide attempt and receives 24-hour psychiatric care and counseling. What modality is this?", "options": ["Disaster response", "Crisis intervention center", "Victim outreach program", "Generic approach"], "answer": "Crisis intervention center" },
+            {"question":"Which phase of crisis development is characterized by the individual beginning to feel intense discomfort and helplessness after their standard coping mechanisms fail?","options":["Phase 4","Phase 1","Phase 2","Phase 3"],"answer":"Phase 2"},
+            {"question":"According to the provided material, which of the following is a defining characteristic of a crisis?","options":["It is an internal state that is unrelated to specific identifiable events.","What is a crisis for one person may not be for another.","It is a chronic condition that persists over many years.","It is always equivalent to a diagnosis of psychopathology."],"answer":"What is a crisis for one person may not be for another."},
+            {"question":"In the context of Aguilera's balancing factors, why is the 'perception of the event' critical to preventing a crisis?","options":["A realistic perception allows the individual to draw on adequate resources to restore equilibrium.","Realistic perception eliminates the need for situational supports.","A distorted perception automatically triggers the use of advanced internal coping mechanisms.","Perception is secondary to the actual physical severity of the stressful event."],"answer":"A realistic perception allows the individual to draw on adequate resources to restore equilibrium."},
+            {"question":"A person struggling with the transition to retirement is experiencing which type of crisis?","options":["Social crisis","Psychopathological crisis","Maturational crisis","Situational crisis"],"answer":"Maturational crisis"},
+            {"question":"Which crisis intervention technique is defined as influencing a person to believe that the nurse can help and that they will eventually feel better?","options":["Catharsis","Reinforcement of behavior","Suggestion","Clarification"],"answer":"Suggestion"},
+            {"question":"In Caplan's Phase 4 of crisis development, what specific cognitive or emotional state might be reflected in the individual's behavior?","options":["Return to premorbid functioning","Employment of new problem-solving techniques","Psychotic thinking","Mild anxiety and increased focus"],"answer":"Psychotic thinking"},
+            {"question":"A nurse tells a patient, 'I’ve noticed that after you have an argument with your husband you become sick and can’t leave your bed.' Which technique is being utilized?","options":["Support of defenses","Exploration of solutions","Catharsis","Clarification"],"answer":"Clarification"},
+            {"question":"Which modality of crisis intervention specifically aims to identify the needs of victims and then connect them with appropriate referral resources immediately after a crisis?","options":["Health education","Mobile crisis program","Victim outreach program","Telephone contacts"],"answer":"Victim outreach program"},
+            {"question":"If a nurse is using a 'Generic Approach' to intervention, which type of crisis are they likely addressing?","options":["Maturational crisis","Situational crisis","Social crisis","Chronic psychopathology"],"answer":"Situational crisis"},
+            {"question":"What is the primary objective of a Crisis Intervention Center?","options":["To help the person cope with the immediate problem and offer support for long-term therapy.","To provide long-term psychotherapy for personality disorders.","To identify and isolate individuals with chronic mental illness.","To provide on-site disaster response in remote locations."],"answer":"To help the person cope with the immediate problem and offer support for long-term therapy."},
+            {"question":"During the Assessment phase of crisis intervention, why would a nurse determine the level of pre-crisis functioning?","options":["To assess if the stressor was maturational or social in nature.","To diagnose an underlying personality disorder that caused the crisis.","To establish a baseline for evaluating the return to equilibrium during the evaluation phase.","To decide if the patient needs permanent institutionalization."],"answer":"To establish a baseline for evaluating the return to equilibrium during the evaluation phase."},
+            {"question":"A person who lost their home in a flood is experiencing a:","options":["Maturational crisis","Social crisis","Situational crisis","Developmental crisis"],"answer":"Situational crisis"},
+            {"question":"Which statement accurately reflects the 'Support of Defenses' technique?","options":["It involves letting the patient vent all emotions regardless of how they are expressed.","It encourages using adaptive defenses while discouraging maladaptive ones.","It focuses on identifying situational supports in the environment.","It is used to break down all psychological defenses to uncover trauma."],"answer":"It encourages using adaptive defenses while discouraging maladaptive ones."},
+            {"question":"What according to the lecture material is the potential consequence of an unresolved CRISIS?","options":["Development of situational supports","Premorbid functioning","Suicide","Chronic Homeostasis"],"answer":"Suicide"},
+            {"question":"Which of these is a key component of the Intervention phase in the nurse's role?","options":["Establishing nursing diagnoses like 'Fear'.","Determining if previous coping methods were tried.","Evaluating if positive behavioral changes occurred.","Environmental manipulation."],"answer":"Environmental manipulation."},
+            {"question":"Erikson’s theory of crisis emphasizes that resolution of problems in previous stages results in:","options":["A permanent state of vulnerability.","New skills, confidence, and lasting solutions.","Psychotic thinking patterns.","Disequilibrium and anxiety."],"answer":"New skills, confidence, and lasting solutions."},
+            {"question":"During Phase 3 of crisis development, an individual might try to view the problem from a different perspective. This is an example of:","options":["Distorted perception.","Simple catharsis.","Calling on internal resources.","Psychotic disorganization."],"answer":"Calling on internal resources."},
+            {"question":"The 'Individual Approach' to crisis intervention is most similar to which traditional medical process?","options":["Diagnosis and treatment of a specific problem in a specific patient.","Public health education initiatives.","Generic counseling for high-risk groups.","Mass screening and prevention."],"answer":"Diagnosis and treatment of a specific problem in a specific patient."},
+            {"question":"In the 'Evaluation of Crisis Resolution' phase, what is the nurse primarily looking for?","options":["The establishment of a working relationship.","The presence of psychotic thinking.","The occurrence of positive behavioral changes.","The identification of the precipitating stressor."],"answer":"The occurrence of positive behavioral changes."},
+            {"question":"According to the Aguilera Crisis Model diagram, what happens when one or more balancing factors are absent during a stressful event?","options":["Stressful events are perceived more realistically.","The problem is resolved quickly.","Disequilibrium continues and leads to crisis.","The individual automatically regains equilibrium."],"answer":"Disequilibrium continues and leads to crisis."},
+            {"question":"Which nursing diagnosis listed in the material would be most appropriate for a patient in Phase 4 of a crisis who is displaying panic and labile emotions?","options":["Spiritual distress","Deficient knowledge","Readiness for enhanced coping","Risk for self- or other-directed violence"],"answer":"Risk for self- or other-directed violence"},
+            {"question":"What is the defining difference between a situational crisis and a social crisis according to the lecture notes?","options":["Social crises are developmental milestones, while situational crises are accidental.","There is no difference; the terms are used interchangeably.","Situational crises are always chronic, while social crises are acute.","Situational crises are unanticipated individual threats, while social crises are uncommon environmental accidents affecting many."],"answer":"Situational crises are unanticipated individual threats, while social crises are uncommon environmental accidents affecting many."},
+            {"question":"Which intervention technique is exemplified by the nurse saying: 'You are a very strong person to be able to manage the family all this time'?","options":["Clarification","Catharsis","Raising self-esteem","Reinforcement of behaviour"],"answer":"Raising self-esteem"},
+            {"question":"Telephone contact as a modality of crisis intervention primarily relies on what nurse skill?","options":["Environmental manipulation","Effective listening skills","Physical assessment","Group facilitation"],"answer":"Effective listening skills"},
+            {"question":"What role do nurses play in 'Health education' regarding crises?","options":["They provide 24-hour telephone hotlines for suicide prevention.","They provide on-site emergency surgery.","They identify high-risk individuals and teach coping strategies to avoid crisis development.","They manage the long-term finances of disaster victims."],"answer":"They identify high-risk individuals and teach coping strategies to avoid crisis development."},
+            {"question":"Which phase of the nursing process involves 'Establishing a rapid working relationship by showing acceptance by active listening'?","options":["Phase 3: Intervention","Phase 4: Evaluation","Phase 1: Assessment","Phase 2: Planning"],"answer":"Phase 1: Assessment"}
 
         ],
         "L9 Stress & Stress Managements":[
@@ -5873,4152 +1521,709 @@ quizzes = {
 
         ],
         "L3 Fetopelvic Relationships": [
-            {
-                "question": "Moulding is:",
-                "options": ["Expansion of fetal skull", "Overlapping of fetal skull bones", "Separation of sutures", "Growth of skull"],
-                "answer": "Overlapping of fetal skull bones",
-                "explanation": "Moulding refers to overlapping of fetal skull bones to reduce head diameter during labor."
-            },
-            {
-                "question": "Moulding occurs mainly to:",
-                "options": ["Increase head size", "Reduce head circumference", "Increase pressure", "Stop labor"],
-                "answer": "Reduce head circumference",
-                "explanation": "Moulding reduces head circumference to facilitate passage through the birth canal."
-            },
-            {
-                "question": "Moulding +3 means:",
-                "options": ["Sutures separate", "Sutures meet", "Overlap reducible", "Overlap irreducible"],
-                "answer": "Overlap irreducible",
-                "explanation": "Grade +3 moulding indicates severe overlapping that is not reducible."
-            },
-            {
-                "question": "Station 0 means:",
-                "options": ["Above pelvis", "At ischial spines", "Below outlet", "At cervix"],
-                "answer": "At ischial spines",
-                "explanation": "Station 0 indicates the fetal head is at the level of ischial spines."
-            },
-            {
-                "question": "Station -3 indicates:",
-                "options": ["Deep descent", "Head above pelvis", "Delivery imminent", "Crowning"],
-                "answer": "Head above pelvis",
-                "explanation": "Negative stations indicate the head is above the pelvic inlet."
-            },
-            {
-                "question": "Fetal lie refers to:",
-                "options": ["Head position", "Relation of fetus to cervix", "Relation of long axis fetus to mother", "Presentation"],
-                "answer": "Relation of long axis fetus to mother",
-                "explanation": "Fetal lie describes alignment of fetal and maternal long axes."
-            },
-            {
-                "question": "Normal fetal lie is:",
-                "options": ["Transverse", "Oblique", "Longitudinal", "Circular"],
-                "answer": "Longitudinal",
-                "explanation": "The normal lie is longitudinal for optimal delivery."
-            },
-            {
-                "question": "Fetal attitude describes:",
-                "options": ["Position in pelvis", "Relation of fetal parts", "Type of delivery", "Size of fetus"],
-                "answer": "Relation of fetal parts",
-                "explanation": "Attitude refers to the relation of fetal parts to each other."
-            },
-            {
-                "question": "Flexion of fetal head results in:",
-                "options": ["Larger diameter", "Smaller presenting diameter", "No change", "Obstruction"],
-                "answer": "Smaller presenting diameter",
-                "explanation": "Flexion presents a smaller diameter for easier passage."
-            },
-            {
-                "question": "Most common presentation:",
-                "options": ["Breech", "Shoulder", "Cephalic", "Transverse"],
-                "answer": "Cephalic",
-                "explanation": "Cephalic presentation is the most common and normal."
-            },
-            {
-                "question": "Breech presentation means:",
-                "options": ["Head first", "Shoulder first", "Buttocks first", "Feet only"],
-                "answer": "Buttocks first",
-                "explanation": "Breech presentation is when buttocks present first."
-            },
-            {
-                "question": "Shoulder presentation is MOST associated with:",
-                "options": ["Normal labor", "Transverse lie", "Longitudinal lie", "Flexion"],
-                "answer": "Transverse lie",
-                "explanation": "Shoulder presentation occurs in transverse lie."
-            },
-            {
-                "question": "Fetal position refers to:",
-                "options": ["Lie", "Attitude", "Relation of denominator to pelvis", "Size"],
-                "answer": "Relation of denominator to pelvis",
-                "explanation": "Position describes relation of presenting part to maternal pelvis."
-            },
-            {
-                "question": "In LOA, the occiput is directed:",
-                "options": ["Right posterior", "Left anterior", "Right anterior", "Left posterior"],
-                "answer": "Left anterior",
-                "explanation": "LOA means left occiput anterior."
-            },
-            {
-                "question": "ROA means:",
-                "options": ["Right occiput anterior", "Right outlet axis", "Rotation of axis", "Reverse position"],
-                "answer": "Right occiput anterior",
-                "explanation": "ROA stands for right occiput anterior."
-            },
-            {
-                "question": "Which fetal position is MOST favorable for delivery?",
-                "options": ["ROP", "LOP", "OA", "Transverse"],
-                "answer": "OA",
-                "explanation": "Occiput anterior is the most favorable position."
-            },
-            {
-                "question": "Which is easiest path through pelvis?",
-                "options": ["Posterior positions", "Anterior positions", "Breech", "Shoulder"],
-                "answer": "Anterior positions",
-                "explanation": "Anterior positions allow smoother passage through pelvis."
-            },
-            {
-                "question": "Fetal skull consists of:",
-                "options": ["Bones only", "Sutures only", "Bones + sutures + fontanelles", "Cartilage only"],
-                "answer": "Bones + sutures + fontanelles",
-                "explanation": "Fetal skull includes bones, sutures, and fontanelles."
-            },
-            {
-                "question": "Vault bones include:",
-                "options": ["Temporal", "Frontal + parietal + occipital", "Mandible", "Maxilla"],
-                "answer": "Frontal + parietal + occipital",
-                "explanation": "Vault consists of frontal, parietal, and occipital bones."
-            },
-            {
-                "question": "Which bone is NOT part of vault?",
-                "options": ["Frontal", "Parietal", "Occipital", "Base bones"],
-                "answer": "Base bones",
-                "explanation": "Base bones are not part of skull vault."
-            },
-            {
-                "question": "Anterior fontanelle shape:",
-                "options": ["Triangular", "Square", "Diamond", "Oval"],
-                "answer": "Diamond",
-                "explanation": "Anterior fontanelle is diamond-shaped."
-            },
-            {
-                "question": "Posterior fontanelle is:",
-                "options": ["Diamond", "Square", "Triangular", "Circular"],
-                "answer": "Triangular",
-                "explanation": "Posterior fontanelle is triangular."
-            },
-            {
-                "question": "Anterior fontanelle closes at:",
-                "options": ["6 weeks", "6 months", "18 months", "2 years"],
-                "answer": "18 months",
-                "explanation": "Anterior fontanelle closes around 18 months."
-            },
-            {
-                "question": "Posterior fontanelle closes at:",
-                "options": ["6 weeks", "6 months", "1 year", "18 months"],
-                "answer": "6 weeks",
-                "explanation": "Posterior fontanelle closes at about 6 weeks."
-            },
-            {
-                "question": "Sagittal suture is between:",
-                "options": ["Frontal bones", "Parietal bones", "Occipital bones", "Temporal bones"],
-                "answer": "Parietal bones",
-                "explanation": "Sagittal suture lies between parietal bones."
-            },
-            {
-                "question": "Coronal suture lies between:",
-                "options": ["Parietal & occipital", "Frontal & parietal", "Temporal & parietal", "Frontal & occipital"],
-                "answer": "Frontal & parietal",
-                "explanation": "Coronal suture connects frontal and parietal bones."
-            },
-            {
-                "question": "Lambdoid suture connects:",
-                "options": ["Frontal bones", "Parietal bones", "Parietal & occipital", "Temporal bones"],
-                "answer": "Parietal & occipital",
-                "explanation": "Lambdoid suture connects parietal and occipital bones."
-            },
-            {
-                "question": "Temporal suture is between:",
-                "options": ["Occipital & frontal", "Parietal & temporal", "Frontal & temporal", "Parietal & occipital"],
-                "answer": "Parietal & temporal",
-                "explanation": "Temporal suture lies between parietal and temporal bones."
-            },
-            {
-                "question": "Fontanelles are:",
-                "options": ["Bones", "Muscles", "Suture intersections", "Ligaments"],
-                "answer": "Suture intersections",
-                "explanation": "Fontanelles are junctions where sutures meet."
-            },
-            {
-                "question": "Which is used clinically to assess position?",
-                "options": ["X-ray only", "Pelvic exam", "Blood test", "ECG"],
-                "answer": "Pelvic exam",
-                "explanation": "Pelvic examination helps assess fetal position."
-            },
-            {
-                "question": "Leopold maneuvers assess:",
-                "options": ["Blood flow", "Fetal position", "Hormones", "Infection"],
-                "answer": "Fetal position",
-                "explanation": "Leopold maneuvers determine fetal lie and position."
-            },
-            {
-                "question": "Ultrasound is used to:",
-                "options": ["Measure BP", "Assess fetal presentation", "Treat fetus", "Deliver fetus"],
-                "answer": "Assess fetal presentation",
-                "explanation": "Ultrasound is used to evaluate fetal presentation."
-            },
-            {
-                "question": "Denominator in cephalic presentation is:",
-                "options": ["Chin", "Occiput", "Shoulder", "Back"],
-                "answer": "Occiput",
-                "explanation": "Occiput is the denominator in cephalic presentation."
-            },
-            {
-                "question": "Which indicates severe moulding?",
-                "options": ["0", "+1", "+2", "+3"],
-                "answer": "+3",
-                "explanation": "+3 indicates severe, irreducible moulding."
-            },
-            {
-                "question": "Station +3 indicates:",
-                "options": ["High head", "Engaged head", "Deep descent", "No descent"],
-                "answer": "Deep descent",
-                "explanation": "Positive stations indicate descent; +3 is deep in pelvis."
-            },
-            {
-                "question": "Engagement occurs at:",
-                "options": ["-3", "-1", "0", "+3"],
-                "answer": "0",
-                "explanation": "Engagement is when head reaches ischial spines (station 0)."
-            },
-            {
-                "question": "Flexed head presents:",
-                "options": ["Larger diameter", "Smaller diameter", "Same", "No effect"],
-                "answer": "Smaller diameter",
-                "explanation": "Flexion reduces presenting diameter."
-            },
-            {
-                "question": "Extended head leads to:",
-                "options": ["Easier delivery", "Larger diameter", "Faster descent", "No change"],
-                "answer": "Larger diameter",
-                "explanation": "Extension presents a larger diameter making delivery harder."
-            },
-            {
-                "question": "MOST important factor for safe vaginal delivery:",
-                "options": ["Fetal weight", "Skull moulding ability", "Skin condition", "Maternal age"],
-                "answer": "Skull moulding ability",
-                "explanation": "Moulding allows adaptation of fetal head to pelvis."
-            },
-            {
-                "question": "Failure of moulding leads to:",
-                "options": ["Easy delivery", "Obstructed labor", "Faster labor", "No change"],
-                "answer": "Obstructed labor",
-                "explanation": "Without moulding, head cannot adapt leading to obstruction."
-            },
-            {
-                "question": "Moulding reduces head diameter.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Moulding decreases head diameter for delivery."
-            },
-            {
-                "question": "Moulding occurs before labor.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Moulding occurs during labor due to pressure."
-            },
-            {
-                "question": "+3 moulding is reducible.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "+3 indicates irreducible overlap."
-            },
-            {
-                "question": "Station is related to ischial spines.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Station is measured relative to ischial spines."
-            },
-            {
-                "question": "Longitudinal lie is normal.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Normal fetal lie is longitudinal."
-            },
-            {
-                "question": "Oblique lie is most common.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Longitudinal lie is most common."
-            },
-            {
-                "question": "Attitude refers to fetal parts relation.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Attitude describes relation of fetal parts."
-            },
-            {
-                "question": "Cephalic is normal presentation.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Cephalic is the most common presentation."
-            },
-            {
-                "question": "Breech is head first.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Breech is buttocks first."
-            },
-            {
-                "question": "Shoulder presentation is normal.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Shoulder presentation is abnormal."
-            },
-            {
-                "question": "OA is favorable position.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Occiput anterior is most favorable."
-            },
-            {
-                "question": "Posterior positions are easier.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Posterior positions are more difficult."
-            },
-            {
-                "question": "Fontanelles are bony structures.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "They are soft membranous areas."
-            },
-            {
-                "question": "Anterior fontanelle closes at 18 months.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Closure occurs around 18 months."
-            },
-            {
-                "question": "Posterior fontanelle closes later than anterior.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Posterior closes earlier."
-            },
-            {
-                "question": "Sagittal suture between parietal bones.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It lies between the parietal bones."
-            },
-            {
-                "question": "Coronal suture between frontal & parietal.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It separates frontal from parietal bones."
-            },
-            {
-                "question": "Fetal skull bones are rigid.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "They are flexible to allow moulding."
-            },
-            {
-                "question": "Moulding helps delivery.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It facilitates passage through pelvis."
-            },
-            {
-                "question": "Ultrasound helps assess presentation.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Ultrasound is used to evaluate fetal presentation."
-            }
+            {"question": "Moulding is:", "options": ["Expansion of fetal skull", "Overlapping of fetal skull bones", "Separation of sutures", "Growth of skull"], "answer": "Overlapping of fetal skull bones", "explanation": "Moulding refers to overlapping of fetal skull bones to reduce head diameter during labor."},
+            {"question": "Moulding occurs mainly to:", "options": ["Increase head size", "Reduce head circumference", "Increase pressure", "Stop labor"], "answer": "Reduce head circumference", "explanation": "Moulding reduces head circumference to facilitate passage through the birth canal."},
+            {"question": "Moulding +3 means:", "options": ["Sutures separate", "Sutures meet", "Overlap reducible", "Overlap irreducible"], "answer": "Overlap irreducible", "explanation": "Grade +3 moulding indicates severe overlapping that is not reducible."},
+            {"question": "Station 0 means:", "options": ["Above pelvis", "At ischial spines", "Below outlet", "At cervix"], "answer": "At ischial spines", "explanation": "Station 0 indicates the fetal head is at the level of ischial spines."},
+            {"question": "Station -3 indicates:", "options": ["Deep descent", "Head above pelvis", "Delivery imminent", "Crowning"], "answer": "Head above pelvis", "explanation": "Negative stations indicate the head is above the pelvic inlet."},
+            {"question": "Fetal lie refers to:", "options": ["Head position", "Relation of fetus to cervix", "Relation of long axis fetus to mother", "Presentation"], "answer": "Relation of long axis fetus to mother", "explanation": "Fetal lie describes alignment of fetal and maternal long axes."},
+            {"question": "Normal fetal lie is:", "options": ["Transverse", "Oblique", "Longitudinal", "Circular"], "answer": "Longitudinal", "explanation": "The normal lie is longitudinal for optimal delivery."},
+            {"question": "Fetal attitude describes:", "options": ["Position in pelvis", "Relation of fetal parts", "Type of delivery", "Size of fetus"], "answer": "Relation of fetal parts", "explanation": "Attitude refers to the relation of fetal parts to each other."},
+            {"question": "Flexion of fetal head results in:", "options": ["Larger diameter", "Smaller presenting diameter", "No change", "Obstruction"], "answer": "Smaller presenting diameter", "explanation": "Flexion presents a smaller diameter for easier passage."},
+            {"question": "Most common presentation:", "options": ["Breech", "Shoulder", "Cephalic", "Transverse"], "answer": "Cephalic", "explanation": "Cephalic presentation is the most common and normal."},
+            {"question": "Breech presentation means:", "options": ["Head first", "Shoulder first", "Buttocks first", "Feet only"], "answer": "Buttocks first", "explanation": "Breech presentation is when buttocks present first."},
+            {"question": "Shoulder presentation is MOST associated with:", "options": ["Normal labor", "Transverse lie", "Longitudinal lie", "Flexion"], "answer": "Transverse lie", "explanation": "Shoulder presentation occurs in transverse lie."},
+            {"question": "Fetal position refers to:", "options": ["Lie", "Attitude", "Relation of denominator to pelvis", "Size"], "answer": "Relation of denominator to pelvis", "explanation": "Position describes relation of presenting part to maternal pelvis."},
+            {"question": "In LOA, the occiput is directed:", "options": ["Right posterior", "Left anterior", "Right anterior", "Left posterior"], "answer": "Left anterior", "explanation": "LOA means left occiput anterior."},
+            {"question": "ROA means:", "options": ["Right occiput anterior", "Right outlet axis", "Rotation of axis", "Reverse position"], "answer": "Right occiput anterior", "explanation": "ROA stands for right occiput anterior."},
+            {"question": "Which fetal position is MOST favorable for delivery?", "options": ["ROP", "LOP", "OA", "Transverse"], "answer": "OA", "explanation": "Occiput anterior is the most favorable position."},
+            {"question": "Which is easiest path through pelvis?", "options": ["Posterior positions", "Anterior positions", "Breech", "Shoulder"], "answer": "Anterior positions", "explanation": "Anterior positions allow smoother passage through pelvis."},
+            {"question": "Fetal skull consists of:", "options": ["Bones only", "Sutures only", "Bones + sutures + fontanelles", "Cartilage only"], "answer": "Bones + sutures + fontanelles", "explanation": "Fetal skull includes bones, sutures, and fontanelles."},
+            {"question": "Vault bones include:", "options": ["Temporal", "Frontal + parietal + occipital", "Mandible", "Maxilla"], "answer": "Frontal + parietal + occipital", "explanation": "Vault consists of frontal, parietal, and occipital bones."},
+            {"question": "Which bone is NOT part of vault?", "options": ["Frontal", "Parietal", "Occipital", "Base bones"], "answer": "Base bones", "explanation": "Base bones are not part of skull vault."},
+            {"question": "Anterior fontanelle shape:", "options": ["Triangular", "Square", "Diamond", "Oval"], "answer": "Diamond", "explanation": "Anterior fontanelle is diamond-shaped."},
+            {"question": "Posterior fontanelle is:", "options": ["Diamond", "Square", "Triangular", "Circular"], "answer": "Triangular", "explanation": "Posterior fontanelle is triangular."},
+            {"question": "Anterior fontanelle closes at:", "options": ["6 weeks", "6 months", "18 months", "2 years"], "answer": "18 months", "explanation": "Anterior fontanelle closes around 18 months."},
+            {"question": "Posterior fontanelle closes at:", "options": ["6 weeks", "6 months", "1 year", "18 months"], "answer": "6 weeks", "explanation": "Posterior fontanelle closes at about 6 weeks."},
+            {"question": "Sagittal suture is between:", "options": ["Frontal bones", "Parietal bones", "Occipital bones", "Temporal bones"], "answer": "Parietal bones", "explanation": "Sagittal suture lies between parietal bones."},
+            {"question": "Coronal suture lies between:", "options": ["Parietal & occipital", "Frontal & parietal", "Temporal & parietal", "Frontal & occipital"], "answer": "Frontal & parietal", "explanation": "Coronal suture connects frontal and parietal bones."},
+            {"question": "Lambdoid suture connects:", "options": ["Frontal bones", "Parietal bones", "Parietal & occipital", "Temporal bones"], "answer": "Parietal & occipital", "explanation": "Lambdoid suture connects parietal and occipital bones."},
+            {"question": "Temporal suture is between:", "options": ["Occipital & frontal", "Parietal & temporal", "Frontal & temporal", "Parietal & occipital"], "answer": "Parietal & temporal", "explanation": "Temporal suture lies between parietal and temporal bones."},
+            {"question": "Fontanelles are:", "options": ["Bones", "Muscles", "Suture intersections", "Ligaments"], "answer": "Suture intersections", "explanation": "Fontanelles are junctions where sutures meet."},
+            {"question": "Which is used clinically to assess position?", "options": ["X-ray only", "Pelvic exam", "Blood test", "ECG"], "answer": "Pelvic exam", "explanation": "Pelvic examination helps assess fetal position."},
+            {"question": "Leopold maneuvers assess:", "options": ["Blood flow", "Fetal position", "Hormones", "Infection"], "answer": "Fetal position", "explanation": "Leopold maneuvers determine fetal lie and position."},
+            {"question": "Ultrasound is used to:", "options": ["Measure BP", "Assess fetal presentation", "Treat fetus", "Deliver fetus"], "answer": "Assess fetal presentation", "explanation": "Ultrasound is used to evaluate fetal presentation."},
+            {"question": "Denominator in cephalic presentation is:", "options": ["Chin", "Occiput", "Shoulder", "Back"], "answer": "Occiput", "explanation": "Occiput is the denominator in cephalic presentation."},
+            {"question": "Which indicates severe moulding?", "options": ["0", "+1", "+2", "+3"], "answer": "+3", "explanation": "+3 indicates severe, irreducible moulding."},
+            {"question": "Station +3 indicates:", "options": ["High head", "Engaged head", "Deep descent", "No descent"], "answer": "Deep descent", "explanation": "Positive stations indicate descent; +3 is deep in pelvis."},
+            {"question": "Engagement occurs at:", "options": ["-3", "-1", "0", "+3"], "answer": "0", "explanation": "Engagement is when head reaches ischial spines (station 0)."},
+            {"question": "Flexed head presents:", "options": ["Larger diameter", "Smaller diameter", "Same", "No effect"], "answer": "Smaller diameter", "explanation": "Flexion reduces presenting diameter."},
+            {"question": "Extended head leads to:", "options": ["Easier delivery", "Larger diameter", "Faster descent", "No change"], "answer": "Larger diameter", "explanation": "Extension presents a larger diameter making delivery harder."},
+            {"question": "MOST important factor for safe vaginal delivery:", "options": ["Fetal weight", "Skull moulding ability", "Skin condition", "Maternal age"], "answer": "Skull moulding ability", "explanation": "Moulding allows adaptation of fetal head to pelvis."},
+            {"question": "Failure of moulding leads to:", "options": ["Easy delivery", "Obstructed labor", "Faster labor", "No change"], "answer": "Obstructed labor", "explanation": "Without moulding, head cannot adapt leading to obstruction."},
+            {"question": "Moulding reduces head diameter.", "options": ["True", "False"], "answer": "True", "explanation": "Moulding decreases head diameter for delivery."},
+            {"question": "Moulding occurs before labor.", "options": ["True", "False"], "answer": "False", "explanation": "Moulding occurs during labor due to pressure."},
+            {"question": "+3 moulding is reducible.", "options": ["True", "False"], "answer": "False", "explanation": "+3 indicates irreducible overlap."},
+            {"question": "Station is related to ischial spines.", "options": ["True", "False"], "answer": "True", "explanation": "Station is measured relative to ischial spines."},
+            {"question": "Longitudinal lie is normal.", "options": ["True", "False"], "answer": "True", "explanation": "Normal fetal lie is longitudinal."},
+            {"question": "Oblique lie is most common.", "options": ["True", "False"], "answer": "False", "explanation": "Longitudinal lie is most common."},
+            {"question": "Attitude refers to fetal parts relation.", "options": ["True", "False"], "answer": "True", "explanation": "Attitude describes relation of fetal parts."},
+            {"question": "Cephalic is normal presentation.", "options": ["True", "False"], "answer": "True", "explanation": "Cephalic is the most common presentation."},
+            {"question": "Breech is head first.", "options": ["True", "False"], "answer": "False", "explanation": "Breech is buttocks first."},
+            {"question": "Shoulder presentation is normal.", "options": ["True", "False"], "answer": "False", "explanation": "Shoulder presentation is abnormal."},
+            {"question": "OA is favorable position.", "options": ["True", "False"], "answer": "True", "explanation": "Occiput anterior is most favorable."},
+            {"question": "Posterior positions are easier.", "options": ["True", "False"], "answer": "False", "explanation": "Posterior positions are more difficult."},
+            {"question": "Fontanelles are bony structures.", "options": ["True", "False"], "answer": "False", "explanation": "They are soft membranous areas."},
+            {"question": "Anterior fontanelle closes at 18 months.", "options": ["True", "False"], "answer": "True", "explanation": "Closure occurs around 18 months."},
+            {"question": "Posterior fontanelle closes later than anterior.", "options": ["True", "False"], "answer": "False", "explanation": "Posterior closes earlier."},
+            {"question": "Sagittal suture between parietal bones.", "options": ["True", "False"], "answer": "True", "explanation": "It lies between the parietal bones."},
+            {"question": "Coronal suture between frontal & parietal.", "options": ["True", "False"], "answer": "True", "explanation": "It separates frontal from parietal bones."},
+            {"question": "Fetal skull bones are rigid.", "options": ["True", "False"], "answer": "False", "explanation": "They are flexible to allow moulding."},
+            {"question": "Moulding helps delivery.", "options": ["True", "False"], "answer": "True", "explanation": "It facilitates passage through pelvis."},
+            {"question": "Ultrasound helps assess presentation.", "options": ["True", "False"], "answer": "True", "explanation": "Ultrasound is used to evaluate fetal presentation."}
+
         ],
         "L4 Menstrual cycle": [
-            {
-                "question": "Menstrual cycle is best defined as:",
-                "options": ["Weekly hormonal change", "Monthly uterine bleeding only", "Monthly cyclic changes preparing for pregnancy", "Ovarian growth only"],
-                "answer": "Monthly cyclic changes preparing for pregnancy",
-                "explanation": "The menstrual cycle includes hormonal, uterine, and ovarian changes preparing the body for pregnancy."
-            },
-            {
-                "question": "Normal cycle length:",
-                "options": ["10–15 days", "21–35 days", "40–50 days", "5–10 days"],
-                "answer": "21–35 days",
-                "explanation": "Normal menstrual cycle length ranges from 21 to 35 days."
-            },
-            {
-                "question": "Menarche means:",
-                "options": ["Ovulation", "First menstruation", "End of cycle", "Fertilization"],
-                "answer": "First menstruation",
-                "explanation": "Menarche refers to the first menstrual period."
-            },
-            {
-                "question": "Menopause occurs around:",
-                "options": ["20–30 years", "30–40 years", "45–50 years", "60–70 years"],
-                "answer": "45–50 years",
-                "explanation": "Menopause typically occurs between ages 45 and 50."
-            },
-            {
-                "question": "Average number of cycles in life:",
-                "options": ["100", "200", "400", "600"],
-                "answer": "400",
-                "explanation": "A woman experiences approximately 400 menstrual cycles in her lifetime."
-            },
-            {
-                "question": "GnRH is secreted from:",
-                "options": ["Ovary", "Pituitary", "Hypothalamus", "Uterus"],
-                "answer": "Hypothalamus",
-                "explanation": "GnRH is secreted from the hypothalamus."
-            },
-            {
-                "question": "FSH is secreted from:",
-                "options": ["Ovary", "Anterior pituitary", "Hypothalamus", "Adrenal"],
-                "answer": "Anterior pituitary",
-                "explanation": "FSH is secreted from the anterior pituitary gland."
-            },
-            {
-                "question": "FSH function is:",
-                "options": ["Ovulation", "Maintain pregnancy", "Stimulate follicle growth", "Inhibit estrogen"],
-                "answer": "Stimulate follicle growth",
-                "explanation": "FSH stimulates growth of ovarian follicles."
-            },
-            {
-                "question": "LH surge causes:",
-                "options": ["Menstruation", "Ovulation", "Fertilization", "Implantation"],
-                "answer": "Ovulation",
-                "explanation": "LH surge triggers ovulation."
-            },
-            {
-                "question": "LH also stimulates:",
-                "options": ["Estrogen only", "Corpus luteum → progesterone", "FSH", "GnRH"],
-                "answer": "Corpus luteum → progesterone",
-                "explanation": "LH stimulates corpus luteum formation and progesterone secretion."
-            },
-            {
-                "question": "Estrogen function:",
-                "options": ["Shedding", "Build endometrium", "Stop ovulation", "Reduce blood flow"],
-                "answer": "Build endometrium",
-                "explanation": "Estrogen promotes proliferation of the endometrium."
-            },
-            {
-                "question": "Estrogen causes:",
-                "options": ["FSH increase only", "LH surge", "Progesterone decrease", "Ovum degeneration"],
-                "answer": "LH surge",
-                "explanation": "High estrogen levels trigger LH surge via positive feedback."
-            },
-            {
-                "question": "Progesterone is secreted from:",
-                "options": ["Follicle", "Corpus luteum", "Pituitary", "Hypothalamus"],
-                "answer": "Corpus luteum",
-                "explanation": "Corpus luteum secretes progesterone."
-            },
-            {
-                "question": "Progesterone effect:",
-                "options": ["Increase FSH", "Maintain endometrium", "Trigger ovulation", "Decrease temperature"],
-                "answer": "Maintain endometrium",
-                "explanation": "Progesterone maintains the endometrium for implantation."
-            },
-            {
-                "question": "Progesterone increases:",
-                "options": ["BP", "Temperature", "Glucose", "Pulse"],
-                "answer": "Temperature",
-                "explanation": "Progesterone increases basal body temperature."
-            },
-            {
-                "question": "Ovarian cycle phases:",
-                "options": ["2", "3", "4", "5"],
-                "answer": "3",
-                "explanation": "Ovarian cycle includes follicular, ovulation, and luteal phases."
-            },
-            {
-                "question": "Follicular phase occurs:",
-                "options": ["After ovulation", "Before ovulation", "During pregnancy", "After menopause"],
-                "answer": "Before ovulation",
-                "explanation": "Follicular phase precedes ovulation."
-            },
-            {
-                "question": "During follicular phase:",
-                "options": ["Progesterone dominant", "Estrogen rises", "LH falls", "No hormones"],
-                "answer": "Estrogen rises",
-                "explanation": "Estrogen levels increase during follicular phase."
-            },
-            {
-                "question": "Ovulation occurs around:",
-                "options": ["Day 1", "Day 7", "Day 14", "Day 28"],
-                "answer": "Day 14",
-                "explanation": "Ovulation typically occurs around day 14 in a 28-day cycle."
-            },
-            {
-                "question": "Ovulation is triggered by:",
-                "options": ["FSH", "Estrogen drop", "LH surge", "Progesterone"],
-                "answer": "LH surge",
-                "explanation": "LH surge triggers ovulation."
-            },
-            {
-                "question": "Luteal phase dominated by:",
-                "options": ["FSH", "LH", "Estrogen", "Progesterone"],
-                "answer": "Progesterone",
-                "explanation": "Progesterone dominates the luteal phase."
-            },
-            {
-                "question": "If no fertilization:",
-                "options": ["LH increases", "Corpus luteum persists", "Hormones drop", "Ovulation repeats"],
-                "answer": "Hormones drop",
-                "explanation": "Without fertilization, hormone levels fall leading to menstruation."
-            },
-            {
-                "question": "Menstrual phase occurs:",
-                "options": ["Day 1–5", "Day 6–10", "Day 10–15", "Day 20–25"],
-                "answer": "Day 1–5",
-                "explanation": "Menstrual phase usually occurs in first 5 days."
-            },
-            {
-                "question": "Cause of menstruation:",
-                "options": ["High estrogen", "High progesterone", "Hormonal drop", "LH surge"],
-                "answer": "Hormonal drop",
-                "explanation": "Menstruation is caused by drop in estrogen and progesterone."
-            },
-            {
-                "question": "Proliferative phase depends on:",
-                "options": ["Progesterone", "Estrogen", "LH", "FSH"],
-                "answer": "Estrogen",
-                "explanation": "Estrogen drives endometrial proliferation."
-            },
-            {
-                "question": "Secretory phase depends on:",
-                "options": ["FSH", "LH", "Estrogen", "Progesterone"],
-                "answer": "Progesterone",
-                "explanation": "Progesterone prepares endometrium for implantation."
-            },
-            {
-                "question": "Endometrial thickening occurs in:",
-                "options": ["Menstrual phase", "Proliferative phase", "Secretory phase", "Ischemic"],
-                "answer": "Proliferative phase",
-                "explanation": "Endometrium thickens under estrogen influence."
-            },
-            {
-                "question": "Implantation occurs:",
-                "options": ["Day 1", "Day 6 of secretory phase", "Day 14", "Day 28"],
-                "answer": "Day 6 of secretory phase",
-                "explanation": "Implantation occurs around day 6 after ovulation."
-            },
-            {
-                "question": "HCG function:",
-                "options": ["Stop ovulation", "Maintain corpus luteum", "Increase FSH", "Decrease estrogen"],
-                "answer": "Maintain corpus luteum",
-                "explanation": "HCG maintains corpus luteum in early pregnancy."
-            },
-            {
-                "question": "If no HCG:",
-                "options": ["CL grows", "CL degenerates", "Estrogen rises", "Ovulation repeats"],
-                "answer": "CL degenerates",
-                "explanation": "Without HCG, corpus luteum degenerates."
-            },
-            {
-                "question": "Decidua basalis function:",
-                "options": ["Shedding", "Regeneration", "Blood supply", "Hormones"],
-                "answer": "Regeneration",
-                "explanation": "Decidua basalis contributes to regeneration after menstruation."
-            },
-            {
-                "question": "Spiral arteries are important in:",
-                "options": ["Follicular phase", "Proliferative phase", "Secretory phase", "Ovulation"],
-                "answer": "Secretory phase",
-                "explanation": "Spiral arteries develop in secretory phase."
-            },
-            {
-                "question": "Menstrual blood loss:",
-                "options": ["10 ml", "20 ml", "50–80 ml", "100 ml"],
-                "answer": "50–80 ml",
-                "explanation": "Average blood loss is 50–80 ml."
-            },
-            {
-                "question": "Duration of menstruation:",
-                "options": ["1 day", "2–7 days", "10 days", "14 days"],
-                "answer": "2–7 days",
-                "explanation": "Normal duration is 2–7 days."
-            },
-            {
-                "question": "MOST important hormone triggering ovulation:",
-                "options": ["FSH", "LH", "Estrogen", "Progesterone"],
-                "answer": "LH",
-                "explanation": "LH surge is the key trigger for ovulation."
-            },
-            {
-                "question": "MOST important hormone maintaining pregnancy early:",
-                "options": ["FSH", "LH", "HCG", "GnRH"],
-                "answer": "HCG",
-                "explanation": "HCG maintains corpus luteum in early pregnancy."
-            },
-            {
-                "question": "Negative feedback mainly done by:",
-                "options": ["LH", "Estrogen", "Progesterone", "FSH"],
-                "answer": "Estrogen",
-                "explanation": "Estrogen exerts negative feedback on hypothalamus and pituitary."
-            },
-            {
-                "question": "Oogenesis means:",
-                "options": ["Ovulation", "Egg formation", "Implantation", "Fertilization"],
-                "answer": "Egg formation",
-                "explanation": "Oogenesis is formation of ova."
-            },
-            {
-                "question": "Corpus luteum forms from:",
-                "options": ["Ovum", "Graafian follicle", "Endometrium", "Pituitary"],
-                "answer": "Graafian follicle",
-                "explanation": "Corpus luteum forms from ruptured follicle."
-            },
-            {
-                "question": "MOST critical event determining cycle continuation:",
-                "options": ["LH surge", "Ovulation", "Presence of HCG", "Estrogen rise"],
-                "answer": "Presence of HCG",
-                "explanation": "Presence of HCG determines continuation of pregnancy and cycle."
-            },
-            {
-                "question": "Menstrual cycle is hormonally controlled.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Hormones regulate the menstrual cycle."
-            },
-            {
-                "question": "Menarche is end of menstruation.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Menarche is the first menstruation."
-            },
-            {
-                "question": "GnRH stimulates FSH and LH.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "GnRH stimulates release of FSH and LH."
-            },
-            {
-                "question": "FSH triggers ovulation.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "LH triggers ovulation."
-            },
-            {
-                "question": "LH triggers ovulation.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "LH surge causes ovulation."
-            },
-            {
-                "question": "Estrogen repairs endometrium.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Estrogen rebuilds endometrium."
-            },
-            {
-                "question": "Progesterone maintains endometrium.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Progesterone maintains endometrium."
-            },
-            {
-                "question": "Progesterone lowers temperature.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Progesterone raises temperature."
-            },
-            {
-                "question": "Follicular phase after ovulation.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Follicular phase occurs before ovulation."
-            },
-            {
-                "question": "Luteal phase after ovulation.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Luteal phase follows ovulation."
-            },
-            {
-                "question": "Menstruation due to high hormones.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It occurs due to hormone withdrawal."
-            },
-            {
-                "question": "HCG maintains corpus luteum.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "HCG supports corpus luteum in early pregnancy."
-            },
-            {
-                "question": "Without fertilization hormones drop.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Hormone levels decrease without fertilization."
-            },
-            {
-                "question": "Proliferative phase estrogen-dependent.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Estrogen drives proliferative phase."
-            },
-            {
-                "question": "Secretory phase progesterone-dependent.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Progesterone controls secretory phase."
-            },
-            {
-                "question": "Spiral arteries develop in secretory phase.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "They develop during secretory phase."
-            },
-            {
-                "question": "Decidua basalis sheds.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Decidua basalis does not shed."
-            },
-            {
-                "question": "Implantation occurs in luteal phase.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Implantation occurs during luteal phase."
-            },
-            {
-                "question": "Cycle length always 28 days.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Cycle length varies between individuals."
-            },
-            {
-                "question": "Menstrual cycle stops during pregnancy.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Menstruation stops during pregnancy."
-            }
+            {"question": "Menstrual cycle is best defined as:", "options": ["Weekly hormonal change", "Monthly uterine bleeding only", "Monthly cyclic changes preparing for pregnancy", "Ovarian growth only"], "answer": "Monthly cyclic changes preparing for pregnancy", "explanation": "The menstrual cycle includes hormonal, uterine, and ovarian changes preparing the body for pregnancy."},
+            {"question": "Normal cycle length:", "options": ["10–15 days", "21–35 days", "40–50 days", "5–10 days"], "answer": "21–35 days", "explanation": "Normal menstrual cycle length ranges from 21 to 35 days."},
+            {"question": "Menarche means:", "options": ["Ovulation", "First menstruation", "End of cycle", "Fertilization"], "answer": "First menstruation", "explanation": "Menarche refers to the first menstrual period."},
+            {"question": "Menopause occurs around:", "options": ["20–30 years", "30–40 years", "45–50 years", "60–70 years"], "answer": "45–50 years", "explanation": "Menopause typically occurs between ages 45 and 50."},
+            {"question": "Average number of cycles in life:", "options": ["100", "200", "400", "600"], "answer": "400", "explanation": "A woman experiences approximately 400 menstrual cycles in her lifetime."},
+            {"question": "GnRH is secreted from:", "options": ["Ovary", "Pituitary", "Hypothalamus", "Uterus"], "answer": "Hypothalamus", "explanation": "GnRH is secreted from the hypothalamus."},
+            {"question": "FSH is secreted from:", "options": ["Ovary", "Anterior pituitary", "Hypothalamus", "Adrenal"], "answer": "Anterior pituitary", "explanation": "FSH is secreted from the anterior pituitary gland."},
+            {"question": "FSH function is:", "options": ["Ovulation", "Maintain pregnancy", "Stimulate follicle growth", "Inhibit estrogen"], "answer": "Stimulate follicle growth", "explanation": "FSH stimulates growth of ovarian follicles."},
+            {"question": "LH surge causes:", "options": ["Menstruation", "Ovulation", "Fertilization", "Implantation"], "answer": "Ovulation", "explanation": "LH surge triggers ovulation."},
+            {"question": "LH also stimulates:", "options": ["Estrogen only", "Corpus luteum → progesterone", "FSH", "GnRH"], "answer": "Corpus luteum → progesterone", "explanation": "LH stimulates corpus luteum formation and progesterone secretion."},
+            {"question": "Estrogen function:", "options": ["Shedding", "Build endometrium", "Stop ovulation", "Reduce blood flow"], "answer": "Build endometrium", "explanation": "Estrogen promotes proliferation of the endometrium."},
+            {"question": "Estrogen causes:", "options": ["FSH increase only", "LH surge", "Progesterone decrease", "Ovum degeneration"], "answer": "LH surge", "explanation": "High estrogen levels trigger LH surge via positive feedback."},
+            {"question": "Progesterone is secreted from:", "options": ["Follicle", "Corpus luteum", "Pituitary", "Hypothalamus"], "answer": "Corpus luteum", "explanation": "Corpus luteum secretes progesterone."},
+            {"question": "Progesterone effect:", "options": ["Increase FSH", "Maintain endometrium", "Trigger ovulation", "Decrease temperature"], "answer": "Maintain endometrium", "explanation": "Progesterone maintains the endometrium for implantation."},
+            {"question": "Progesterone increases:", "options": ["BP", "Temperature", "Glucose", "Pulse"], "answer": "Temperature", "explanation": "Progesterone increases basal body temperature."},
+            {"question": "Ovarian cycle phases:", "options": ["2", "3", "4", "5"], "answer": "3", "explanation": "Ovarian cycle includes follicular, ovulation, and luteal phases."},
+            {"question": "Follicular phase occurs:", "options": ["After ovulation", "Before ovulation", "During pregnancy", "After menopause"], "answer": "Before ovulation", "explanation": "Follicular phase precedes ovulation."},
+            {"question": "During follicular phase:", "options": ["Progesterone dominant", "Estrogen rises", "LH falls", "No hormones"], "answer": "Estrogen rises", "explanation": "Estrogen levels increase during follicular phase."},
+            {"question": "Ovulation occurs around:", "options": ["Day 1", "Day 7", "Day 14", "Day 28"], "answer": "Day 14", "explanation": "Ovulation typically occurs around day 14 in a 28-day cycle."},
+            {"question": "Ovulation is triggered by:", "options": ["FSH", "Estrogen drop", "LH surge", "Progesterone"], "answer": "LH surge", "explanation": "LH surge triggers ovulation."},
+            {"question": "Luteal phase dominated by:", "options": ["FSH", "LH", "Estrogen", "Progesterone"], "answer": "Progesterone", "explanation": "Progesterone dominates the luteal phase."},
+            {"question": "If no fertilization:", "options": ["LH increases", "Corpus luteum persists", "Hormones drop", "Ovulation repeats"], "answer": "Hormones drop", "explanation": "Without fertilization, hormone levels fall leading to menstruation."},
+            {"question": "Menstrual phase occurs:", "options": ["Day 1–5", "Day 6–10", "Day 10–15", "Day 20–25"], "answer": "Day 1–5", "explanation": "Menstrual phase usually occurs in first 5 days."},
+            {"question": "Cause of menstruation:", "options": ["High estrogen", "High progesterone", "Hormonal drop", "LH surge"], "answer": "Hormonal drop", "explanation": "Menstruation is caused by drop in estrogen and progesterone."},
+            {"question": "Proliferative phase depends on:", "options": ["Progesterone", "Estrogen", "LH", "FSH"], "answer": "Estrogen", "explanation": "Estrogen drives endometrial proliferation."},
+            {"question": "Secretory phase depends on:", "options": ["FSH", "LH", "Estrogen", "Progesterone"], "answer": "Progesterone", "explanation": "Progesterone prepares endometrium for implantation."},
+            {"question": "Endometrial thickening occurs in:", "options": ["Menstrual phase", "Proliferative phase", "Secretory phase", "Ischemic"], "answer": "Proliferative phase", "explanation": "Endometrium thickens under estrogen influence."},
+            {"question": "Implantation occurs:", "options": ["Day 1", "Day 6 of secretory phase", "Day 14", "Day 28"], "answer": "Day 6 of secretory phase", "explanation": "Implantation occurs around day 6 after ovulation."},
+            {"question": "HCG function:", "options": ["Stop ovulation", "Maintain corpus luteum", "Increase FSH", "Decrease estrogen"], "answer": "Maintain corpus luteum", "explanation": "HCG maintains corpus luteum in early pregnancy."},
+            {"question": "If no HCG:", "options": ["CL grows", "CL degenerates", "Estrogen rises", "Ovulation repeats"], "answer": "CL degenerates", "explanation": "Without HCG, corpus luteum degenerates."},
+            {"question": "Decidua basalis function:", "options": ["Shedding", "Regeneration", "Blood supply", "Hormones"], "answer": "Regeneration", "explanation": "Decidua basalis contributes to regeneration after menstruation."},
+            {"question": "Spiral arteries are important in:", "options": ["Follicular phase", "Proliferative phase", "Secretory phase", "Ovulation"], "answer": "Secretory phase", "explanation": "Spiral arteries develop in secretory phase."},
+            {"question": "Menstrual blood loss:", "options": ["10 ml", "20 ml", "50–80 ml", "100 ml"], "answer": "50–80 ml", "explanation": "Average blood loss is 50–80 ml."},
+            {"question": "Duration of menstruation:", "options": ["1 day", "2–7 days", "10 days", "14 days"], "answer": "2–7 days", "explanation": "Normal duration is 2–7 days."},
+            {"question": "MOST important hormone triggering ovulation:", "options": ["FSH", "LH", "Estrogen", "Progesterone"], "answer": "LH", "explanation": "LH surge is the key trigger for ovulation."},
+            {"question": "MOST important hormone maintaining pregnancy early:", "options": ["FSH", "LH", "HCG", "GnRH"], "answer": "HCG", "explanation": "HCG maintains corpus luteum in early pregnancy."},
+            {"question": "Negative feedback mainly done by:", "options": ["LH", "Estrogen", "Progesterone", "FSH"], "answer": "Estrogen", "explanation": "Estrogen exerts negative feedback on hypothalamus and pituitary."},
+            {"question": "Oogenesis means:", "options": ["Ovulation", "Egg formation", "Implantation", "Fertilization"], "answer": "Egg formation", "explanation": "Oogenesis is formation of ova."},
+            {"question": "Corpus luteum forms from:", "options": ["Ovum", "Graafian follicle", "Endometrium", "Pituitary"], "answer": "Graafian follicle", "explanation": "Corpus luteum forms from ruptured follicle."},
+            {"question": "MOST critical event determining cycle continuation:", "options": ["LH surge", "Ovulation", "Presence of HCG", "Estrogen rise"], "answer": "Presence of HCG", "explanation": "Presence of HCG determines continuation of pregnancy and cycle."},
+            {"question": "Menstrual cycle is hormonally controlled.", "options": ["True", "False"], "answer": "True", "explanation": "Hormones regulate the menstrual cycle."},
+            {"question": "Menarche is end of menstruation.", "options": ["True", "False"], "answer": "False", "explanation": "Menarche is the first menstruation."},
+            {"question": "GnRH stimulates FSH and LH.", "options": ["True", "False"], "answer": "True", "explanation": "GnRH stimulates release of FSH and LH."},
+            {"question": "FSH triggers ovulation.", "options": ["True", "False"], "answer": "False", "explanation": "LH triggers ovulation."},
+            {"question": "LH triggers ovulation.", "options": ["True", "False"], "answer": "True", "explanation": "LH surge causes ovulation."},
+            {"question": "Estrogen repairs endometrium.", "options": ["True", "False"], "answer": "True", "explanation": "Estrogen rebuilds endometrium."},
+            {"question": "Progesterone maintains endometrium.", "options": ["True", "False"], "answer": "True", "explanation": "Progesterone maintains endometrium."},
+            {"question": "Progesterone lowers temperature.", "options": ["True", "False"], "answer": "False", "explanation": "Progesterone raises temperature."},
+            {"question": "Follicular phase after ovulation.", "options": ["True", "False"], "answer": "False", "explanation": "Follicular phase occurs before ovulation."},
+            {"question": "Luteal phase after ovulation.", "options": ["True", "False"], "answer": "True", "explanation": "Luteal phase follows ovulation."},
+            {"question": "Menstruation due to high hormones.", "options": ["True", "False"], "answer": "False", "explanation": "It occurs due to hormone withdrawal."},
+            {"question": "HCG maintains corpus luteum.", "options": ["True", "False"], "answer": "True", "explanation": "HCG supports corpus luteum in early pregnancy."},
+            {"question": "Without fertilization hormones drop.", "options": ["True", "False"], "answer": "True", "explanation": "Hormone levels decrease without fertilization."},
+            {"question": "Proliferative phase estrogen-dependent.", "options": ["True", "False"], "answer": "True", "explanation": "Estrogen drives proliferative phase."},
+            {"question": "Secretory phase progesterone-dependent.", "options": ["True", "False"], "answer": "True", "explanation": "Progesterone controls secretory phase."},
+            {"question": "Spiral arteries develop in secretory phase.", "options": ["True", "False"], "answer": "True", "explanation": "They develop during secretory phase."},
+            {"question": "Decidua basalis sheds.", "options": ["True", "False"], "answer": "False", "explanation": "Decidua basalis does not shed."},
+            {"question": "Implantation occurs in luteal phase.", "options": ["True", "False"], "answer": "True", "explanation": "Implantation occurs during luteal phase."},
+            {"question": "Cycle length always 28 days.", "options": ["True", "False"], "answer": "False", "explanation": "Cycle length varies between individuals."},
+            {"question": "Menstrual cycle stops during pregnancy.", "options": ["True", "False"], "answer": "True", "explanation": "Menstruation stops during pregnancy."}
+
         ],
         "L5 Fertilization": [
-            {
-                "question": "Fertilization is defined as:",
-                "options": ["Union of uterus and ovary", "Penetration of sperm into ovum", "Ovulation", "Implantation"],
-                "answer": "Penetration of sperm into ovum",
-                "explanation": "Fertilization is the penetration of sperm into the ovum."
-            },
-            {
-                "question": "Fertilization normally occurs in:",
-                "options": ["Uterus", "Cervix", "Ampulla of fallopian tube", "Vagina"],
-                "answer": "Ampulla of fallopian tube",
-                "explanation": "Fertilization usually occurs in the ampulla of the fallopian tube."
-            },
-            {
-                "question": "The ovum reaches uterus after fertilization in:",
-                "options": ["1 day", "2 days", "3–4 days", "7 days"],
-                "answer": "3–4 days",
-                "explanation": "The fertilized ovum reaches the uterus in about 3–4 days."
-            },
-            {
-                "question": "Number of sperms deposited:",
-                "options": ["1–10 million", "20–50 million", "60–150 million", "200 million"],
-                "answer": "60–150 million",
-                "explanation": "Approximately 60–150 million sperms are deposited during ejaculation."
-            },
-            {
-                "question": "Sperm reach cervix within:",
-                "options": ["5 min", "1 hour", "90 seconds", "10 minutes"],
-                "answer": "90 seconds",
-                "explanation": "Sperms can reach the cervix within about 90 seconds."
-            },
-            {
-                "question": "Only how many sperm fertilize ovum?",
-                "options": ["2", "10", "1", "Many"],
-                "answer": "1",
-                "explanation": "Only one sperm fertilizes the ovum."
-            },
-            {
-                "question": "Failure of single sperm entry leads to:",
-                "options": ["Normal fetus", "Twins", "Abnormal fertilization", "Implantation"],
-                "answer": "Abnormal fertilization",
-                "explanation": "Multiple sperm entry leads to abnormal fertilization."
-            },
-            {
-                "question": "Zygote is formed by:",
-                "options": ["Ovulation", "Fusion of nuclei", "Implantation", "Meiosis"],
-                "answer": "Fusion of nuclei",
-                "explanation": "Zygote forms after fusion of male and female nuclei."
-            },
-            {
-                "question": "Ovum survival:",
-                "options": ["1 day", "2 days", "5 days", "7 days"],
-                "answer": "2 days",
-                "explanation": "Ovum survives for about 24–48 hours."
-            },
-            {
-                "question": "Sperm survival:",
-                "options": ["1 day", "2 days", "3 days", "7 days"],
-                "answer": "3 days",
-                "explanation": "Sperm can survive up to 3 days in female tract."
-            },
-            {
-                "question": "Sex of baby is determined by:",
-                "options": ["Mother", "Father", "Both equally", "Uterus"],
-                "answer": "Father",
-                "explanation": "Father determines sex through X or Y chromosome."
-            },
-            {
-                "question": "Female baby results from:",
-                "options": ["XX sperm", "XY sperm", "X sperm fertilizing ovum", "Y sperm fertilizing ovum"],
-                "answer": "X sperm fertilizing ovum",
-                "explanation": "X sperm results in female (XX)."
-            },
-            {
-                "question": "Male baby results from:",
-                "options": ["X sperm", "Y sperm", "XX ovum", "XY ovum"],
-                "answer": "Y sperm",
-                "explanation": "Y sperm results in male (XY)."
-            },
-            {
-                "question": "Chromosome number in sperm:",
-                "options": ["46", "23", "22", "44"],
-                "answer": "23",
-                "explanation": "Sperm contains 23 chromosomes."
-            },
-            {
-                "question": "Morula stage contains:",
-                "options": ["2 cells", "4 cells", "8 cells", "8–16 cells"],
-                "answer": "8–16 cells",
-                "explanation": "Morula stage consists of 8–16 cells."
-            },
-            {
-                "question": "Cell division begins:",
-                "options": ["Immediately", "After 24 hours", "After 3 days", "After implantation"],
-                "answer": "After 24 hours",
-                "explanation": "Cell division begins about 24 hours after fertilization."
-            },
-            {
-                "question": "Blastocyst forms after:",
-                "options": ["Fertilization", "Morula stage", "Implantation", "Ovulation"],
-                "answer": "Morula stage",
-                "explanation": "Blastocyst develops from morula."
-            },
-            {
-                "question": "Trophoblast function:",
-                "options": ["Form embryo", "Form placenta", "Form ovum", "Form uterus"],
-                "answer": "Form placenta",
-                "explanation": "Trophoblast contributes to placenta formation."
-            },
-            {
-                "question": "Inner cell mass forms:",
-                "options": ["Placenta", "Fetus", "Blood", "Hormones"],
-                "answer": "Fetus",
-                "explanation": "Inner cell mass develops into fetus."
-            },
-            {
-                "question": "Cytotrophoblast secretes:",
-                "options": ["LH", "FSH", "HCG", "Estrogen"],
-                "answer": "HCG",
-                "explanation": "Trophoblastic cells produce HCG."
-            },
-            {
-                "question": "HCG function:",
-                "options": ["Stop ovulation", "Maintain corpus luteum", "Destroy ovum", "Form placenta"],
-                "answer": "Maintain corpus luteum",
-                "explanation": "HCG maintains corpus luteum to sustain pregnancy."
-            },
-            {
-                "question": "Blastocyst implantation occurs:",
-                "options": ["Day 5", "Day 7", "Day 12–14", "Day 20"],
-                "answer": "Day 12–14",
-                "explanation": "Implantation occurs around day 12–14."
-            },
-            {
-                "question": "Site of implantation:",
-                "options": ["Cervix", "Lower uterus", "Upper uterus", "Ovary"],
-                "answer": "Upper uterus",
-                "explanation": "Implantation usually occurs in upper uterine wall."
-            },
-            {
-                "question": "Decidua means:",
-                "options": ["Non-pregnant uterus", "Pregnant endometrium", "Placenta", "Ovum"],
-                "answer": "Pregnant endometrium",
-                "explanation": "Decidua is the endometrium during pregnancy."
-            },
-            {
-                "question": "Decidua basalis:",
-                "options": ["Surrounds embryo", "Under embryo", "Outer layer", "Blood supply"],
-                "answer": "Under embryo",
-                "explanation": "Decidua basalis lies beneath the implanted embryo."
-            },
-            {
-                "question": "Decidua capsularis:",
-                "options": ["Covers blastocyst", "Under blastocyst", "Forms placenta", "Forms cord"],
-                "answer": "Covers blastocyst",
-                "explanation": "Decidua capsularis covers the blastocyst."
-            },
-            {
-                "question": "Decidua vera:",
-                "options": ["Under embryo", "Surrounds embryo", "Remaining uterine lining", "Placenta"],
-                "answer": "Remaining uterine lining",
-                "explanation": "Decidua vera is the remaining uterine lining."
-            },
-            {
-                "question": "Decidua function:",
-                "options": ["Only support", "Only nutrition", "Implantation + nutrition + protection", "Hormone secretion"],
-                "answer": "Implantation + nutrition + protection",
-                "explanation": "Decidua supports implantation, nutrition, and protection."
-            },
-            {
-                "question": "Amniotic fluid volume:",
-                "options": ["100 ml", "200 ml", "0.5–1.5 L", "3 L"],
-                "answer": "0.5–1.5 L",
-                "explanation": "Normal amniotic fluid is about 0.5–1.5 liters."
-            },
-            {
-                "question": "Main component of amniotic fluid:",
-                "options": ["Protein", "Water", "Fat", "Glucose"],
-                "answer": "Water",
-                "explanation": "Amniotic fluid is mainly water."
-            },
-            {
-                "question": "Amniotic fluid function:",
-                "options": ["Nutrition", "Protection", "Movement", "All"],
-                "answer": "All",
-                "explanation": "Amniotic fluid provides nutrition, protection, and allows movement."
-            },
-            {
-                "question": "Placenta formed from:",
-                "options": ["Endometrium only", "Chorion + villi + decidua basalis", "Ovary", "Cord"],
-                "answer": "Chorion + villi + decidua basalis",
-                "explanation": "Placenta forms from chorion, villi, and decidua basalis."
-            },
-            {
-                "question": "Placenta weight:",
-                "options": ["100 g", "200 g", "450–600 g", "1 kg"],
-                "answer": "450–600 g",
-                "explanation": "Placenta weighs about 450–600 grams."
-            },
-            {
-                "question": "Placenta gas exchange occurs by:",
-                "options": ["Active transport", "Diffusion", "Osmosis", "Filtration"],
-                "answer": "Diffusion",
-                "explanation": "Gas exchange in placenta occurs via diffusion."
-            },
-            {
-                "question": "MOST important placental function:",
-                "options": ["Storage", "Protection", "Gas exchange", "Hormones"],
-                "answer": "Gas exchange",
-                "explanation": "Gas exchange is the most critical function."
-            },
-            {
-                "question": "Umbilical cord contains:",
-                "options": ["2 veins + 1 artery", "1 vein + 2 arteries", "3 veins", "3 arteries"],
-                "answer": "1 vein + 2 arteries",
-                "explanation": "Cord has one vein and two arteries."
-            },
-            {
-                "question": "Umbilical vein carries:",
-                "options": ["Deoxygenated blood", "Oxygenated blood", "Waste", "Hormones"],
-                "answer": "Oxygenated blood",
-                "explanation": "Umbilical vein carries oxygenated blood to fetus."
-            },
-            {
-                "question": "Umbilical arteries carry:",
-                "options": ["Oxygen", "Nutrients", "Waste", "Hormones"],
-                "answer": "Waste",
-                "explanation": "Umbilical arteries carry deoxygenated blood and waste."
-            },
-            {
-                "question": "Wharton’s jelly function:",
-                "options": ["Hormone secretion", "Protect vessels", "Nutrition", "Exchange"],
-                "answer": "Protect vessels",
-                "explanation": "Wharton’s jelly protects umbilical vessels."
-            },
-            {
-                "question": "MOST critical hormone for early pregnancy maintenance:",
-                "options": ["LH", "Estrogen", "HCG", "Progesterone"],
-                "answer": "HCG",
-                "explanation": "HCG maintains corpus luteum in early pregnancy."
-            },
-            {
-                "question": "Fertilization occurs in uterus.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Fertilization occurs in fallopian tube."
-            },
-            {
-                "question": "Only one sperm fertilizes ovum.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Only one sperm enters ovum."
-            },
-            {
-                "question": "Sperm survive longer than ovum.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Sperm live longer than ovum."
-            },
-            {
-                "question": "Zygote forms after fusion of nuclei.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Zygote forms after nuclear fusion."
-            },
-            {
-                "question": "Sex determined by mother.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Sex is determined by father."
-            },
-            {
-                "question": "Morula stage has 8–16 cells.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Morula contains 8–16 cells."
-            },
-            {
-                "question": "Blastocyst forms before morula.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Morula precedes blastocyst."
-            },
-            {
-                "question": "Trophoblast forms placenta.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Trophoblast contributes to placenta."
-            },
-            {
-                "question": "Inner cell mass forms fetus.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It develops into fetus."
-            },
-            {
-                "question": "HCG destroys corpus luteum.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "HCG maintains corpus luteum."
-            },
-            {
-                "question": "Implantation occurs immediately.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Implantation occurs after several days."
-            },
-            {
-                "question": "Decidua is pregnant endometrium.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Decidua is modified endometrium in pregnancy."
-            },
-            {
-                "question": "Amniotic fluid mainly protein.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It is mainly water."
-            },
-            {
-                "question": "Placenta allows gas exchange.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Placenta exchanges gases."
-            },
-            {
-                "question": "Placenta blocks all infections.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Some infections can cross placenta."
-            },
-            {
-                "question": "Umbilical cord has nerves.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Umbilical cord has no nerves."
-            },
-            {
-                "question": "Umbilical vein carries oxygen.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Umbilical vein carries oxygenated blood."
-            },
-            {
-                "question": "Umbilical arteries carry waste.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "They carry waste to placenta."
-            },
-            {
-                "question": "Wharton jelly protects vessels.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It cushions and protects vessels."
-            },
-            {
-                "question": "Amniotic fluid helps movement.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It allows fetal movement."
-            }
+            {"question": "Fertilization is defined as:", "options": ["Union of uterus and ovary", "Penetration of sperm into ovum", "Ovulation", "Implantation"], "answer": "Penetration of sperm into ovum", "explanation": "Fertilization is the penetration of sperm into the ovum."},
+            {"question": "Fertilization normally occurs in:", "options": ["Uterus", "Cervix", "Ampulla of fallopian tube", "Vagina"], "answer": "Ampulla of fallopian tube", "explanation": "Fertilization usually occurs in the ampulla of the fallopian tube."},
+            {"question": "The ovum reaches uterus after fertilization in:", "options": ["1 day", "2 days", "3–4 days", "7 days"], "answer": "3–4 days", "explanation": "The fertilized ovum reaches the uterus in about 3–4 days."},
+            {"question": "Number of sperms deposited:", "options": ["1–10 million", "20–50 million", "60–150 million", "200 million"], "answer": "60–150 million", "explanation": "Approximately 60–150 million sperms are deposited during ejaculation."},
+            {"question": "Sperm reach cervix within:", "options": ["5 min", "1 hour", "90 seconds", "10 minutes"], "answer": "90 seconds", "explanation": "Sperms can reach the cervix within about 90 seconds."},
+            {"question": "Only how many sperm fertilize ovum?", "options": ["2", "10", "1", "Many"], "answer": "1", "explanation": "Only one sperm fertilizes the ovum."},
+            {"question": "Failure of single sperm entry leads to:", "options": ["Normal fetus", "Twins", "Abnormal fertilization", "Implantation"], "answer": "Abnormal fertilization", "explanation": "Multiple sperm entry leads to abnormal fertilization."},
+            {"question": "Zygote is formed by:", "options": ["Ovulation", "Fusion of nuclei", "Implantation", "Meiosis"], "answer": "Fusion of nuclei", "explanation": "Zygote forms after fusion of male and female nuclei."},
+            {"question": "Ovum survival:", "options": ["1 day", "2 days", "5 days", "7 days"], "answer": "2 days", "explanation": "Ovum survives for about 24–48 hours."},
+            {"question": "Sperm survival:", "options": ["1 day", "2 days", "3 days", "7 days"], "answer": "3 days", "explanation": "Sperm can survive up to 3 days in female tract."},
+            {"question": "Sex of baby is determined by:", "options": ["Mother", "Father", "Both equally", "Uterus"], "answer": "Father", "explanation": "Father determines sex through X or Y chromosome."},
+            {"question": "Female baby results from:", "options": ["XX sperm", "XY sperm", "X sperm fertilizing ovum", "Y sperm fertilizing ovum"], "answer": "X sperm fertilizing ovum", "explanation": "X sperm results in female (XX)."},
+            {"question": "Male baby results from:", "options": ["X sperm", "Y sperm", "XX ovum", "XY ovum"], "answer": "Y sperm", "explanation": "Y sperm results in male (XY)."},
+            {"question": "Chromosome number in sperm:", "options": ["46", "23", "22", "44"], "answer": "23", "explanation": "Sperm contains 23 chromosomes."},
+            {"question": "Morula stage contains:", "options": ["2 cells", "4 cells", "8 cells", "8–16 cells"], "answer": "8–16 cells", "explanation": "Morula stage consists of 8–16 cells."},
+            {"question": "Cell division begins:", "options": ["Immediately", "After 24 hours", "After 3 days", "After implantation"], "answer": "After 24 hours", "explanation": "Cell division begins about 24 hours after fertilization."},
+            {"question": "Blastocyst forms after:", "options": ["Fertilization", "Morula stage", "Implantation", "Ovulation"], "answer": "Morula stage", "explanation": "Blastocyst develops from morula."},
+            {"question": "Trophoblast function:", "options": ["Form embryo", "Form placenta", "Form ovum", "Form uterus"], "answer": "Form placenta", "explanation": "Trophoblast contributes to placenta formation."},
+            {"question": "Inner cell mass forms:", "options": ["Placenta", "Fetus", "Blood", "Hormones"], "answer": "Fetus", "explanation": "Inner cell mass develops into fetus."},
+            {"question": "Cytotrophoblast secretes:", "options": ["LH", "FSH", "HCG", "Estrogen"], "answer": "HCG", "explanation": "Trophoblastic cells produce HCG."},
+            {"question": "HCG function:", "options": ["Stop ovulation", "Maintain corpus luteum", "Destroy ovum", "Form placenta"], "answer": "Maintain corpus luteum", "explanation": "HCG maintains corpus luteum to sustain pregnancy."},
+            {"question": "Blastocyst implantation occurs:", "options": ["Day 5", "Day 7", "Day 12–14", "Day 20"], "answer": "Day 12–14", "explanation": "Implantation occurs around day 12–14."},
+            {"question": "Site of implantation:", "options": ["Cervix", "Lower uterus", "Upper uterus", "Ovary"], "answer": "Upper uterus", "explanation": "Implantation usually occurs in upper uterine wall."},
+            {"question": "Decidua means:", "options": ["Non-pregnant uterus", "Pregnant endometrium", "Placenta", "Ovum"], "answer": "Pregnant endometrium", "explanation": "Decidua is the endometrium during pregnancy."},
+            {"question": "Decidua basalis:", "options": ["Surrounds embryo", "Under embryo", "Outer layer", "Blood supply"], "answer": "Under embryo", "explanation": "Decidua basalis lies beneath the implanted embryo."},
+            {"question": "Decidua capsularis:", "options": ["Covers blastocyst", "Under blastocyst", "Forms placenta", "Forms cord"], "answer": "Covers blastocyst", "explanation": "Decidua capsularis covers the blastocyst."},
+            {"question": "Decidua vera:", "options": ["Under embryo", "Surrounds embryo", "Remaining uterine lining", "Placenta"], "answer": "Remaining uterine lining", "explanation": "Decidua vera is the remaining uterine lining."},
+            {"question": "Decidua function:", "options": ["Only support", "Only nutrition", "Implantation + nutrition + protection", "Hormone secretion"], "answer": "Implantation + nutrition + protection", "explanation": "Decidua supports implantation, nutrition, and protection."},
+            {"question": "Amniotic fluid volume:", "options": ["100 ml", "200 ml", "0.5–1.5 L", "3 L"], "answer": "0.5–1.5 L", "explanation": "Normal amniotic fluid is about 0.5–1.5 liters."},
+            {"question": "Main component of amniotic fluid:", "options": ["Protein", "Water", "Fat", "Glucose"], "answer": "Water", "explanation": "Amniotic fluid is mainly water."},
+            {"question": "Amniotic fluid function:", "options": ["Nutrition", "Protection", "Movement", "All"], "answer": "All", "explanation": "Amniotic fluid provides nutrition, protection, and allows movement."},
+            {"question": "Placenta formed from:", "options": ["Endometrium only", "Chorion + villi + decidua basalis", "Ovary", "Cord"], "answer": "Chorion + villi + decidua basalis", "explanation": "Placenta forms from chorion, villi, and decidua basalis."},
+            {"question": "Placenta weight:", "options": ["100 g", "200 g", "450–600 g", "1 kg"], "answer": "450–600 g", "explanation": "Placenta weighs about 450–600 grams."},
+            {"question": "Placenta gas exchange occurs by:", "options": ["Active transport", "Diffusion", "Osmosis", "Filtration"], "answer": "Diffusion", "explanation": "Gas exchange in placenta occurs via diffusion."},
+            {"question": "MOST important placental function:", "options": ["Storage", "Protection", "Gas exchange", "Hormones"], "answer": "Gas exchange", "explanation": "Gas exchange is the most critical function."},
+            {"question": "Umbilical cord contains:", "options": ["2 veins + 1 artery", "1 vein + 2 arteries", "3 veins", "3 arteries"], "answer": "1 vein + 2 arteries", "explanation": "Cord has one vein and two arteries."},
+            {"question": "Umbilical vein carries:", "options": ["Deoxygenated blood", "Oxygenated blood", "Waste", "Hormones"], "answer": "Oxygenated blood", "explanation": "Umbilical vein carries oxygenated blood to fetus."},
+            {"question": "Umbilical arteries carry:", "options": ["Oxygen", "Nutrients", "Waste", "Hormones"], "answer": "Waste", "explanation": "Umbilical arteries carry deoxygenated blood and waste."},
+            {"question": "Wharton’s jelly function:", "options": ["Hormone secretion", "Protect vessels", "Nutrition", "Exchange"], "answer": "Protect vessels", "explanation": "Wharton’s jelly protects umbilical vessels."},
+            {"question": "MOST critical hormone for early pregnancy maintenance:", "options": ["LH", "Estrogen", "HCG", "Progesterone"], "answer": "HCG", "explanation": "HCG maintains corpus luteum in early pregnancy."},
+            {"question": "Fertilization occurs in uterus.", "options": ["True", "False"], "answer": "False", "explanation": "Fertilization occurs in fallopian tube."},
+            {"question": "Only one sperm fertilizes ovum.", "options": ["True", "False"], "answer": "True", "explanation": "Only one sperm enters ovum."},
+            {"question": "Sperm survive longer than ovum.", "options": ["True", "False"], "answer": "True", "explanation": "Sperm live longer than ovum."},
+            {"question": "Zygote forms after fusion of nuclei.", "options": ["True", "False"], "answer": "True", "explanation": "Zygote forms after nuclear fusion."},
+            {"question": "Sex determined by mother.", "options": ["True", "False"], "answer": "False", "explanation": "Sex is determined by father."},
+            {"question": "Morula stage has 8–16 cells.", "options": ["True", "False"], "answer": "True", "explanation": "Morula contains 8–16 cells."},
+            {"question": "Blastocyst forms before morula.", "options": ["True", "False"], "answer": "False", "explanation": "Morula precedes blastocyst."},
+            {"question": "Trophoblast forms placenta.", "options": ["True", "False"], "answer": "True", "explanation": "Trophoblast contributes to placenta."},
+            {"question": "Inner cell mass forms fetus.", "options": ["True", "False"], "answer": "True", "explanation": "It develops into fetus."},
+            {"question": "HCG destroys corpus luteum.", "options": ["True", "False"], "answer": "False", "explanation": "HCG maintains corpus luteum."},
+            {"question": "Implantation occurs immediately.", "options": ["True", "False"], "answer": "False", "explanation": "Implantation occurs after several days."},
+            {"question": "Decidua is pregnant endometrium.", "options": ["True", "False"], "answer": "True", "explanation": "Decidua is modified endometrium in pregnancy."},
+            {"question": "Amniotic fluid mainly protein.", "options": ["True", "False"], "answer": "False", "explanation": "It is mainly water."},
+            {"question": "Placenta allows gas exchange.", "options": ["True", "False"], "answer": "True", "explanation": "Placenta exchanges gases."},
+            {"question": "Placenta blocks all infections.", "options": ["True", "False"], "answer": "False", "explanation": "Some infections can cross placenta."},
+            {"question": "Umbilical cord has nerves.", "options": ["True", "False"], "answer": "False", "explanation": "Umbilical cord has no nerves."},
+            {"question": "Umbilical vein carries oxygen.", "options": ["True", "False"], "answer": "True", "explanation": "Umbilical vein carries oxygenated blood."},
+            {"question": "Umbilical arteries carry waste.", "options": ["True", "False"], "answer": "True", "explanation": "They carry waste to placenta."},
+            {"question": "Wharton jelly protects vessels.", "options": ["True", "False"], "answer": "True", "explanation": "It cushions and protects vessels."},
+            {"question": "Amniotic fluid helps movement.", "options": ["True", "False"], "answer": "True", "explanation": "It allows fetal movement."}
+
         ],
         "L6 Infertility & Assisted Reproductive Technique": [
-            {
-                "question": "Infertility is defined as failure to conceive after:",
-                "options": ["6 months", "9 months", "12 months", "24 months"],
-                "answer": "12 months",
-                "explanation": "Infertility is defined as failure to conceive after 12 months of unprotected intercourse."
-            },
-            {
-                "question": "Sterility means:",
-                "options": ["Delayed pregnancy", "Temporary infertility", "Permanent inability to conceive", "Hormonal imbalance"],
-                "answer": "Permanent inability to conceive",
-                "explanation": "Sterility refers to permanent inability to conceive."
-            },
-            {
-                "question": "Primary infertility means:",
-                "options": ["No pregnancy after treatment", "Never conceived before", "Delayed pregnancy", "Miscarriage"],
-                "answer": "Never conceived before",
-                "explanation": "Primary infertility means the woman has never conceived."
-            },
-            {
-                "question": "Secondary infertility means:",
-                "options": ["Never conceived", "Infertility after previous pregnancy", "Only male cause", "Only female cause"],
-                "answer": "Infertility after previous pregnancy",
-                "explanation": "Secondary infertility occurs after a previous pregnancy."
-            },
-            {
-                "question": "Infertility prevalence worldwide:",
-                "options": ["5%", "10–15%", "20%", "30%"],
-                "answer": "10–15%",
-                "explanation": "Global infertility prevalence is about 10–15%."
-            },
-            {
-                "question": "Most common female infertility cause:",
-                "options": ["Tubal blockage", "Uterine defect", "Failure to ovulate", "Infection"],
-                "answer": "Failure to ovulate",
-                "explanation": "Ovulatory dysfunction is the most common cause."
-            },
-            {
-                "question": "Male factor infertility accounts for:",
-                "options": ["10%", "20%", "30%", "60%"],
-                "answer": "30%",
-                "explanation": "Male factor contributes to about 30% of infertility cases."
-            },
-            {
-                "question": "Female factor accounts for:",
-                "options": ["30%", "40%", "60%", "80%"],
-                "answer": "60%",
-                "explanation": "Female factor accounts for approximately 60%."
-            },
-            {
-                "question": "Unexplained infertility:",
-                "options": ["5%", "10%", "20%", "30%"],
-                "answer": "10%",
-                "explanation": "About 10% of infertility cases are unexplained."
-            },
-            {
-                "question": "Which is NOT a risk factor?",
-                "options": ["Smoking", "Obesity", "Balanced diet", "Stress"],
-                "answer": "Balanced diet",
-                "explanation": "Balanced diet supports fertility, not a risk factor."
-            },
-            {
-                "question": "Tubal infertility caused by:",
-                "options": ["Hormones", "Blockage", "Brain issues", "Skin disease"],
-                "answer": "Blockage",
-                "explanation": "Tubal infertility is usually due to blockage."
-            },
-            {
-                "question": "PCOS leads to infertility due to:",
-                "options": ["Infection", "Ovulation failure", "Tubal blockage", "Low sperm"],
-                "answer": "Ovulation failure",
-                "explanation": "PCOS causes anovulation."
-            },
-            {
-                "question": "Main male infertility cause:",
-                "options": ["Hormones", "Low semen quality", "Stress", "Diet"],
-                "answer": "Low semen quality",
-                "explanation": "Poor semen quality is the main cause."
-            },
-            {
-                "question": "Pretesticular causes involve:",
-                "options": ["Testis only", "Hypothalamus/pituitary", "Uterus", "Tubes"],
-                "answer": "Hypothalamus/pituitary",
-                "explanation": "Pretesticular causes involve hormonal control centers."
-            },
-            {
-                "question": "Posttesticular cause affects:",
-                "options": ["Sperm production", "Sperm transport", "Ovulation", "Hormones"],
-                "answer": "Sperm transport",
-                "explanation": "Posttesticular issues affect sperm transport."
-            },
-            {
-                "question": "MOST important initial rule before investigation:",
-                "options": ["Test immediately", "Wait 1 year", "Start IVF", "Surgery"],
-                "answer": "Wait 1 year",
-                "explanation": "Evaluation usually begins after 12 months."
-            },
-            {
-                "question": "Exception for early investigation:",
-                "options": ["Young age", "Regular cycle", "Age >35", "No history"],
-                "answer": "Age >35",
-                "explanation": "Early evaluation is indicated for women over 35."
-            },
-            {
-                "question": "Most common diagnostic test:",
-                "options": ["MRI", "HSG", "CT", "ECG"],
-                "answer": "HSG",
-                "explanation": "HSG is commonly used to assess tubal patency."
-            },
-            {
-                "question": "HSG detects:",
-                "options": ["Hormones", "Tubal blockage", "Blood pressure", "Ovulation"],
-                "answer": "Tubal blockage",
-                "explanation": "HSG evaluates tubal patency."
-            },
-            {
-                "question": "Semen analysis measures:",
-                "options": ["Hormones", "Sperm count, motility", "Uterus", "Ovulation"],
-                "answer": "Sperm count, motility",
-                "explanation": "Semen analysis assesses sperm parameters."
-            },
-            {
-                "question": "Normal sperm count:",
-                "options": [">5 million", ">10 million", ">20 million", ">50 million"],
-                "answer": ">20 million",
-                "explanation": "Normal sperm count is more than 20 million."
-            },
-            {
-                "question": "Ovulation assessed by:",
-                "options": ["BP", "Progesterone", "ECG", "X-ray"],
-                "answer": "Progesterone",
-                "explanation": "Progesterone levels indicate ovulation."
-            },
-            {
-                "question": "Postcoital test evaluates:",
-                "options": ["Uterus", "Sperm-mucus interaction", "Ovulation", "Hormones"],
-                "answer": "Sperm-mucus interaction",
-                "explanation": "It assesses sperm interaction with cervical mucus."
-            },
-            {
-                "question": "First step treatment:",
-                "options": ["Surgery", "Lifestyle modification", "IVF", "Hormones"],
-                "answer": "Lifestyle modification",
-                "explanation": "Lifestyle changes are first-line management."
-            },
-            {
-                "question": "Clomifene function:",
-                "options": ["Prevent ovulation", "Stimulate ovulation", "Destroy sperm", "Implantation"],
-                "answer": "Stimulate ovulation",
-                "explanation": "Clomifene induces ovulation."
-            },
-            {
-                "question": "Metformin useful in:",
-                "options": ["Infection", "PCOS", "Tubal block", "Sperm issues"],
-                "answer": "PCOS",
-                "explanation": "Metformin is used in PCOS management."
-            },
-            {
-                "question": "Gonadotropins used for:",
-                "options": ["Infection", "Ovulation stimulation", "Surgery", "Implantation"],
-                "answer": "Ovulation stimulation",
-                "explanation": "They stimulate ovulation."
-            },
-            {
-                "question": "IVF indication:",
-                "options": ["Normal fertility", "Tubal factor", "Healthy couple", "No problem"],
-                "answer": "Tubal factor",
-                "explanation": "IVF is indicated in tubal infertility."
-            },
-            {
-                "question": "IVF step includes:",
-                "options": ["Natural fertilization", "Lab fertilization", "No ovum", "No sperm"],
-                "answer": "Lab fertilization",
-                "explanation": "Fertilization occurs in laboratory."
-            },
-            {
-                "question": "GIFT involves:",
-                "options": ["Embryo transfer", "Sperm injection", "Gametes into tube", "Hormones"],
-                "answer": "Gametes into tube",
-                "explanation": "GIFT transfers gametes into fallopian tube."
-            },
-            {
-                "question": "ICSI used in:",
-                "options": ["Normal sperm", "Severe male infertility", "Ovulation issues", "Tubal block"],
-                "answer": "Severe male infertility",
-                "explanation": "ICSI is used for severe male factor."
-            },
-            {
-                "question": "IUI means:",
-                "options": ["Fertilization in lab", "Sperm injected in uterus", "Surgery", "Hormones"],
-                "answer": "Sperm injected in uterus",
-                "explanation": "IUI involves intrauterine sperm injection."
-            },
-            {
-                "question": "Artificial insemination indicated in:",
-                "options": ["Tubal block", "Ejaculation failure", "Ovulation", "Implantation"],
-                "answer": "Ejaculation failure",
-                "explanation": "Used in cases like ejaculation failure."
-            },
-            {
-                "question": "Umbilical cord role:",
-                "options": ["Hormone", "Transport", "Implantation", "Ovulation"],
-                "answer": "Transport",
-                "explanation": "Umbilical cord transports nutrients and gases."
-            },
-            {
-                "question": "MOST important lifestyle advice:",
-                "options": ["Ignore stress", "Reduce toxins", "Surgery", "Drugs"],
-                "answer": "Reduce toxins",
-                "explanation": "Reducing toxins improves fertility."
-            },
-            {
-                "question": "Unexplained infertility may involve:",
-                "options": ["Always normal", "Hidden defects", "No issue", "Only male"],
-                "answer": "Hidden defects",
-                "explanation": "May involve undetected abnormalities."
-            },
-            {
-                "question": "Nurse role includes:",
-                "options": ["Surgery", "Counseling", "Diagnosis only", "Ignore patient"],
-                "answer": "Counseling",
-                "explanation": "Nurses provide counseling and support."
-            },
-            {
-                "question": "Psychological impact includes:",
-                "options": ["Improved health", "Depression", "No effect", "Immunity"],
-                "answer": "Depression",
-                "explanation": "Infertility can lead to psychological distress."
-            },
-            {
-                "question": "Placenta forms from:",
-                "options": ["Ovary", "Chorion", "Uterus", "Tube"],
-                "answer": "Chorion",
-                "explanation": "Placenta forms from chorion."
-            },
-            {
-                "question": "MOST important success factor in infertility treatment:",
-                "options": ["Age", "Random chance", "Accurate diagnosis", "Surgery"],
-                "answer": "Accurate diagnosis",
-                "explanation": "Correct diagnosis is key to treatment success."
-            },
-            {
-                "question": "Infertility defined after 6 months.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Defined after 12 months."
-            },
-            {
-                "question": "Sterility is reversible.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Sterility is permanent."
-            },
-            {
-                "question": "Primary infertility = never conceived.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Primary infertility means no prior pregnancy."
-            },
-            {
-                "question": "Secondary infertility after pregnancy.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Occurs after previous conception."
-            },
-            {
-                "question": "Smoking affects fertility.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Smoking reduces fertility."
-            },
-            {
-                "question": "PCOS causes ovulation failure.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "PCOS leads to anovulation."
-            },
-            {
-                "question": "Male factor is most common.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Female factor is more common."
-            },
-            {
-                "question": "Female factor is highest.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Female factor accounts for majority."
-            },
-            {
-                "question": "Investigation starts immediately.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Start after 12 months unless indicated."
-            },
-            {
-                "question": "HSG assesses tubes.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "HSG checks tubal patency."
-            },
-            {
-                "question": "Semen analysis measures sperm.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It evaluates sperm characteristics."
-            },
-            {
-                "question": "Clomifene inhibits ovulation.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It stimulates ovulation."
-            },
-            {
-                "question": "IVF occurs inside body.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "IVF occurs outside the body."
-            },
-            {
-                "question": "ICSI injects sperm into ovum.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "ICSI involves direct injection."
-            },
-            {
-                "question": "GIFT uses gametes in tube.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Gametes are placed in tube."
-            },
-            {
-                "question": "Stress has no effect.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Stress negatively affects fertility."
-            },
-            {
-                "question": "Nurse has no role.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Nurse plays important role."
-            },
-            {
-                "question": "Infertility affects mental health.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It can cause psychological issues."
-            },
-            {
-                "question": "Unexplained infertility has no cause.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Cause exists but not identified."
-            },
-            {
-                "question": "Lifestyle affects fertility.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Lifestyle plays major role."
-            }
+            {"question": "Infertility is defined as failure to conceive after:", "options": ["6 months", "9 months", "12 months", "24 months"], "answer": "12 months", "explanation": "Infertility is defined as failure to conceive after 12 months of unprotected intercourse."},
+            {"question": "Sterility means:", "options": ["Delayed pregnancy", "Temporary infertility", "Permanent inability to conceive", "Hormonal imbalance"], "answer": "Permanent inability to conceive", "explanation": "Sterility refers to permanent inability to conceive."},
+            {"question": "Primary infertility means:", "options": ["No pregnancy after treatment", "Never conceived before", "Delayed pregnancy", "Miscarriage"], "answer": "Never conceived before", "explanation": "Primary infertility means the woman has never conceived."},
+            {"question": "Secondary infertility means:", "options": ["Never conceived", "Infertility after previous pregnancy", "Only male cause", "Only female cause"], "answer": "Infertility after previous pregnancy", "explanation": "Secondary infertility occurs after a previous pregnancy."},
+            {"question": "Infertility prevalence worldwide:", "options": ["5%", "10–15%", "20%", "30%"], "answer": "10–15%", "explanation": "Global infertility prevalence is about 10–15%."},
+            {"question": "Most common female infertility cause:", "options": ["Tubal blockage", "Uterine defect", "Failure to ovulate", "Infection"], "answer": "Failure to ovulate", "explanation": "Ovulatory dysfunction is the most common cause."},
+            {"question": "Male factor infertility accounts for:", "options": ["10%", "20%", "30%", "60%"], "answer": "30%", "explanation": "Male factor contributes to about 30% of infertility cases."},
+            {"question": "Female factor accounts for:", "options": ["30%", "40%", "60%", "80%"], "answer": "60%", "explanation": "Female factor accounts for approximately 60%."},
+            {"question": "Unexplained infertility:", "options": ["5%", "10%", "20%", "30%"], "answer": "10%", "explanation": "About 10% of infertility cases are unexplained."},
+            {"question": "Which is NOT a risk factor?", "options": ["Smoking", "Obesity", "Balanced diet", "Stress"], "answer": "Balanced diet", "explanation": "Balanced diet supports fertility, not a risk factor."},
+            {"question": "Tubal infertility caused by:", "options": ["Hormones", "Blockage", "Brain issues", "Skin disease"], "answer": "Blockage", "explanation": "Tubal infertility is usually due to blockage."},
+            {"question": "PCOS leads to infertility due to:", "options": ["Infection", "Ovulation failure", "Tubal blockage", "Low sperm"], "answer": "Ovulation failure", "explanation": "PCOS causes anovulation."},
+            {"question": "Main male infertility cause:", "options": ["Hormones", "Low semen quality", "Stress", "Diet"], "answer": "Low semen quality", "explanation": "Poor semen quality is the main cause."},
+            {"question": "Pretesticular causes involve:", "options": ["Testis only", "Hypothalamus/pituitary", "Uterus", "Tubes"], "answer": "Hypothalamus/pituitary", "explanation": "Pretesticular causes involve hormonal control centers."},
+            {"question": "Posttesticular cause affects:", "options": ["Sperm production", "Sperm transport", "Ovulation", "Hormones"], "answer": "Sperm transport", "explanation": "Posttesticular issues affect sperm transport."},
+            {"question": "MOST important initial rule before investigation:", "options": ["Test immediately", "Wait 1 year", "Start IVF", "Surgery"], "answer": "Wait 1 year", "explanation": "Evaluation usually begins after 12 months."},
+            {"question": "Exception for early investigation:", "options": ["Young age", "Regular cycle", "Age >35", "No history"], "answer": "Age >35", "explanation": "Early evaluation is indicated for women over 35."},
+            {"question": "Most common diagnostic test:", "options": ["MRI", "HSG", "CT", "ECG"], "answer": "HSG", "explanation": "HSG is commonly used to assess tubal patency."},
+            {"question": "HSG detects:", "options": ["Hormones", "Tubal blockage", "Blood pressure", "Ovulation"], "answer": "Tubal blockage", "explanation": "HSG evaluates tubal patency."},
+            {"question": "Semen analysis measures:", "options": ["Hormones", "Sperm count, motility", "Uterus", "Ovulation"], "answer": "Sperm count, motility", "explanation": "Semen analysis assesses sperm parameters."},
+            {"question": "Normal sperm count:", "options": [">5 million", ">10 million", ">20 million", ">50 million"], "answer": ">20 million", "explanation": "Normal sperm count is more than 20 million."},
+            {"question": "Ovulation assessed by:", "options": ["BP", "Progesterone", "ECG", "X-ray"], "answer": "Progesterone", "explanation": "Progesterone levels indicate ovulation."},
+            {"question": "Postcoital test evaluates:", "options": ["Uterus", "Sperm-mucus interaction", "Ovulation", "Hormones"], "answer": "Sperm-mucus interaction", "explanation": "It assesses sperm interaction with cervical mucus."},
+            {"question": "First step treatment:", "options": ["Surgery", "Lifestyle modification", "IVF", "Hormones"], "answer": "Lifestyle modification", "explanation": "Lifestyle changes are first-line management."},
+            {"question": "Clomifene function:", "options": ["Prevent ovulation", "Stimulate ovulation", "Destroy sperm", "Implantation"], "answer": "Stimulate ovulation", "explanation": "Clomifene induces ovulation."},
+            {"question": "Metformin useful in:", "options": ["Infection", "PCOS", "Tubal block", "Sperm issues"], "answer": "PCOS", "explanation": "Metformin is used in PCOS management."},
+            {"question": "Gonadotropins used for:", "options": ["Infection", "Ovulation stimulation", "Surgery", "Implantation"], "answer": "Ovulation stimulation", "explanation": "They stimulate ovulation."},
+            {"question": "IVF indication:", "options": ["Normal fertility", "Tubal factor", "Healthy couple", "No problem"], "answer": "Tubal factor", "explanation": "IVF is indicated in tubal infertility."},
+            {"question": "IVF step includes:", "options": ["Natural fertilization", "Lab fertilization", "No ovum", "No sperm"], "answer": "Lab fertilization", "explanation": "Fertilization occurs in laboratory."},
+            {"question": "GIFT involves:", "options": ["Embryo transfer", "Sperm injection", "Gametes into tube", "Hormones"], "answer": "Gametes into tube", "explanation": "GIFT transfers gametes into fallopian tube."},
+            {"question": "ICSI used in:", "options": ["Normal sperm", "Severe male infertility", "Ovulation issues", "Tubal block"], "answer": "Severe male infertility", "explanation": "ICSI is used for severe male factor."},
+            {"question": "IUI means:", "options": ["Fertilization in lab", "Sperm injected in uterus", "Surgery", "Hormones"], "answer": "Sperm injected in uterus", "explanation": "IUI involves intrauterine sperm injection."},
+            {"question": "Artificial insemination indicated in:", "options": ["Tubal block", "Ejaculation failure", "Ovulation", "Implantation"], "answer": "Ejaculation failure", "explanation": "Used in cases like ejaculation failure."},
+            {"question": "Umbilical cord role:", "options": ["Hormone", "Transport", "Implantation", "Ovulation"], "answer": "Transport", "explanation": "Umbilical cord transports nutrients and gases."},
+            {"question": "MOST important lifestyle advice:", "options": ["Ignore stress", "Reduce toxins", "Surgery", "Drugs"], "answer": "Reduce toxins", "explanation": "Reducing toxins improves fertility."},
+            {"question": "Unexplained infertility may involve:", "options": ["Always normal", "Hidden defects", "No issue", "Only male"], "answer": "Hidden defects", "explanation": "May involve undetected abnormalities."},
+            {"question": "Nurse role includes:", "options": ["Surgery", "Counseling", "Diagnosis only", "Ignore patient"], "answer": "Counseling", "explanation": "Nurses provide counseling and support."},
+            {"question": "Psychological impact includes:", "options": ["Improved health", "Depression", "No effect", "Immunity"], "answer": "Depression", "explanation": "Infertility can lead to psychological distress."},
+            {"question": "Placenta forms from:", "options": ["Ovary", "Chorion", "Uterus", "Tube"], "answer": "Chorion", "explanation": "Placenta forms from chorion."},
+            {"question": "MOST important success factor in infertility treatment:", "options": ["Age", "Random chance", "Accurate diagnosis", "Surgery"], "answer": "Accurate diagnosis", "explanation": "Correct diagnosis is key to treatment success."},
+            {"question": "Infertility defined after 6 months.", "options": ["True", "False"], "answer": "False", "explanation": "Defined after 12 months."},
+            {"question": "Sterility is reversible.", "options": ["True", "False"], "answer": "False", "explanation": "Sterility is permanent."},
+            {"question": "Primary infertility = never conceived.", "options": ["True", "False"], "answer": "True", "explanation": "Primary infertility means no prior pregnancy."},
+            {"question": "Secondary infertility after pregnancy.", "options": ["True", "False"], "answer": "True", "explanation": "Occurs after previous conception."},
+            {"question": "Smoking affects fertility.", "options": ["True", "False"], "answer": "True", "explanation": "Smoking reduces fertility."},
+            {"question": "PCOS causes ovulation failure.", "options": ["True", "False"], "answer": "True", "explanation": "PCOS leads to anovulation."},
+            {"question": "Male factor is most common.", "options": ["True", "False"], "answer": "False", "explanation": "Female factor is more common."},
+            {"question": "Female factor is highest.", "options": ["True", "False"], "answer": "True", "explanation": "Female factor accounts for majority."},
+            {"question": "Investigation starts immediately.", "options": ["True", "False"], "answer": "False", "explanation": "Start after 12 months unless indicated."},
+            {"question": "HSG assesses tubes.", "options": ["True", "False"], "answer": "True", "explanation": "HSG checks tubal patency."},
+            {"question": "Semen analysis measures sperm.", "options": ["True", "False"], "answer": "True", "explanation": "It evaluates sperm characteristics."},
+            {"question": "Clomifene inhibits ovulation.", "options": ["True", "False"], "answer": "False", "explanation": "It stimulates ovulation."},
+            {"question": "IVF occurs inside body.", "options": ["True", "False"], "answer": "False", "explanation": "IVF occurs outside the body."},
+            {"question": "ICSI injects sperm into ovum.", "options": ["True", "False"], "answer": "True", "explanation": "ICSI involves direct injection."},
+            {"question": "GIFT uses gametes in tube.", "options": ["True", "False"], "answer": "True", "explanation": "Gametes are placed in tube."},
+            {"question": "Stress has no effect.", "options": ["True", "False"], "answer": "False", "explanation": "Stress negatively affects fertility."},
+            {"question": "Nurse has no role.", "options": ["True", "False"], "answer": "False", "explanation": "Nurse plays important role."},
+            {"question": "Infertility affects mental health.", "options": ["True", "False"], "answer": "True", "explanation": "It can cause psychological issues."},
+            {"question": "Unexplained infertility has no cause.", "options": ["True", "False"], "answer": "False", "explanation": "Cause exists but not identified."},
+            {"question": "Lifestyle affects fertility.", "options": ["True", "False"], "answer": "True", "explanation": "Lifestyle plays major role."}
         ],
         "L7 Antenatal care": [
-            {
-                "question": "Antenatal care is BEST defined as:",
-                "options": ["Care after delivery", "Care from conception until labor", "Care only during labor", "Care only for fetus"],
-                "answer": "Care from conception until labor",
-                "explanation": "Antenatal care is provided from conception until the onset of labor."
-            },
-            {
-                "question": "The MOST important aim of antenatal care is:",
-                "options": ["Increase fertility", "Reduce maternal and fetal complications", "Improve social life", "Delay labor"],
-                "answer": "Reduce maternal and fetal complications",
-                "explanation": "The main aim is to ensure safety of mother and fetus."
-            },
-            {
-                "question": "Which of the following is NOT an aim of antenatal care?",
-                "options": ["Prepare for labor", "Detect complications early", "Increase number of pregnancies", "Improve maternal health"],
-                "answer": "Increase number of pregnancies",
-                "explanation": "Antenatal care does not aim to increase pregnancies."
-            },
-            {
-                "question": "A woman pregnant for the first time is:",
-                "options": ["Multigravida", "Primigravida", "Nullipara", "Multipara"],
-                "answer": "Primigravida",
-                "explanation": "Primigravida means pregnant for the first time."
-            },
-            {
-                "question": "Delivery after 20 weeks is called:",
-                "options": ["Gravida", "Para", "Abortion", "Preterm"],
-                "answer": "Para",
-                "explanation": "Para refers to delivery after 20 weeks."
-            },
-            {
-                "question": "A woman had 2 pregnancies but no deliveries after 20 weeks:",
-                "options": ["Multipara", "Nullipara", "Primipara", "Multigravida"],
-                "answer": "Multigravida",
-                "explanation": "She has been pregnant multiple times but no deliveries."
-            },
-            {
-                "question": "Low-risk pregnant woman visits schedule is:",
-                "options": ["Weekly from start", "Monthly → 2 weekly → weekly", "Only once", "Every 3 months"],
-                "answer": "Monthly → 2 weekly → weekly",
-                "explanation": "Visits increase in frequency as pregnancy progresses."
-            },
-            {
-                "question": "High-risk pregnancy follow-up is:",
-                "options": ["Less frequent", "Same as low risk", "More frequent", "Not needed"],
-                "answer": "More frequent",
-                "explanation": "High-risk pregnancies require closer monitoring."
-            },
-            {
-                "question": "First antenatal visit should include:",
-                "options": ["Only lab tests", "Only history", "Complete assessment", "Only ultrasound"],
-                "answer": "Complete assessment",
-                "explanation": "Includes history, exam, and investigations."
-            },
-            {
-                "question": "Family history is important to detect:",
-                "options": ["Weight", "Genetic diseases", "Blood pressure", "Fetal movement"],
-                "answer": "Genetic diseases",
-                "explanation": "Family history helps identify inherited conditions."
-            },
-            {
-                "question": "Which is NOT part of present history?",
-                "options": ["Headache", "Vaginal bleeding", "Pulse", "Constipation"],
-                "answer": "Pulse",
-                "explanation": "Pulse is part of examination, not history."
-            },
-            {
-                "question": "Main purpose of physical exam:",
-                "options": ["Entertainment", "Detect hidden problems", "Reduce cost", "Delay labor"],
-                "answer": "Detect hidden problems",
-                "explanation": "Exam identifies underlying conditions."
-            },
-            {
-                "question": "Normal pulse in pregnancy:",
-                "options": ["40–60", "60–90", "90–120", "120–150"],
-                "answer": "60–90",
-                "explanation": "Normal pulse range is 60–90 bpm."
-            },
-            {
-                "question": "Tachycardia may indicate:",
-                "options": ["Relaxation", "Infection", "Sleep", "Normal"],
-                "answer": "Infection",
-                "explanation": "Elevated pulse may indicate infection."
-            },
-            {
-                "question": "Normal respiratory rate:",
-                "options": ["10–12", "12–16", "16–24", "25–30"],
-                "answer": "16–24",
-                "explanation": "Normal respiratory rate is 16–24 breaths/min."
-            },
-            {
-                "question": "High temperature suggests:",
-                "options": ["Pregnancy", "Infection", "Normal", "Sleep"],
-                "answer": "Infection",
-                "explanation": "Fever indicates infection."
-            },
-            {
-                "question": "Edema may indicate:",
-                "options": ["Normal pregnancy", "Hypertension", "Infection", "Dehydration"],
-                "answer": "Hypertension",
-                "explanation": "Edema may be a sign of preeclampsia."
-            },
-            {
-                "question": "Lordosis in pregnancy affects:",
-                "options": ["Heart", "Lungs", "Posture", "Kidneys"],
-                "answer": "Posture",
-                "explanation": "Lordosis alters posture in pregnancy."
-            },
-            {
-                "question": "Hyperreflexia indicates:",
-                "options": ["Normal", "Complication", "Sleep", "Nutrition"],
-                "answer": "Complication",
-                "explanation": "Hyperreflexia may indicate neurological issues."
-            },
-            {
-                "question": "Fundal height measures:",
-                "options": ["Weight", "Gestational age", "Blood pressure", "Pulse"],
-                "answer": "Gestational age",
-                "explanation": "Fundal height correlates with gestational age."
-            },
-            {
-                "question": "Fetal heart sound heard by Doppler at:",
-                "options": ["4 weeks", "8 weeks", "20 weeks", "30 weeks"],
-                "answer": "8 weeks",
-                "explanation": "Doppler detects FHS around 8 weeks."
-            },
-            {
-                "question": "Normal fetal heart rate:",
-                "options": ["80–100", "100–120", "120–160", "160–200"],
-                "answer": "120–160",
-                "explanation": "Normal fetal heart rate is 120–160 bpm."
-            },
-            {
-                "question": "Transverse lie abdomen is:",
-                "options": ["Long", "Narrow", "Broad", "Small"],
-                "answer": "Broad",
-                "explanation": "Transverse lie results in broad abdomen."
-            },
-            {
-                "question": "Hb test used for:",
-                "options": ["Diabetes", "Anemia", "Infection", "Cancer"],
-                "answer": "Anemia",
-                "explanation": "Hemoglobin test detects anemia."
-            },
-            {
-                "question": "Urine test detects:",
-                "options": ["Cancer", "Infection", "BP", "Height"],
-                "answer": "Infection",
-                "explanation": "Urine test identifies infections."
-            },
-            {
-                "question": "Glucose test is for:",
-                "options": ["Anemia", "Diabetes", "Infection", "BP"],
-                "answer": "Diabetes",
-                "explanation": "Glucose testing screens for diabetes."
-            },
-            {
-                "question": "Calories needed in pregnancy:",
-                "options": ["1500", "2000", "2500", "3000"],
-                "answer": "2500",
-                "explanation": "Pregnancy requires increased caloric intake."
-            },
-            {
-                "question": "Protein requirement:",
-                "options": ["50 gm", "70 gm", "100 gm", "150 gm"],
-                "answer": "100 gm",
-                "explanation": "Protein needs increase in pregnancy."
-            },
-            {
-                "question": "Hot baths should be:",
-                "options": ["Encouraged", "Avoided", "Mandatory", "Daily"],
-                "answer": "Avoided",
-                "explanation": "Hot baths may be harmful."
-            },
-            {
-                "question": "Breast massage is:",
-                "options": ["Recommended", "Mandatory", "Avoided", "Irrelevant"],
-                "answer": "Avoided",
-                "explanation": "Breast massage is not recommended."
-            },
-            {
-                "question": "Tight clothes should be:",
-                "options": ["Encouraged", "Avoided", "Required", "Normal"],
-                "answer": "Avoided",
-                "explanation": "Tight clothes impair circulation."
-            },
-            {
-                "question": "Sex is:",
-                "options": ["Forbidden always", "Allowed unless complications", "Dangerous", "Required"],
-                "answer": "Allowed unless complications",
-                "explanation": "Sex is allowed unless contraindicated."
-            },
-            {
-                "question": "Best sleeping position:",
-                "options": ["Supine", "Sims", "Prone", "Sitting"],
-                "answer": "Sims",
-                "explanation": "Sims position improves circulation."
-            },
-            {
-                "question": "Supine position causes:",
-                "options": ["Hypertension", "Hypotension", "Fever", "Infection"],
-                "answer": "Hypotension",
-                "explanation": "Supine hypotension syndrome occurs in pregnancy."
-            },
-            {
-                "question": "Walking in pregnancy is:",
-                "options": ["Forbidden", "Ideal", "Dangerous", "Not allowed"],
-                "answer": "Ideal",
-                "explanation": "Walking is beneficial exercise."
-            },
-            {
-                "question": "Heavy lifting may cause:",
-                "options": ["Relaxation", "Abortion", "Sleep", "Growth"],
-                "answer": "Abortion",
-                "explanation": "Heavy lifting may increase risk of miscarriage."
-            },
-            {
-                "question": "Crossing legs causes:",
-                "options": ["Good circulation", "Impaired circulation", "Relaxation", "Growth"],
-                "answer": "Impaired circulation",
-                "explanation": "Crossing legs reduces blood flow."
-            },
-            {
-                "question": "Which is a warning sign?",
-                "options": ["Mild hunger", "Vaginal bleeding", "Sleep", "Weight gain"],
-                "answer": "Vaginal bleeding",
-                "explanation": "Bleeding is a danger sign."
-            },
-            {
-                "question": "Blurred vision indicates:",
-                "options": ["Normal", "Danger", "Nutrition", "Sleep"],
-                "answer": "Danger",
-                "explanation": "Blurred vision may indicate preeclampsia."
-            },
-            {
-                "question": "Sudden fluid gush indicates:",
-                "options": ["Normal", "Membrane rupture", "Growth", "Digestion"],
-                "answer": "Membrane rupture",
-                "explanation": "Sudden fluid suggests rupture of membranes."
-            },
-            {
-                "question": "Antenatal care starts after delivery.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It starts from conception."
-            },
-            {
-                "question": "Main goal is safe mother and fetus.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Primary aim is safety."
-            },
-            {
-                "question": "Nulligravida = never pregnant.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Nulligravida means never pregnant."
-            },
-            {
-                "question": "Primipara = first pregnancy.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Primipara refers to first delivery."
-            },
-            {
-                "question": "Preterm is before 38 weeks.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Preterm is before 38 weeks."
-            },
-            {
-                "question": "First visit is only lab tests.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It includes full assessment."
-            },
-            {
-                "question": "Fundal height determines gestational age.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Used to estimate gestational age."
-            },
-            {
-                "question": "Fetal heart rate normal 60–90.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Normal is 120–160 bpm."
-            },
-            {
-                "question": "Doppler detects FHS after 8 weeks.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Doppler can detect early FHS."
-            },
-            {
-                "question": "Edema is always normal.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "May indicate complications."
-            },
-            {
-                "question": "Hyperreflexia may indicate complications.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It may signal neurological issues."
-            },
-            {
-                "question": "Hot bath recommended.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Hot baths should be avoided."
-            },
-            {
-                "question": "Breast massage recommended.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Not recommended."
-            },
-            {
-                "question": "Sex is always forbidden.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Allowed unless contraindicated."
-            },
-            {
-                "question": "Supine position is best.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Sims position is preferred."
-            },
-            {
-                "question": "Walking is ideal exercise.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Walking is beneficial."
-            },
-            {
-                "question": "Tight clothes improve circulation.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "They impair circulation."
-            },
-            {
-                "question": "Vaginal bleeding is warning sign.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It is a danger sign."
-            },
-            {
-                "question": "Blurred vision is normal.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It indicates danger."
-            },
-            {
-                "question": "Constipation is common in pregnancy.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Common due to hormonal changes."
-            }
+            {"question": "Antenatal care is BEST defined as:", "options": ["Care after delivery", "Care from conception until labor", "Care only during labor", "Care only for fetus"], "answer": "Care from conception until labor", "explanation": "Antenatal care is provided from conception until the onset of labor."},
+            {"question": "The MOST important aim of antenatal care is:", "options": ["Increase fertility", "Reduce maternal and fetal complications", "Improve social life", "Delay labor"], "answer": "Reduce maternal and fetal complications", "explanation": "The main aim is to ensure safety of mother and fetus."},
+            {"question": "Which of the following is NOT an aim of antenatal care?", "options": ["Prepare for labor", "Detect complications early", "Increase number of pregnancies", "Improve maternal health"], "answer": "Increase number of pregnancies", "explanation": "Antenatal care does not aim to increase pregnancies."},
+            {"question": "A woman pregnant for the first time is:", "options": ["Multigravida", "Primigravida", "Nullipara", "Multipara"], "answer": "Primigravida", "explanation": "Primigravida means pregnant for the first time."},
+            {"question": "Delivery after 20 weeks is called:", "options": ["Gravida", "Para", "Abortion", "Preterm"], "answer": "Para", "explanation": "Para refers to delivery after 20 weeks."},
+            {"question": "A woman had 2 pregnancies but no deliveries after 20 weeks:", "options": ["Multipara", "Nullipara", "Primipara", "Multigravida"], "answer": "Multigravida", "explanation": "She has been pregnant multiple times but no deliveries."},
+            {"question": "Low-risk pregnant woman visits schedule is:", "options": ["Weekly from start", "Monthly → 2 weekly → weekly", "Only once", "Every 3 months"], "answer": "Monthly → 2 weekly → weekly", "explanation": "Visits increase in frequency as pregnancy progresses."},
+            {"question": "High-risk pregnancy follow-up is:", "options": ["Less frequent", "Same as low risk", "More frequent", "Not needed"], "answer": "More frequent", "explanation": "High-risk pregnancies require closer monitoring."},
+            {"question": "First antenatal visit should include:", "options": ["Only lab tests", "Only history", "Complete assessment", "Only ultrasound"], "answer": "Complete assessment", "explanation": "Includes history, exam, and investigations."},
+            {"question": "Family history is important to detect:", "options": ["Weight", "Genetic diseases", "Blood pressure", "Fetal movement"], "answer": "Genetic diseases", "explanation": "Family history helps identify inherited conditions."},
+            {"question": "Which is NOT part of present history?", "options": ["Headache", "Vaginal bleeding", "Pulse", "Constipation"], "answer": "Pulse", "explanation": "Pulse is part of examination, not history."},
+            {"question": "Main purpose of physical exam:", "options": ["Entertainment", "Detect hidden problems", "Reduce cost", "Delay labor"], "answer": "Detect hidden problems", "explanation": "Exam identifies underlying conditions."},
+            {"question": "Normal pulse in pregnancy:", "options": ["40–60", "60–90", "90–120", "120–150"], "answer": "60–90", "explanation": "Normal pulse range is 60–90 bpm."},
+            {"question": "Tachycardia may indicate:", "options": ["Relaxation", "Infection", "Sleep", "Normal"], "answer": "Infection", "explanation": "Elevated pulse may indicate infection."},
+            {"question": "Normal respiratory rate:", "options": ["10–12", "12–16", "16–24", "25–30"], "answer": "16–24", "explanation": "Normal respiratory rate is 16–24 breaths/min."},
+            {"question": "High temperature suggests:", "options": ["Pregnancy", "Infection", "Normal", "Sleep"], "answer": "Infection", "explanation": "Fever indicates infection."},
+            {"question": "Edema may indicate:", "options": ["Normal pregnancy", "Hypertension", "Infection", "Dehydration"], "answer": "Hypertension", "explanation": "Edema may be a sign of preeclampsia."},
+            {"question": "Lordosis in pregnancy affects:", "options": ["Heart", "Lungs", "Posture", "Kidneys"], "answer": "Posture", "explanation": "Lordosis alters posture in pregnancy."},
+            {"question": "Hyperreflexia indicates:", "options": ["Normal", "Complication", "Sleep", "Nutrition"], "answer": "Complication", "explanation": "Hyperreflexia may indicate neurological issues."},
+            {"question": "Fundal height measures:", "options": ["Weight", "Gestational age", "Blood pressure", "Pulse"], "answer": "Gestational age", "explanation": "Fundal height correlates with gestational age."},
+            {"question": "Fetal heart sound heard by Doppler at:", "options": ["4 weeks", "8 weeks", "20 weeks", "30 weeks"], "answer": "8 weeks", "explanation": "Doppler detects FHS around 8 weeks."},
+            {"question": "Normal fetal heart rate:", "options": ["80–100", "100–120", "120–160", "160–200"], "answer": "120–160", "explanation": "Normal fetal heart rate is 120–160 bpm."},
+            {"question": "Transverse lie abdomen is:", "options": ["Long", "Narrow", "Broad", "Small"], "answer": "Broad", "explanation": "Transverse lie results in broad abdomen."},
+            {"question": "Hb test used for:", "options": ["Diabetes", "Anemia", "Infection", "Cancer"], "answer": "Anemia", "explanation": "Hemoglobin test detects anemia."},
+            {"question": "Urine test detects:", "options": ["Cancer", "Infection", "BP", "Height"], "answer": "Infection", "explanation": "Urine test identifies infections."},
+            {"question": "Glucose test is for:", "options": ["Anemia", "Diabetes", "Infection", "BP"], "answer": "Diabetes", "explanation": "Glucose testing screens for diabetes."},
+            {"question": "Calories needed in pregnancy:", "options": ["1500", "2000", "2500", "3000"], "answer": "2500", "explanation": "Pregnancy requires increased caloric intake."},
+            {"question": "Protein requirement:", "options": ["50 gm", "70 gm", "100 gm", "150 gm"], "answer": "100 gm", "explanation": "Protein needs increase in pregnancy."},
+            {"question": "Hot baths should be:", "options": ["Encouraged", "Avoided", "Mandatory", "Daily"], "answer": "Avoided", "explanation": "Hot baths may be harmful."},
+            {"question": "Breast massage is:", "options": ["Recommended", "Mandatory", "Avoided", "Irrelevant"], "answer": "Avoided", "explanation": "Breast massage is not recommended."},
+            {"question": "Tight clothes should be:", "options": ["Encouraged", "Avoided", "Required", "Normal"], "answer": "Avoided", "explanation": "Tight clothes impair circulation."},
+            {"question": "Sex is:", "options": ["Forbidden always", "Allowed unless complications", "Dangerous", "Required"], "answer": "Allowed unless complications", "explanation": "Sex is allowed unless contraindicated."},
+            {"question": "Best sleeping position:", "options": ["Supine", "Sims", "Prone", "Sitting"], "answer": "Sims", "explanation": "Sims position improves circulation."},
+            {"question": "Supine position causes:", "options": ["Hypertension", "Hypotension", "Fever", "Infection"], "answer": "Hypotension", "explanation": "Supine hypotension syndrome occurs in pregnancy."},
+            {"question": "Walking in pregnancy is:", "options": ["Forbidden", "Ideal", "Dangerous", "Not allowed"], "answer": "Ideal", "explanation": "Walking is beneficial exercise."},
+            {"question": "Heavy lifting may cause:", "options": ["Relaxation", "Abortion", "Sleep", "Growth"], "answer": "Abortion", "explanation": "Heavy lifting may increase risk of miscarriage."},
+            {"question": "Crossing legs causes:", "options": ["Good circulation", "Impaired circulation", "Relaxation", "Growth"], "answer": "Impaired circulation", "explanation": "Crossing legs reduces blood flow."},
+            {"question": "Which is a warning sign?", "options": ["Mild hunger", "Vaginal bleeding", "Sleep", "Weight gain"], "answer": "Vaginal bleeding", "explanation": "Bleeding is a danger sign."},
+            {"question": "Blurred vision indicates:", "options": ["Normal", "Danger", "Nutrition", "Sleep"], "answer": "Danger", "explanation": "Blurred vision may indicate preeclampsia."},
+            {"question": "Sudden fluid gush indicates:", "options": ["Normal", "Membrane rupture", "Growth", "Digestion"], "answer": "Membrane rupture", "explanation": "Sudden fluid suggests rupture of membranes."},
+            {"question": "Antenatal care starts after delivery.", "options": ["True", "False"], "answer": "False", "explanation": "It starts from conception."},
+            {"question": "Main goal is safe mother and fetus.", "options": ["True", "False"], "answer": "True", "explanation": "Primary aim is safety."},
+            {"question": "Nulligravida = never pregnant.", "options": ["True", "False"], "answer": "True", "explanation": "Nulligravida means never pregnant."},
+            {"question": "Primipara = first pregnancy.", "options": ["True", "False"], "answer": "False", "explanation": "Primipara refers to first delivery."},
+            {"question": "Preterm is before 38 weeks.", "options": ["True", "False"], "answer": "True", "explanation": "Preterm is before 38 weeks."},
+            {"question": "First visit is only lab tests.", "options": ["True", "False"], "answer": "False", "explanation": "It includes full assessment."},
+            {"question": "Fundal height determines gestational age.", "options": ["True", "False"], "answer": "True", "explanation": "Used to estimate gestational age."},
+            {"question": "Fetal heart rate normal 60–90.", "options": ["True", "False"], "answer": "False", "explanation": "Normal is 120–160 bpm."},
+            {"question": "Doppler detects FHS after 8 weeks.", "options": ["True", "False"], "answer": "True", "explanation": "Doppler can detect early FHS."},
+            {"question": "Edema is always normal.", "options": ["True", "False"], "answer": "False", "explanation": "May indicate complications."},
+            {"question": "Hyperreflexia may indicate complications.", "options": ["True", "False"], "answer": "True", "explanation": "It may signal neurological issues."},
+            {"question": "Hot bath recommended.", "options": ["True", "False"], "answer": "False", "explanation": "Hot baths should be avoided."},
+            {"question": "Breast massage recommended.", "options": ["True", "False"], "answer": "False", "explanation": "Not recommended."},
+            {"question": "Sex is always forbidden.", "options": ["True", "False"], "answer": "False", "explanation": "Allowed unless contraindicated."},
+            {"question": "Supine position is best.", "options": ["True", "False"], "answer": "False", "explanation": "Sims position is preferred."},
+            {"question": "Walking is ideal exercise.", "options": ["True", "False"], "answer": "True", "explanation": "Walking is beneficial."},
+            {"question": "Tight clothes improve circulation.", "options": ["True", "False"], "answer": "False", "explanation": "They impair circulation."},
+            {"question": "Vaginal bleeding is warning sign.", "options": ["True", "False"], "answer": "True", "explanation": "It is a danger sign."},
+            {"question": "Blurred vision is normal.", "options": ["True", "False"], "answer": "False", "explanation": "It indicates danger."},
+            {"question": "Constipation is common in pregnancy.", "options": ["True", "False"], "answer": "True", "explanation": "Common due to hormonal changes."}
         ],
         "L8 Diagnosis & Physiology of Pregnancy": [
-            {
-                "question": "Which of the following is a probable sign of pregnancy?",
-                "options": ["Amenorrhea", "Positive pregnancy test", "Fetal heart sound", "Quickening"],
-                "answer": "Positive pregnancy test",
-                "explanation": "hCG detection is a probable sign, while fetal heart sound is a positive sign."
-            },
-            {
-                "question": "Definitive diagnosis of pregnancy is:",
-                "options": ["Amenorrhea", "Breast changes", "Ultrasound visualization", "Nausea"],
-                "answer": "Ultrasound visualization",
-                "explanation": "Ultrasound confirms pregnancy definitively."
-            },
-            {
-                "question": "Uterine weight increases from:",
-                "options": ["50 → 200 gm", "50 → 1000 gm", "100 → 500 gm", "200 → 800 gm"],
-                "answer": "50 → 1000 gm",
-                "explanation": "Uterus increases significantly in size and weight during pregnancy."
-            },
-            {
-                "question": "Braxton Hicks contractions are:",
-                "options": ["Painful regular", "Painless irregular", "Continuous", "Pathological"],
-                "answer": "Painless irregular",
-                "explanation": "They are irregular and painless contractions."
-            },
-            {
-                "question": "Decidua basalis function:",
-                "options": ["Cover uterus", "Underlies ovum", "Forms placenta", "Hormone secretion"],
-                "answer": "Underlies ovum",
-                "explanation": "Decidua basalis lies beneath the implanted ovum."
-            },
-            {
-                "question": "Decidua capsularis:",
-                "options": ["Under ovum", "Covers ovum", "Outer uterus", "Placenta"],
-                "answer": "Covers ovum",
-                "explanation": "It covers the implanted ovum."
-            },
-            {
-                "question": "Decidua vera:",
-                "options": ["Covers ovum", "Covers rest of uterus", "Under embryo", "Placenta"],
-                "answer": "Covers rest of uterus",
-                "explanation": "Decidua vera lines the rest of the uterus."
-            },
-            {
-                "question": "Chloasma is:",
-                "options": ["Infection", "Pigmentation", "Edema", "Rash"],
-                "answer": "Pigmentation",
-                "explanation": "Chloasma is increased skin pigmentation."
-            },
-            {
-                "question": "Chloasma is more common in:",
-                "options": ["Light skin", "Dark skin", "Males", "Children"],
-                "answer": "Dark skin",
-                "explanation": "More noticeable in darker skin."
-            },
-            {
-                "question": "Linea nigra appears on:",
-                "options": ["Face", "Abdomen", "Chest", "Back"],
-                "answer": "Abdomen",
-                "explanation": "Linea nigra is a dark line on abdomen."
-            },
-            {
-                "question": "Blood volume in pregnancy:",
-                "options": ["Decreases", "Increases 40–50%", "No change", "Doubles"],
-                "answer": "Increases 40–50%",
-                "explanation": "Blood volume increases significantly."
-            },
-            {
-                "question": "Physiological anemia occurs due to:",
-                "options": ["RBC loss", "Hemodilution", "Infection", "Bleeding"],
-                "answer": "Hemodilution",
-                "explanation": "Plasma increases more than RBCs."
-            },
-            {
-                "question": "Heart rate increases by:",
-                "options": ["2–5", "5–10", "10–15", "20–30"],
-                "answer": "10–15",
-                "explanation": "Heart rate rises moderately."
-            },
-            {
-                "question": "Supine hypotensive syndrome is due to:",
-                "options": ["Heart disease", "Uterus compressing vessels", "Infection", "Hormones"],
-                "answer": "Uterus compressing vessels",
-                "explanation": "Uterus compresses inferior vena cava."
-            },
-            {
-                "question": "Respiratory rate:",
-                "options": ["Decreases", "No change", "Slight increase", "Stops"],
-                "answer": "No change",
-                "explanation": "Respiratory rate usually remains stable."
-            },
-            {
-                "question": "Basal metabolic rate:",
-                "options": ["Decreases", "No change", "Increases", "Stops"],
-                "answer": "Increases",
-                "explanation": "Metabolic rate increases in pregnancy."
-            },
-            {
-                "question": "GFR in pregnancy:",
-                "options": ["Decreases", "No change", "Increases", "Stops"],
-                "answer": "Increases",
-                "explanation": "Renal filtration increases."
-            },
-            {
-                "question": "Lordosis occurs due to:",
-                "options": ["Infection", "Weight shift", "Hormones only", "Heart disease"],
-                "answer": "Weight shift",
-                "explanation": "Center of gravity shifts forward."
-            },
-            {
-                "question": "Pelvic joints become:",
-                "options": ["Rigid", "Softened", "Calcified", "Inflamed"],
-                "answer": "Softened",
-                "explanation": "Hormones cause ligament relaxation."
-            },
-            {
-                "question": "Estrogen function:",
-                "options": ["Decrease uterus size", "Increase uterine growth", "Stop lactation", "Stop blood flow"],
-                "answer": "Increase uterine growth",
-                "explanation": "Estrogen stimulates uterine growth."
-            },
-            {
-                "question": "Progesterone:",
-                "options": ["Stimulates contraction", "Inhibits uterine contraction", "Increase BP", "Stop hormones"],
-                "answer": "Inhibits uterine contraction",
-                "explanation": "Progesterone relaxes uterus."
-            },
-            {
-                "question": "hCG function:",
-                "options": ["Stop hormones", "Maintain hormone production", "Destroy ovum", "Stop pregnancy"],
-                "answer": "Maintain hormone production",
-                "explanation": "Maintains corpus luteum."
-            },
-            {
-                "question": "Relaxin:",
-                "options": ["Increase contraction", "Relax ligaments", "Stop hormones", "Increase BP"],
-                "answer": "Relax ligaments",
-                "explanation": "Relaxin softens ligaments."
-            },
-            {
-                "question": "Prolactin:",
-                "options": ["Decrease milk", "Increase lactation", "Stop breast", "Destroy placenta"],
-                "answer": "Increase lactation",
-                "explanation": "Stimulates milk production."
-            },
-            {
-                "question": "Normal pregnancy duration:",
-                "options": ["30 weeks", "35 weeks", "40 weeks", "45 weeks"],
-                "answer": "40 weeks",
-                "explanation": "Full-term pregnancy is 40 weeks."
-            },
-            {
-                "question": "1st trimester:",
-                "options": ["0–12 weeks", "13–27", "28–40", "20–30"],
-                "answer": "0–12 weeks",
-                "explanation": "First trimester is up to 12 weeks."
-            },
-            {
-                "question": "2nd trimester:",
-                "options": ["0–12", "13–27", "28–40", "30–50"],
-                "answer": "13–27",
-                "explanation": "Second trimester is 13–27 weeks."
-            },
-            {
-                "question": "3rd trimester:",
-                "options": ["0–12", "13–27", "28–40", "20–30"],
-                "answer": "28–40",
-                "explanation": "Third trimester is 28–40 weeks."
-            },
-            {
-                "question": "EDD calculated by:",
-                "options": ["Add 3 months", "Subtract 3 months + 7 days", "Add 7 months", "Divide by 2"],
-                "answer": "Subtract 3 months + 7 days",
-                "explanation": "Naegele’s rule."
-            },
-            {
-                "question": "MOST important use of EDD:",
-                "options": ["Social planning", "Monitor fetal growth", "Diet", "Exercise"],
-                "answer": "Monitor fetal growth",
-                "explanation": "EDD helps assess fetal development."
-            },
-            {
-                "question": "First visit includes:",
-                "options": ["Only lab", "Full assessment", "Only history", "Only exam"],
-                "answer": "Full assessment",
-                "explanation": "Includes complete evaluation."
-            },
-            {
-                "question": "Sexual history includes:",
-                "options": ["Weight", "STDs", "Pulse", "BP"],
-                "answer": "STDs",
-                "explanation": "Important to assess risk factors."
-            },
-            {
-                "question": "Social history includes:",
-                "options": ["BP", "Smoking", "Pulse", "Weight"],
-                "answer": "Smoking",
-                "explanation": "Lifestyle habits are included."
-            },
-            {
-                "question": "Nurse should:",
-                "options": ["Ignore patient", "Provide education", "Delay care", "Avoid questions"],
-                "answer": "Provide education",
-                "explanation": "Nurse role includes education."
-            },
-            {
-                "question": "Urinary frequency due to:",
-                "options": ["Infection", "Uterine pressure", "Hormone only", "BP"],
-                "answer": "Uterine pressure",
-                "explanation": "Uterus presses on bladder."
-            },
-            {
-                "question": "Nausea due to:",
-                "options": ["Low hormones", "High hormones", "Infection", "BP"],
-                "answer": "High hormones",
-                "explanation": "Hormonal changes cause nausea."
-            },
-            {
-                "question": "Patient should report:",
-                "options": ["Mild nausea", "Severe vomiting", "Hunger", "Sleep"],
-                "answer": "Severe vomiting",
-                "explanation": "Severe vomiting is abnormal."
-            },
-            {
-                "question": "Burning urination indicates:",
-                "options": ["Normal", "Infection", "Growth", "Hormone"],
-                "answer": "Infection",
-                "explanation": "Suggests urinary infection."
-            },
-            {
-                "question": "Education includes:",
-                "options": ["Ignore symptoms", "Report complications", "No follow up", "Stop care"],
-                "answer": "Report complications",
-                "explanation": "Education focuses on warning signs."
-            },
-            {
-                "question": "MOST important physiological adaptation ensuring fetal nutrition:",
-                "options": ["Skin changes", "Blood volume increase", "Hair growth", "Sweating"],
-                "answer": "Blood volume increase",
-                "explanation": "Increased blood volume supports fetal nutrition."
-            },
-            {
-                "question": "Pregnancy confirmed by symptoms only.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Needs objective confirmation."
-            },
-            {
-                "question": "Ultrasound confirms pregnancy.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It provides definitive diagnosis."
-            },
-            {
-                "question": "Uterus increases to 1000 gm.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Uterine weight increases significantly."
-            },
-            {
-                "question": "Braxton Hicks are painful.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "They are painless."
-            },
-            {
-                "question": "Decidua basalis under ovum.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It lies beneath ovum."
-            },
-            {
-                "question": "Chloasma is infection.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It is pigmentation."
-            },
-            {
-                "question": "Linea nigra appears on abdomen.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Appears on abdominal midline."
-            },
-            {
-                "question": "Blood volume decreases.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It increases."
-            },
-            {
-                "question": "Physiological anemia occurs.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Due to hemodilution."
-            },
-            {
-                "question": "Heart rate decreases.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Heart rate increases."
-            },
-            {
-                "question": "Supine position safe.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Causes hypotension."
-            },
-            {
-                "question": "GFR increases.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Renal filtration increases."
-            },
-            {
-                "question": "Pelvic joints become rigid.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "They soften."
-            },
-            {
-                "question": "Progesterone stimulates contraction.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It inhibits contraction."
-            },
-            {
-                "question": "Estrogen increases uterine growth.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Stimulates growth."
-            },
-            {
-                "question": "Pregnancy lasts 40 weeks.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Normal duration is 40 weeks."
-            },
-            {
-                "question": "EDD based on LNMP.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Calculated from last menstrual period."
-            },
-            {
-                "question": "Smoking part of social history.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It is included in social history."
-            },
-            {
-                "question": "Severe vomiting is normal.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "May indicate complication."
-            },
-            {
-                "question": "Patient education is essential.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Education is key in antenatal care."
-            }
+            {"question": "Which of the following is a probable sign of pregnancy?", "options": ["Amenorrhea", "Positive pregnancy test", "Fetal heart sound", "Quickening"], "answer": "Positive pregnancy test", "explanation": "hCG detection is a probable sign, while fetal heart sound is a positive sign."},
+            {"question": "Definitive diagnosis of pregnancy is:", "options": ["Amenorrhea", "Breast changes", "Ultrasound visualization", "Nausea"], "answer": "Ultrasound visualization", "explanation": "Ultrasound confirms pregnancy definitively."},
+            {"question": "Uterine weight increases from:", "options": ["50 → 200 gm", "50 → 1000 gm", "100 → 500 gm", "200 → 800 gm"], "answer": "50 → 1000 gm", "explanation": "Uterus increases significantly in size and weight during pregnancy."},
+            {"question": "Braxton Hicks contractions are:", "options": ["Painful regular", "Painless irregular", "Continuous", "Pathological"], "answer": "Painless irregular", "explanation": "They are irregular and painless contractions."},
+            {"question": "Decidua basalis function:", "options": ["Cover uterus", "Underlies ovum", "Forms placenta", "Hormone secretion"], "answer": "Underlies ovum", "explanation": "Decidua basalis lies beneath the implanted ovum."},
+            {"question": "Decidua capsularis:", "options": ["Under ovum", "Covers ovum", "Outer uterus", "Placenta"], "answer": "Covers ovum", "explanation": "It covers the implanted ovum."},
+            {"question": "Decidua vera:", "options": ["Covers ovum", "Covers rest of uterus", "Under embryo", "Placenta"], "answer": "Covers rest of uterus", "explanation": "Decidua vera lines the rest of the uterus."},
+            {"question": "Chloasma is:", "options": ["Infection", "Pigmentation", "Edema", "Rash"], "answer": "Pigmentation", "explanation": "Chloasma is increased skin pigmentation."},
+            {"question": "Chloasma is more common in:", "options": ["Light skin", "Dark skin", "Males", "Children"], "answer": "Dark skin", "explanation": "More noticeable in darker skin."},
+            {"question": "Linea nigra appears on:", "options": ["Face", "Abdomen", "Chest", "Back"], "answer": "Abdomen", "explanation": "Linea nigra is a dark line on abdomen."},
+            {"question": "Blood volume in pregnancy:", "options": ["Decreases", "Increases 40–50%", "No change", "Doubles"], "answer": "Increases 40–50%", "explanation": "Blood volume increases significantly."},
+            {"question": "Physiological anemia occurs due to:", "options": ["RBC loss", "Hemodilution", "Infection", "Bleeding"], "answer": "Hemodilution", "explanation": "Plasma increases more than RBCs."},
+            {"question": "Heart rate increases by:", "options": ["2–5", "5–10", "10–15", "20–30"], "answer": "10–15", "explanation": "Heart rate rises moderately."},
+            {"question": "Supine hypotensive syndrome is due to:", "options": ["Heart disease", "Uterus compressing vessels", "Infection", "Hormones"], "answer": "Uterus compressing vessels", "explanation": "Uterus compresses inferior vena cava."},
+            {"question": "Respiratory rate:", "options": ["Decreases", "No change", "Slight increase", "Stops"], "answer": "No change", "explanation": "Respiratory rate usually remains stable."},
+            {"question": "Basal metabolic rate:", "options": ["Decreases", "No change", "Increases", "Stops"], "answer": "Increases", "explanation": "Metabolic rate increases in pregnancy."},
+            {"question": "GFR in pregnancy:", "options": ["Decreases", "No change", "Increases", "Stops"], "answer": "Increases", "explanation": "Renal filtration increases."},
+            {"question": "Lordosis occurs due to:", "options": ["Infection", "Weight shift", "Hormones only", "Heart disease"], "answer": "Weight shift", "explanation": "Center of gravity shifts forward."},
+            {"question": "Pelvic joints become:", "options": ["Rigid", "Softened", "Calcified", "Inflamed"], "answer": "Softened", "explanation": "Hormones cause ligament relaxation."},
+            {"question": "Estrogen function:", "options": ["Decrease uterus size", "Increase uterine growth", "Stop lactation", "Stop blood flow"], "answer": "Increase uterine growth", "explanation": "Estrogen stimulates uterine growth."},
+            {"question": "Progesterone:", "options": ["Stimulates contraction", "Inhibits uterine contraction", "Increase BP", "Stop hormones"], "answer": "Inhibits uterine contraction", "explanation": "Progesterone relaxes uterus."},
+            {"question": "hCG function:", "options": ["Stop hormones", "Maintain hormone production", "Destroy ovum", "Stop pregnancy"], "answer": "Maintain hormone production", "explanation": "Maintains corpus luteum."},
+            {"question": "Relaxin:", "options": ["Increase contraction", "Relax ligaments", "Stop hormones", "Increase BP"], "answer": "Relax ligaments", "explanation": "Relaxin softens ligaments."},
+            {"question": "Prolactin:", "options": ["Decrease milk", "Increase lactation", "Stop breast", "Destroy placenta"], "answer": "Increase lactation", "explanation": "Stimulates milk production."},
+            {"question": "Normal pregnancy duration:", "options": ["30 weeks", "35 weeks", "40 weeks", "45 weeks"], "answer": "40 weeks", "explanation": "Full-term pregnancy is 40 weeks."},
+            {"question": "1st trimester:", "options": ["0–12 weeks", "13–27", "28–40", "20–30"], "answer": "0–12 weeks", "explanation": "First trimester is up to 12 weeks."},
+            {"question": "2nd trimester:", "options": ["0–12", "13–27", "28–40", "30–50"], "answer": "13–27", "explanation": "Second trimester is 13–27 weeks."},
+            {"question": "3rd trimester:", "options": ["0–12", "13–27", "28–40", "20–30"], "answer": "28–40", "explanation": "Third trimester is 28–40 weeks."},
+            {"question": "EDD calculated by:", "options": ["Add 3 months", "Subtract 3 months + 7 days", "Add 7 months", "Divide by 2"], "answer": "Subtract 3 months + 7 days", "explanation": "Naegele’s rule."},
+            {"question": "MOST important use of EDD:", "options": ["Social planning", "Monitor fetal growth", "Diet", "Exercise"], "answer": "Monitor fetal growth", "explanation": "EDD helps assess fetal development."},
+            {"question": "First visit includes:", "options": ["Only lab", "Full assessment", "Only history", "Only exam"], "answer": "Full assessment", "explanation": "Includes complete evaluation."},
+            {"question": "Sexual history includes:", "options": ["Weight", "STDs", "Pulse", "BP"], "answer": "STDs", "explanation": "Important to assess risk factors."},
+            {"question": "Social history includes:", "options": ["BP", "Smoking", "Pulse", "Weight"], "answer": "Smoking", "explanation": "Lifestyle habits are included."},
+            {"question": "Nurse should:", "options": ["Ignore patient", "Provide education", "Delay care", "Avoid questions"], "answer": "Provide education", "explanation": "Nurse role includes education."},
+            {"question": "Urinary frequency due to:", "options": ["Infection", "Uterine pressure", "Hormone only", "BP"], "answer": "Uterine pressure", "explanation": "Uterus presses on bladder."},
+            {"question": "Nausea due to:", "options": ["Low hormones", "High hormones", "Infection", "BP"], "answer": "High hormones", "explanation": "Hormonal changes cause nausea."},
+            {"question": "Patient should report:", "options": ["Mild nausea", "Severe vomiting", "Hunger", "Sleep"], "answer": "Severe vomiting", "explanation": "Severe vomiting is abnormal."},
+            {"question": "Burning urination indicates:", "options": ["Normal", "Infection", "Growth", "Hormone"], "answer": "Infection", "explanation": "Suggests urinary infection."},
+            {"question": "Education includes:", "options": ["Ignore symptoms", "Report complications", "No follow up", "Stop care"], "answer": "Report complications", "explanation": "Education focuses on warning signs."},
+            {"question": "MOST important physiological adaptation ensuring fetal nutrition:", "options": ["Skin changes", "Blood volume increase", "Hair growth", "Sweating"], "answer": "Blood volume increase", "explanation": "Increased blood volume supports fetal nutrition."},
+            {"question": "Pregnancy confirmed by symptoms only.", "options": ["True", "False"], "answer": "False", "explanation": "Needs objective confirmation."},
+            {"question": "Ultrasound confirms pregnancy.", "options": ["True", "False"], "answer": "True", "explanation": "It provides definitive diagnosis."},
+            {"question": "Uterus increases to 1000 gm.", "options": ["True", "False"], "answer": "True", "explanation": "Uterine weight increases significantly."},
+            {"question": "Braxton Hicks are painful.", "options": ["True", "False"], "answer": "False", "explanation": "They are painless."},
+            {"question": "Decidua basalis under ovum.", "options": ["True", "False"], "answer": "True", "explanation": "It lies beneath ovum."},
+            {"question": "Chloasma is infection.", "options": ["True", "False"], "answer": "False", "explanation": "It is pigmentation."},
+            {"question": "Linea nigra appears on abdomen.", "options": ["True", "False"], "answer": "True", "explanation": "Appears on abdominal midline."},
+            {"question": "Blood volume decreases.", "options": ["True", "False"], "answer": "False", "explanation": "It increases."},
+            {"question": "Physiological anemia occurs.", "options": ["True", "False"], "answer": "True", "explanation": "Due to hemodilution."},
+            {"question": "Heart rate decreases.", "options": ["True", "False"], "answer": "False", "explanation": "Heart rate increases."},
+            {"question": "Supine position safe.", "options": ["True", "False"], "answer": "False", "explanation": "Causes hypotension."},
+            {"question": "GFR increases.", "options": ["True", "False"], "answer": "True", "explanation": "Renal filtration increases."},
+            {"question": "Pelvic joints become rigid.", "options": ["True", "False"], "answer": "False", "explanation": "They soften."},
+            {"question": "Progesterone stimulates contraction.", "options": ["True", "False"], "answer": "False", "explanation": "It inhibits contraction."},
+            {"question": "Estrogen increases uterine growth.", "options": ["True", "False"], "answer": "True", "explanation": "Stimulates growth."},
+            {"question": "Pregnancy lasts 40 weeks.", "options": ["True", "False"], "answer": "True", "explanation": "Normal duration is 40 weeks."},
+            {"question": "EDD based on LNMP.", "options": ["True", "False"], "answer": "True", "explanation": "Calculated from last menstrual period."},
+            {"question": "Smoking part of social history.", "options": ["True", "False"], "answer": "True", "explanation": "It is included in social history."},
+            {"question": "Severe vomiting is normal.", "options": ["True", "False"], "answer": "False", "explanation": "May indicate complication."},
+            {"question": "Patient education is essential.", "options": ["True", "False"], "answer": "True", "explanation": "Education is key in antenatal care."}
         ],
         "L9 Normal Labor": [
-            {
-                "question": "Normal labor is defined as:",
-                "options": ["Delivery before 28 weeks", "Spontaneous delivery after 28 weeks without complications", "Surgical delivery", "Induced labor"],
-                "answer": "Spontaneous delivery after 28 weeks without complications",
-                "explanation": "Normal labor is spontaneous, occurs after viability, and without complications."
-            },
-            {
-                "question": "Normal presentation in labor:",
-                "options": ["Breech", "Shoulder", "Vertex", "Face"],
-                "answer": "Vertex",
-                "explanation": "Vertex (cephalic) presentation is the normal presentation."
-            },
-            {
-                "question": "First stage of labor ends with:",
-                "options": ["Full effacement", "Rupture of membrane", "Full cervical dilatation", "Fetal descent"],
-                "answer": "Full cervical dilatation",
-                "explanation": "First stage ends when cervix is fully dilated (10 cm)."
-            },
-            {
-                "question": "Normal cervical dilatation:",
-                "options": ["5 cm", "8 cm", "10 cm", "12 cm"],
-                "answer": "10 cm",
-                "explanation": "Full cervical dilatation is 10 cm."
-            },
-            {
-                "question": "Latent phase includes:",
-                "options": ["4–10 cm", "0–3 cm", "3–6 cm", "6–10 cm"],
-                "answer": "0–3 cm",
-                "explanation": "Latent phase is early dilation from 0–3 cm."
-            },
-            {
-                "question": "Active phase starts at:",
-                "options": ["2 cm", "3 cm", "4 cm", "6 cm"],
-                "answer": "4 cm",
-                "explanation": "Active phase begins at about 4 cm dilation."
-            },
-            {
-                "question": "Second stage begins at:",
-                "options": ["5 cm", "8 cm", "10 cm", "Engagement"],
-                "answer": "10 cm",
-                "explanation": "Second stage starts at full dilation."
-            },
-            {
-                "question": "Second stage ends with:",
-                "options": ["Placenta", "Cervical closure", "Delivery of fetus", "Uterine contraction"],
-                "answer": "Delivery of fetus",
-                "explanation": "Ends with delivery of the baby."
-            },
-            {
-                "question": "Third stage includes:",
-                "options": ["Fetal delivery", "Cervical dilation", "Placental delivery", "Engagement"],
-                "answer": "Placental delivery",
-                "explanation": "Third stage is delivery of placenta."
-            },
-            {
-                "question": "Fourth stage duration:",
-                "options": ["30 min", "1–2 hours", "5 hours", "24 hours"],
-                "answer": "1–2 hours",
-                "explanation": "Fourth stage is immediate postpartum recovery."
-            },
-            {
-                "question": "Most dangerous stage:",
-                "options": ["First", "Second", "Third", "Fourth"],
-                "answer": "Third",
-                "explanation": "Risk of postpartum hemorrhage is highest."
-            },
-            {
-                "question": "Main risk in third stage:",
-                "options": ["Infection", "Hemorrhage", "Pain", "Fever"],
-                "answer": "Hemorrhage",
-                "explanation": "Major complication is bleeding."
-            },
-            {
-                "question": "Engagement means:",
-                "options": ["Head rotation", "Head enters pelvic inlet", "Head exits", "Placenta separation"],
-                "answer": "Head enters pelvic inlet",
-                "explanation": "Engagement occurs when head enters pelvis."
-            },
-            {
-                "question": "Descent means:",
-                "options": ["Rotation", "Downward movement", "Flexion", "Extension"],
-                "answer": "Downward movement",
-                "explanation": "Descent is downward movement of fetus."
-            },
-            {
-                "question": "Flexion leads to:",
-                "options": ["Larger diameter", "Smaller diameter", "No change", "Obstruction"],
-                "answer": "Smaller diameter",
-                "explanation": "Flexion reduces presenting diameter."
-            },
-            {
-                "question": "Internal rotation occurs at:",
-                "options": ["Inlet", "Cavity", "Outlet", "Cervix"],
-                "answer": "Cavity",
-                "explanation": "Internal rotation happens in pelvic cavity."
-            },
-            {
-                "question": "Extension occurs when:",
-                "options": ["Head enters pelvis", "Head passes outlet", "Placenta delivers", "Cervix closes"],
-                "answer": "Head passes outlet",
-                "explanation": "Extension occurs as head emerges."
-            },
-            {
-                "question": "Restitution means:",
-                "options": ["Rotation back", "Flexion", "Descent", "Extension"],
-                "answer": "Rotation back",
-                "explanation": "Head returns to original position."
-            },
-            {
-                "question": "Expulsion refers to:",
-                "options": ["Placenta", "Baby delivery", "Cord cutting", "Uterus contraction"],
-                "answer": "Baby delivery",
-                "explanation": "Expulsion is delivery of fetus."
-            },
-            {
-                "question": "MOST important factor in labor progress:",
-                "options": ["Age", "Pelvis size", "Power (uterine contractions)", "Skin"],
-                "answer": "Power (uterine contractions)",
-                "explanation": "Strong contractions drive labor."
-            },
-            {
-                "question": "Power refers to:",
-                "options": ["Muscles", "Uterine contraction", "Hormones", "Blood"],
-                "answer": "Uterine contraction",
-                "explanation": "Power is uterine contractions."
-            },
-            {
-                "question": "Passenger refers to:",
-                "options": ["Mother", "Fetus", "Doctor", "Nurse"],
-                "answer": "Fetus",
-                "explanation": "Passenger is the fetus."
-            },
-            {
-                "question": "Passage refers to:",
-                "options": ["Uterus", "Pelvis", "Cervix", "Vagina"],
-                "answer": "Pelvis",
-                "explanation": "Passage is maternal pelvis."
-            },
-            {
-                "question": "The 3 P’s are:",
-                "options": ["Power, Passenger, Passage", "Pain, Pressure, Pulse", "Pelvis, Placenta, Power", "Position, Pulse, Pain"],
-                "answer": "Power, Passenger, Passage",
-                "explanation": "These are key labor factors."
-            },
-            {
-                "question": "True labor contractions are:",
-                "options": ["Irregular", "Painless", "Regular and increasing", "Weak"],
-                "answer": "Regular and increasing",
-                "explanation": "True labor is regular and progressive."
-            },
-            {
-                "question": "False labor contractions are:",
-                "options": ["Regular", "Painful", "Irregular", "Strong"],
-                "answer": "Irregular",
-                "explanation": "False labor is irregular."
-            },
-            {
-                "question": "Show refers to:",
-                "options": ["Blood + mucus", "Water", "Pain", "Placenta"],
-                "answer": "Blood + mucus",
-                "explanation": "Show is mucus plug with blood."
-            },
-            {
-                "question": "Rupture of membrane causes:",
-                "options": ["Blood", "Fluid leakage", "Pain", "Infection"],
-                "answer": "Fluid leakage",
-                "explanation": "Amniotic fluid leaks."
-            },
-            {
-                "question": "Normal duration first stage:",
-                "options": ["2 hours", "6 hours", "12 hours", "24 hours"],
-                "answer": "12 hours",
-                "explanation": "First stage averages 12 hours."
-            },
-            {
-                "question": "Second stage duration:",
-                "options": ["5 min", "30 min–2 hrs", "5 hrs", "10 hrs"],
-                "answer": "30 min–2 hrs",
-                "explanation": "Second stage varies but within this range."
-            },
-            {
-                "question": "Third stage duration:",
-                "options": ["5 min", "15–30 min", "1 hr", "2 hrs"],
-                "answer": "15–30 min",
-                "explanation": "Placenta delivered within 30 minutes."
-            },
-            {
-                "question": "Placenta separation sign:",
-                "options": ["Pain", "Cord lengthening", "Fever", "BP increase"],
-                "answer": "Cord lengthening",
-                "explanation": "Cord lengthens when placenta separates."
-            },
-            {
-                "question": "Uterus after placenta:",
-                "options": ["Soft", "Contracted", "Enlarged", "Empty"],
-                "answer": "Contracted",
-                "explanation": "Uterus contracts to prevent bleeding."
-            },
-            {
-                "question": "First action after delivery:",
-                "options": ["Feed mother", "Check bleeding", "Sleep", "Bath"],
-                "answer": "Check bleeding",
-                "explanation": "Prevent hemorrhage."
-            },
-            {
-                "question": "Episiotomy done in:",
-                "options": ["First stage", "Second stage", "Third", "Fourth"],
-                "answer": "Second stage",
-                "explanation": "Done during fetal delivery."
-            },
-            {
-                "question": "Crowning means:",
-                "options": ["Head disappears", "Head visible continuously", "Placenta appears", "Cervix closes"],
-                "answer": "Head visible continuously",
-                "explanation": "Head remains visible at perineum."
-            },
-            {
-                "question": "Fetal heart monitoring is done to:",
-                "options": ["Check mother", "Assess fetal well-being", "Measure BP", "Pain"],
-                "answer": "Assess fetal well-being",
-                "explanation": "Ensures fetal safety."
-            },
-            {
-                "question": "Normal FHR:",
-                "options": ["80–100", "100–120", "120–160", "160–200"],
-                "answer": "120–160",
-                "explanation": "Normal fetal heart rate range."
-            },
-            {
-                "question": "Delayed labor may be due to:",
-                "options": ["Strong contractions", "Narrow pelvis", "Good position", "Healthy fetus"],
-                "answer": "Narrow pelvis",
-                "explanation": "Cephalopelvic disproportion delays labor."
-            },
-            {
-                "question": "MOST critical moment for maternal survival:",
-                "options": ["First stage", "Second stage", "Third stage", "Fourth stage"],
-                "answer": "Third stage",
-                "explanation": "Highest risk of hemorrhage."
-            },
-            {
-                "question": "Normal labor occurs after 28 weeks.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Labor after viability."
-            },
-            {
-                "question": "Breech is normal presentation.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Vertex is normal."
-            },
-            {
-                "question": "First stage ends at 10 cm.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Full dilation."
-            },
-            {
-                "question": "Latent phase 4–10 cm.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Latent is 0–3 cm."
-            },
-            {
-                "question": "Active phase starts at 4 cm.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Begins at 4 cm."
-            },
-            {
-                "question": "Second stage ends with placenta.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Ends with fetus delivery."
-            },
-            {
-                "question": "Third stage = placenta.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Placenta delivery stage."
-            },
-            {
-                "question": "Fourth stage = recovery.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Immediate postpartum recovery."
-            },
-            {
-                "question": "Engagement = head exits.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It enters pelvis."
-            },
-            {
-                "question": "Descent = downward movement.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Movement downwards."
-            },
-            {
-                "question": "Flexion increases diameter.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It decreases diameter."
-            },
-            {
-                "question": "Internal rotation in cavity.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Occurs in pelvic cavity."
-            },
-            {
-                "question": "Extension at outlet.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Occurs at outlet."
-            },
-            {
-                "question": "Restitution = rotation back.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Head returns to original position."
-            },
-            {
-                "question": "Power = contractions.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Power refers to contractions."
-            },
-            {
-                "question": "Passenger = fetus.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Passenger is fetus."
-            },
-            {
-                "question": "Passage = pelvis.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Passage is pelvis."
-            },
-            {
-                "question": "True labor irregular.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "True labor is regular."
-            },
-            {
-                "question": "Show = mucus + blood.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Mucus plug with blood."
-            },
-            {
-                "question": "Third stage risk hemorrhage.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "High bleeding risk."
-            },
-            {
-                "question": "A pregnant woman comes with regular painful contractions every 5 minutes and cervical dilation is 5 cm. What stage of labor?",
-                "options": ["Latent phase", "Active phase", "Second stage", "Third stage"],
-                "answer": "Active phase",
-                "explanation": "Active phase starts around 4 cm with regular strong contractions."
-            },
-            {
-                "question": "A woman has full cervical dilation and starts pushing. This is:",
-                "options": ["First stage", "Second stage", "Third stage", "Fourth stage"],
-                "answer": "Second stage",
-                "explanation": "Second stage begins at full dilation and involves pushing."
-            },
-            {
-                "question": "After delivery of the baby, the placenta is delivered. This stage is:",
-                "options": ["First", "Second", "Third", "Fourth"],
-                "answer": "Third",
-                "explanation": "Third stage is delivery of placenta."
-            },
-            {
-                "question": "A woman after delivery is observed for bleeding for 2 hours. This is:",
-                "options": ["First stage", "Second stage", "Third stage", "Fourth stage"],
-                "answer": "Fourth stage",
-                "explanation": "Fourth stage is immediate postpartum observation (1–2 hours)."
-            },
-            {
-                "question": "A woman has irregular contractions that do not increase in intensity and cervix is not dilating. Diagnosis?",
-                "options": ["True labor", "False labor", "Active labor", "Second stage"],
-                "answer": "False labor",
-                "explanation": "False labor is irregular and does not cause cervical dilation."
-            },
-            {
-                "question": "A patient has cervical dilation of 2 cm with mild contractions. This is:",
-                "options": ["Active phase", "Latent phase", "Second stage", "Third stage"],
-                "answer": "Latent phase",
-                "explanation": "Latent phase occurs from 0–3 cm with mild contractions."
-            },
-            {
-                "question": "Fetal head enters pelvic inlet. This is called:",
-                "options": ["Descent", "Engagement", "Flexion", "Extension"],
-                "answer": "Engagement",
-                "explanation": "Engagement is when the head enters the pelvic inlet."
-            },
-            {
-                "question": "Fetal head rotates inside pelvis. This is:",
-                "options": ["Flexion", "Internal rotation", "Extension", "Restitution"],
-                "answer": "Internal rotation",
-                "explanation": "Internal rotation occurs in pelvic cavity."
-            },
-            {
-                "question": "Fetal head becomes visible continuously at vaginal opening. This is:",
-                "options": ["Engagement", "Crowning", "Descent", "Extension"],
-                "answer": "Crowning",
-                "explanation": "Crowning is when head remains visible."
-            },
-            {
-                "question": "After head delivery, it rotates back to original position. This is:",
-                "options": ["Flexion", "Extension", "Restitution", "Expulsion"],
-                "answer": "Restitution",
-                "explanation": "Restitution is realignment of head after delivery."
-            },
-            {
-                "question": "A woman suddenly develops heavy bleeding after placenta delivery. Most likely cause?",
-                "options": ["Infection", "Uterine atony", "Pain", "Fever"],
-                "answer": "Uterine atony",
-                "explanation": "Failure of uterine contraction leads to hemorrhage."
-            },
-            {
-                "question": "Fetal heart rate is 140 bpm. This is:",
-                "options": ["Bradycardia", "Normal", "Tachycardia", "Danger"],
-                "answer": "Normal",
-                "explanation": "Normal FHR is 120–160 bpm."
-            },
-            {
-                "question": "Labor is delayed due to narrow pelvis. This is a problem of:",
-                "options": ["Power", "Passenger", "Passage", "Position"],
-                "answer": "Passage",
-                "explanation": "Pelvis is the passage."
-            },
-            {
-                "question": "Strong contractions but no progress. Problem in:",
-                "options": ["Power", "Passenger", "Passage", "Placenta"],
-                "answer": "Passage",
-                "explanation": "Obstruction (passage issue) prevents progress."
-            },
-            {
-                "question": "Weak contractions causing slow labor. Problem in:",
-                "options": ["Power", "Passenger", "Passage", "Placenta"],
-                "answer": "Power",
-                "explanation": "Weak uterine contractions indicate power problem."
-            }
+            {"question": "Normal labor is defined as:", "options": ["Delivery before 28 weeks", "Spontaneous delivery after 28 weeks without complications", "Surgical delivery", "Induced labor"], "answer": "Spontaneous delivery after 28 weeks without complications", "explanation": "Normal labor is spontaneous, occurs after viability, and without complications."},
+            {"question": "Normal presentation in labor:", "options": ["Breech", "Shoulder", "Vertex", "Face"], "answer": "Vertex", "explanation": "Vertex (cephalic) presentation is the normal presentation."},
+            {"question": "First stage of labor ends with:", "options": ["Full effacement", "Rupture of membrane", "Full cervical dilatation", "Fetal descent"], "answer": "Full cervical dilatation", "explanation": "First stage ends when cervix is fully dilated (10 cm)."},
+            {"question": "Normal cervical dilatation:", "options": ["5 cm", "8 cm", "10 cm", "12 cm"], "answer": "10 cm", "explanation": "Full cervical dilatation is 10 cm."},
+            {"question": "Latent phase includes:", "options": ["4–10 cm", "0–3 cm", "3–6 cm", "6–10 cm"], "answer": "0–3 cm", "explanation": "Latent phase is early dilation from 0–3 cm."},
+            {"question": "Active phase starts at:", "options": ["2 cm", "3 cm", "4 cm", "6 cm"], "answer": "4 cm", "explanation": "Active phase begins at about 4 cm dilation."},
+            {"question": "Second stage begins at:", "options": ["5 cm", "8 cm", "10 cm", "Engagement"], "answer": "10 cm", "explanation": "Second stage starts at full dilation."},
+            {"question": "Second stage ends with:", "options": ["Placenta", "Cervical closure", "Delivery of fetus", "Uterine contraction"], "answer": "Delivery of fetus", "explanation": "Ends with delivery of the baby."},
+            {"question": "Third stage includes:", "options": ["Fetal delivery", "Cervical dilation", "Placental delivery", "Engagement"], "answer": "Placental delivery", "explanation": "Third stage is delivery of placenta."},
+            {"question": "Fourth stage duration:", "options": ["30 min", "1–2 hours", "5 hours", "24 hours"], "answer": "1–2 hours", "explanation": "Fourth stage is immediate postpartum recovery."},
+            {"question": "Most dangerous stage:", "options": ["First", "Second", "Third", "Fourth"], "answer": "Third", "explanation": "Risk of postpartum hemorrhage is highest."},
+            {"question": "Main risk in third stage:", "options": ["Infection", "Hemorrhage", "Pain", "Fever"], "answer": "Hemorrhage", "explanation": "Major complication is bleeding."},
+            {"question": "Engagement means:", "options": ["Head rotation", "Head enters pelvic inlet", "Head exits", "Placenta separation"], "answer": "Head enters pelvic inlet", "explanation": "Engagement occurs when head enters pelvis."},
+            {"question": "Descent means:", "options": ["Rotation", "Downward movement", "Flexion", "Extension"], "answer": "Downward movement", "explanation": "Descent is downward movement of fetus."},
+            {"question": "Flexion leads to:", "options": ["Larger diameter", "Smaller diameter", "No change", "Obstruction"], "answer": "Smaller diameter", "explanation": "Flexion reduces presenting diameter."},
+            {"question": "Internal rotation occurs at:", "options": ["Inlet", "Cavity", "Outlet", "Cervix"], "answer": "Cavity", "explanation": "Internal rotation happens in pelvic cavity."},
+            {"question": "Extension occurs when:", "options": ["Head enters pelvis", "Head passes outlet", "Placenta delivers", "Cervix closes"], "answer": "Head passes outlet", "explanation": "Extension occurs as head emerges."},
+            {"question": "Restitution means:", "options": ["Rotation back", "Flexion", "Descent", "Extension"], "answer": "Rotation back", "explanation": "Head returns to original position."},
+            {"question": "Expulsion refers to:", "options": ["Placenta", "Baby delivery", "Cord cutting", "Uterus contraction"], "answer": "Baby delivery", "explanation": "Expulsion is delivery of fetus."},
+            {"question": "MOST important factor in labor progress:", "options": ["Age", "Pelvis size", "Power (uterine contractions)", "Skin"], "answer": "Power (uterine contractions)", "explanation": "Strong contractions drive labor."},
+            {"question": "Power refers to:", "options": ["Muscles", "Uterine contraction", "Hormones", "Blood"], "answer": "Uterine contraction", "explanation": "Power is uterine contractions."},
+            {"question": "Passenger refers to:", "options": ["Mother", "Fetus", "Doctor", "Nurse"], "answer": "Fetus", "explanation": "Passenger is the fetus."},
+            {"question": "Passage refers to:", "options": ["Uterus", "Pelvis", "Cervix", "Vagina"], "answer": "Pelvis", "explanation": "Passage is maternal pelvis."},
+            {"question": "The 3 P’s are:", "options": ["Power, Passenger, Passage", "Pain, Pressure, Pulse", "Pelvis, Placenta, Power", "Position, Pulse, Pain"], "answer": "Power, Passenger, Passage", "explanation": "These are key labor factors."},
+            {"question": "True labor contractions are:", "options": ["Irregular", "Painless", "Regular and increasing", "Weak"], "answer": "Regular and increasing", "explanation": "True labor is regular and progressive."},
+            {"question": "False labor contractions are:", "options": ["Regular", "Painful", "Irregular", "Strong"], "answer": "Irregular", "explanation": "False labor is irregular."},
+            {"question": "Show refers to:", "options": ["Blood + mucus", "Water", "Pain", "Placenta"], "answer": "Blood + mucus", "explanation": "Show is mucus plug with blood."},
+            {"question": "Rupture of membrane causes:", "options": ["Blood", "Fluid leakage", "Pain", "Infection"], "answer": "Fluid leakage", "explanation": "Amniotic fluid leaks."},
+            {"question": "Normal duration first stage:", "options": ["2 hours", "6 hours", "12 hours", "24 hours"], "answer": "12 hours", "explanation": "First stage averages 12 hours."},
+            {"question": "Second stage duration:", "options": ["5 min", "30 min–2 hrs", "5 hrs", "10 hrs"], "answer": "30 min–2 hrs", "explanation": "Second stage varies but within this range."},
+            {"question": "Third stage duration:", "options": ["5 min", "15–30 min", "1 hr", "2 hrs"], "answer": "15–30 min", "explanation": "Placenta delivered within 30 minutes."},
+            {"question": "Placenta separation sign:", "options": ["Pain", "Cord lengthening", "Fever", "BP increase"], "answer": "Cord lengthening", "explanation": "Cord lengthens when placenta separates."},
+            {"question": "Uterus after placenta:", "options": ["Soft", "Contracted", "Enlarged", "Empty"], "answer": "Contracted", "explanation": "Uterus contracts to prevent bleeding."},
+            {"question": "First action after delivery:", "options": ["Feed mother", "Check bleeding", "Sleep", "Bath"], "answer": "Check bleeding", "explanation": "Prevent hemorrhage."},
+            {"question": "Episiotomy done in:", "options": ["First stage", "Second stage", "Third", "Fourth"], "answer": "Second stage", "explanation": "Done during fetal delivery."},
+            {"question": "Crowning means:", "options": ["Head disappears", "Head visible continuously", "Placenta appears", "Cervix closes"], "answer": "Head visible continuously", "explanation": "Head remains visible at perineum."},
+            {"question": "Fetal heart monitoring is done to:", "options": ["Check mother", "Assess fetal well-being", "Measure BP", "Pain"], "answer": "Assess fetal well-being", "explanation": "Ensures fetal safety."},
+            {"question": "Normal FHR:", "options": ["80–100", "100–120", "120–160", "160–200"], "answer": "120–160", "explanation": "Normal fetal heart rate range."},
+            {"question": "Delayed labor may be due to:", "options": ["Strong contractions", "Narrow pelvis", "Good position", "Healthy fetus"], "answer": "Narrow pelvis", "explanation": "Cephalopelvic disproportion delays labor."},
+            {"question": "MOST critical moment for maternal survival:", "options": ["First stage", "Second stage", "Third stage", "Fourth stage"], "answer": "Third stage", "explanation": "Highest risk of hemorrhage."},
+            {"question": "Normal labor occurs after 28 weeks.", "options": ["True", "False"], "answer": "True", "explanation": "Labor after viability."},
+            {"question": "Breech is normal presentation.", "options": ["True", "False"], "answer": "False", "explanation": "Vertex is normal."},
+            {"question": "First stage ends at 10 cm.", "options": ["True", "False"], "answer": "True", "explanation": "Full dilation."},
+            {"question": "Latent phase 4–10 cm.", "options": ["True", "False"], "answer": "False", "explanation": "Latent is 0–3 cm."},
+            {"question": "Active phase starts at 4 cm.", "options": ["True", "False"], "answer": "True", "explanation": "Begins at 4 cm."},
+            {"question": "Second stage ends with placenta.", "options": ["True", "False"], "answer": "False", "explanation": "Ends with fetus delivery."},
+            {"question": "Third stage = placenta.", "options": ["True", "False"], "answer": "True", "explanation": "Placenta delivery stage."},
+            {"question": "Fourth stage = recovery.", "options": ["True", "False"], "answer": "True", "explanation": "Immediate postpartum recovery."},
+            {"question": "Engagement = head exits.", "options": ["True", "False"], "answer": "False", "explanation": "It enters pelvis."},
+            {"question": "Descent = downward movement.", "options": ["True", "False"], "answer": "True", "explanation": "Movement downwards."},
+            {"question": "Flexion increases diameter.", "options": ["True", "False"], "answer": "False", "explanation": "It decreases diameter."},
+            {"question": "Internal rotation in cavity.", "options": ["True", "False"], "answer": "True", "explanation": "Occurs in pelvic cavity."},
+            {"question": "Extension at outlet.", "options": ["True", "False"], "answer": "True", "explanation": "Occurs at outlet."},
+            {"question": "Restitution = rotation back.", "options": ["True", "False"], "answer": "True", "explanation": "Head returns to original position."},
+            {"question": "Power = contractions.", "options": ["True", "False"], "answer": "True", "explanation": "Power refers to contractions."},
+            {"question": "Passenger = fetus.", "options": ["True", "False"], "answer": "True", "explanation": "Passenger is fetus."},
+            {"question": "Passage = pelvis.", "options": ["True", "False"], "answer": "True", "explanation": "Passage is pelvis."},
+            {"question": "True labor irregular.", "options": ["True", "False"], "answer": "False", "explanation": "True labor is regular."},
+            {"question": "Show = mucus + blood.", "options": ["True", "False"], "answer": "True", "explanation": "Mucus plug with blood."},
+            {"question": "Third stage risk hemorrhage.", "options": ["True", "False"], "answer": "True", "explanation": "High bleeding risk."},
+            {"question": "A pregnant woman comes with regular painful contractions every 5 minutes and cervical dilation is 5 cm. What stage of labor?", "options": ["Latent phase", "Active phase", "Second stage", "Third stage"], "answer": "Active phase", "explanation": "Active phase starts around 4 cm with regular strong contractions."},
+            {"question": "A woman has full cervical dilation and starts pushing. This is:", "options": ["First stage", "Second stage", "Third stage", "Fourth stage"], "answer": "Second stage", "explanation": "Second stage begins at full dilation and involves pushing."},
+            {"question": "After delivery of the baby, the placenta is delivered. This stage is:", "options": ["First", "Second", "Third", "Fourth"], "answer": "Third", "explanation": "Third stage is delivery of placenta."},
+            {"question": "A woman after delivery is observed for bleeding for 2 hours. This is:", "options": ["First stage", "Second stage", "Third stage", "Fourth stage"], "answer": "Fourth stage", "explanation": "Fourth stage is immediate postpartum observation (1–2 hours)."},
+            {"question": "A woman has irregular contractions that do not increase in intensity and cervix is not dilating. Diagnosis?", "options": ["True labor", "False labor", "Active labor", "Second stage"], "answer": "False labor", "explanation": "False labor is irregular and does not cause cervical dilation."},
+            {"question": "A patient has cervical dilation of 2 cm with mild contractions. This is:", "options": ["Active phase", "Latent phase", "Second stage", "Third stage"], "answer": "Latent phase", "explanation": "Latent phase occurs from 0–3 cm with mild contractions."},
+            {"question": "Fetal head enters pelvic inlet. This is called:", "options": ["Descent", "Engagement", "Flexion", "Extension"], "answer": "Engagement", "explanation": "Engagement is when the head enters the pelvic inlet."},
+            {"question": "Fetal head rotates inside pelvis. This is:", "options": ["Flexion", "Internal rotation", "Extension", "Restitution"], "answer": "Internal rotation", "explanation": "Internal rotation occurs in pelvic cavity."},
+            {"question": "Fetal head becomes visible continuously at vaginal opening. This is:", "options": ["Engagement", "Crowning", "Descent", "Extension"], "answer": "Crowning", "explanation": "Crowning is when head remains visible."},
+            {"question": "After head delivery, it rotates back to original position. This is:", "options": ["Flexion", "Extension", "Restitution", "Expulsion"], "answer": "Restitution", "explanation": "Restitution is realignment of head after delivery."},
+            {"question": "A woman suddenly develops heavy bleeding after placenta delivery. Most likely cause?", "options": ["Infection", "Uterine atony", "Pain", "Fever"], "answer": "Uterine atony", "explanation": "Failure of uterine contraction leads to hemorrhage."},
+            {"question": "Fetal heart rate is 140 bpm. This is:", "options": ["Bradycardia", "Normal", "Tachycardia", "Danger"], "answer": "Normal", "explanation": "Normal FHR is 120–160 bpm."},
+            {"question": "Labor is delayed due to narrow pelvis. This is a problem of:", "options": ["Power", "Passenger", "Passage", "Position"], "answer": "Passage", "explanation": "Pelvis is the passage."},
+            {"question": "Strong contractions but no progress. Problem in:", "options": ["Power", "Passenger", "Passage", "Placenta"], "answer": "Passage", "explanation": "Obstruction (passage issue) prevents progress."},
+            {"question": "Weak contractions causing slow labor. Problem in:", "options": ["Power", "Passenger", "Passage", "Placenta"], "answer": "Power", "explanation": "Weak uterine contractions indicate power problem."}
         ],
         "L9 Management Normal Labor": [
-            {
-                "question": "True labor causes cervical dilation.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "True labor leads to cervical dilation and effacement."
-            },
-            {
-                "question": "False labor causes cervical dilation.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "False labor does not cause cervical changes."
-            },
-            {
-                "question": "Partograph is used to monitor labor.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Partograph tracks labor progress and detects complications."
-            },
-            {
-                "question": "Normal FHR is 60–80 bpm.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Normal fetal heart rate is 120–160 bpm."
-            },
-            {
-                "question": "Second stage starts at full dilatation.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Second stage begins at 10 cm dilation."
-            },
-            {
-                "question": "Crowning means placenta delivery.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Crowning means fetal head is visible continuously."
-            },
-            {
-                "question": "FHR monitoring is important.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It helps assess fetal well-being."
-            },
-            {
-                "question": "Walking helps labor progress.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Movement improves contractions and descent."
-            },
-            {
-                "question": "Bleeding after delivery is always normal.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Excess bleeding may indicate hemorrhage."
-            },
-            {
-                "question": "Effacement means thinning of cervix.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Effacement is cervical thinning."
-            },
-            {
-                "question": "Labor pain is due to uterine contraction.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Pain results from uterine contractions."
-            },
-            {
-                "question": "Nurse has no role in labor.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Nurse plays a key role in monitoring and support."
-            },
-            {
-                "question": "Hydration is important.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Hydration supports maternal and fetal well-being."
-            },
-            {
-                "question": "FHR 90 is normal.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "FHR 90 indicates fetal distress."
-            },
-            {
-                "question": "Placenta delivered in third stage.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Third stage involves placental delivery."
-            },
-            {
-                "question": "Slow labor is normal always.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Slow labor may indicate complications."
-            },
-            {
-                "question": "Support to mother is important.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Emotional and physical support improves outcomes."
-            },
-            {
-                "question": "Partograph detects complications.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It helps identify prolonged or obstructed labor."
-            },
-            {
-                "question": "Second stage ends with baby delivery.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Second stage ends with fetal expulsion."
-            },
-            {
-                "question": "Uterine contraction stops bleeding.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Contraction compresses blood vessels preventing hemorrhage."
-            },
-            {
-                "question": "A woman has regular contractions and cervical dilation 4 cm. What is the diagnosis?",
-                "options": ["True labor", "False labor", "Latent phase", "Second stage"],
-                "answer": "True labor",
-                "explanation": "Regular contractions with dilation indicate true labor."
-            },
-            {
-                "question": "A patient has pain but no cervical dilation. Diagnosis?",
-                "options": ["True labor", "False labor", "Active labor", "Second stage"],
-                "answer": "False labor",
-                "explanation": "No cervical change indicates false labor."
-            },
-            {
-                "question": "FHR is 90 bpm during labor. What is the condition?",
-                "options": ["Normal", "Fetal distress", "Bradycardia normal", "No issue"],
-                "answer": "Fetal distress",
-                "explanation": "FHR below 110 bpm indicates distress."
-            },
-            {
-                "question": "Cervix is fully dilated and mother pushing. Stage?",
-                "options": ["First stage", "Second stage", "Third stage", "Fourth stage"],
-                "answer": "Second stage",
-                "explanation": "Full dilation with pushing = second stage."
-            },
-            {
-                "question": "Placenta delivered after baby. Stage?",
-                "options": ["First", "Second", "Third", "Fourth"],
-                "answer": "Third",
-                "explanation": "Placenta delivery defines third stage."
-            },
-            {
-                "question": "Labor progress is slow on partograph. What is suspected?",
-                "options": ["Normal labor", "Prolonged labor", "Fast labor", "Second stage"],
-                "answer": "Prolonged labor",
-                "explanation": "Slow progress indicates prolonged labor."
-            },
-            {
-                "question": "Mother is anxious and in pain. What should nurse do?",
-                "options": ["Ignore", "Provide support and reassurance", "Give drugs only", "Send home"],
-                "answer": "Provide support and reassurance",
-                "explanation": "Support improves maternal comfort and outcomes."
-            },
-            {
-                "question": "Fetal head visible at vulva. Term?",
-                "options": ["Engagement", "Crowning", "Descent", "Extension"],
-                "answer": "Crowning",
-                "explanation": "Head visible continuously is crowning."
-            },
-            {
-                "question": "Heavy bleeding after delivery. Diagnosis?",
-                "options": ["Normal", "Postpartum hemorrhage", "Infection", "Pain"],
-                "answer": "Postpartum hemorrhage",
-                "explanation": "Excess bleeding indicates PPH."
-            },
-            {
-                "question": "Membrane ruptured with fluid leakage. Meaning?",
-                "options": ["Bleeding", "Water broke", "Infection", "Pain"],
-                "answer": "Water broke",
-                "explanation": "Rupture of membranes causes fluid leakage."
-            },
-            {
-                "question": "Mother refuses to push during second stage. Action?",
-                "options": ["Ignore", "Encourage and guide pushing", "Stop labor", "Give food"],
-                "answer": "Encourage and guide pushing",
-                "explanation": "Guidance helps effective delivery."
-            },
-            {
-                "question": "FHR normal but no dilation progress. Concern?",
-                "options": ["Normal", "Labor arrest", "Fetal distress", "Recovery"],
-                "answer": "Labor arrest",
-                "explanation": "No cervical progress indicates arrest."
-            },
-            {
-                "question": "Mother walking during labor. Benefit?",
-                "options": ["No effect", "Improves labor progress", "Harmful", "Stops labor"],
-                "answer": "Improves labor progress",
-                "explanation": "Walking enhances descent and contractions."
-            },
-            {
-                "question": "Cervix thinning but not opening. Term?",
-                "options": ["Dilation", "Effacement", "Engagement", "Extension"],
-                "answer": "Effacement",
-                "explanation": "Effacement is thinning of cervix."
-            },
-            {
-                "question": "Strong contractions every 2 minutes. Stage?",
-                "options": ["Latent", "Active labor", "Second stage", "Third stage"],
-                "answer": "Active labor",
-                "explanation": "Frequent strong contractions indicate active labor."
-            },
-            {
-                "question": "What is the main goal of managing normal labor?",
-                "options": ["Speed up delivery at any cost", "Ensure safety of mother and fetus", "Avoid vaginal examination", "Use medications in all cases"],
-                "answer": "Ensure safety of mother and fetus",
-                "explanation": "The primary goal is safe outcome for both mother and fetus."
-            },
-            {
-                "question": "True labor is confirmed by:",
-                "options": ["Irregular contractions", "No cervical dilation", "Cervical dilation and effacement", "Pain relief with rest"],
-                "answer": "Cervical dilation and effacement",
-                "explanation": "True labor causes progressive cervical changes."
-            },
-            {
-                "question": "First stage of labor ends when:",
-                "options": ["Membranes rupture", "Cervix is fully dilated", "Fetal head appears", "Placenta delivered"],
-                "answer": "Cervix is fully dilated",
-                "explanation": "First stage ends at 10 cm dilation."
-            },
-            {
-                "question": "Normal cervical dilatation in active phase is:",
-                "options": ["0.5 cm/hr", "1 cm/hr", "3 cm/hr", "5 cm/hr"],
-                "answer": "1 cm/hr",
-                "explanation": "Average dilation rate is 1 cm per hour."
-            },
-            {
-                "question": "Partograph is used to:",
-                "options": ["Measure blood pressure", "Monitor labor progress", "Check fetal weight", "Diagnose pregnancy"],
-                "answer": "Monitor labor progress",
-                "explanation": "It tracks labor progression and detects abnormalities."
-            },
-            {
-                "question": "Fetal heart rate should be monitored every:",
-                "options": ["5 minutes in first stage", "30 minutes in first stage", "2 hours", "Once daily"],
-                "answer": "30 minutes in first stage",
-                "explanation": "Regular monitoring ensures fetal well-being."
-            },
-            {
-                "question": "Normal fetal heart rate is:",
-                "options": ["80–100 bpm", "100–120 bpm", "110–160 bpm", "160–200 bpm"],
-                "answer": "110–160 bpm",
-                "explanation": "Normal fetal heart rate range."
-            },
-            {
-                "question": "Second stage of labor begins at:",
-                "options": ["5 cm dilatation", "8 cm dilatation", "10 cm dilatation", "After placenta delivery"],
-                "answer": "10 cm dilatation",
-                "explanation": "Begins at full cervical dilation."
-            },
-            {
-                "question": "Crowning means:",
-                "options": ["Placenta delivery", "Fetal head visible at vulva", "Membrane rupture", "Start of contractions"],
-                "answer": "Fetal head visible at vulva",
-                "explanation": "Head remains visible at vaginal opening."
-            },
-            {
-                "question": "First action when fetal distress is detected:",
-                "options": ["Ignore", "Increase pushing", "Inform doctor immediately", "Give food"],
-                "answer": "Inform doctor immediately",
-                "explanation": "Immediate action is required."
-            },
-            {
-                "question": "Which is NOT a sign of true labor?",
-                "options": ["Regular contractions", "Cervical dilation", "Pain relieved by rest", "Bloody show"],
-                "answer": "Pain relieved by rest",
-                "explanation": "Pain relief with rest suggests false labor."
-            },
-            {
-                "question": "Effacement means:",
-                "options": ["Opening cervix", "Thinning of cervix", "Closing cervix", "Uterine rupture"],
-                "answer": "Thinning of cervix",
-                "explanation": "Effacement is thinning of cervical canal."
-            },
-            {
-                "question": "Normal duration of second stage in primigravida:",
-                "options": ["10 minutes", "30 minutes", "1 hour", "3 hours"],
-                "answer": "1 hour",
-                "explanation": "Typically about 1 hour."
-            },
-            {
-                "question": "Which position helps labor progress?",
-                "options": ["Supine always", "Walking", "Lying flat", "Sitting only"],
-                "answer": "Walking",
-                "explanation": "Movement enhances labor progress."
-            },
-            {
-                "question": "Bloody show indicates:",
-                "options": ["Infection", "Start of labor", "Placenta previa", "Hypertension"],
-                "answer": "Start of labor",
-                "explanation": "Show indicates onset of labor."
-            },
-            {
-                "question": "Rupture of membranes means:",
-                "options": ["Water break", "Bleeding", "Pain relief", "Placenta delivery"],
-                "answer": "Water break",
-                "explanation": "Amniotic fluid leakage."
-            },
-            {
-                "question": "Normal contraction interval in active labor:",
-                "options": ["20 minutes", "10 minutes", "2–3 minutes", "1 hour"],
-                "answer": "2–3 minutes",
-                "explanation": "Frequent contractions in active phase."
-            },
-            {
-                "question": "Best method to monitor fetal well-being:",
-                "options": ["Temperature", "FHR", "Weight", "Height"],
-                "answer": "FHR",
-                "explanation": "FHR reflects fetal condition."
-            },
-            {
-                "question": "Main role of nurse in labor:",
-                "options": ["Perform surgery", "Monitor and support", "Give anesthesia", "Discharge patient"],
-                "answer": "Monitor and support",
-                "explanation": "Nurse ensures safe monitoring and support."
-            },
-            {
-                "question": "Pain relief during labor can include:",
-                "options": ["Breathing techniques", "Walking", "Support", "All of the above"],
-                "answer": "All of the above",
-                "explanation": "All are useful non-pharmacological methods."
-            },
-            {
-                "question": "Third stage of labor involves:",
-                "options": ["Cervical dilation", "Fetal delivery", "Placenta delivery", "Uterine contraction only"],
-                "answer": "Placenta delivery",
-                "explanation": "Placenta is expelled in third stage."
-            },
-            {
-                "question": "Placenta should be delivered within:",
-                "options": ["5 minutes", "15–30 minutes", "1 hour", "2 hours"],
-                "answer": "15–30 minutes",
-                "explanation": "Normal duration of third stage."
-            },
-            {
-                "question": "Excess bleeding after delivery indicates:",
-                "options": ["Normal condition", "Postpartum hemorrhage", "Good recovery", "Healthy uterus"],
-                "answer": "Postpartum hemorrhage",
-                "explanation": "Excess bleeding is abnormal."
-            },
-            {
-                "question": "Uterine contraction after delivery helps:",
-                "options": ["Pain increase", "Bleeding stop", "Fever", "Infection"],
-                "answer": "Bleeding stop",
-                "explanation": "Contraction compresses vessels."
-            },
-            {
-                "question": "Most important tool to detect slow labor:",
-                "options": ["Thermometer", "Partograph", "Stethoscope", "Scale"],
-                "answer": "Partograph",
-                "explanation": "Tracks progress and alerts delay."
-            },
-            {
-                "question": "Normal labor should be:",
-                "options": ["Fast only", "Safe and monitored", "Without check", "Without nurse"],
-                "answer": "Safe and monitored",
-                "explanation": "Safety and monitoring are essential."
-            },
-            {
-                "question": "What indicates full dilatation?",
-                "options": ["5 cm", "7 cm", "10 cm", "12 cm"],
-                "answer": "10 cm",
-                "explanation": "Full dilation is 10 cm."
-            },
-            {
-                "question": "Fetal distress sign:",
-                "options": ["FHR 120", "FHR 140", "FHR 90", "FHR 130"],
-                "answer": "FHR 90",
-                "explanation": "Low FHR indicates distress."
-            },
-            {
-                "question": "Second stage ends with:",
-                "options": ["Placenta delivery", "Baby delivery", "Membrane rupture", "Pain stop"],
-                "answer": "Baby delivery",
-                "explanation": "Ends with fetus expulsion."
-            },
-            {
-                "question": "Main complication to watch:",
-                "options": ["Headache", "Slow labor", "Hair loss", "Sleep"],
-                "answer": "Slow labor",
-                "explanation": "Prolonged labor is a major concern."
-            },
-            {
-                "question": "Labor pain mainly due to:",
-                "options": ["Uterine contraction", "Heart disease", "Kidney issue", "Brain problem"],
-                "answer": "Uterine contraction",
-                "explanation": "Pain results from contractions."
-            },
-            {
-                "question": "Which is abnormal?",
-                "options": ["Regular contractions", "Progressive dilation", "No cervical change", "Fetal descent"],
-                "answer": "No cervical change",
-                "explanation": "No change indicates abnormal labor."
-            },
-            {
-                "question": "Nurse should check vital signs every:",
-                "options": ["1 hour", "4 hours", "8 hours", "Once"],
-                "answer": "4 hours",
-                "explanation": "Regular monitoring is required."
-            },
-            {
-                "question": "Hydration during labor is:",
-                "options": ["Not needed", "Important", "Harmful", "Optional"],
-                "answer": "Important",
-                "explanation": "Maintains maternal condition."
-            },
-            {
-                "question": "Encouraging mother during labor:",
-                "options": ["Not needed", "Important", "Harmful", "Avoided"],
-                "answer": "Important",
-                "explanation": "Support improves labor outcomes."
-            },
-            {
-                "question": "Best position during second stage:",
-                "options": ["Supine", "Lithotomy", "Standing only", "Prone"],
-                "answer": "Lithotomy",
-                "explanation": "Common delivery position."
-            },
-            {
-                "question": "After delivery, first check:",
-                "options": ["Hair", "Bleeding", "Height", "Shoes"],
-                "answer": "Bleeding",
-                "explanation": "Prevent hemorrhage."
-            },
-            {
-                "question": "Normal labor includes:",
-                "options": ["No monitoring", "Continuous care", "No nurse", "No exam"],
-                "answer": "Continuous care",
-                "explanation": "Continuous monitoring is essential."
-            },
-            {
-                "question": "Fetal descent occurs in:",
-                "options": ["First stage", "Second stage", "Third stage", "Fourth stage"],
-                "answer": "Second stage",
-                "explanation": "Descent occurs during second stage."
-            },
-            {
-                "question": "Most dangerous complication:",
-                "options": ["Pain", "Bleeding", "Sleep", "Walking"],
-                "answer": "Bleeding",
-                "explanation": "Hemorrhage is life-threatening."
-            }
+            {"question": "True labor causes cervical dilation.", "options": ["True", "False"], "answer": "True", "explanation": "True labor leads to cervical dilation and effacement."},
+            {"question": "False labor causes cervical dilation.", "options": ["True", "False"], "answer": "False", "explanation": "False labor does not cause cervical changes."},
+            {"question": "Partograph is used to monitor labor.", "options": ["True", "False"], "answer": "True", "explanation": "Partograph tracks labor progress and detects complications."},
+            {"question": "Normal FHR is 60–80 bpm.", "options": ["True", "False"], "answer": "False", "explanation": "Normal fetal heart rate is 120–160 bpm."},
+            {"question": "Second stage starts at full dilatation.", "options": ["True", "False"], "answer": "True", "explanation": "Second stage begins at 10 cm dilation."},
+            {"question": "Crowning means placenta delivery.", "options": ["True", "False"], "answer": "False", "explanation": "Crowning means fetal head is visible continuously."},
+            {"question": "FHR monitoring is important.", "options": ["True", "False"], "answer": "True", "explanation": "It helps assess fetal well-being."},
+            {"question": "Walking helps labor progress.", "options": ["True", "False"], "answer": "True", "explanation": "Movement improves contractions and descent."},
+            {"question": "Bleeding after delivery is always normal.", "options": ["True", "False"], "answer": "False", "explanation": "Excess bleeding may indicate hemorrhage."},
+            {"question": "Effacement means thinning of cervix.", "options": ["True", "False"], "answer": "True", "explanation": "Effacement is cervical thinning."},
+            {"question": "Labor pain is due to uterine contraction.", "options": ["True", "False"], "answer": "True", "explanation": "Pain results from uterine contractions."},
+            {"question": "Nurse has no role in labor.", "options": ["True", "False"], "answer": "False", "explanation": "Nurse plays a key role in monitoring and support."},
+            {"question": "Hydration is important.", "options": ["True", "False"], "answer": "True", "explanation": "Hydration supports maternal and fetal well-being."},
+            {"question": "FHR 90 is normal.", "options": ["True", "False"], "answer": "False", "explanation": "FHR 90 indicates fetal distress."},
+            {"question": "Placenta delivered in third stage.", "options": ["True", "False"], "answer": "True", "explanation": "Third stage involves placental delivery."},
+            {"question": "Slow labor is normal always.", "options": ["True", "False"], "answer": "False", "explanation": "Slow labor may indicate complications."},
+            {"question": "Support to mother is important.", "options": ["True", "False"], "answer": "True", "explanation": "Emotional and physical support improves outcomes."},
+            {"question": "Partograph detects complications.", "options": ["True", "False"], "answer": "True", "explanation": "It helps identify prolonged or obstructed labor."},
+            {"question": "Second stage ends with baby delivery.", "options": ["True", "False"], "answer": "True", "explanation": "Second stage ends with fetal expulsion."},
+            {"question": "Uterine contraction stops bleeding.", "options": ["True", "False"], "answer": "True", "explanation": "Contraction compresses blood vessels preventing hemorrhage."},
+            {"question": "A woman has regular contractions and cervical dilation 4 cm. What is the diagnosis?", "options": ["True labor", "False labor", "Latent phase", "Second stage"], "answer": "True labor", "explanation": "Regular contractions with dilation indicate true labor."},
+            {"question": "A patient has pain but no cervical dilation. Diagnosis?", "options": ["True labor", "False labor", "Active labor", "Second stage"], "answer": "False labor", "explanation": "No cervical change indicates false labor."},
+            {"question": "FHR is 90 bpm during labor. What is the condition?", "options": ["Normal", "Fetal distress", "Bradycardia normal", "No issue"], "answer": "Fetal distress", "explanation": "FHR below 110 bpm indicates distress."},
+            {"question": "Cervix is fully dilated and mother pushing. Stage?", "options": ["First stage", "Second stage", "Third stage", "Fourth stage"], "answer": "Second stage", "explanation": "Full dilation with pushing = second stage."},
+            {"question": "Placenta delivered after baby. Stage?", "options": ["First", "Second", "Third", "Fourth"], "answer": "Third", "explanation": "Placenta delivery defines third stage."},
+            {"question": "Labor progress is slow on partograph. What is suspected?", "options": ["Normal labor", "Prolonged labor", "Fast labor", "Second stage"], "answer": "Prolonged labor", "explanation": "Slow progress indicates prolonged labor."},
+            {"question": "Mother is anxious and in pain. What should nurse do?", "options": ["Ignore", "Provide support and reassurance", "Give drugs only", "Send home"], "answer": "Provide support and reassurance", "explanation": "Support improves maternal comfort and outcomes."},
+            {"question": "Fetal head visible at vulva. Term?", "options": ["Engagement", "Crowning", "Descent", "Extension"], "answer": "Crowning", "explanation": "Head visible continuously is crowning."},
+            {"question": "Heavy bleeding after delivery. Diagnosis?", "options": ["Normal", "Postpartum hemorrhage", "Infection", "Pain"], "answer": "Postpartum hemorrhage", "explanation": "Excess bleeding indicates PPH."},
+            {"question": "Membrane ruptured with fluid leakage. Meaning?", "options": ["Bleeding", "Water broke", "Infection", "Pain"], "answer": "Water broke", "explanation": "Rupture of membranes causes fluid leakage."},
+            {"question": "Mother refuses to push during second stage. Action?", "options": ["Ignore", "Encourage and guide pushing", "Stop labor", "Give food"], "answer": "Encourage and guide pushing", "explanation": "Guidance helps effective delivery."},
+            {"question": "FHR normal but no dilation progress. Concern?", "options": ["Normal", "Labor arrest", "Fetal distress", "Recovery"], "answer": "Labor arrest", "explanation": "No cervical progress indicates arrest."},
+            {"question": "Mother walking during labor. Benefit?", "options": ["No effect", "Improves labor progress", "Harmful", "Stops labor"], "answer": "Improves labor progress", "explanation": "Walking enhances descent and contractions."},
+            {"question": "Cervix thinning but not opening. Term?", "options": ["Dilation", "Effacement", "Engagement", "Extension"], "answer": "Effacement", "explanation": "Effacement is thinning of cervix."},
+            {"question": "Strong contractions every 2 minutes. Stage?", "options": ["Latent", "Active labor", "Second stage", "Third stage"], "answer": "Active labor", "explanation": "Frequent strong contractions indicate active labor."},
+            {"question": "What is the main goal of managing normal labor?", "options": ["Speed up delivery at any cost", "Ensure safety of mother and fetus", "Avoid vaginal examination", "Use medications in all cases"], "answer": "Ensure safety of mother and fetus", "explanation": "The primary goal is safe outcome for both mother and fetus."},
+            {"question": "True labor is confirmed by:", "options": ["Irregular contractions", "No cervical dilation", "Cervical dilation and effacement", "Pain relief with rest"], "answer": "Cervical dilation and effacement", "explanation": "True labor causes progressive cervical changes."},
+            {"question": "First stage of labor ends when:", "options": ["Membranes rupture", "Cervix is fully dilated", "Fetal head appears", "Placenta delivered"], "answer": "Cervix is fully dilated", "explanation": "First stage ends at 10 cm dilation."},
+            {"question": "Normal cervical dilatation in active phase is:", "options": ["0.5 cm/hr", "1 cm/hr", "3 cm/hr", "5 cm/hr"], "answer": "1 cm/hr", "explanation": "Average dilation rate is 1 cm per hour."},
+            {"question": "Partograph is used to:", "options": ["Measure blood pressure", "Monitor labor progress", "Check fetal weight", "Diagnose pregnancy"], "answer": "Monitor labor progress", "explanation": "It tracks labor progression and detects abnormalities."},
+            {"question": "Fetal heart rate should be monitored every:", "options": ["5 minutes in first stage", "30 minutes in first stage", "2 hours", "Once daily"], "answer": "30 minutes in first stage", "explanation": "Regular monitoring ensures fetal well-being."},
+            {"question": "Normal fetal heart rate is:", "options": ["80–100 bpm", "100–120 bpm", "110–160 bpm", "160–200 bpm"], "answer": "110–160 bpm", "explanation": "Normal fetal heart rate range."},
+            {"question": "Second stage of labor begins at:", "options": ["5 cm dilatation", "8 cm dilatation", "10 cm dilatation", "After placenta delivery"], "answer": "10 cm dilatation", "explanation": "Begins at full cervical dilation."},
+            {"question": "Crowning means:", "options": ["Placenta delivery", "Fetal head visible at vulva", "Membrane rupture", "Start of contractions"], "answer": "Fetal head visible at vulva", "explanation": "Head remains visible at vaginal opening."},
+            {"question": "First action when fetal distress is detected:", "options": ["Ignore", "Increase pushing", "Inform doctor immediately", "Give food"], "answer": "Inform doctor immediately", "explanation": "Immediate action is required."},
+            {"question": "Which is NOT a sign of true labor?", "options": ["Regular contractions", "Cervical dilation", "Pain relieved by rest", "Bloody show"], "answer": "Pain relieved by rest", "explanation": "Pain relief with rest suggests false labor."},
+            {"question": "Effacement means:", "options": ["Opening cervix", "Thinning of cervix", "Closing cervix", "Uterine rupture"], "answer": "Thinning of cervix", "explanation": "Effacement is thinning of cervical canal."},
+            {"question": "Normal duration of second stage in primigravida:", "options": ["10 minutes", "30 minutes", "1 hour", "3 hours"], "answer": "1 hour", "explanation": "Typically about 1 hour."},
+            {"question": "Which position helps labor progress?", "options": ["Supine always", "Walking", "Lying flat", "Sitting only"], "answer": "Walking", "explanation": "Movement enhances labor progress."},
+            {"question": "Bloody show indicates:", "options": ["Infection", "Start of labor", "Placenta previa", "Hypertension"], "answer": "Start of labor", "explanation": "Show indicates onset of labor."},
+            {"question": "Rupture of membranes means:", "options": ["Water break", "Bleeding", "Pain relief", "Placenta delivery"], "answer": "Water break", "explanation": "Amniotic fluid leakage."},
+            {"question": "Normal contraction interval in active labor:", "options": ["20 minutes", "10 minutes", "2–3 minutes", "1 hour"], "answer": "2–3 minutes", "explanation": "Frequent contractions in active phase."},
+            {"question": "Best method to monitor fetal well-being:", "options": ["Temperature", "FHR", "Weight", "Height"], "answer": "FHR", "explanation": "FHR reflects fetal condition."},
+            {"question": "Main role of nurse in labor:", "options": ["Perform surgery", "Monitor and support", "Give anesthesia", "Discharge patient"], "answer": "Monitor and support", "explanation": "Nurse ensures safe monitoring and support."},
+            {"question": "Pain relief during labor can include:", "options": ["Breathing techniques", "Walking", "Support", "All of the above"], "answer": "All of the above", "explanation": "All are useful non-pharmacological methods."},
+            {"question": "Third stage of labor involves:", "options": ["Cervical dilation", "Fetal delivery", "Placenta delivery", "Uterine contraction only"], "answer": "Placenta delivery", "explanation": "Placenta is expelled in third stage."},
+            {"question": "Placenta should be delivered within:", "options": ["5 minutes", "15–30 minutes", "1 hour", "2 hours"], "answer": "15–30 minutes", "explanation": "Normal duration of third stage."},
+            {"question": "Excess bleeding after delivery indicates:", "options": ["Normal condition", "Postpartum hemorrhage", "Good recovery", "Healthy uterus"], "answer": "Postpartum hemorrhage", "explanation": "Excess bleeding is abnormal."},
+            {"question": "Uterine contraction after delivery helps:", "options": ["Pain increase", "Bleeding stop", "Fever", "Infection"], "answer": "Bleeding stop", "explanation": "Contraction compresses vessels."},
+            {"question": "Most important tool to detect slow labor:", "options": ["Thermometer", "Partograph", "Stethoscope", "Scale"], "answer": "Partograph", "explanation": "Tracks progress and alerts delay."},
+            {"question": "Normal labor should be:", "options": ["Fast only", "Safe and monitored", "Without check", "Without nurse"], "answer": "Safe and monitored", "explanation": "Safety and monitoring are essential."},
+            {"question": "What indicates full dilatation?", "options": ["5 cm", "7 cm", "10 cm", "12 cm"], "answer": "10 cm", "explanation": "Full dilation is 10 cm."},
+            {"question": "Fetal distress sign:", "options": ["FHR 120", "FHR 140", "FHR 90", "FHR 130"], "answer": "FHR 90", "explanation": "Low FHR indicates distress."},
+            {"question": "Second stage ends with:", "options": ["Placenta delivery", "Baby delivery", "Membrane rupture", "Pain stop"], "answer": "Baby delivery", "explanation": "Ends with fetus expulsion."},
+            {"question": "Main complication to watch:", "options": ["Headache", "Slow labor", "Hair loss", "Sleep"], "answer": "Slow labor", "explanation": "Prolonged labor is a major concern."},
+            {"question": "Labor pain mainly due to:", "options": ["Uterine contraction", "Heart disease", "Kidney issue", "Brain problem"], "answer": "Uterine contraction", "explanation": "Pain results from contractions."},
+            {"question": "Which is abnormal?", "options": ["Regular contractions", "Progressive dilation", "No cervical change", "Fetal descent"], "answer": "No cervical change", "explanation": "No change indicates abnormal labor."},
+            {"question": "Nurse should check vital signs every:", "options": ["1 hour", "4 hours", "8 hours", "Once"], "answer": "4 hours", "explanation": "Regular monitoring is required."},
+            {"question": "Hydration during labor is:", "options": ["Not needed", "Important", "Harmful", "Optional"], "answer": "Important", "explanation": "Maintains maternal condition."},
+            {"question": "Encouraging mother during labor:", "options": ["Not needed", "Important", "Harmful", "Avoided"], "answer": "Important", "explanation": "Support improves labor outcomes."},
+            {"question": "Best position during second stage:", "options": ["Supine", "Lithotomy", "Standing only", "Prone"], "answer": "Lithotomy", "explanation": "Common delivery position."},
+            {"question": "After delivery, first check:", "options": ["Hair", "Bleeding", "Height", "Shoes"], "answer": "Bleeding", "explanation": "Prevent hemorrhage."},
+            {"question": "Normal labor includes:", "options": ["No monitoring", "Continuous care", "No nurse", "No exam"], "answer": "Continuous care", "explanation": "Continuous monitoring is essential."},
+            {"question": "Fetal descent occurs in:", "options": ["First stage", "Second stage", "Third stage", "Fourth stage"], "answer": "Second stage", "explanation": "Descent occurs during second stage."},
+            {"question": "Most dangerous complication:", "options": ["Pain", "Bleeding", "Sleep", "Walking"], "answer": "Bleeding", "explanation": "Hemorrhage is life-threatening."}
         ],
         "L10 Ante partum Hemorrhage": [
-            {
-                "question": "Antepartum hemorrhage is defined as bleeding after:",
-                "options": ["12 weeks", "20 weeks", "28 weeks", "36 weeks"],
-                "answer": "28 weeks",
-                "explanation": "APH is bleeding occurring after 28 weeks of pregnancy."
-            },
-            {
-                "question": "The most common cause of APH is:",
-                "options": ["Placenta previa", "Abruptio placentae", "Uterine rupture", "Trauma"],
-                "answer": "Placenta previa",
-                "explanation": "Placenta previa is the most frequent cause."
-            },
-            {
-                "question": "Placenta previa means:",
-                "options": ["Placenta separates early", "Placenta covers cervical os", "Placenta inside uterus wall", "Placenta outside uterus"],
-                "answer": "Placenta covers cervical os",
-                "explanation": "Placenta previa covers or lies near cervical opening."
-            },
-            {
-                "question": "Main symptom of placenta previa:",
-                "options": ["Painful bleeding", "Painless bleeding", "No bleeding", "Fever"],
-                "answer": "Painless bleeding",
-                "explanation": "Bleeding is painless and bright red."
-            },
-            {
-                "question": "Abruptio placentae is:",
-                "options": ["Placenta blocks cervix", "Placenta separates early", "Placenta infection", "Placenta grows large"],
-                "answer": "Placenta separates early",
-                "explanation": "Premature separation of placenta."
-            },
-            {
-                "question": "Bleeding in abruptio placentae is:",
-                "options": ["Painless", "Painful", "No bleeding", "Mild only"],
-                "answer": "Painful",
-                "explanation": "Bleeding is associated with pain."
-            },
-            {
-                "question": "Uterus in abruptio placentae is:",
-                "options": ["Soft", "Relaxed", "Rigid and tender", "Empty"],
-                "answer": "Rigid and tender",
-                "explanation": "Uterus becomes tense and tender."
-            },
-            {
-                "question": "Fetal condition in severe abruption:",
-                "options": ["Always normal", "Fetal distress or death", "No effect", "Improved"],
-                "answer": "Fetal distress or death",
-                "explanation": "Placental separation compromises oxygen supply."
-            },
-            {
-                "question": "First action in APH:",
-                "options": ["Give food", "Assess vital signs", "Ignore", "Send home"],
-                "answer": "Assess vital signs",
-                "explanation": "Initial step is assessing maternal stability."
-            },
-            {
-                "question": "Most important investigation:",
-                "options": ["X-ray", "Ultrasound", "ECG", "CT scan"],
-                "answer": "Ultrasound",
-                "explanation": "Ultrasound confirms diagnosis."
-            },
-            {
-                "question": "Digital vaginal exam is contraindicated in:",
-                "options": ["Abruptio placentae", "Placenta previa", "Normal labor", "Postpartum"],
-                "answer": "Placenta previa",
-                "explanation": "May cause severe bleeding."
-            },
-            {
-                "question": "Risk factor for placenta previa:",
-                "options": ["First pregnancy", "Previous C-section", "Young age", "Exercise"],
-                "answer": "Previous C-section",
-                "explanation": "Previous uterine surgery increases risk."
-            },
-            {
-                "question": "Risk factor for abruption:",
-                "options": ["Hypertension", "Low BP", "Normal BP", "Walking"],
-                "answer": "Hypertension",
-                "explanation": "Hypertension predisposes to abruption."
-            },
-            {
-                "question": "Concealed bleeding occurs in:",
-                "options": ["Placenta previa", "Abruptio placentae", "Normal pregnancy", "Labor"],
-                "answer": "Abruptio placentae",
-                "explanation": "Blood may accumulate internally."
-            },
-            {
-                "question": "Shock may be severe in abruption because:",
-                "options": ["Visible bleeding", "Hidden bleeding", "No bleeding", "Pain only"],
-                "answer": "Hidden bleeding",
-                "explanation": "Internal bleeding leads to severe shock."
-            },
-            {
-                "question": "Management of severe APH:",
-                "options": ["Home rest", "Immediate hospital care", "Ignore", "Only fluids"],
-                "answer": "Immediate hospital care",
-                "explanation": "Requires emergency management."
-            },
-            {
-                "question": "Blood transfusion may be needed in:",
-                "options": ["Mild cases", "Severe bleeding", "Normal pregnancy", "No bleeding"],
-                "answer": "Severe bleeding",
-                "explanation": "To replace lost blood." 
-            },
-            {
-                "question": "Main danger of APH:",
-                "options": ["Hair loss", "Hemorrhagic shock", "Sleep", "Headache"],
-                "answer": "Hemorrhagic shock",
-                "explanation": "Severe bleeding can cause shock." 
-            },
-            {
-                "question": "Placenta previa is diagnosed by:",
-                "options": ["Palpation", "Ultrasound", "Urine test", "BP"],
-                "answer": "Ultrasound",
-                "explanation": "Imaging confirms location of placenta." 
-            },
-            {
-                "question": "Fetal monitoring is done by:",
-                "options": ["Temperature", "FHR", "Weight", "Height"],
-                "answer": "FHR",
-                "explanation": "FHR indicates fetal condition."
-            },
-            {
-                "question": "Antepartum hemorrhage is defined as bleeding after:",
-                "options": ["12 weeks", "20 weeks", "28 weeks", "36 weeks"],
-                "answer": "28 weeks",
-                "explanation": "APH is bleeding occurring after 28 weeks of pregnancy." 
-            },
-            {
-                "question": "The most common cause of APH is:",
-                "options": ["Placenta previa", "Abruptio placentae", "Uterine rupture", "Trauma"],
-                "answer": "Placenta previa",
-                "explanation": "Placenta previa is the most frequent cause." 
-            },
-            {
-                "question": "Placenta previa means:",
-                "options": ["Placenta separates early", "Placenta covers cervical os", "Placenta inside uterus wall", "Placenta outside uterus"],
-                "answer": "Placenta covers cervical os",
-                "explanation": "Placenta previa covers or lies near cervical opening." 
-            },
-            {
-                "question": "Main symptom of placenta previa:",
-                "options": ["Painful bleeding", "Painless bleeding", "No bleeding", "Fever"],
-                "answer": "Painless bleeding",
-                "explanation": "Bleeding is painless and bright red." 
-            },
-            {
-                "question": "Abruptio placentae is:",
-                "options": ["Placenta blocks cervix", "Placenta separates early", "Placenta infection", "Placenta grows large"],
-                "answer": "Placenta separates early",
-                "explanation": "Premature separation of placenta."
-            },
-            {
-                "question": "Bleeding in abruptio placentae is:",
-                "options": ["Painless", "Painful", "No bleeding", "Mild only"],
-                "answer": "Painful",
-                "explanation": "Bleeding is associated with pain." 
-            },
-            {
-                "question": "Uterus in abruptio placentae is:",
-                "options": ["Soft", "Relaxed", "Rigid and tender", "Empty"],
-                "answer": "Rigid and tender",
-                "explanation": "Uterus becomes tense and tender." 
-            },
-            {
-                "question": "Fetal condition in severe abruption:",
-                "options": ["Always normal", "Fetal distress or death", "No effect", "Improved"],
-                "answer": "Fetal distress or death",
-                "explanation": "Placental separation compromises oxygen supply." 
-            },
-            {
-                "question": "First action in APH:",
-                "options": ["Give food", "Assess vital signs", "Ignore", "Send home"],
-                "answer": "Assess vital signs",
-                "explanation": "Initial step is assessing maternal stability." 
-            },
-            {
-                "question": "Most important investigation:",
-                "options": ["X-ray", "Ultrasound", "ECG", "CT scan"],
-                "answer": "Ultrasound",
-                "explanation": "Ultrasound confirms diagnosis." 
-            },
-            {
-                "question": "Digital vaginal exam is contraindicated in:",
-                "options": ["Abruptio placentae", "Placenta previa", "Normal labor", "Postpartum"],
-                "answer": "Placenta previa",
-                "explanation": "May cause severe bleeding." 
-            },
-            {
-                "question": "Risk factor for placenta previa:",
-                "options": ["First pregnancy", "Previous C-section", "Young age", "Exercise"],
-                "answer": "Previous C-section",
-                "explanation": "Previous uterine surgery increases risk." 
-            },
-            {
-                "question": "Risk factor for abruption:",
-                "options": ["Hypertension", "Low BP", "Normal BP", "Walking"],
-                "answer": "Hypertension",
-                "explanation": "Hypertension predisposes to abruption." 
-            },
-            {
-                "question": "Concealed bleeding occurs in:",
-                "options": ["Placenta previa", "Abruptio placentae", "Normal pregnancy", "Labor"],
-                "answer": "Abruptio placentae",
-                "explanation": "Blood may accumulate internally." 
-            },
-            {
-                "question": "Shock may be severe in abruption because:",
-                "options": ["Visible bleeding", "Hidden bleeding", "No bleeding", "Pain only"],
-                "answer": "Hidden bleeding",
-                "explanation": "Internal bleeding leads to severe shock." 
-            },
-            {
-                "question": "Management of severe APH:",
-                "options": ["Home rest", "Immediate hospital care", "Ignore", "Only fluids"],
-                "answer": "Immediate hospital care",
-                "explanation": "Requires emergency management." 
-            },
-            {
-                "question": "Blood transfusion may be needed in:",
-                "options": ["Mild cases", "Severe bleeding", "Normal pregnancy", "No bleeding"],
-                "answer": "Severe bleeding",
-                "explanation": "To replace lost blood."
-            },
-            {
-                "question": "Main danger of APH:",
-                "options": ["Hair loss", "Hemorrhagic shock", "Sleep", "Headache"],
-                "answer": "Hemorrhagic shock",
-                "explanation": "Severe bleeding can cause shock." 
-            },
-            {
-                "question": "Placenta previa is diagnosed by:",
-                "options": ["Palpation", "Ultrasound", "Urine test", "BP"],
-                "answer": "Ultrasound",
-                "explanation": "Imaging confirms location of placenta." 
-            },
-            {
-                "question": "Fetal monitoring is done by:",
-                "options": ["Temperature", "FHR", "Weight", "Height"],
-                "answer": "FHR",
-                "explanation": "FHR indicates fetal condition."
-            }
+            {"question": "Antepartum hemorrhage is defined as bleeding after:", "options": ["12 weeks", "20 weeks", "28 weeks", "36 weeks"], "answer": "28 weeks", "explanation": "APH is bleeding occurring after 28 weeks of pregnancy."},
+            {"question": "The most common cause of APH is:", "options": ["Placenta previa", "Abruptio placentae", "Uterine rupture", "Trauma"], "answer": "Placenta previa", "explanation": "Placenta previa is the most frequent cause."},
+            {"question": "Placenta previa means:", "options": ["Placenta separates early", "Placenta covers cervical os", "Placenta inside uterus wall", "Placenta outside uterus"], "answer": "Placenta covers cervical os", "explanation": "Placenta previa covers or lies near cervical opening."},
+            {"question": "Main symptom of placenta previa:", "options": ["Painful bleeding", "Painless bleeding", "No bleeding", "Fever"], "answer": "Painless bleeding", "explanation": "Bleeding is painless and bright red."},
+            {"question": "Abruptio placentae is:", "options": ["Placenta blocks cervix", "Placenta separates early", "Placenta infection", "Placenta grows large"], "answer": "Placenta separates early", "explanation": "Premature separation of placenta."},
+            {"question": "Bleeding in abruptio placentae is:", "options": ["Painless", "Painful", "No bleeding", "Mild only"], "answer": "Painful", "explanation": "Bleeding is associated with pain."},
+            {"question": "Uterus in abruptio placentae is:", "options": ["Soft", "Relaxed", "Rigid and tender", "Empty"], "answer": "Rigid and tender", "explanation": "Uterus becomes tense and tender."},
+            {"question": "Fetal condition in severe abruption:", "options": ["Always normal", "Fetal distress or death", "No effect", "Improved"], "answer": "Fetal distress or death", "explanation": "Placental separation compromises oxygen supply."},
+            {"question": "First action in APH:", "options": ["Give food", "Assess vital signs", "Ignore", "Send home"], "answer": "Assess vital signs", "explanation": "Initial step is assessing maternal stability."},
+            {"question": "Most important investigation:", "options": ["X-ray", "Ultrasound", "ECG", "CT scan"], "answer": "Ultrasound", "explanation": "Ultrasound confirms diagnosis."},
+            {"question": "Digital vaginal exam is contraindicated in:", "options": ["Abruptio placentae", "Placenta previa", "Normal labor", "Postpartum"], "answer": "Placenta previa", "explanation": "May cause severe bleeding."},
+            {"question": "Risk factor for placenta previa:", "options": ["First pregnancy", "Previous C-section", "Young age", "Exercise"], "answer": "Previous C-section", "explanation": "Previous uterine surgery increases risk."},
+            {"question": "Risk factor for abruption:", "options": ["Hypertension", "Low BP", "Normal BP", "Walking"], "answer": "Hypertension", "explanation": "Hypertension predisposes to abruption."},
+            {"question": "Concealed bleeding occurs in:", "options": ["Placenta previa", "Abruptio placentae", "Normal pregnancy", "Labor"], "answer": "Abruptio placentae", "explanation": "Blood may accumulate internally."},
+            {"question": "Shock may be severe in abruption because:", "options": ["Visible bleeding", "Hidden bleeding", "No bleeding", "Pain only"], "answer": "Hidden bleeding", "explanation": "Internal bleeding leads to severe shock."},
+            {"question": "Management of severe APH:", "options": ["Home rest", "Immediate hospital care", "Ignore", "Only fluids"], "answer": "Immediate hospital care", "explanation": "Requires emergency management."},
+            {"question": "Blood transfusion may be needed in:", "options": ["Mild cases", "Severe bleeding", "Normal pregnancy", "No bleeding"], "answer": "Severe bleeding", "explanation": "To replace lost blood."},
+            {"question": "Main danger of APH:", "options": ["Hair loss", "Hemorrhagic shock", "Sleep", "Headache"], "answer": "Hemorrhagic shock", "explanation": "Severe bleeding can cause shock."},
+            {"question": "Placenta previa is diagnosed by:", "options": ["Palpation", "Ultrasound", "Urine test", "BP"], "answer": "Ultrasound", "explanation": "Imaging confirms location of placenta."},
+            {"question": "Fetal monitoring is done by:", "options": ["Temperature", "FHR", "Weight", "Height"], "answer": "FHR", "explanation": "FHR indicates fetal condition."}
         ],
         "L11 Bleeding in late Pregnancy": [
-            {
-                "question": "Antepartum hemorrhage is defined as bleeding after:",
-                "options": ["20 weeks", "24 weeks", "28 weeks", "32 weeks"],
-                "answer": "28 weeks"
-            },
-            {
-                "question": "APH occurs between:",
-                "options": ["20 weeks to delivery", "28 weeks to onset of labor", "30 weeks to birth", "After labor"],
-                "answer": "28 weeks to onset of labor"
-            },
-            {
-                "question": "Placental cause of APH includes:",
-                "options": ["Rupture uterus", "Placenta previa", "Infection", "Fibroid"],
-                "answer": "Placenta previa"
-            },
-            {
-                "question": "Extra placental cause includes:",
-                "options": ["Placenta previa", "Abruptio placentae", "Rupture uterus", "Twins"],
-                "answer": "Rupture uterus"
-            },
-            {
-                "question": "Placenta previa is:",
-                "options": ["Placenta separates early", "Placenta near or over internal os", "Placenta outside uterus", "Placenta ruptured"],
-                "answer": "Placenta near or over internal os"
-            },
-            {
-                "question": "Main symptom of placenta previa:",
-                "options": ["Painful bleeding", "Painless bleeding", "No bleeding", "Fever"],
-                "answer": "Painless bleeding"
-            },
-            {
-                "question": "Bleeding in placenta previa is:",
-                "options": ["Painful", "Painless", "Always internal", "None"],
-                "answer": "Painless"
-            },
-            {
-                "question": "Risk factor for placenta previa:",
-                "options": ["Young age", "Previous C-section", "Exercise", "Low parity"],
-                "answer": "Previous C-section"
-            },
-            {
-                "question": "Placenta previa type that completely covers os:",
-                "options": ["First degree", "Second degree", "Third degree", "Fourth degree"],
-                "answer": "Fourth degree"
-            },
-            {
-                "question": "Second degree placenta previa means:",
-                "options": ["Away from os", "Touches os", "Partially covers os", "Fully covers os"],
-                "answer": "Touches os"
-            },
-
-            {
-                "question": "Third degree placenta previa:",
-                "options": ["Away from os", "Touches os", "Partially covers os", "Fully covers os"],
-                "answer": "Partially covers os"
-            },
-            {
-                "question": "Uterus in placenta previa:",
-                "options": ["Rigid", "Tender", "Normal", "Contracted"],
-                "answer": "Normal"
-            },
-            {
-                "question": "Malpresentation is common in:",
-                "options": ["Normal pregnancy", "Placenta previa", "Postpartum", "Labor only"],
-                "answer": "Placenta previa"
-            },
-            {
-                "question": "Vaginal exam in placenta previa:",
-                "options": ["Always safe", "Done at home", "Only in OR", "Not needed"],
-                "answer": "Only in OR"
-            },
-            {
-                "question": "Main investigation:",
-                "options": ["X-ray", "Ultrasound", "Urine test", "ECG"],
-                "answer": "Ultrasound"
-            },
-            {
-                "question": "Expectant management includes:",
-                "options": ["Exercise", "Bed rest", "Surgery", "Ignore"],
-                "answer": "Bed rest"
-            },
-            {
-                "question": "Active management indicated when:",
-                "options": ["<28 weeks", ">37 weeks", "No bleeding", "Early pregnancy"],
-                "answer": ">37 weeks"
-            },
-            {
-                "question": "Abruptio placentae means:",
-                "options": ["Placenta covers cervix", "Placenta separates early", "Placenta grows", "Placenta moves"],
-                "answer": "Placenta separates early"
-            },
-            {
-                "question": "Main symptom of abruption:",
-                "options": ["Painless bleeding", "Painful bleeding", "No bleeding", "Mild pain"],
-                "answer": "Painful bleeding"
-            },
-            {
-                "question": "Uterus in abruption:",
-                "options": ["Soft", "Normal", "Rigid", "Empty"],
-                "answer": "Rigid"
-            },
-
-            {
-                "question": "Fetal distress common in:",
-                "options": ["Placenta previa", "Abruption", "Normal pregnancy", "Postpartum"],
-                "answer": "Abruption"
-            },
-            {
-                "question": "Risk factor for abruption:",
-                "options": ["Low BP", "Hypertension", "Exercise", "Young age"],
-                "answer": "Hypertension"
-            },
-            {
-                "question": "Bleeding in abruption may be:",
-                "options": ["Bright red", "Concealed", "None", "Clear"],
-                "answer": "Concealed"
-            },
-            {
-                "question": "Grade 3 abruption:",
-                "options": ["Mild", "Fetus alive", "Fetus dead", "No symptoms"],
-                "answer": "Fetus dead"
-            },
-            {
-                "question": "Grade 2 abruption:",
-                "options": ["No symptoms", "Fetus alive", "Fetus dead", "No bleeding"],
-                "answer": "Fetus alive"
-            },
-            {
-                "question": "Shock occurs due to:",
-                "options": ["Pain", "Bleeding", "Sleep", "Walking"],
-                "answer": "Bleeding"
-            },
-            {
-                "question": "Management at home:",
-                "options": ["Vaginal exam", "No exam", "Discharge", "Ignore"],
-                "answer": "No exam"
-            },
-            {
-                "question": "First hospital step:",
-                "options": ["Discharge", "Blood transfusion", "Ignore", "Sleep"],
-                "answer": "Blood transfusion"
-            },
-            {
-                "question": "Treatment depends on:",
-                "options": ["Doctor mood", "Severity & fetus", "Time only", "Mother age only"],
-                "answer": "Severity & fetus"
-            },
-            {
-                "question": "Artificial rupture of membrane is used in:",
-                "options": ["Placenta previa", "Abruption", "Normal only", "Postpartum"],
-                "answer": "Abruption"
-            },
-
-            {
-                "question": "Placenta previa bleeding color:",
-                "options": ["Dark", "Bright red", "Green", "Yellow"],
-                "answer": "Bright red"
-            },
-            {
-                "question": "Abruption bleeding color:",
-                "options": ["Bright red", "Dark", "Clear", "None"],
-                "answer": "Dark"
-            },
-            {
-                "question": "Pain in placenta previa:",
-                "options": ["Severe", "Mild", "Absent", "Continuous"],
-                "answer": "Absent"
-            },
-            {
-                "question": "Pain in abruption:",
-                "options": ["Absent", "Severe", "Mild", "None"],
-                "answer": "Severe"
-            },
-            {
-                "question": "Uterus in previa:",
-                "options": ["Rigid", "Tender", "Normal", "Hard"],
-                "answer": "Normal"
-            },
-            {
-                "question": "Uterus in abruption:",
-                "options": ["Soft", "Normal", "Board-like", "Empty"],
-                "answer": "Board-like"
-            },
-            {
-                "question": "Main complication:",
-                "options": ["Hair loss", "Shock", "Sleep", "Fever"],
-                "answer": "Shock"
-            },
-            {
-                "question": "Goal of management:",
-                "options": ["Delay care", "Save mother & fetus", "Ignore", "Discharge"],
-                "answer": "Save mother & fetus"
-            },
-            {
-                "question": "Avoid vaginal exam when:",
-                "options": ["Normal case", "Placenta unknown", "After delivery", "Postpartum"],
-                "answer": "Placenta unknown"
-            },
-            {
-                "question": "APH may cause:",
-                "options": ["No effect", "High morbidity", "Hair loss", "Sleep"],
-                "answer": "High morbidity"
-            },
-            {
-                "question": "APH occurs after 28 weeks.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Antepartum hemorrhage is defined as bleeding after 28 weeks."
-            },
-            {
-                "question": "Placenta previa causes painful bleeding.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Placenta previa causes painless bleeding."
-            },
-            {
-                "question": "Abruption causes severe pain.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Abruptio placentae is associated with severe abdominal pain."
-            },
-            {
-                "question": "Ultrasound is used for diagnosis.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Ultrasound is the main diagnostic tool."
-            },
-            {
-                "question": "Vaginal exam is safe in placenta previa.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It is contraindicated due to risk of hemorrhage."
-            },
-            {
-                "question": "Placenta previa uterus is normal.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Uterus is usually soft and non-tender."
-            },
-            {
-                "question": "Abruption uterus is rigid.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Uterus becomes tense and rigid."
-            },
-            {
-                "question": "Bleeding in previa is bright red.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Bleeding is typically bright red."
-            },
-            {
-                "question": "Bleeding in abruption is dark.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Bleeding is often dark due to concealed bleeding."
-            },
-            {
-                "question": "APH is harmless.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "APH is a serious life-threatening condition."
-            },
-            {
-                "question": "Hypertension is risk for abruption.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Hypertension is a major risk factor."
-            },
-            {
-                "question": "Placenta previa may cause malpresentation.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Placental position may interfere with fetal presentation."
-            },
-            {
-                "question": "Bed rest used in management.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Used in expectant management."
-            },
-            {
-                "question": "Shock may occur.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Severe bleeding can lead to shock."
-            },
-            {
-                "question": "Grade 3 abruption fetus alive.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Grade 3 abruption usually involves fetal death."
-            },
-            {
-                "question": "Expectant management delays delivery.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It aims to prolong pregnancy if stable."
-            },
-            {
-                "question": "Active management after 37 weeks.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Delivery is usually planned after term."
-            },
-            {
-                "question": "No vaginal exam at home.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Vaginal exam should be avoided outside hospital."
-            },
-            {
-                "question": "Abruption always painless.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Abruption is typically painful."
-            },
-            {
-                "question": "Goal is save mother and fetus.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Main goal is maternal and fetal survival."
-            },
-            {
-                "question": "Pregnant woman with painless bright bleeding. Diagnosis?",
-                "options": ["Placenta previa", "Abruptio placentae", "Uterine rupture", "Normal labor"],
-                "answer": "Placenta previa",
-                "explanation": "Painless bright red bleeding is characteristic of placenta previa."
-            },
-            {
-                "question": "Severe abdominal pain + dark bleeding. Diagnosis?",
-                "options": ["Placenta previa", "Abruptio placentae", "Normal labor", "Infection"],
-                "answer": "Abruptio placentae",
-                "explanation": "Painful bleeding with dark blood suggests abruption."
-            },
-            {
-                "question": "Rigid uterus + fetal distress. Cause?",
-                "options": ["Placenta previa", "Abruption", "Normal pregnancy", "Infection"],
-                "answer": "Abruption",
-                "explanation": "Rigid tender uterus with fetal distress indicates abruption."
-            },
-            {
-                "question": "Placenta covers cervical os. Diagnosis?",
-                "options": ["Placenta previa", "Abruption", "Rupture uterus", "Normal"],
-                "answer": "Placenta previa",
-                "explanation": "Placenta covering os confirms previa."
-            },
-            {
-                "question": "Bleeding without pain. Cause?",
-                "options": ["Placenta previa", "Abruption", "Infection", "Rupture"],
-                "answer": "Placenta previa",
-                "explanation": "Painless bleeding is typical of previa."
-            },
-            {
-                "question": "Bleeding with severe pain. Cause?",
-                "options": ["Placenta previa", "Abruption", "Normal", "Postpartum"],
-                "answer": "Abruption",
-                "explanation": "Painful bleeding indicates placental abruption."
-            },
-            {
-                "question": "Patient unstable with bleeding. First step?",
-                "options": ["Send home", "Assess vital signs", "Give food", "Ignore"],
-                "answer": "Assess vital signs",
-                "explanation": "Immediate assessment of ABC and vital signs is priority."
-            },
-            {
-                "question": "Doctor avoids vaginal exam. Why?",
-                "options": ["Normal case", "Suspected placenta previa", "Pain", "No reason"],
-                "answer": "Suspected placenta previa",
-                "explanation": "To prevent severe hemorrhage."
-            },
-            {
-                "question": "Fetus dead with severe abruption. Grade?",
-                "options": ["Grade 1", "Grade 2", "Grade 3", "Grade 4"],
-                "answer": "Grade 3",
-                "explanation": "Grade 3 abruption is associated with fetal death."
-            },
-            {
-                "question": "Fetus alive with signs of abruption. Grade?",
-                "options": ["Grade 1", "Grade 2", "Grade 3", "Grade 4"],
-                "answer": "Grade 2",
-                "explanation": "Grade 2 involves fetal distress but fetus is alive."
-            },
-            {
-                "question": "Previous CS + bleeding. Risk?",
-                "options": ["Placenta previa", "Abruption", "Normal", "Infection"],
-                "answer": "Placenta previa",
-                "explanation": "Previous cesarean increases risk of previa."
-            },
-            {
-                "question": "Hypertension + bleeding. Risk?",
-                "options": ["Placenta previa", "Abruption", "Normal", "Infection"],
-                "answer": "Abruption",
-                "explanation": "Hypertension predisposes to abruption."
-            },
-            {
-                "question": "Severe bleeding at home. Action?",
-                "options": ["Stay home", "Transfer to hospital", "Sleep", "Eat"],
-                "answer": "Transfer to hospital",
-                "explanation": "Requires urgent hospital management."
-            },
-            {
-                "question": "Bright red bleeding no pain. Diagnosis?",
-                "options": ["Placenta previa", "Abruption", "Infection", "Normal"],
-                "answer": "Placenta previa",
-                "explanation": "Classic presentation of placenta previa."
-            },
-            {
-                "question": "Goal of management?",
-                "options": ["Delay treatment", "Save mother and fetus", "Ignore", "Discharge"],
-                "answer": "Save mother and fetus",
-                "explanation": "Primary goal is maternal and fetal survival."
-            }
+            {"question": "Antepartum hemorrhage is defined as bleeding after:", "options": ["20 weeks", "24 weeks", "28 weeks", "32 weeks"], "answer": "28 weeks"},
+            {"question": "APH occurs between:", "options": ["20 weeks to delivery", "28 weeks to onset of labor", "30 weeks to birth", "After labor"], "answer": "28 weeks to onset of labor"},
+            {"question": "Placental cause of APH includes:", "options": ["Rupture uterus", "Placenta previa", "Infection", "Fibroid"], "answer": "Placenta previa"},
+            {"question": "Extra placental cause includes:", "options": ["Placenta previa", "Abruptio placentae", "Rupture uterus", "Twins"], "answer": "Rupture uterus"},
+            {"question": "Placenta previa is:", "options": ["Placenta separates early", "Placenta near or over internal os", "Placenta outside uterus", "Placenta ruptured"], "answer": "Placenta near or over internal os"},
+            {"question": "Main symptom of placenta previa:", "options": ["Painful bleeding", "Painless bleeding", "No bleeding", "Fever"], "answer": "Painless bleeding"},
+            {"question": "Bleeding in placenta previa is:", "options": ["Painful", "Painless", "Always internal", "None"], "answer": "Painless"},
+            {"question": "Risk factor for placenta previa:", "options": ["Young age", "Previous C-section", "Exercise", "Low parity"], "answer": "Previous C-section"},
+            {"question": "Placenta previa type that completely covers os:", "options": ["First degree", "Second degree", "Third degree", "Fourth degree"], "answer": "Fourth degree"},
+            {"question": "Second degree placenta previa means:", "options": ["Away from os", "Touches os", "Partially covers os", "Fully covers os"], "answer": "Touches os"},
+            {"question": "Third degree placenta previa:", "options": ["Away from os", "Touches os", "Partially covers os", "Fully covers os"], "answer": "Partially covers os"},
+            {"question": "Uterus in placenta previa:", "options": ["Rigid", "Tender", "Normal", "Contracted"], "answer": "Normal"},
+            {"question": "Malpresentation is common in:", "options": ["Normal pregnancy", "Placenta previa", "Postpartum", "Labor only"], "answer": "Placenta previa"},
+            {"question": "Vaginal exam in placenta previa:", "options": ["Always safe", "Done at home", "Only in OR", "Not needed"], "answer": "Only in OR"},
+            {"question": "Main investigation:", "options": ["X-ray", "Ultrasound", "Urine test", "ECG"], "answer": "Ultrasound"},
+            {"question": "Expectant management includes:", "options": ["Exercise", "Bed rest", "Surgery", "Ignore"], "answer": "Bed rest"},
+            {"question": "Active management indicated when:", "options": ["<28 weeks", ">37 weeks", "No bleeding", "Early pregnancy"], "answer": ">37 weeks"},
+            {"question": "Abruptio placentae means:", "options": ["Placenta covers cervix", "Placenta separates early", "Placenta grows", "Placenta moves"], "answer": "Placenta separates early"},
+            {"question": "Main symptom of abruption:", "options": ["Painless bleeding", "Painful bleeding", "No bleeding", "Mild pain"], "answer": "Painful bleeding"},
+            {"question": "Uterus in abruption:", "options": ["Soft", "Normal", "Rigid", "Empty"], "answer": "Rigid"},
+            {"question": "Fetal distress common in:", "options": ["Placenta previa", "Abruption", "Normal pregnancy", "Postpartum"], "answer": "Abruption"},
+            {"question": "Risk factor for abruption:", "options": ["Low BP", "Hypertension", "Exercise", "Young age"], "answer": "Hypertension"},
+            {"question": "Bleeding in abruption may be:", "options": ["Bright red", "Concealed", "None", "Clear"], "answer": "Concealed"},
+            {"question": "Grade 3 abruption:", "options": ["Mild", "Fetus alive", "Fetus dead", "No symptoms"], "answer": "Fetus dead"},
+            {"question": "Grade 2 abruption:", "options": ["No symptoms", "Fetus alive", "Fetus dead", "No bleeding"], "answer": "Fetus alive"},
+            {"question": "Shock occurs due to:", "options": ["Pain", "Bleeding", "Sleep", "Walking"], "answer": "Bleeding"},
+            {"question": "Management at home:", "options": ["Vaginal exam", "No exam", "Discharge", "Ignore"], "answer": "No exam"},
+            {"question": "First hospital step:", "options": ["Discharge", "Blood transfusion", "Ignore", "Sleep"], "answer": "Blood transfusion"},
+            {"question": "Treatment depends on:", "options": ["Doctor mood", "Severity & fetus", "Time only", "Mother age only"], "answer": "Severity & fetus"},
+            {"question": "Artificial rupture of membrane is used in:", "options": ["Placenta previa", "Abruption", "Normal only", "Postpartum"], "answer": "Abruption"},
+            {"question": "Placenta previa bleeding color:", "options": ["Dark", "Bright red", "Green", "Yellow"], "answer": "Bright red"},
+            {"question": "Abruption bleeding color:", "options": ["Bright red", "Dark", "Clear", "None"], "answer": "Dark"},
+            {"question": "Pain in placenta previa:", "options": ["Severe", "Mild", "Absent", "Continuous"], "answer": "Absent"},
+            {"question": "Pain in abruption:", "options": ["Absent", "Severe", "Mild", "None"], "answer": "Severe"},
+            {"question": "Uterus in previa:", "options": ["Rigid", "Tender", "Normal", "Hard"], "answer": "Normal"},
+            {"question": "Uterus in abruption:", "options": ["Soft", "Normal", "Board-like", "Empty"], "answer": "Board-like"},
+            {"question": "Main complication:", "options": ["Hair loss", "Shock", "Sleep", "Fever"], "answer": "Shock"},
+            {"question": "Goal of management:", "options": ["Delay care", "Save mother & fetus", "Ignore", "Discharge"], "answer": "Save mother & fetus"},
+            {"question": "Avoid vaginal exam when:", "options": ["Normal case", "Placenta unknown", "After delivery", "Postpartum"], "answer": "Placenta unknown"},
+            {"question": "APH may cause:", "options": ["No effect", "High morbidity", "Hair loss", "Sleep"], "answer": "High morbidity"},
+            {"question": "APH occurs after 28 weeks.", "options": ["True", "False"], "answer": "True", "explanation": "Antepartum hemorrhage is defined as bleeding after 28 weeks."},
+            {"question": "Placenta previa causes painful bleeding.", "options": ["True", "False"], "answer": "False", "explanation": "Placenta previa causes painless bleeding."},
+            {"question": "Abruption causes severe pain.", "options": ["True", "False"], "answer": "True", "explanation": "Abruptio placentae is associated with severe abdominal pain."},
+            {"question": "Ultrasound is used for diagnosis.", "options": ["True", "False"], "answer": "True", "explanation": "Ultrasound is the main diagnostic tool."},
+            {"question": "Vaginal exam is safe in placenta previa.", "options": ["True", "False"], "answer": "False", "explanation": "It is contraindicated due to risk of hemorrhage."},
+            {"question": "Placenta previa uterus is normal.", "options": ["True", "False"], "answer": "True", "explanation": "Uterus is usually soft and non-tender."},
+            {"question": "Abruption uterus is rigid.", "options": ["True", "False"], "answer": "True", "explanation": "Uterus becomes tense and rigid."},
+            {"question": "Bleeding in previa is bright red.", "options": ["True", "False"], "answer": "True", "explanation": "Bleeding is typically bright red."},
+            {"question": "Bleeding in abruption is dark.", "options": ["True", "False"], "answer": "True", "explanation": "Bleeding is often dark due to concealed bleeding."},
+            {"question": "APH is harmless.", "options": ["True", "False"], "answer": "False", "explanation": "APH is a serious life-threatening condition."},
+            {"question": "Hypertension is risk for abruption.", "options": ["True", "False"], "answer": "True", "explanation": "Hypertension is a major risk factor."},
+            {"question": "Placenta previa may cause malpresentation.", "options": ["True", "False"], "answer": "True", "explanation": "Placental position may interfere with fetal presentation."},
+            {"question": "Bed rest used in management.", "options": ["True", "False"], "answer": "True", "explanation": "Used in expectant management."},
+            {"question": "Shock may occur.", "options": ["True", "False"], "answer": "True", "explanation": "Severe bleeding can lead to shock."},
+            {"question": "Grade 3 abruption fetus alive.", "options": ["True", "False"], "answer": "False", "explanation": "Grade 3 abruption usually involves fetal death."},
+            {"question": "Expectant management delays delivery.", "options": ["True", "False"], "answer": "True", "explanation": "It aims to prolong pregnancy if stable."},
+            {"question": "Active management after 37 weeks.", "options": ["True", "False"], "answer": "True", "explanation": "Delivery is usually planned after term."},
+            {"question": "No vaginal exam at home.", "options": ["True", "False"], "answer": "True", "explanation": "Vaginal exam should be avoided outside hospital."},
+            {"question": "Abruption always painless.", "options": ["True", "False"], "answer": "False", "explanation": "Abruption is typically painful."},
+            {"question": "Goal is save mother and fetus.", "options": ["True", "False"], "answer": "True", "explanation": "Main goal is maternal and fetal survival."},
+            {"question": "Pregnant woman with painless bright bleeding. Diagnosis?", "options": ["Placenta previa", "Abruptio placentae", "Uterine rupture", "Normal labor"], "answer": "Placenta previa", "explanation": "Painless bright red bleeding is characteristic of placenta previa."},
+            {"question": "Severe abdominal pain + dark bleeding. Diagnosis?", "options": ["Placenta previa", "Abruptio placentae", "Normal labor", "Infection"], "answer": "Abruptio placentae", "explanation": "Painful bleeding with dark blood suggests abruption."},
+            {"question": "Rigid uterus + fetal distress. Cause?", "options": ["Placenta previa", "Abruption", "Normal pregnancy", "Infection"], "answer": "Abruption", "explanation": "Rigid tender uterus with fetal distress indicates abruption."},
+            {"question": "Placenta covers cervical os. Diagnosis?", "options": ["Placenta previa", "Abruption", "Rupture uterus", "Normal"], "answer": "Placenta previa", "explanation": "Placenta covering os confirms previa."},
+            {"question": "Bleeding without pain. Cause?", "options": ["Placenta previa", "Abruption", "Infection", "Rupture"], "answer": "Placenta previa", "explanation": "Painless bleeding is typical of previa."},
+            {"question": "Bleeding with severe pain. Cause?", "options": ["Placenta previa", "Abruption", "Normal", "Postpartum"], "answer": "Abruption", "explanation": "Painful bleeding indicates placental abruption."},
+            {"question": "Patient unstable with bleeding. First step?", "options": ["Send home", "Assess vital signs", "Give food", "Ignore"], "answer": "Assess vital signs", "explanation": "Immediate assessment of ABC and vital signs is priority."},
+            {"question": "Doctor avoids vaginal exam. Why?", "options": ["Normal case", "Suspected placenta previa", "Pain", "No reason"], "answer": "Suspected placenta previa", "explanation": "To prevent severe hemorrhage."},
+            {"question": "Fetus dead with severe abruption. Grade?", "options": ["Grade 1", "Grade 2", "Grade 3", "Grade 4"], "answer": "Grade 3", "explanation": "Grade 3 abruption is associated with fetal death."},
+            {"question": "Fetus alive with signs of abruption. Grade?", "options": ["Grade 1", "Grade 2", "Grade 3", "Grade 4"], "answer": "Grade 2", "explanation": "Grade 2 involves fetal distress but fetus is alive."},
+            {"question": "Previous CS + bleeding. Risk?", "options": ["Placenta previa", "Abruption", "Normal", "Infection"], "answer": "Placenta previa", "explanation": "Previous cesarean increases risk of previa."},
+            {"question": "Hypertension + bleeding. Risk?", "options": ["Placenta previa", "Abruption", "Normal", "Infection"], "answer": "Abruption", "explanation": "Hypertension predisposes to abruption."},
+            {"question": "Severe bleeding at home. Action?", "options": ["Stay home", "Transfer to hospital", "Sleep", "Eat"], "answer": "Transfer to hospital", "explanation": "Requires urgent hospital management."},
+            {"question": "Bright red bleeding no pain. Diagnosis?", "options": ["Placenta previa", "Abruption", "Infection", "Normal"], "answer": "Placenta previa", "explanation": "Classic presentation of placenta previa."},
+            {"question": "Goal of management?", "options": ["Delay treatment", "Save mother and fetus", "Ignore", "Discharge"], "answer": "Save mother and fetus", "explanation": "Primary goal is maternal and fetal survival."}
         ],
         "L12 Postpartum Hemorrhage": [
-            {
-                "question": "Postpartum hemorrhage is defined as blood loss of:",
-                "options": ["200 ml", "300 ml", "500 ml or more", "1000 ml"],
-                "answer": "500 ml or more"
-            },
-            {
-                "question": "PPH occurs within:",
-                "options": ["12 hours", "24 hours", "48 hours", "72 hours"],
-                "answer": "24 hours"
-            },
-            {
-                "question": "Primary PPH occurs:",
-                "options": ["After 48 hours", "Within 24 hours", "After 1 week", "After 6 weeks"],
-                "answer": "Within 24 hours"
-            },
-            {
-                "question": "Secondary PPH occurs:",
-                "options": ["Within 24 hours", "After 24 hours up to 6 weeks", "Only after 1 day", "Only after 1 month"],
-                "answer": "After 24 hours up to 6 weeks"
-            },
-            {
-                "question": "Most common cause of PPH:",
-                "options": ["Trauma", "Atonic uterus", "Infection", "Coagulopathy"],
-                "answer": "Atonic uterus"
-            },
-            {
-                "question": "Atonic uterus means:",
-                "options": ["Rigid uterus", "Contracted uterus", "Failure of uterine contraction", "Infected uterus"],
-                "answer": "Failure of uterine contraction"
-            },
-            {
-                "question": "Retained placenta leads to:",
-                "options": ["No bleeding", "PPH", "Infection only", "Pain only"],
-                "answer": "PPH"
-            },
-            {
-                "question": "Traumatic PPH is due to:",
-                "options": ["Uterine atony", "Lacerations", "Anemia", "Infection"],
-                "answer": "Lacerations"
-            },
-            {
-                "question": "Coagulation disorders cause:",
-                "options": ["Pain", "Bleeding", "Fever", "Contractions"],
-                "answer": "Bleeding"
-            },
-            {
-                "question": "Polyhydramnios is a risk for:",
-                "options": ["Normal delivery", "PPH", "No effect", "Infection"],
-                "answer": "PPH"
-            },
-
-            {
-                "question": "Multiple pregnancy increases risk of:",
-                "options": ["PPH", "Hypertension", "Infection", "None"],
-                "answer": "PPH"
-            },
-            {
-                "question": "Full bladder causes:",
-                "options": ["Good contraction", "Poor contraction", "No effect", "Pain only"],
-                "answer": "Poor contraction"
-            },
-            {
-                "question": "General anesthesia may:",
-                "options": ["Improve contraction", "Reduce contraction", "No effect", "Stop bleeding"],
-                "answer": "Reduce contraction"
-            },
-            {
-                "question": "Prolonged labor leads to:",
-                "options": ["Strong uterus", "Atony", "No effect", "Infection only"],
-                "answer": "Atony"
-            },
-            {
-                "question": "First step in PPH management:",
-                "options": ["Ignore", "Assess vital signs", "Discharge", "Sleep"],
-                "answer": "Assess vital signs"
-            },
-            {
-                "question": "Uterine massage is used to:",
-                "options": ["Increase bleeding", "Contract uterus", "Cause pain", "Relax uterus"],
-                "answer": "Contract uterus"
-            },
-            {
-                "question": "Oxytocin is used to:",
-                "options": ["Relax uterus", "Contract uterus", "Stop fetus movement", "Increase BP"],
-                "answer": "Contract uterus"
-            },
-            {
-                "question": "Bimanual compression means:",
-                "options": ["Two doctors", "Uterus pressed by two hands", "Two drugs", "Two patients"],
-                "answer": "Uterus pressed by two hands"
-            },
-            {
-                "question": "If all measures fail:",
-                "options": ["Discharge", "Hysterectomy", "Ignore", "Rest"],
-                "answer": "Hysterectomy"
-            },
-            {
-                "question": "Speculum exam is used in:",
-                "options": ["Atony", "Trauma", "Normal case", "Postpartum only"],
-                "answer": "Trauma"
-            },
-
-            {
-                "question": "Observation includes checking:",
-                "options": ["Hair", "Pulse & BP", "Eyes", "Nails"],
-                "answer": "Pulse & BP"
-            },
-            {
-                "question": "Uterus should be:",
-                "options": ["Soft", "Firm", "Empty", "Large"],
-                "answer": "Firm"
-            },
-            {
-                "question": "Lochia should be assessed for:",
-                "options": ["Color only", "Amount & consistency", "Smell only", "None"],
-                "answer": "Amount & consistency"
-            },
-            {
-                "question": "Urine output is monitored:",
-                "options": ["Yearly", "Daily", "Hourly", "Weekly"],
-                "answer": "Hourly"
-            },
-            {
-                "question": "Main goal:",
-                "options": ["Ignore", "Stop bleeding", "Sleep", "Discharge"],
-                "answer": "Stop bleeding"
-            },
-            {
-                "question": "Nipple stimulation causes:",
-                "options": ["Bleeding", "Oxytocin release", "Pain", "Shock"],
-                "answer": "Oxytocin release"
-            },
-            {
-                "question": "IV infusion used for:",
-                "options": ["Pain", "Fluid replacement", "Sleep", "Fever"],
-                "answer": "Fluid replacement"
-            },
-            {
-                "question": "Retained parts cause:",
-                "options": ["Primary PPH", "Secondary PPH", "No PPH", "Pain only"],
-                "answer": "Secondary PPH"
-            },
-            {
-                "question": "Secondary PPH occurs commonly at:",
-                "options": ["Day 1", "Day 3", "Day 10-14", "Day 30"],
-                "answer": "Day 10-14"
-            },
-            {
-                "question": "Subinvolution means:",
-                "options": ["Normal uterus", "Slow return to normal", "Fast contraction", "Rupture"],
-                "answer": "Slow return to normal"
-            },
-
-            {
-                "question": "Bright red bleeding indicates:",
-                "options": ["Normal", "Active bleeding", "No problem", "Old blood"],
-                "answer": "Active bleeding"
-            },
-            {
-                "question": "Anemia occurs due to:",
-                "options": ["Pain", "Blood loss", "Sleep", "Fever"],
-                "answer": "Blood loss"
-            },
-            {
-                "question": "Sepsis may occur in:",
-                "options": ["Secondary PPH", "Primary PPH", "Normal", "None"],
-                "answer": "Secondary PPH"
-            },
-            {
-                "question": "Preventive step:",
-                "options": ["Ignore", "Blood grouping", "Delay care", "Sleep"],
-                "answer": "Blood grouping"
-            },
-            {
-                "question": "Examine placenta to check:",
-                "options": ["Weight", "Completeness", "Color", "Shape"],
-                "answer": "Completeness"
-            },
-            {
-                "question": "Avoid before placenta separation:",
-                "options": ["Massage uterus", "IV fluids", "Monitoring", "Assessment"],
-                "answer": "Massage uterus"
-            },
-            {
-                "question": "High-risk patient:",
-                "options": ["Multipara", "Single pregnancy", "Young age", "Healthy"],
-                "answer": "Multipara"
-            },
-            {
-                "question": "PPH leads to:",
-                "options": ["Recovery", "Shock", "Sleep", "Normal"],
-                "answer": "Shock"
-            },
-            {
-                "question": "Priority action:",
-                "options": ["Food", "Control bleeding", "Sleep", "Discharge"],
-                "answer": "Control bleeding"
-            },
-            {
-                "question": "Main nursing role:",
-                "options": ["Ignore", "Monitor & manage", "Discharge", "Operate"],
-                "answer": "Monitor & manage"
-            },
-            {
-                "question": "PPH is blood loss ≥500 ml.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Postpartum hemorrhage is defined as blood loss of 500 ml or more."
-            },
-            {
-                "question": "Primary PPH occurs after 1 week.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Primary PPH occurs within the first 24 hours after delivery."
-            },
-            {
-                "question": "Secondary PPH occurs after 24 hours.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Secondary PPH occurs after 24 hours up to 6 weeks postpartum."
-            },
-            {
-                "question": "Atonic uterus is most common cause.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Uterine atony is the most common cause of PPH."
-            },
-            {
-                "question": "Uterine massage is contraindicated.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "Uterine massage is a first-line intervention."
-            },
-            {
-                "question": "Oxytocin helps contraction.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Oxytocin stimulates uterine contractions."
-            },
-            {
-                "question": "Full bladder improves contraction.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "A full bladder prevents proper uterine contraction."
-            },
-            {
-                "question": "Trauma can cause PPH.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Genital tract trauma is a cause of PPH."
-            },
-            {
-                "question": "Coagulation disorders may cause PPH.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Coagulopathies contribute to bleeding."
-            },
-            {
-                "question": "IV fluids are not needed.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "IV fluids are essential for resuscitation."
-            },
-            {
-                "question": "Bimanual compression is used.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It helps control severe bleeding."
-            },
-            {
-                "question": "Hysterectomy may be needed.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Used as a last resort in uncontrolled bleeding."
-            },
-            {
-                "question": "Placenta should be checked.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "To ensure no retained fragments."
-            },
-            {
-                "question": "Urine output monitoring is important.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It reflects renal perfusion and shock status."
-            },
-            {
-                "question": "Secondary PPH occurs day 10-14.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "It may occur days to weeks postpartum."
-            },
-            {
-                "question": "Subinvolution is normal.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It is abnormal and may cause bleeding."
-            },
-            {
-                "question": "Sepsis may occur.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Infection may complicate PPH."
-            },
-            {
-                "question": "Anemia may develop.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Blood loss can lead to anemia."
-            },
-            {
-                "question": "Massage before placenta separation is allowed.",
-                "options": ["True", "False"],
-                "answer": "False",
-                "explanation": "It may cause retained placenta or inversion."
-            },
-            {
-                "question": "Goal is stop bleeding.",
-                "options": ["True", "False"],
-                "answer": "True",
-                "explanation": "Primary goal is to control bleeding."
-            },
-            {
-                "question": "Woman bleeding heavily after delivery with soft uterus. Cause?",
-                "options": ["Atonic uterus", "Trauma", "Retained placenta", "Coagulopathy"],
-                "answer": "Atonic uterus",
-                "explanation": "Soft uterus indicates uterine atony."
-            },
-            {
-                "question": "Bleeding with firm uterus and tear. Cause?",
-                "options": ["Atony", "Trauma", "Coagulopathy", "Infection"],
-                "answer": "Trauma",
-                "explanation": "Firm uterus suggests bleeding from tears."
-            },
-            {
-                "question": "Patient bleeding after 12 days postpartum. Diagnosis?",
-                "options": ["Primary PPH", "Secondary PPH", "Normal", "Shock"],
-                "answer": "Secondary PPH",
-                "explanation": "Occurs after 24 hours postpartum."
-            },
-            {
-                "question": "Retained placenta fragments. Complication?",
-                "options": ["Normal healing", "PPH", "Fever only", "Pain only"],
-                "answer": "PPH",
-                "explanation": "Retained tissue causes bleeding."
-            },
-            {
-                "question": "First action in PPH?",
-                "options": ["Ignore", "Assess vital signs", "Feed patient", "Discharge"],
-                "answer": "Assess vital signs",
-                "explanation": "Initial assessment is critical."
-            },
-            {
-                "question": "Soft uterus postpartum. Intervention?",
-                "options": ["Rest", "Uterine massage", "Antibiotics", "Ignore"],
-                "answer": "Uterine massage",
-                "explanation": "Stimulates contraction."
-            },
-            {
-                "question": "Bleeding persists despite massage. Next step?",
-                "options": ["Stop treatment", "Oxytocin", "Discharge", "Sleep"],
-                "answer": "Oxytocin",
-                "explanation": "Uterotonics are next line."
-            },
-            {
-                "question": "Severe uncontrolled bleeding. Final step?",
-                "options": ["Massage", "Oxytocin", "Hysterectomy", "Fluids"],
-                "answer": "Hysterectomy",
-                "explanation": "Definitive life-saving procedure."
-            },
-            {
-                "question": "Laceration causing bleeding. Management?",
-                "options": ["Massage", "Suturing", "Oxytocin", "Ignore"],
-                "answer": "Suturing",
-                "explanation": "Repair of tear stops bleeding."
-            },
-            {
-                "question": "Bright red bleeding postpartum. Meaning?",
-                "options": ["Normal", "Active bleeding", "Infection", "Recovery"],
-                "answer": "Active bleeding",
-                "explanation": "Indicates ongoing hemorrhage."
-            },
-            {
-                "question": "Low BP + tachycardia postpartum. Condition?",
-                "options": ["Normal", "Shock", "Infection", "Recovery"],
-                "answer": "Shock",
-                "explanation": "Signs of hypovolemic shock."
-            },
-            {
-                "question": "Poor contraction due to full bladder. Action?",
-                "options": ["Ignore", "Empty bladder", "Give food", "Sleep"],
-                "answer": "Empty bladder",
-                "explanation": "Improves uterine contraction."
-            },
-            {
-                "question": "High-risk patient example?",
-                "options": ["Primigravida", "Multipara", "Teenager", "Healthy woman"],
-                "answer": "Multipara",
-                "explanation": "Multiparity increases risk of PPH."
-            },
-            {
-                "question": "Nipple stimulation leads to?",
-                "options": ["Estrogen release", "Oxytocin release", "Progesterone", "Insulin"],
-                "answer": "Oxytocin release",
-                "explanation": "Stimulates uterine contraction."
-            },
-            {
-                "question": "Main goal?",
-                "options": ["Delay care", "Control bleeding", "Ignore", "Discharge"],
-                "answer": "Control bleeding",
-                "explanation": "Primary aim is to stop hemorrhage."
-            }
+            {"question": "Postpartum hemorrhage is defined as blood loss of:", "options": ["200 ml", "300 ml", "500 ml or more", "1000 ml"], "answer": "500 ml or more"},
+            {"question": "PPH occurs within:", "options": ["12 hours", "24 hours", "48 hours", "72 hours"], "answer": "24 hours"},
+            {"question": "Primary PPH occurs:", "options": ["After 48 hours", "Within 24 hours", "After 1 week", "After 6 weeks"], "answer": "Within 24 hours"},
+            {"question": "Secondary PPH occurs:", "options": ["Within 24 hours", "After 24 hours up to 6 weeks", "Only after 1 day", "Only after 1 month"], "answer": "After 24 hours up to 6 weeks"},
+            {"question": "Most common cause of PPH:", "options": ["Trauma", "Atonic uterus", "Infection", "Coagulopathy"], "answer": "Atonic uterus"},
+            {"question": "Atonic uterus means:", "options": ["Rigid uterus", "Contracted uterus", "Failure of uterine contraction", "Infected uterus"], "answer": "Failure of uterine contraction"},
+            {"question": "Retained placenta leads to:", "options": ["No bleeding", "PPH", "Infection only", "Pain only"], "answer": "PPH"},
+            {"question": "Traumatic PPH is due to:", "options": ["Uterine atony", "Lacerations", "Anemia", "Infection"], "answer": "Lacerations"},
+            {"question": "Coagulation disorders cause:", "options": ["Pain", "Bleeding", "Fever", "Contractions"], "answer": "Bleeding"},
+            {"question": "Polyhydramnios is a risk for:", "options": ["Normal delivery", "PPH", "No effect", "Infection"], "answer": "PPH"},
+            {"question": "Multiple pregnancy increases risk of:", "options": ["PPH", "Hypertension", "Infection", "None"], "answer": "PPH"},
+            {"question": "Full bladder causes:", "options": ["Good contraction", "Poor contraction", "No effect", "Pain only"], "answer": "Poor contraction"},
+            {"question": "General anesthesia may:", "options": ["Improve contraction", "Reduce contraction", "No effect", "Stop bleeding"], "answer": "Reduce contraction"},
+            {"question": "Prolonged labor leads to:", "options": ["Strong uterus", "Atony", "No effect", "Infection only"], "answer": "Atony"},
+            {"question": "First step in PPH management:", "options": ["Ignore", "Assess vital signs", "Discharge", "Sleep"], "answer": "Assess vital signs"},
+            {"question": "Uterine massage is used to:", "options": ["Increase bleeding", "Contract uterus", "Cause pain", "Relax uterus"], "answer": "Contract uterus"},
+            {"question": "Oxytocin is used to:", "options": ["Relax uterus", "Contract uterus", "Stop fetus movement", "Increase BP"], "answer": "Contract uterus"},
+            {"question": "Bimanual compression means:", "options": ["Two doctors", "Uterus pressed by two hands", "Two drugs", "Two patients"], "answer": "Uterus pressed by two hands"},
+            {"question": "If all measures fail:", "options": ["Discharge", "Hysterectomy", "Ignore", "Rest"], "answer": "Hysterectomy"},
+            {"question": "Speculum exam is used in:", "options": ["Atony", "Trauma", "Normal case", "Postpartum only"], "answer": "Trauma"},
+            {"question": "Observation includes checking:", "options": ["Hair", "Pulse & BP", "Eyes", "Nails"], "answer": "Pulse & BP"},
+            {"question": "Uterus should be:", "options": ["Soft", "Firm", "Empty", "Large"], "answer": "Firm"},
+            {"question": "Lochia should be assessed for:", "options": ["Color only", "Amount & consistency", "Smell only", "None"], "answer": "Amount & consistency"},
+            {"question": "Urine output is monitored:", "options": ["Yearly", "Daily", "Hourly", "Weekly"], "answer": "Hourly"},
+            {"question": "Main goal:", "options": ["Ignore", "Stop bleeding", "Sleep", "Discharge"], "answer": "Stop bleeding"},
+            {"question": "Nipple stimulation causes:", "options": ["Bleeding", "Oxytocin release", "Pain", "Shock"], "answer": "Oxytocin release"},
+            {"question": "IV infusion used for:", "options": ["Pain", "Fluid replacement", "Sleep", "Fever"], "answer": "Fluid replacement"},
+            {"question": "Retained parts cause:", "options": ["Primary PPH", "Secondary PPH", "No PPH", "Pain only"], "answer": "Secondary PPH"},
+            {"question": "Secondary PPH occurs commonly at:", "options": ["Day 1", "Day 3", "Day 10-14", "Day 30"], "answer": "Day 10-14"},
+            {"question": "Subinvolution means:", "options": ["Normal uterus", "Slow return to normal", "Fast contraction", "Rupture"], "answer": "Slow return to normal"},
+            {"question": "Bright red bleeding indicates:", "options": ["Normal", "Active bleeding", "No problem", "Old blood"], "answer": "Active bleeding"},
+            {"question": "Anemia occurs due to:", "options": ["Pain", "Blood loss", "Sleep", "Fever"], "answer": "Blood loss"},
+            {"question": "Sepsis may occur in:", "options": ["Secondary PPH", "Primary PPH", "Normal", "None"], "answer": "Secondary PPH"},
+            {"question": "Preventive step:", "options": ["Ignore", "Blood grouping", "Delay care", "Sleep"], "answer": "Blood grouping"},
+            {"question": "Examine placenta to check:", "options": ["Weight", "Completeness", "Color", "Shape"], "answer": "Completeness"},
+            {"question": "Avoid before placenta separation:", "options": ["Massage uterus", "IV fluids", "Monitoring", "Assessment"], "answer": "Massage uterus"},
+            {"question": "High-risk patient:", "options": ["Multipara", "Single pregnancy", "Young age", "Healthy"], "answer": "Multipara"},
+            {"question": "PPH leads to:", "options": ["Recovery", "Shock", "Sleep", "Normal"], "answer": "Shock"},
+            {"question": "Priority action:", "options": ["Food", "Control bleeding", "Sleep", "Discharge"], "answer": "Control bleeding"},
+            {"question": "Main nursing role:", "options": ["Ignore", "Monitor & manage", "Discharge", "Operate"], "answer": "Monitor & manage"},
+            {"question": "PPH is blood loss ≥500 ml.", "options": ["True", "False"], "answer": "True", "explanation": "Postpartum hemorrhage is defined as blood loss of 500 ml or more."},
+            {"question": "Primary PPH occurs after 1 week.", "options": ["True", "False"], "answer": "False", "explanation": "Primary PPH occurs within the first 24 hours after delivery."},
+            {"question": "Secondary PPH occurs after 24 hours.", "options": ["True", "False"], "answer": "True", "explanation": "Secondary PPH occurs after 24 hours up to 6 weeks postpartum."},
+            {"question": "Atonic uterus is most common cause.", "options": ["True", "False"], "answer": "True", "explanation": "Uterine atony is the most common cause of PPH."},
+            {"question": "Uterine massage is contraindicated.", "options": ["True", "False"], "answer": "False", "explanation": "Uterine massage is a first-line intervention."},
+            {"question": "Oxytocin helps contraction.", "options": ["True", "False"], "answer": "True", "explanation": "Oxytocin stimulates uterine contractions."},
+            {"question": "Full bladder improves contraction.", "options": ["True", "False"], "answer": "False", "explanation": "A full bladder prevents proper uterine contraction."},
+            {"question": "Trauma can cause PPH.", "options": ["True", "False"], "answer": "True", "explanation": "Genital tract trauma is a cause of PPH."},
+            {"question": "Coagulation disorders may cause PPH.", "options": ["True", "False"], "answer": "True", "explanation": "Coagulopathies contribute to bleeding."},
+            {"question": "IV fluids are not needed.", "options": ["True", "False"], "answer": "False", "explanation": "IV fluids are essential for resuscitation."},
+            {"question": "Bimanual compression is used.", "options": ["True", "False"], "answer": "True", "explanation": "It helps control severe bleeding."},
+            {"question": "Hysterectomy may be needed.", "options": ["True", "False"], "answer": "True", "explanation": "Used as a last resort in uncontrolled bleeding."},
+            {"question": "Placenta should be checked.", "options": ["True", "False"], "answer": "True", "explanation": "To ensure no retained fragments."},
+            {"question": "Urine output monitoring is important.", "options": ["True", "False"], "answer": "True", "explanation": "It reflects renal perfusion and shock status."},
+            {"question": "Secondary PPH occurs day 10-14.", "options": ["True", "False"], "answer": "True", "explanation": "It may occur days to weeks postpartum."},
+            {"question": "Subinvolution is normal.", "options": ["True", "False"], "answer": "False", "explanation": "It is abnormal and may cause bleeding."},
+            {"question": "Sepsis may occur.", "options": ["True", "False"], "answer": "True", "explanation": "Infection may complicate PPH."},
+            {"question": "Anemia may develop.", "options": ["True", "False"], "answer": "True", "explanation": "Blood loss can lead to anemia."},
+            {"question": "Massage before placenta separation is allowed.", "options": ["True", "False"], "answer": "False", "explanation": "It may cause retained placenta or inversion."},
+            {"question": "Goal is stop bleeding.", "options": ["True", "False"], "answer": "True", "explanation": "Primary goal is to control bleeding."},
+            {"question": "Woman bleeding heavily after delivery with soft uterus. Cause?", "options": ["Atonic uterus", "Trauma", "Retained placenta", "Coagulopathy"], "answer": "Atonic uterus", "explanation": "Soft uterus indicates uterine atony."},
+            {"question": "Bleeding with firm uterus and tear. Cause?", "options": ["Atony", "Trauma", "Coagulopathy", "Infection"], "answer": "Trauma", "explanation": "Firm uterus suggests bleeding from tears."},
+            {"question": "Patient bleeding after 12 days postpartum. Diagnosis?", "options": ["Primary PPH", "Secondary PPH", "Normal", "Shock"], "answer": "Secondary PPH", "explanation": "Occurs after 24 hours postpartum."},
+            {"question": "Retained placenta fragments. Complication?", "options": ["Normal healing", "PPH", "Fever only", "Pain only"], "answer": "PPH", "explanation": "Retained tissue causes bleeding."},
+            {"question": "First action in PPH?", "options": ["Ignore", "Assess vital signs", "Feed patient", "Discharge"], "answer": "Assess vital signs", "explanation": "Initial assessment is critical."},
+            {"question": "Soft uterus postpartum. Intervention?", "options": ["Rest", "Uterine massage", "Antibiotics", "Ignore"], "answer": "Uterine massage", "explanation": "Stimulates contraction."},
+            {"question": "Bleeding persists despite massage. Next step?", "options": ["Stop treatment", "Oxytocin", "Discharge", "Sleep"], "answer": "Oxytocin", "explanation": "Uterotonics are next line."},
+            {"question": "Severe uncontrolled bleeding. Final step?", "options": ["Massage", "Oxytocin", "Hysterectomy", "Fluids"], "answer": "Hysterectomy", "explanation": "Definitive life-saving procedure."},
+            {"question": "Laceration causing bleeding. Management?", "options": ["Massage", "Suturing", "Oxytocin", "Ignore"], "answer": "Suturing", "explanation": "Repair of tear stops bleeding."},
+            {"question": "Bright red bleeding postpartum. Meaning?", "options": ["Normal", "Active bleeding", "Infection", "Recovery"], "answer": "Active bleeding", "explanation": "Indicates ongoing hemorrhage."},
+            {"question": "Low BP + tachycardia postpartum. Condition?", "options": ["Normal", "Shock", "Infection", "Recovery"], "answer": "Shock", "explanation": "Signs of hypovolemic shock."},
+            {"question": "Poor contraction due to full bladder. Action?", "options": ["Ignore", "Empty bladder", "Give food", "Sleep"], "answer": "Empty bladder", "explanation": "Improves uterine contraction."},
+            {"question": "High-risk patient example?", "options": ["Primigravida", "Multipara", "Teenager", "Healthy woman"], "answer": "Multipara", "explanation": "Multiparity increases risk of PPH."},
+            {"question": "Nipple stimulation leads to?", "options": ["Estrogen release", "Oxytocin release", "Progesterone", "Insulin"], "answer": "Oxytocin release", "explanation": "Stimulates uterine contraction."},
+            {"question": "Main goal?", "options": ["Delay care", "Control bleeding", "Ignore", "Discharge"], "answer": "Control bleeding", "explanation": "Primary aim is to stop hemorrhage."}
         ],
         "أسئلة الدكتورة": [
             { "question": "Which of these external genitalia in the female is considered the most sensitive region?", "options": ["The clitoris", "The labia majora", "The labia minora", "The vaginal opening"], "answer": "The clitoris" },
