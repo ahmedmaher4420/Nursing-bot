@@ -2655,7 +2655,7 @@ quizzes = {
 
     },
     "طب نسا":{
-        "ANC":{
+        "ANC":[
             {"question":"Which statement best describes the main purpose of antenatal care?","options":["To manage labor only after it starts","To detect pregnancy abnormalities early, correct them, and teach healthy pregnancy habits","To replace all obstetric follow-up with one final checkup","To focus only on high-risk women and ignore low-risk cases"],"answer":"To detect pregnancy abnormalities early, correct them, and teach healthy pregnancy habits"},
             {"question":"What is the principal reason for screening the entire pregnant population during ANC?","options":["To decide which women need cesarean section only","To identify high-risk pregnancies early and refer them for specialized care","To reduce the number of ultrasound scans","To avoid repeated follow-up visits"],"answer":"To identify high-risk pregnancies early and refer them for specialized care"},
             {"question":"Which schedule is most appropriate for a low-risk pregnancy?","options":["Every 2 weeks from the first visit until delivery","Monthly for 7 months, then every 2 weeks for 2 months, then weekly from 36 to 40 weeks","Weekly throughout the entire pregnancy","Only at the first and last trimester"],"answer":"Monthly for 7 months, then every 2 weeks for 2 months, then weekly from 36 to 40 weeks"},
@@ -2763,7 +2763,7 @@ quizzes = {
             {"question":"What is the primary reason for avoiding sexual intercourse in the first trimester as mentioned in the text?","options":["To decrease incidence of abortion","To avoid fetal growth restriction","To prevent morning sickness","To prevent gestational diabetes"],"answer":"To decrease incidence of abortion"}
 
 
-        },
+        ],
         "Contraception":{
             {"question":"Which statement best defines contraception?","options":["Prevention of menstruation at will","Prevention of pregnancy at will","Temporary suppression of ovulation only","Permanent suppression of fertility in all women"],"answer":"Prevention of pregnancy at will"},
             {"question":"Which method is classified as a physiological contraceptive method?","options":["IUCD","Male condom","Lactation","Combined oral pills"],"answer":"Lactation"},
