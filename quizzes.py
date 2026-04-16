@@ -2762,9 +2762,8 @@ quizzes = {
             {"question":"Which of the following is NOT a routine item checked at every subsequent ANC visit?","options":["Weight gain","Cervical culture","A.B.P (Arterial Blood Pressure)","Fundal level"],"answer":"Cervical culture"},
             {"question":"What is the primary reason for avoiding sexual intercourse in the first trimester as mentioned in the text?","options":["To decrease incidence of abortion","To avoid fetal growth restriction","To prevent morning sickness","To prevent gestational diabetes"],"answer":"To decrease incidence of abortion"}
 
-
         ],
-        "Contraception":{
+        "Contraception":[
             {"question":"Which statement best defines contraception?","options":["Prevention of menstruation at will","Prevention of pregnancy at will","Temporary suppression of ovulation only","Permanent suppression of fertility in all women"],"answer":"Prevention of pregnancy at will"},
             {"question":"Which method is classified as a physiological contraceptive method?","options":["IUCD","Male condom","Lactation","Combined oral pills"],"answer":"Lactation"},
             {"question":"What is the main hormonal mechanism behind lactational contraception?","options":["Decrease in estrogen and increase in progesterone","Increase in prolactin leading to reduced gonadotropins","Direct destruction of ovum in the uterus","Increase in FSH causing anovulation"],"answer":"Increase in prolactin leading to reduced gonadotropins"},
@@ -2841,8 +2840,8 @@ quizzes = {
             {"question":"Recent Gynefix IUDs are designed to reduce expulsion and heavy menses.","options":["True","False"],"answer":"True"},
             {"question":"GnRH analogues may be used in conditions such as endometriosis, fibroids, and precocious puberty.","options":["True","False"],"answer":"True"}
 
-        },
-        "Dysmenorrhea":{
+        ],
+        "Dysmenorrhea":[
             {"question":"Which description best fits dysmenorrhea in general?","options":["Pain that occurs only after menstruation ends","Painful menstruation that may begin just before or during the period","Pain unrelated to the menstrual cycle","Pain restricted to ovulation only"],"answer":"Painful menstruation that may begin just before or during the period"},
             {"question":"Which type of dysmenorrhea occurs without any evident pelvic lesion?","options":["Congestive dysmenorrhea","Ovarian dysmenorrhea","Primary dysmenorrhea","Membranous dysmenorrhea"],"answer":"Primary dysmenorrhea"},
             {"question":"Which woman is most likely to present with primary dysmenorrhea?","options":["Multiparous woman with pelvic mass","Nulliparous virgin woman","Postmenopausal woman","Woman with fibroid uterus"],"answer":"Nulliparous virgin woman"},
@@ -2904,8 +2903,8 @@ quizzes = {
             {"question":"Smoking, caffeine, and alcohol should be increased to improve PTS symptoms.","options":["True","False"],"answer":"False"},
             {"question":"Low-fat, high-protein, high-fibre diet is recommended in PTS.","options":["True","False"],"answer":"True"}
 
-        },
-        "Endometriosis":{
+        ],
+        "Endometriosis":[
             {"question":"Which statement best defines endometriosis?","options":["Inflammation of the uterus caused by infection","Presence of functional endometrial tissue in abnormal sites","Benign growth of myometrial muscle fibers only","Replacement of cervical epithelium by glandular tissue"],"answer":"Presence of functional endometrial tissue in abnormal sites"},
             {"question":"Adenomyosis is best described as endometriosis involving which structure?","options":["Ovary","Uterine muscle","Cervix","Pelvic peritoneum"],"answer":"Uterine muscle"},
             {"question":"Which site is the most common location of pelvic endometriosis?","options":["Bladder","Ovary","Rectovaginal septum","Vulva"],"answer":"Ovary"},
@@ -2974,8 +2973,8 @@ quizzes = {
             {"question":"Adenomyosis is usually diagnosed mainly by laparoscopy rather than imaging.","options":["True","False"],"answer":"False"},
             {"question":"In adenomyosis, hormonal therapy is usually the main curative treatment.","options":["True","False"],"answer":"False"}
 
-        },
-        "Infertility":{
+        ],
+        "Infertility":[
             {"question":"Which statement best defines infertility in the lecture?","options":["Inability to conceive after 6 months of regular intercourse","Inability to conceive after 1 year of continuous marital life with regular intercourse and no contraception","Inability to carry pregnancy beyond the first trimester","Inability to conceive despite any form of contraception"],"answer":"Inability to conceive after 1 year of continuous marital life with regular intercourse and no contraception"},
             {"question":"How is sterility distinguished from infertility in the lecture?","options":["Sterility means reversible cause, infertility means irreversible cause","Sterility means inability to conceive, while infertility may also include inability to produce a viable offspring","Sterility only refers to female causes","Infertility only refers to male causes"],"answer":"Sterility means inability to conceive, while infertility may also include inability to produce a viable offspring"},
             {"question":"Why is 1 year used in the definition of infertility?","options":["Because conception always occurs after one year","Because fecundability over one year becomes very high and many couples conceive by then","Because ovulation stops after 1 year of marriage","Because it matches the menstrual cycle length"],"answer":"Because fecundability over one year becomes very high and many couples conceive by then"},
@@ -3059,8 +3058,8 @@ quizzes = {
             {"question":"The presence of cervical sperm antibodies is an immunological cause of infertility.","options":["True","False"],"answer":"True"},
             {"question":"Diabetes mellitus and myxoedema are listed as general causes of infertility because they can inhibit ovulation.","options":["True","False"],"answer":"True"}
 
-        },
-        "Polycystic Ovary Syndrome":{
+        ],
+        "Polycystic Ovary Syndrome":[
             {"question":"Which statement best describes the classical origin of PCOS in gynecology literature?","options":["First described by Cullen in 1901","First described by Stein and Leventhal in 1935","First described by Sampson in 1927","First described by Meyer in 1930"],"answer":"First described by Stein and Leventhal in 1935"},
             {"question":"Which of the following is included among the older theories of PCOS?","options":["Increased ovarian IGF-1","Decreased aromatase enzyme activity","X-linked dominant inheritance","Increased ACTH centrally"],"answer":"Decreased aromatase enzyme activity"},
             {"question":"Which finding best supports the insulin-resistance theory of PCOS?","options":["Low insulin with low LH","Hyperinsulinemia with decreased SHBG","Low prolactin with high FSH","High cortisol with low LH"],"answer":"Hyperinsulinemia with decreased SHBG"},
@@ -3109,6 +3108,6 @@ quizzes = {
             {"question":"Cortisol after dexamethasone is suppressed in Cushing syndrome.","options":["True","False"],"answer":"False"},
             {"question":"Baseline infertility evaluation in PCOS should include history, examination, semen analysis, and tubal patency testing.","options":["True","False"],"answer":"True"}
 
-        },
+        ],
     },
 }
