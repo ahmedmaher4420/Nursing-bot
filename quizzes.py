@@ -629,7 +629,7 @@ quizzes = {
             {"question":"Wearable computers are typically more powerful than smartphones.","options":["True","False"],"answer":"False"}    
         ]
     },
-    "طب نفسية":{
+    "طب نفسي":{
 
     },
 
