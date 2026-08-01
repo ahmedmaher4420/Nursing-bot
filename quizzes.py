@@ -1,6 +1,6 @@
 quizzes = {
-    "نسا نظري": {
-        "L1 Anatomy of FRS": [
+    "وبائيات": {
+        "L1 Intro to Epidemiology": [
             { "question": "Which structure mainly protects the pubic symphysis?", "options": ["Labia minora", "Mons pubis", "Clitoris", "Vestibule"], "answer": "Mons pubis", "explanation": "Mons pubis is fatty tissue that protects the pubic bone, while the other structures have different functions." },
             { "question": "Which structure is homologous to the male scrotum?", "options": ["Labia minora", "Labia majora", "Clitoris", "Vestibule"], "answer": "Labia majora", "explanation": "Labia majora are the female equivalent of the scrotum." },
             { "question": "Which structure directly surrounds the urethral and vaginal openings?", "options": ["Labia majora", "Vestibule", "Clitoris", "Perineum"], "answer": "Vestibule", "explanation": "The vestibule contains the urethral and vaginal openings." },
