@@ -12,7 +12,7 @@ from telegram.ext import (
 
 from quizzes import quizzes
 
-TOKEN = "8860205967:AAFe2V5djQBf4A-y3oOdZaDPm7d1e042pr0"
+TOKEN = "8860205967:AAFh1et5XlYZ77yYov72tuc0H1hYWq5bz3I"
 
 BASE_PATH = os.path.dirname(os.path.abspath(__file__))
 LECTURES_PATH = os.path.join(BASE_PATH, "Lectures")
