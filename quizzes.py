@@ -3881,6 +3881,50 @@ quizzes = {
             {"question":"Walkable cities and clean air initiatives are examples of environmental changes used in NCD prevention.","options":["True","False"],"answer":"True"}
 
         ],
+        "أسئلة هامة":[
+            {"question":"Presence of an infectious agent in an inanimate article or on skin surface, particularly hands, is called","options":["pollution","contamination","infection","infestation"],"answer":"contamination"},
+            {"question":"The presence and development of insect vectors on the body or linen e.g. louse is known as","options":["Infection","Infestation","Infectiousness","Infectivity"],"answer":"Infestation"},
+            {"question":"which of the following is required for enhancing repeatability of the test","options":["clear operational definition of variables or cases","variation of the tests used","changing of data collectors in the mid stream","using poor calibrated instruments"],"answer":"clear operational definition of variables or cases"},
+            {"question":"The probability of the screening test to be positive when the diseases is truely present is","options":["sensitivity","specificity","reliability","yield"],"answer":"sensitivity"},
+            {"question":"Cholera is primarily transmitted through airborne droplets.","options":["True","False"],"answer":"False"},
+            {"question":"Which vaccine is administered orally to prevent polio?","options":["IPV","OPV","TCV","Hepatitis A vaccine"],"answer":"OPV"},
+            {"question":"Hepatitis A is commonly transmitted through contaminated blood and body fluids.","options":["True","False"],"answer":"False"},
+            {"question":"Typhoid fever can be spread by chronic human carriers who shed Salmonella Typhi in their stool.","options":["True","False"],"answer":"True"},
+            {"question":"Brucellosis is a viral infection primarily spread through airborne droplets in crowded urban settings.","options":["True","False"],"answer":"False"},
+            {"question":"Measles can be transmitted through airborne particles as well as respiratory droplets.","options":["True","False"],"answer":"True"},
+            {"question":"Rubella infection during pregnancy poses no risk to the fetus.","options":["True","False"],"answer":"False"},
+            {"question":"Mumps primarily affects the liver and causes jaundice.","options":["True","False"],"answer":"False"},
+            {"question":"Annual vaccination is recommended to prevent seasonal influenza.","options":["True","False"],"answer":"True"},
+            {"question":"Pertussis is most dangerous in infants under six months of age.","options":["True","False"],"answer":"True"},
+            {"question":"Hepatitis B is more infectious than HIV and can survive outside the body for several days.","options":["True","False"],"answer":"True"},
+            {"question":"There is an effective vaccine available for Hepatitis C.","options":["True","False"],"answer":"False"},
+            {"question":"HIV infection always presents with symptoms in the early phase.","options":["True","False"],"answer":"False"},
+            {"question":"Post-exposure prophylaxis for HIV should be started within 72 hours of exposure.","options":["True","False"],"answer":"True"},
+            {"question":"HCV infection can be cured with direct-acting antiviral therapy.","options":["True","False"],"answer":"True"},
+            {"question":"Which of the following diseases is non-communicable and acquired through contaminated wounds?","options":["Rabies","Tetanus","Scabies","MRSA"],"answer":"Tetanus"},
+            {"question":"Rabies post-exposure prophylaxis includes:","options":["Antibiotics and tetanus vaccine","Rabies vaccine and immunoglobulin","Antifungal cream and wound dressing","Isolation and antiviral tablets"],"answer":"Rabies vaccine and immunoglobulin"},
+            {"question":"How often should adults receive a tetanus booster if fully vaccinated?","options":["Every 5 years","Every 10 years","Once in a lifetime","Every year"],"answer":"Every 10 years"},
+            {"question":"Which vaccine is recommended during pregnancy to prevent neonatal tetanus?","options":["DTaP","Rabies vaccine","TT (Tetanus Toxoid)","Hepatitis B vaccine"],"answer":"TT (Tetanus Toxoid)"},
+            {"question":"Which of the following statements about rabies is TRUE?","options":["It is curable after symptoms appear","It is transmitted through contaminated water","It is preventable by vaccination and wound care","It is a fungal disease"],"answer":"It is preventable by vaccination and wound care"},
+            {"question":"Which component should occupy half of the Healthy Eating Plate?","options":["Whole grains","Fruits and vegetables","Proteins","Dairy products"],"answer":"Fruits and vegetables"},
+            {"question":"Which of the following is a recommended source of healthy fat?","options":["Margarine","Butter","Olive oil","Palm oil"],"answer":"Olive oil"},
+            {"question":"WHO recommends how many minutes of moderate-intensity physical activity per week for adults?","options":["60 minutes","150–300 minutes","500 minutes","30 minutes only"],"answer":"150–300 minutes"},
+            {"question":"Which of the following is a modifiable risk factor for NCDs?","options":["Age","Gender","Family history","Physical inactivity"],"answer":"Physical inactivity"},
+            {"question":"Which dietary pattern is most associated with cardiovascular protection?","options":["High-fat ketogenic diet","Mediterranean diet","Western fast-food diet","Low-protein diet"],"answer":"Mediterranean diet"},
+            {"question":"Rabies has high pathogenicity and virulence","options":["True","False"],"answer":"True"},
+            {"question":"The incubation period is the time between exposure and onset of symptoms","options":["True","False"],"answer":"True"},
+            {"question":"Human carriers can transmit disease without showing symptoms","options":["True","False"],"answer":"True"},
+            {"question":"Droplet transmission is a form of direct transmission","options":["True","False"],"answer":"True"},
+            {"question":"Contact transmission is a form of direct transmission","options":["True","False"],"answer":"True"},
+            {"question":"Reservoir of infection is only Human","options":["True","False"],"answer":"False"},
+            {"question":"food handlers are not dangerous group of carriers","options":["True","False"],"answer":"False"},
+            {"question":"Primary prevention occurs before disease development.","options":["True","False"],"answer":"True"},
+            {"question":"Rehabilitation is part of secondary prevention","options":["True","False"],"answer":"False"},
+            {"question":"Disability limitation is a component of tertiary prevention","options":["True","False"],"answer":"True"},
+            {"question":"Vaccination is a component of tertiary prevention","options":["True","False"],"answer":"False"},
+            {"question":"Tertiary prevention occurs before disease development.","options":["True","False"],"answer":"False"}
+
+        ],
     },
     "Geriatrics":{
         "L1 Dementia":[
@@ -4198,7 +4242,7 @@ quizzes = {
             {"question":"Patient dignity and privacy should be encouraged during continence care.","options":["True","False"],"answer":"True"}
 
         ],
-        "أسئلة شاملة":[
+        "أسئلة هامة":[
             {"question":"Compared to younger adults, malnutrition is:","options":["Less common in elderly","More common in elderly","Equally common in both groups","Rare in elderly"],"answer":"More common in elderly"},
             {"question":"The percentage of body water in an elderly person compared to an adult is:","options":["70% in elderly vs 50% in adults","50% in elderly vs 70% in adults","Equal at 60% in both","80% in elderly vs 60% in adults"],"answer":"50% in elderly vs 70% in adults"},
             {"question":"The recommended daily fiber intake for the elderly is:","options":["10–15 g/day","15–20 g/day","25–30 g/day","40–50 g/day"],"answer":"25–30 g/day"},
