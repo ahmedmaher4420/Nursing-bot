@@ -1531,6 +1531,7 @@ quizzes = {
             {"question":"Placing boundaries on time wasters requires:","options":["Multitasking","Awareness of weaknesses","Ignoring goals","Working without a plan"],"answer":"Awareness of weaknesses"},
             {"question":"Inability to secure loans or make large purchase is a result of:","options":["Proper budgeting","Lack of budget planning","Effective controlling","High revenue"],"answer":"Lack of budget planning"},
             {"question":"Which of the following are extrinsic motivation examples?","options":["Personal satisfaction and cultural values","Use of company car and training opportunities","Religious values","Internal pride"],"answer":"Use of company car and training opportunities"},
+            {"question":"The process of lending authority and responsibility to ...subordinates","options":["Supervision","Delegation","Coordination","Departmentation"],"answer":"Delegation"}
 
         ],
     },
