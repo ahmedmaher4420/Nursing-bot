@@ -1518,7 +1518,7 @@ quizzes = {
             {"question":"Categorizing units into Intensive care and Intermediate care is departmentation by:","options":["Time","Degree","Location","Function"],"answer":"Degree"},
             {"question":"Departmentation based on 24 hours day shifts is classified as departmentation by:","options":["Time","Services","Degree","Patient"],"answer":"Time"},
             {"question":"Grouping Pharmacy, Dietary, and Laundry services together is departmentation by:","options":["Location","Function","Services","Patient"],"answer":"Services"},
-            {"question":"Division of hospital departments into Inpatient and Outpatient is departmentation by:","options":["Location","Function","Degree","Time"],"answer":"Degree"},
+            {"question":"Division of hospital departments into Inpatient and Outpatient is departmentation by:","options":["Location","Function","Degree","Time"],"answer":"Location"},
             {"question":"Grouping patients according to sex, age, or paying capability is departmentation by:","options":["Services","Degree","Patient","Function"],"answer":"Patient"},
             {"question":"Which of the following is considered factors affecting delegation?","options":["Organization size","Importance of duty/decision","Task complexity and qualities of subordinates","All of the above"],"answer":"All of the above"},
             {"question":"Who holds the position of Top Level Manager in healthcare?","options":["Head nurse","Supervisor","Director","Staff nurse"],"answer":"Director"},
