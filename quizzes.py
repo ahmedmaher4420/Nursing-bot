@@ -2849,7 +2849,7 @@ quizzes = {
             {"question":"Acceptance by others is important to the behavioral decision-making style.","options":["True","False"],"answer":"True"},
             {"question":"Behavioral decision makers always seek conflict in their interactions with others.","options":["True","False"],"answer":"False"},
         ],
-        "L5 Time Management ":[
+        "L5 Time Management":[
             {"question":"Time management is BEST defined as:","options":["Completing as many activities as possible regardless of timing","Managing time effectively so the right time is allocated to the right activity","Avoiding all activities that require planning","Performing several activities simultaneously"],"answer":"Managing time effectively so the right time is allocated to the right activity"},
             {"question":"The second definition of time management emphasizes:","options":["Maximum productivity through optimal use of available time","Avoiding interruptions completely","Delegating every task","Reducing the number of daily activities"],"answer":"Maximum productivity through optimal use of available time"},
             {"question":"Which statement is MOST consistent with the lecture's definition of time management?","options":["Giving every activity equal time","Allocating the right time to the right activity","Completing only urgent activities","Increasing the number of activities performed"],"answer":"Allocating the right time to the right activity"},
